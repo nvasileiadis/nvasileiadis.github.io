@@ -34,7 +34,7 @@ plugins:
   - jekyll-feed
 
 # Analytics
-google_analytics: G-4FVGF99K2W
+# google_analytics is injected at build time via GitHub Actions secret GA_MEASUREMENT_ID
 
 # Sass configuration
 sass:
