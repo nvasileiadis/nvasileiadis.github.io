@@ -7,24 +7,7 @@ title: About
 permalink: /
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
-
 ## Welcome
 
 Hi, I'm Nikos Vasileiadis. I'm a Senior Software Engineering Manager focused on building inclusive, high-performing engineering teams and delivering impactful products. Explore my CV, professional development, and writing.
 
-### Quick links
-- [CV](/cv/)
-- [Professional Development](/professional-development/)
-- [Blog](/blog/)
