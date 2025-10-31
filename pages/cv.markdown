@@ -175,6 +175,16 @@ Always open to conversations about organisational design, leadership, and buildi
 
 **Skills**: JavaScript, Content Management Systems (CMS), Google Analytics, Stakeholder Management, Web Development, Process Improvement, Pay Per Click (PPC), Search Engine Optimization (SEO), Software Architecture, Application Programming Interfaces (API), Front-end Development, Optimizing Performance, Digital Strategy, Product Development
 
+### Private
+**Company**: Greek Army  
+**Dates**: Nov 2012 - Aug 2013 (10 months)  
+**Location**: Greece · On-site  
+**Employment Type**: Full-time
+
+**Description**: Conscripted and trained to serve as a soldier in an armoured brigade communications support unit. Helped digitise processes in the 1st Office. Improved schedule and leave management. Performed network cabling, stock ordering, and provisioning tasks.
+
+**Skills**: Logistics Management, Provisioning, Communications, Digital Transformation
+
 ### Private Tutor
 **Company**: Self-employed  
 **Dates**: Oct 2011 - Jun 2012 (9 months)  
