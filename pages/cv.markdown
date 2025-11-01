@@ -24,13 +24,21 @@ permalink: /cv/
 
 ## About
 
-Hi, I'm Nikos, a Senior Software Engineering Manager with 20+ years of progressive technical and leadership experience. Skilled at leading diverse, remote, high-performing teams, delivering complex cross-team projects, and aligning technology with business strategy.
+I'm a platform engineering leader with 20+ years of progressive technical and leadership experience, currently focused on strategic infrastructure that enables organization-wide success. Built over two decades, my deep technical foundation now informs strategic business decisions rather than hands-on coding—this technical depth combined with leadership experience provides a unique strategic perspective.
 
-Most recently delivered a large-scale CMS migration, balancing change management with technical execution to drive real business impact. Past experience includes work in regulated industries such as finance, public sector, higher education, and utilities. In addition, I've completed agency work for well-known brands: Adidas, Mars, Silverstone, Royal Canin, Vivienne Westwood.
+**Current Strategic Initiative:** Leading a company-wide rebranding effort involving 50 components and 460+ pages over the next two quarters, demonstrating capability to execute large-scale organizational change.
 
-Alongside strong technical leadership, I bring expertise in digital strategy, organisational engineering, process management, CMS platforms, Design Systems, mobile apps, UX, SEO, analytics, performance marketing, and agile delivery. I'm passionate about fostering environments where engineers, designers, and marketeers collaborate, grow, and build products and services users love.
+**Platform Leadership:** I manage critical infrastructure services that enable 15+ teams as dependencies. While this foundational work may not always have direct metrics, we play a massive role in what others achieve—we are the giants where others stand. My services maintain SLAs/SLOs with minimal incidents, ensuring operational excellence across the organization.
 
-Always open to conversations about organisational design, leadership, and building inclusive, high-performing teams. Let's connect!
+**Operational Excellence:** I maintain a **100% team retention rate** across 2 teams (8 engineers)—nobody has quit under my leadership. This achievement reflects my commitment to creating environments where people grow, feel valued, and deliver their best work. I've proven the ability to deliver results even with resource-efficient teams, successfully managing as lean as 2 engineers (senior + mid-level).
+
+**Strategic Capability:** Conducted extensive due diligence and audit work when replacing the legacy CMS platform, demonstrating risk management and strategic planning capabilities. I proactively manage up through clear communication with leadership and continuously develop through strategic learning—13 management books in recent years.
+
+**Cross-Industry Experience:** Past work spans regulated industries (finance, public sector, higher education, utilities) and agency environments with major brands (Adidas, Mars, Silverstone, Royal Canin, Vivienne Westwood), showing adaptability and ability to deliver in diverse contexts.
+
+My 20-year technical foundation—spanning digital strategy, organisational engineering, process management, CMS platforms, Design Systems, mobile apps, UX, SEO, analytics, and agile delivery—now serves as a strategic advantage that enables informed platform architecture decisions and business-aligned technology choices.
+
+Always open to conversations about platform leadership, organizational design, and building sustainable engineering organizations that enable business success. Let's connect!
 
 ## Experience
 
@@ -41,19 +49,19 @@ Always open to conversations about organisational design, leadership, and buildi
 **Employment Type**: Full-time
 
 **Responsibilities:**
-- Managing 2 teams and 7 engineers
-- Understanding the challenges the team is facing and coming up with plans to resolve them or guide team members in finding solutions
-- Resolving higher level unknowns
-- Brainstorming about processes within the team, the department or Technology overall
-- Driving talks with other teams and fostering cross-team collaboration
-- Contributing to roadmaps and quarterly planning
-- Assisting with estimation, setting up goals and negotiating deadlines based on them
-- Conducting regular 1:1s and building rapport and trust
-- Monitoring Happiness and removing obstacles
-- Helping team members determine the best way to reach their professional goals
+- **Leading Strategic Initiative:** Currently leading company-wide rebranding effort involving 50 components and 460+ pages across 2 quarters, demonstrating ability to execute large-scale organizational change
+- **Team Excellence:** Managing 2 teams with 8 engineers, maintaining **100% team retention rate**—nobody has quit under my leadership
+- **Platform Leadership:** Enabling 15+ teams through critical infrastructure dependencies; managing platform services with SLAs/SLOs, maintaining minimal incident rate
+- **Operational Excellence:** Conducted extensive due diligence and audit work for CMS platform replacement, demonstrating strategic capability and risk management
+- **Resource Efficiency:** Delivered results with lean teams (as small as 2 engineers: senior + mid-level), maximizing impact through strategic planning and efficient execution
+- **Managing Up:** Proactive communication with leadership, contributing to strategic roadmaps and quarterly planning
+- **Continuous Development:** 13 management books in recent years, continuously developing leadership capabilities and strategic thinking
+- Understanding team challenges and guiding solutions, resolving higher-level unknowns
+- Driving cross-team collaboration and fostering partnerships across 15+ dependent teams
+- Conducting regular 1:1s, building rapport and trust, monitoring team happiness and removing obstacles
+- Helping team members determine professional growth paths and career development
 - Mental Health Support within the Mental Health First Aider capacity
-- Monitor and determine various staffing and training needs
-- Tracking Capex/Opex timesheets
+- Monitoring staffing and training needs, tracking Capex/Opex timesheets
 
 **Skills**: Grafana, Design Systems, Content Management Systems (CMS), Team Leadership, OneTrust, People Management, Technical Leadership, Incident Management, Agile Methodologies, Service-Level Agreements (SLA), Scrum, Amazon Web Services (AWS), Agile Leadership, Kubernetes, Dependency Management, Technology Change Management, Google Analytics, Stakeholder Management, Software Observability, Change Management, Web Development, Process Improvement, Business Strategy, Node.js, Continuous Integration and Continuous Delivery (CI/CD), Team Management, DevOps, Software Architecture, Agile Project Management, Application Programming Interfaces (API), Product Delivery, Organizational engineering, Engineering Leadership, Optimizely, Coaching, Business Process Improvement, Leadership, React.js, Migration Projects, Software Testing, Mixpanel, Terraform, User Experience (UX), Snowplow, Product Development, Technology Management, Capacity Planning, Engineering Management, Contentful
 
@@ -584,7 +592,49 @@ Always open to conversations about organisational design, leadership, and buildi
 
 ## Skills
 
-### Technical Skills
+### Executive Leadership Skills
+**Platform Leadership & Infrastructure Management:**
+- Platform Leadership
+- Infrastructure Management
+- Dependency Management (15+ team dependencies)
+- Service-Level Agreements (SLA) & SLOs
+- Operational Excellence
+- Risk Management & Due Diligence
+
+**Strategic Planning & Organizational Design:**
+- Strategic Thinking
+- Business Strategy
+- Digital Strategy
+- Organizational Engineering
+- Capacity Planning
+- Process Improvement
+
+**Stakeholder Management & Executive Communication:**
+- Stakeholder Management
+- Managing Up
+- Executive Communication
+- Cross-functional Collaboration
+- Business Enablement & Team Enablement
+
+**Engineering Leadership:**
+- Engineering Management
+- Technical Leadership
+- Team Leadership
+- People Management
+- Team Management
+- Coaching
+- Mentoring
+
+**Project & Process Management:**
+- Project Management
+- Agile Methodologies
+- Scrum
+- Change Management
+- Technology Change Management
+
+### Technical Foundation (Strategic Platform Decisions)
+*Technical depth that enables strategic platform architecture judgment and business-aligned technology choices*
+
 **Programming Languages & Frameworks:**
 - JavaScript
 - Node.js
@@ -614,32 +664,6 @@ Always open to conversations about organisational design, leadership, and buildi
 - Content Management Systems (CMS)
 - Contentful
 - WordPress
-
-### Management & Leadership
-**Engineering Leadership:**
-- Engineering Management
-- Technical Leadership
-- Team Leadership
-- People Management
-- Team Management
-- Coaching
-- Mentoring
-
-**Project & Process Management:**
-- Project Management
-- Agile Methodologies
-- Scrum
-- Process Improvement
-- Change Management
-
-**Strategic Leadership:**
-- Strategic Thinking
-- Business Strategy
-- Digital Strategy
-- Stakeholder Management
-- Delegation
-- Capacity Planning
-- Dependency Management
 
 ### Design & User Experience
 **UX/UI Design:**
