@@ -14,6 +14,8 @@ permalink: /cv/
 
 <div style="clear: both;"></div>
 
+_Download executive profile: [PDF Version](/assets/Nikos_Vasileiadis_CV.pdf) | [DOCX Version](/assets/Nikos_Vasileiadis_CV.docx)_
+
 ## Top skills
 
 - **Engineering Leadership & Scaling**: Proven track record of building, mentoring, and retaining high-performing remote teams (100% retention rate) while establishing robust Agile practices.
