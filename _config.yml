@@ -50,7 +50,6 @@ sass:
 header_pages:
   - pages/cv.markdown
   - pages/professional-development.markdown
-  - pages/blog.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
