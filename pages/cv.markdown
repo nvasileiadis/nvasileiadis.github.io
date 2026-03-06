@@ -16,39 +16,38 @@ permalink: /cv/
 
 ## Top skills
 
-- Digital Strategy
-- Engineering Management
-- Software Engineering
-- Process Improvement
-- Change Management
+- **Engineering Leadership & Scaling**: Proven track record of building, mentoring, and retaining high-performing remote teams (100% retention rate) while establishing robust Agile practices.
+- **Platform & Infrastructure Strategy**: Architecting and managing critical platform services and dependencies with a focus on SLAs, SLIs, and operational excellence for 15+ engineering teams.
+- **Agile Transformation & Delivery**: Deep expertise in stepping into complex, low-maturity environments, introducing structured Agile/Scrum methodologies, and driving predictable delivery.
+- **Cross-Functional Technical Vision**: Bridging the gap between product strategy, UX, and technical execution, backed by a 20-year foundation in full-stack architecture and digital transformation.
 
 ## About
 
-I'm a platform engineering leader with 20+ years of progressive technical and leadership experience, currently focused on strategic infrastructure that enables organization-wide success. Built over two decades, my deep technical foundation now informs strategic business decisions rather than hands-on coding—this technical depth combined with leadership experience provides a unique strategic perspective.
+I am a strategic engineering leader with over two decades of full-stack experience, now focused on aligning technical infrastructure with business outcomes. Having spent 20 years deep in the code, I now operate at the intersection of product strategy, engineering delivery, and commercial realities. I don't believe in over-engineering for the sake of it; I am a strong advocate for pragmatic, "just right" architecture that solves the actual business problem, scales gracefully, and protects margins.
 
-**Current Strategic Initiative:** Leading a company-wide rebranding effort involving 50 components and 460+ pages over the next two quarters, demonstrating capability to execute large-scale organizational change.
+**Commercial Acumen & Financial Literacy:** I am currently completing executive financial training (AAT Essentials, Budgeting, and CapEx) and hold business management training from Limitless Concepts. I approach engineering not just as a technical function, but as a lever for business growth. I actively manage CapEx/OpEx budgets, evaluate vendor ROI, and ensure technical investments map directly to company strategy.
 
-**Platform Leadership:** I manage critical infrastructure services that enable 15+ teams as dependencies. While this foundational work may not always have direct metrics, we play a massive role in what others achieve—we are the giants where others stand. My services maintain SLAs/SLOs with minimal incidents, ensuring operational excellence across the organization.
+**Platform Leadership & Risk Management:** I manage critical infrastructure services that act as dependencies for 15+ teams. By leading extensive due diligence and audit work—such as replacing legacy CMS platforms—I proactively mitigate risk, ensure operational SLAs/SLOs, and provide the stable foundation upon which the rest of the business builds and scales.
 
-**Operational Excellence:** I maintain a **100% team retention rate** across 2 teams (8 engineers)—nobody has quit under my leadership. This achievement reflects my commitment to creating environments where people grow, feel valued, and deliver their best work. I've proven the ability to deliver results even with resource-efficient teams, successfully managing as lean as 2 engineers (senior + mid-level).
+**Operational Excellence & Team Retention:** I believe that a healthy culture is the ultimate productivity hack. I currently maintain a **100% team retention rate** across my engineering teams, ensuring we deliver predictable, high-quality results even in lean, resource-efficient setups.
 
-**Strategic Capability:** Conducted extensive due diligence and audit work when replacing the legacy CMS platform, demonstrating risk management and strategic planning capabilities. I proactively manage up through clear communication with leadership and continuously develop through strategic learning—13 management books in recent years.
+**Strategic Execution:** Currently leading a company-wide rebranding initiative involving 50 distinct components and 460+ pages across two quarters, demonstrating my capability to execute large-scale, cross-functional organizational change.
 
-**Cross-Industry Experience:** Past work spans regulated industries (finance, public sector, higher education, utilities) and agency environments with major brands (Adidas, Mars, Silverstone, Royal Canin, Vivienne Westwood), showing adaptability and ability to deliver in diverse contexts.
+My 20-year technical foundation—spanning digital strategy, organisational engineering, CMS platforms, modern web architecture, UX, and agile delivery—now serves as a profound strategic advantage. I sit comfortably in the boardroom understanding the financial roadmap, and can seamlessly translate that into a scalable engineering blueprint.
 
-My 20-year technical foundation—spanning digital strategy, organisational engineering, process management, CMS platforms, Design Systems, mobile apps, UX, SEO, analytics, and agile delivery—now serves as a strategic advantage that enables informed platform architecture decisions and business-aligned technology choices.
-
-Always open to conversations about platform leadership, organizational design, and building sustainable engineering organizations that enable business success. Let's connect!
+I am looking to join a progressive company where I can operate at a high leadership level, utilizing my commercial mindset and technical depth to shape technical strategy, drive business resilience, and lead engineering organizations that actually serve the bottom line. Let's connect.
 
 ## Experience
 
 ### Software Engineering Manager
+
 **Company**: Utility Warehouse  
 **Dates**: Jul 2023 - Present (2 yrs 3 mos)  
 **Location**: United Kingdom · Remote  
 **Employment Type**: Full-time
 
 **Responsibilities:**
+
 - **Leading Strategic Initiative:** Currently leading company-wide rebranding effort involving 50 components and 460+ pages across 2 quarters, demonstrating ability to execute large-scale organizational change
 - **Team Excellence:** Managing 2 teams with 8 engineers, maintaining **100% team retention rate**—nobody has quit under my leadership
 - **Platform Leadership:** Enabling 15+ teams through critical infrastructure dependencies; managing platform services with SLAs/SLOs, maintaining minimal incident rate
@@ -66,6 +65,7 @@ Always open to conversations about platform leadership, organizational design, a
 **Skills**: Grafana, Design Systems, Content Management Systems (CMS), Team Leadership, OneTrust, People Management, Technical Leadership, Incident Management, Agile Methodologies, Service-Level Agreements (SLA), Scrum, Amazon Web Services (AWS), Agile Leadership, Kubernetes, Dependency Management, Technology Change Management, Google Analytics, Stakeholder Management, Software Observability, Change Management, Web Development, Process Improvement, Business Strategy, Node.js, Continuous Integration and Continuous Delivery (CI/CD), Team Management, DevOps, Software Architecture, Agile Project Management, Application Programming Interfaces (API), Product Delivery, Organizational engineering, Engineering Leadership, Optimizely, Coaching, Business Process Improvement, Leadership, React.js, Migration Projects, Software Testing, Mixpanel, Terraform, User Experience (UX), Snowplow, Product Development, Technology Management, Capacity Planning, Engineering Management, Contentful
 
 ### Lead Software Engineer
+
 **Company**: Utility Warehouse  
 **Dates**: May 2022 - Jul 2023 (1 yr 3 mos)  
 **Location**: United Kingdom · Remote  
@@ -75,61 +75,57 @@ Always open to conversations about platform leadership, organizational design, a
 
 **Skills**: Grafana, Design Systems, JavaScript, Content Management Systems (CMS), Team Leadership, People Management, Technical Leadership, Incident Management, Agile Methodologies, Service-Level Agreements (SLA), Scrum, Project Management, Amazon Web Services (AWS), Agile Leadership, Kubernetes, Web Accessibility Testing, Google Analytics, Stakeholder Management, Software Observability, Web Development, Process Improvement, Node.js, Continuous Integration and Continuous Delivery (CI/CD), Team Management, DevOps, Software Architecture, Benchmarking, Agile Project Management, Application Programming Interfaces (API), Front-end Development, Organizational engineering, Coaching, Optimizing Performance, React.js, Migration Projects, Software Testing, Mixpanel, Terraform, User Experience (UX), Product Development, Contentful
 
-### Senior Full Stack JavaScript Developer
+### Senior Full Stack Developer & Scrum Master
+
 **Company**: IMA-HOME  
 **Dates**: Jan 2020 - Apr 2022 (2 yrs 4 mos)  
 **Location**: Leeds, England, United Kingdom  
 **Employment Type**: Full-time, Hybrid
 
-**Description**: Used ReactJS, ES6, Gatsby, Strapi, and NodeJS. Supported long-term design systems for global brands.
+**Description**: Operated as a dual-threat technical leader for global brands (Adidas, MARS). Alongside architecting frontend solutions using React and Node.js, I formally took on Scrum Master responsibilities to elevate the organization's delivery standards.
+
+**Technical**: Supported long-term design systems and built scalable architectures for high-traffic campaigns.
+
+**Agile Leadership**: Led as a servant-leader across multiple projects, defining "Ways of Working," establishing coding best practices, and embedding a mature agile culture within the agency.
 
 **Projects**: Adidas, MARS, Gregg Wallace, Leeds Rhinos, Royal Canin
 
-**Skills**: Design Systems, JavaScript, Content Management Systems (CMS), Incident Management, Agile Methodologies, Scrum, Project Management, Amazon Web Services (AWS), Web Accessibility Testing, Google Data Studio, Google Analytics, Web Development, Process Improvement, Pay Per Click (PPC), Search Engine Optimization (SEO), Node.js, Software Architecture, Benchmarking, Agile Project Management, Application Programming Interfaces (API), Front-end Development, Optimizing Performance, React.js, Digital Strategy, User Experience (UX), Product Development
-
-### Scrum Master
-**Company**: IMA-HOME  
-**Dates**: Mar 2020 - Jul 2021 (1 yr 5 mos)  
-**Location**: Leeds, England, United Kingdom  
-**Employment Type**: Full-time
-
-**Description**: Helped set and improve organisation standards such as the ways of working, definition of done, coding best practices. Contributed to the agile culture of the company and led as a servant leader in multiple scrum projects.
-
-**Skills**: Design Systems, Content Management Systems (CMS), Team Leadership, People Management, Agile Methodologies, Scrum, Project Management, Agile Leadership, Stakeholder Management, Web Development, Process Improvement, Team Management, Agile Project Management, Coaching, Leadership, Digital Strategy, Product Development, Technology Management
+**Skills**: Design Systems, JavaScript, Content Management Systems (CMS), Incident Management, Agile Methodologies, Scrum, Project Management, Amazon Web Services (AWS), Web Accessibility Testing, Google Data Studio, Google Analytics, Web Development, Process Improvement, Pay Per Click (PPC), Search Engine Optimization (SEO), Node.js, Software Architecture, Benchmarking, Agile Project Management, Application Programming Interfaces (API), Front-end Development, Optimizing Performance, React.js, Digital Strategy, User Experience (UX), Product Development, Team Leadership, People Management, Agile Leadership, Stakeholder Management, Team Management, Coaching, Leadership, Technology Management
 
 ### Senior Digital Developer
+
 **Company**: Leeds Building Society  
 **Dates**: Oct 2018 - Jan 2020 (1 yr 4 mos)  
 **Location**: Leeds, England, United Kingdom · Hybrid  
 **Employment Type**: Full-time
 
-**Description**: A senior/lead developer position where I had the chance to mentor, and train colleagues to deliver higher quality work, help people understand the principles of UX design, and help them embrace agile methodologies for the everyday work. Was responsible for the building and maintaining pages in the public-facing website of the company, and of the majority of the email communications.
+**Description**: Maintained public-facing digital assets in a highly regulated FinTech environment while actively mentoring engineering teams to elevate code quality and UX standards.
 
-**Skills**: Design Systems, JavaScript, Content Management Systems (CMS), Technical Leadership, Incident Management, Agile Methodologies, Scrum, Project Management, Web Accessibility Testing, Google Analytics, Web Development, Process Improvement, Software Architecture, Agile Project Management, FinTech, Front-end Development, Optimizing Performance, Migration Projects, Software Testing, Product Development
+**Agile Transformation**: Introduced Agile and Scrum practices to the organization for the first time. Functioned as the unofficial Agile champion for the majority of my tenure, scaling these processes to improve team delivery.
 
-### Scrum Master (Interim)
-**Company**: Leeds Building Society  
-**Dates**: Jun 2019 - Oct 2019 (5 months)  
-**Location**: Leeds, England, United Kingdom  
-**Employment Type**: Full-time
+**Leadership in Crisis**: Following the successful introduction of Agile workflows, I was formally appointed as Interim Scrum Master (Jun 2019 - Oct 2019) to stabilize delivery and lead a web development team through a critical digital transformation program.
 
-**Description**: Organically and voluntarily grew to the position of scrum master, in order to cover business needs arising from a digital transformation program. I was selected to be the servant leader of a web development team due to many years of experience, and certifications.
-
-**Skills**: Design Systems, Content Management Systems (CMS), Team Leadership, People Management, Agile Methodologies, Scrum, Project Management, Agile Leadership, Stakeholder Management, Web Development, Process Improvement, Team Management, Agile Project Management, FinTech, Coaching, Leadership, Product Development, Technology Management
+**Skills**: Design Systems, JavaScript, Content Management Systems (CMS), Technical Leadership, Incident Management, Agile Methodologies, Scrum, Project Management, Web Accessibility Testing, Google Analytics, Web Development, Process Improvement, Software Architecture, Agile Project Management, FinTech, Front-end Development, Optimizing Performance, Migration Projects, Software Testing, Product Development, Team Leadership, People Management, Agile Leadership, Stakeholder Management, Team Management, Coaching, Leadership, Technology Management
 
 ### UX Interface Developer
+
 **Company**: Jadu  
 **Dates**: Jan 2017 - Oct 2018 (1 yr 10 mos)  
 **Location**: Leeds, England, United Kingdom · Hybrid  
 **Employment Type**: Full-time
 
-**Description**: Designing UIs and developing new features, with user experience in mind, high standards of accessibility, and usability for the custom build Jadu CMS. Modernising legacy code, placing W3C recommended HTML Validation in the workflow for our Twig generated code. Conducting UX interviews, User Testing, and research to improve the decision-making process of designing and development teams. Finally, part of this role is participation in daily standups and bi-weekly sprint plannings according to the best practices of Scrum (Agile Methodologies).
+**Description**: Designed UIs and developed new features with a strict focus on user experience, accessibility, and W3C standards for an award-winning custom CMS.
+
+**Agile Delivery**: Gained foundational, hands-on Agile leadership experience through a rotating Scrum Master model, facilitating sprint planning, daily standups, and embedding the core principles of the Agile manifesto into the team's workflow.
+
+**UX Research**: Conducted UX interviews, user testing, and research to improve the decision-making process for the design and development teams.
 
 **Projects**: Award Winning custom CMS for large-scale institutions like Local Authorities, Higher Education and third-sector not-for-profit organisations, Open source Interface Design System (Pulsar)
 
 **Skills**: Design Systems, JavaScript, Content Management Systems (CMS), Design Thinking, Agile Methodologies, Scrum, Agile Leadership, Web Accessibility Testing, Stakeholder Management, Web Development, Process Improvement, Node.js, Software Architecture, Agile Project Management, Front-end Development, Software as a Service (SaaS), Optimizing Performance, Software Testing, User Experience (UX), Product Development
 
 ### Digital Developer
+
 **Company**: DS.Emotion  
 **Dates**: Oct 2016 - Nov 2016 (2 months)  
 **Location**: Leeds, England, United Kingdom  
@@ -142,6 +138,7 @@ Always open to conversations about platform leadership, organizational design, a
 **Skills**: JavaScript, Content Management Systems (CMS), Web Accessibility Testing, Google Analytics, Web Development, Process Improvement, Pay Per Click (PPC), Search Engine Optimization (SEO), Node.js, Software Architecture, Application Programming Interfaces (API), Front-end Development, Optimizing Performance
 
 ### Front-end Developer
+
 **Company**: Creode  
 **Dates**: Oct 2015 - Sep 2016 (1 year)  
 **Location**: Greater Leeds Area  
@@ -154,6 +151,7 @@ Always open to conversations about platform leadership, organizational design, a
 **Skills**: JavaScript, Content Management Systems (CMS), Agile Methodologies, Scrum, Web Accessibility Testing, Google Analytics, Web Development, Pay Per Click (PPC), Search Engine Optimization (SEO), Node.js, Software Architecture, Application Programming Interfaces (API), Front-end Development, Optimizing Performance
 
 ### Web Developer
+
 **Company**: Freelance  
 **Dates**: Oct 2005 - Sep 2015 (10 years)  
 **Location**: Greece · Remote  
@@ -164,6 +162,7 @@ Always open to conversations about platform leadership, organizational design, a
 **Skills**: JavaScript, Content Management Systems (CMS), Team Leadership, People Management, Incident Management, Google Analytics, Stakeholder Management, Web Development, Process Improvement, Pay Per Click (PPC), Search Engine Optimization (SEO), Node.js, Software Architecture, Benchmarking, Application Programming Interfaces (API), Front-end Development, Optimizing Performance, Migration Projects, Digital Strategy, Product Development
 
 ### Web Consultant
+
 **Company**: Real Greece  
 **Dates**: Aug 2014 - Jul 2015 (1 year)  
 **Location**: Xanthi, Greece · Hybrid  
@@ -174,6 +173,7 @@ Always open to conversations about platform leadership, organizational design, a
 **Skills**: JavaScript, Content Management Systems (CMS), Team Leadership, People Management, Google Analytics, Stakeholder Management, Web Development, Process Improvement, Pay Per Click (PPC), Search Engine Optimization (SEO), Software Architecture, Application Programming Interfaces (API), Front-end Development, Optimizing Performance, Digital Strategy, Product Development
 
 ### WordPress Developer
+
 **Company**: Enter Art  
 **Dates**: Sep 2014 - Mar 2015 (7 months)  
 **Location**: Greece · Remote  
@@ -184,6 +184,7 @@ Always open to conversations about platform leadership, organizational design, a
 **Skills**: JavaScript, Content Management Systems (CMS), Google Analytics, Stakeholder Management, Web Development, Process Improvement, Pay Per Click (PPC), Search Engine Optimization (SEO), Software Architecture, Application Programming Interfaces (API), Front-end Development, Optimizing Performance, Digital Strategy, Product Development
 
 ### Private
+
 **Company**: Greek Army  
 **Dates**: Nov 2012 - Aug 2013 (10 months)  
 **Location**: Greece · On-site  
@@ -194,6 +195,7 @@ Always open to conversations about platform leadership, organizational design, a
 **Skills**: Logistics Management, Provisioning, Communications, Digital Transformation
 
 ### Private Tutor
+
 **Company**: Self-employed  
 **Dates**: Oct 2011 - Jun 2012 (9 months)  
 **Location**: Serres, Greece · On-site  
@@ -202,6 +204,7 @@ Always open to conversations about platform leadership, organizational design, a
 **Description**: Teaching Algorithms and C Programming.
 
 ### ECDL Teacher
+
 **Company**: PROGRAM Ε.Ε.  
 **Dates**: Oct 2007 - Jun 2008 (9 months)  
 **Location**: Serres, Greece · On-site  
@@ -212,17 +215,20 @@ Always open to conversations about platform leadership, organizational design, a
 ## Education
 
 ### Computer Software Engineering
+
 **Institution**: freeCodeCamp  
 **Program**: Computer Software Engineering  
 **Skills**: JavaScript, Software Architecture, Front-end Development, Web Development
 
 ### User Experience and Interaction Design
+
 **Institution**: IxDF - The Interaction Design Foundation  
 **Program**: User Experience and Interaction Design  
 **Dates**: 2017 - 2020  
 **Skills**: Web Accessibility Testing, User Experience (UX), Design Thinking
 
 ### Bachelor's degree, Informatics Engineering
+
 **Institution**: Technological Educational Institute of Central Macedonia  
 **Degree**: Bachelor's degree, Informatics Engineering  
 **Dates**: 2007 - 2012  
@@ -233,65 +239,77 @@ Always open to conversations about platform leadership, organizational design, a
 ## Licenses & Certifications
 
 ### Team Topologies Distilled
+
 **Issuer**: Team Topologies Academy Corporate  
 **Issued**: October 2023  
 **Credential ID**: 2zliafscx5  
 **Skills**: Process Improvement, Technology Change Management, Stakeholder Management, Organizational engineering
 
 ### Mental Health First Aid Champion
+
 **Issuer**: Mental Health First Aid (MHFA) England  
 **Issued**: February 2023  
 **Skills**: People Management
 
 ### COVID-19: PSYCHOLOGICAL FIRST AID
+
 **Issuer**: UK Health Security Agency  
 **Issued**: December 2022  
 **Skills**: People Management
 
 ### Professional Scrum Product Owner I
+
 **Issuer**: Scrum.org  
 **Issued**: August 2021  
 **Skills**: Project Management, Scrum, Agile Project Management, Digital Strategy, Agile Methodologies, Stakeholder Management, Product Development, People Management
 
 ### JavaScript Algorithms and Data Structures Certification
+
 **Issuer**: freeCodeCamp  
 **Issued**: October 2019  
 **Skills**: Web Development, Front-end Development, JavaScript
 
 ### Professional Scrum Master I
+
 **Issuer**: Scrum.org  
 **Issued**: June 2019  
 **Skills**: Scrum, Agile Methodologies, Project Management
 
 ### Google Tag Manager Fundamentals
+
 **Issuer**: Google  
 **Issued**: February 2019  
 **Expired**: February 2022  
 **Skills**: Google Analytics, Search Engine Optimization (SEO)
 
 ### IBM Blockchain Foundation Developer
+
 **Issuer**: IBM  
 **Issued**: February 2019  
 **Skills**: FinTech
 
 ### IBM Blockchain Essentials
+
 **Issuer**: IBM  
 **Issued**: January 2019  
 **Skills**: FinTech
 
 ### Getting Started With Google Analytics 360
+
 **Issuer**: Google  
 **Issued**: December 2018  
 **Expired**: December 2020  
 **Skills**: Google Analytics
 
 ### Google Analytics for Power Users
+
 **Issuer**: Google  
 **Issued**: December 2018  
 **Expired**: December 2020  
 **Skills**: Google Analytics
 
 ### Google Analytics Individual Qualification
+
 **Issuer**: Google  
 **Issued**: November 2018  
 **Expired**: November 2019  
@@ -299,179 +317,211 @@ Always open to conversations about platform leadership, organizational design, a
 **Skills**: Google Analytics
 
 ### Advanced Google Analytics
+
 **Issuer**: Google  
 **Issued**: November 2018  
 **Expired**: November 2020  
 **Skills**: Google Analytics
 
 ### Google Analytics for Beginners
+
 **Issuer**: Google  
 **Issued**: November 2018  
 **Expired**: November 2020  
 **Skills**: Google Analytics
 
 ### Professional Scrum Developer I
+
 **Issuer**: Scrum.org  
 **Issued**: December 2018  
 **Skills**: Project Management, Scrum, Agile Project Management, Agile Methodologies
 
 ### Accessibility: How to Design for All
+
 **Issuer**: IxDF - The Interaction Design Foundation  
 **Issued**: September 2018  
 **Credential ID**: 16893  
 **Skills**: Web Accessibility Testing, User Experience (UX)
 
 ### UX Management: Strategy and Tactics
+
 **Issuer**: IxDF - The Interaction Design Foundation  
 **Issued**: August 2018  
 **Credential ID**: 16893  
 **Skills**: Process Improvement, Digital Strategy, Stakeholder Management, User Experience (UX), People Management
 
 ### Information Visualization
+
 **Issuer**: IxDF - The Interaction Design Foundation  
 **Issued**: June 2018  
 **Credential ID**: 16893  
 **Skills**: User Experience (UX)
 
 ### Conducting Usability Testing
+
 **Issuer**: IxDF - The Interaction Design Foundation  
 **Issued**: June 2018  
 **Credential ID**: 16893  
 **Skills**: User Experience (UX)
 
 ### Magento Certified Front End Developer
+
 **Issuer**: Adobe Commerce  
 **Issued**: June 2018  
 **Credential ID**: 5592075  
 **Skills**: Web Development
 
 ### Gamification - Creating Addictive User Experiences
+
 **Issuer**: IxDF - The Interaction Design Foundation  
 **Issued**: March 2018  
 **Credential ID**: 16893  
 **Skills**: User Experience (UX)
 
 ### How to Design for Augmented and Virtual Reality
+
 **Issuer**: IxDF - The Interaction Design Foundation  
 **Issued**: March 2018  
 **Credential ID**: 16893  
 **Skills**: User Experience (UX)
 
 ### Digital Sales
+
 **Issuer**: Google  
 **Issued**: December 2017  
 **Expired**: December 2019  
 **Skills**: Google Analytics, Pay Per Click (PPC), Digital Strategy
 
 ### Mobile Sites
+
 **Issuer**: Google  
 **Issued**: December 2017  
 **Expired**: December 2018  
 **Skills**: Google Analytics, Web Development
 
 ### Get Your First Job as a UX or Interaction Designer
+
 **Issuer**: IxDF - The Interaction Design Foundation  
 **Issued**: July 2017  
 **Credential ID**: 16893  
 **Skills**: User Experience (UX)
 
 ### How to Become a Freelance Designer
+
 **Issuer**: IxDF - The Interaction Design Foundation  
 **Issued**: July 2017  
 **Credential ID**: 16893  
 **Skills**: User Experience (UX)
 
 ### User Research — Methods and Best Practices
+
 **Issuer**: IxDF - The Interaction Design Foundation  
 **Issued**: July 2017  
 **Credential ID**: 16893  
 **Skills**: User Experience (UX)
 
 ### Mobile User Experience (UX) Design
+
 **Issuer**: IxDF - The Interaction Design Foundation  
 **Issued**: June 2017  
 **Credential ID**: 16893  
 **Skills**: User Experience (UX)
 
 ### Becoming a UX Designer from scratch
+
 **Issuer**: IxDF - The Interaction Design Foundation  
 **Issued**: May 2017  
 **Credential ID**: 16893  
 **Skills**: User Experience (UX)
 
 ### Design Thinking: The Beginner's Guide
+
 **Issuer**: IxDF - The Interaction Design Foundation  
 **Issued**: May 2017  
 **Credential ID**: 16893  
 **Skills**: User Experience (UX)
 
 ### Quality Web Communication: The Beginner's Guide
+
 **Issuer**: IxDF - The Interaction Design Foundation  
 **Issued**: August 2017  
 **Credential ID**: 16893  
 **Skills**: Stakeholder Management, User Experience (UX)
 
 ### Web Design for Usability
+
 **Issuer**: IxDF - The Interaction Design Foundation  
 **Issued**: August 2017  
 **Credential ID**: 16893  
 **Skills**: User Experience (UX)
 
 ### ES6 for Everyone
+
 **Issuer**: Wes Bos  
 **Issued**: January 2017  
 **Credential ID**: 58827d3858e94708b4e67046  
 **Skills**: Web Development
 
 ### DFIN-511 INTRODUCTION TO DIGITAL CURRENCIES
+
 **Issuer**: University of Nicosia  
 **Issued**: December 2016
 
 ### React for Beginners
+
 **Issuer**: Wes Bos  
 **Issued**: November 2016  
 **Credential ID**: 5829cc301d9933f84f3edf8d  
 **Skills**: Web Development, JavaScript, React.js
 
 ### The Online Marketing Fundamentals
+
 **Issuer**: Google  
 **Issued**: September 2016  
 **Skills**: Google Analytics, Digital Strategy
 
 ### IS110x: Innovation and IT Management
+
 **Issuer**: Indian Institute of Management Bangalore  
 **Issued**: September 2015  
 **Skills**: Process Improvement, JavaScript
 
 ### Web Application Architectures
+
 **Issuer**: The University of New Mexico  
 **Issued**: May 2015  
 **Skills**: Web Development, Software Architecture, JavaScript
 
 ### CS169.1x: Software as a Service
+
 **Issuer**: University of California, Berkeley  
 **Issued**: June 2014  
 **Skills**: Software as a Service (SaaS), Web Development, Software Testing, JavaScript
 
 ### Certified Training Professional
+
 **Issuer**: ICDL Certification  
 **Issued**: January 2006
 
 ### ImageMaker
+
 **Issuer**: ICDL Certification  
 **Issued**: January 2006
 
 ### ECDL Expert
+
 **Issuer**: ICDL Certification  
 **Issued**: January 2003
 
 ### ECDL (Original)
+
 **Issuer**: ICDL Europe  
 **Issued**: January 2001
 
 ## Projects
 
 ### Pulsar UX & UI Framework
+
 **Dates**: Jan 2017 - Oct 2019  
 **Associated with**: Jadu  
 **Description**: The User Experience and Interface framework for the Jadu Continuum Platform.  
@@ -479,12 +529,14 @@ Always open to conversations about platform leadership, organizational design, a
 **Skills**: Web Accessibility Testing, Web Development, User Experience (UX), Design Systems, JavaScript
 
 ### Livestock Manager (Dissertation)
+
 **Dates**: Jan 2015 - Jan 2016  
 **Associated with**: International University of Greece - Serres Campus  
 **Description**: An Android App for livestock management. Developed using Android Studio, Java, and Balsamiq Mockups.  
 **Role**: Developer
 
 ### Online Order System for Creperies
+
 **Dates**: Feb 2012 - May 2012  
 **Associated with**: International University of Greece - Serres Campus  
 **Description**: A Web Application for online orders for Creperies. Developed using HTML, CSS, Javascript, jQuery, PHP, and MySQL with MVC Architecture.  
@@ -494,78 +546,91 @@ Always open to conversations about platform leadership, organizational design, a
 ## Volunteering & Mentoring
 
 ### Mentor
+
 **Organization**: WRK digital  
 **Dates**: Feb 2023 - Present (2 yrs 8 mos)  
 **Category**: Science and Technology  
 **Description**: Mutual mentoring amongst Engineering Managers, Heads of Engineering, VPs and CTOs.
 
 ### Mentor
+
 **Organization**: School Of Code  
 **Dates**: Aug 2023 - Jan 2024 (6 mos)  
 **Category**: Education  
 **Description**: Mentored talented Software Engineers to be and helped them prepare to enter the field.
 
 ### Lead Organizer
+
 **Organization**: Google Developers Group  
 **Dates**: Jan 2019 - Mar 2020 (1 yr 3 mos)  
 **Category**: Science and Technology  
 **Description**: Community manager and organizing lead. Took an inactive Google Developer Group in Leeds, gathered a few good people and we kickstarted, together, a new series of presentations, conferences, and workshops.
 
 ### Mentor
+
 **Organization**: Sky  
 **Dates**: Nov 2019 (1 mo)  
 **Category**: Science and Technology  
 **Description**: Assist and inspire people learning to code with HTML, CSS, and JavaScript. Part of Sky's Coding Club meetup.
 
 ### Local Leader
+
 **Organization**: The Interaction Design Foundation  
 **Dates**: Jan 2018 - Oct 2019 (1 yr 10 mos)  
 **Category**: Education  
 **Description**: Helping organise UX local meetups and activities in Leeds, UK.
 
 ### Donor
+
 **Organization**: NHS Blood and Transplant  
 **Dates**: Jun 2016 - Present (9 yrs 4 mos)  
 **Category**: Health  
 **Description**: Regular blood and plasma donor.
 
 ### Community Manager
+
 **Organization**: Open Source Ecology  
 **Dates**: Jan 2012 - Jan 2014 (2 yrs 1 mo)  
 **Category**: Science and Technology  
 **Description**: Spreading the word about Open Source Ecology in Greece and setting up communications infrastructure. Organizing the local chapter, localizing documentation, giving lectures.
 
 ### E-Culture Manager
+
 **Organization**: UNESCO  
 **Dates**: Aug 2011 - Sep 2012 (1 yr 2 mos)  
 **Category**: Human Rights  
 **Description**: Web Developer, Event Organizer.
 
 ### Web Developer, Sysadmin
+
 **Organization**: IEEE  
 **Dates**: Oct 2010 - Dec 2011 (1 yr 3 mos)  
 **Category**: Science and Technology  
 **Description**: Customization and Maintenance of a Drupal website. Debian Server set up for Web Hosting Services (ISPConfig).
 
 ### Organizer
+
 **Organization**: FOSSCOMM  
 **Dates**: Dec 2011 - May 2012 (6 mos)  
 **Category**: Science and Technology  
 **Description**: Free and Open Source Software Communities Meeting (aka FOSSCOMM) in 2012 was a conference that took place in Serres, Greece where I studied. During the organisation was involved with budget management, sponsorships, arranging the venue and supervising the different teams responsible for the technical parts and support.
 
 ### Co-organiser
+
 **Organization**: GDG Leeds  
 **Dates**: Jul 2018 - May 2020 (1 yr 11 mos)  
 **Category**: Science and Technology  
 **Description**: Co-organizing Google Developer Group events and activities in Leeds.
 
 ### IDF Local Leader
+
 **Organization**: Interaction Design Foundation  
 **Dates**: Jan 2018 - Jan 2020 (2 yrs)  
 **Category**: Education  
 **Description**: Keep Leeds IDF community updated about local UX events and help with networking.
 
 ### Guest Speaker
+
 **Organization**: Northern User Experience  
 **Dates**: May 2018 (1 month)  
 **Category**: Education  
@@ -573,18 +638,21 @@ Always open to conversations about platform leadership, organizational design, a
 **Link**: [https://nuxuk.org/2018/05/14/nux-leeds-tuesday-29th-may-ux-a-developers-perspective/](https://nuxuk.org/2018/05/14/nux-leeds-tuesday-29th-may-ux-a-developers-perspective/)
 
 ### Community Manager
+
 **Organization**: Open Source Ecology Greece  
 **Dates**: Jan 2012 - Jan 2014 (2 yrs 1 mo)  
 **Category**: Science and Technology  
 **Description**: Spreading the word about Open Source Ecology in Greece and setting up communications infrastructure. Organizing the local chapter, localizing documentation, giving lectures.
 
 ### Organizing Committee Member
+
 **Organization**: FOSSCOMM Conference  
 **Dates**: Dec 2011 - May 2012 (6 mos)  
 **Category**: Science and Technology  
 **Description**: Free and Open Source Software Communities Meeting was an annual nationwide greek FOSS Conference. A weekend full of presentations, workshops and certification exams. Attendance 350 people.
 
 ### Community Manager, Web Developer
+
 **Organization**: Serres Linux Users Group  
 **Dates**: Feb 2008 - May 2012 (4 yrs 4 mos)  
 **Category**: Science and Technology  
@@ -593,7 +661,9 @@ Always open to conversations about platform leadership, organizational design, a
 ## Skills
 
 ### Executive Leadership Skills
+
 **Platform Leadership & Infrastructure Management:**
+
 - Platform Leadership
 - Infrastructure Management
 - Dependency Management (15+ team dependencies)
@@ -602,6 +672,7 @@ Always open to conversations about platform leadership, organizational design, a
 - Risk Management & Due Diligence
 
 **Strategic Planning & Organizational Design:**
+
 - Strategic Thinking
 - Business Strategy
 - Digital Strategy
@@ -610,6 +681,7 @@ Always open to conversations about platform leadership, organizational design, a
 - Process Improvement
 
 **Stakeholder Management & Executive Communication:**
+
 - Stakeholder Management
 - Managing Up
 - Executive Communication
@@ -617,6 +689,7 @@ Always open to conversations about platform leadership, organizational design, a
 - Business Enablement & Team Enablement
 
 **Engineering Leadership:**
+
 - Engineering Management
 - Technical Leadership
 - Team Leadership
@@ -626,6 +699,7 @@ Always open to conversations about platform leadership, organizational design, a
 - Mentoring
 
 **Project & Process Management:**
+
 - Project Management
 - Agile Methodologies
 - Scrum
@@ -633,9 +707,11 @@ Always open to conversations about platform leadership, organizational design, a
 - Technology Change Management
 
 ### Technical Foundation (Strategic Platform Decisions)
-*Technical depth that enables strategic platform architecture judgment and business-aligned technology choices*
+
+_Technical depth that enables strategic platform architecture judgment and business-aligned technology choices_
 
 **Programming Languages & Frameworks:**
+
 - JavaScript
 - Node.js
 - React.js
@@ -645,6 +721,7 @@ Always open to conversations about platform leadership, organizational design, a
 - Python
 
 **Web Development:**
+
 - Web Development
 - Front-end Development
 - Web Performance Optimization
@@ -654,6 +731,7 @@ Always open to conversations about platform leadership, organizational design, a
 - Software as a Service (SaaS)
 
 **Cloud & DevOps:**
+
 - Amazon Web Services (AWS)
 - Kubernetes
 - Terraform
@@ -661,12 +739,15 @@ Always open to conversations about platform leadership, organizational design, a
 - Continuous Integration and Continuous Delivery (CI/CD)
 
 **Content Management:**
+
 - Content Management Systems (CMS)
 - Contentful
 - WordPress
 
 ### Design & User Experience
+
 **UX/UI Design:**
+
 - User Experience (UX)
 - Design Systems
 - Design Thinking
@@ -676,13 +757,16 @@ Always open to conversations about platform leadership, organizational design, a
 - Mobile User Experience (UX) Design
 
 **Accessibility & Testing:**
+
 - Web Accessibility Testing
 - Accessibility: How to Design for All
 - Conducting Usability Testing
 - User Research
 
 ### Analytics & Marketing
+
 **Digital Marketing:**
+
 - E-commerce
 - Google Analytics
 - Google Tag Manager Fundamentals
@@ -692,6 +776,7 @@ Always open to conversations about platform leadership, organizational design, a
 - The Online Marketing Fundamentals
 
 **Data & Performance:**
+
 - Google Data Studio
 - Mixpanel
 - Snowplow
@@ -701,11 +786,14 @@ Always open to conversations about platform leadership, organizational design, a
 - Software Observability
 
 ### Industry & Domain Expertise
+
 **Financial Technology:**
+
 - FinTech
 - Blockchain Foundational Knowledge
 
 **Tools & Platforms:**
+
 - Grafana
 - OneTrust
 - Service-Level Agreements (SLA)
@@ -713,7 +801,9 @@ Always open to conversations about platform leadership, organizational design, a
 - Incident Management
 
 ### Soft Skills
+
 **Communication & Leadership:**
+
 - Communication
 - Interpersonal Skills
 - Public Speaking
@@ -722,6 +812,7 @@ Always open to conversations about platform leadership, organizational design, a
 - Community Manager
 
 **Professional Development:**
+
 - Coaching & Mentoring
 - Product Development
 - Product Delivery
@@ -730,11 +821,13 @@ Always open to conversations about platform leadership, organizational design, a
 ## Publications
 
 ### Designing User Interfaces as a Developer
+
 **Platform**: Medium  
 **Published**: October 30, 2017  
 **Description**: Technical article sharing insights on UI design from a developer's perspective.
 
 ### W3C HTML Validation for Twig Generated Pages
+
 **Platform**: Medium  
 **Published**: October 26, 2017  
 **Description**: Technical guide on implementing W3C HTML validation for Twig-generated content.
@@ -742,9 +835,8 @@ Always open to conversations about platform leadership, organizational design, a
 ## Honors & Awards
 
 ### 3rd Place at KPMG's 30 Voices: The Next Generation
+
 **Issuer**: KPMG  
 **Date**: March 2019  
 **Associated with**: Leeds Building Society  
 **Description**: An innovations competition for people under 30, about the challenges the financial sector will face by 2030. Our project proposal utilized AI, Blockchain, and Big Data for asset allocation via tokenisation of rights.
-
-

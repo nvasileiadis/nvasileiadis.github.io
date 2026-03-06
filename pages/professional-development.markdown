@@ -11,9 +11,11 @@ My commitment to continuous learning and professional growth spans over two deca
 ## Academic Foundation
 
 ### University Courses (2007-2012)
+
 **Institution**: International University of Greece - Serres Campus (formerly Technological Educational Institute of Central Macedonia)
 
 **Core Computer Science:**
+
 - Algorithms and Data Structures
 - Object Oriented Programming
 - Programming I & II
@@ -21,11 +23,13 @@ My commitment to continuous learning and professional growth spans over two deca
 - Systems Architecture
 
 **Database & Networks:**
+
 - Databases I & II
 - Networks I, II, III
 - Telecommunications Networks
 
 **Systems & Operations:**
+
 - Operating Systems I & II
 - Linear Programming
 - Visual Programming
@@ -35,16 +39,19 @@ My commitment to continuous learning and professional growth spans over two deca
 ### Work-Related Training
 
 **Utility Warehouse (2022-2023):**
+
 - Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers
 - Kubernetes Course - Full Beginners Tutorial (Containerize your Apps!)
 - Team Topologies Distilled
 
 **Leeds Building Society (2018-2020):**
+
 - Understanding Google Tag Manager
 - Decentralised Applications (Dapps)
 - FinTech Law and Policy
 
 **IMA-HOME (2020-2022):**
+
 - React - The Complete Guide (incl Hooks, React Router, Redux)
 - JavaScript Testing
 - JavaScript30
@@ -54,27 +61,32 @@ My commitment to continuous learning and professional growth spans over two deca
 - User Story Masterclass: Your In-Depth Guide to User Stories
 
 **Jadu (2017-2018):**
+
 - Web Accessibility
 - Hack Design - Design Course
 
 **Creode (2015-2016):**
+
 - What The Flexbox?!
 - Intro to Progressive Web Apps
 - Learn Redux
 - CSS Grid
 
 **Freelance (2015-2016):**
+
 - Web Performance Optimization
 
 ## Specialized Learning
 
 ### Design & User Experience
+
 - Web Accessibility
 - Hack Design - Design Course
 - What The Flexbox?!
 - CSS Grid
 
 ### Modern Web Development
+
 - React - The Complete Guide (incl Hooks, React Router, Redux)
 - JavaScript Testing
 - JavaScript30
@@ -84,28 +96,36 @@ My commitment to continuous learning and professional growth spans over two deca
 - Intro to Progressive Web Apps
 
 ### DevOps & Infrastructure
+
 - Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers
 - Kubernetes Course - Full Beginners Tutorial (Containerize your Apps!)
 
 ### Business & Process
+
+- AAT Essentials: Finance for Non-Finance Managers (Completed)
+- AAT Essentials: Budgeting and CapEx (In Progress)
 - Team Topologies Distilled
 - Process Flowcharts & Process Mapping
 - User Story Masterclass: Your In-Depth Guide to User Stories
 
 ### Financial Technology
+
 - Decentralised Applications (Dapps)
 - FinTech Law and Policy
 
 ### Analytics & Marketing
+
 - Understanding Google Tag Manager
 - Web Performance Optimization
 
 ## General Knowledge & Personal Growth
 
 ### Economics & Society
+
 - Paul Krugman Teached Economics and Society
 
 ### Personal Development
+
 - **Limitless Concepts: Business** - Comprehensive business and financial acumen program covering:
   - **Financial Fundamentals**: Profit & Loss Statements, Balance Sheets, Cash Flow Statements, and their interconnections
   - **Business Metrics & Growth**: Customer Acquisition Costs, Lifetime Value, MRR/ARR, and growth measurement techniques
@@ -135,4 +155,4 @@ This diverse learning journey has enabled me to:
 
 ---
 
-*This learning journey reflects my commitment to continuous growth and my belief that the best leaders are also the best learners. Each course, certification, and learning experience has contributed to my ability to lead diverse teams and deliver impactful solutions.*
+_This learning journey reflects my commitment to continuous growth and my belief that the best leaders are also the best learners. Each course, certification, and learning experience has contributed to my ability to lead diverse teams and deliver impactful solutions._
