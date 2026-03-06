@@ -2,7 +2,8 @@
 # Script to generate PDF and DOCX from the executive CV markdown
 
 echo "Generating PDF via md-to-pdf..."
-npx md-to-pdf pages/cv.markdown --basedir . --out-file assets/Nikos_Vasileiadis_CV.pdf
+npx md-to-pdf pages/cv.markdown --basedir .
+mv pages/cv.pdf assets/Nikos_Vasileiadis_CV.pdf
 
 echo "Generating DOCX via pandoc (requires pandoc installed: brew install pandoc)..."
 if command -v pandoc &> /dev/null; then
