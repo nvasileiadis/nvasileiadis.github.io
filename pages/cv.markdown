@@ -9,6 +9,7 @@ permalink: /cv/
 - **Name**: Nikos Vasileiadis
 - **Title**: Engineering Leader
 - **Location**: Leeds, England, United Kingdom
+- **Right to work**: British Citizen
 
 <div style="clear: both;"></div>
 
