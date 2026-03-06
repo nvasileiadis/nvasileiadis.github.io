@@ -14,7 +14,7 @@ permalink: /cv/
 
 Download executive profile: [PDF Version](/assets/Nikos_Vasileiadis_CV.pdf) | [DOCX Version](/assets/Nikos_Vasileiadis_CV.docx)
 
-## Top skills
+## Top skills8
 
 - **Engineering Leadership & Scaling**: Proven track record of building, mentoring, and retaining high-performing remote teams (100% retention rate) while establishing robust Agile practices.
 - **Platform & Infrastructure Strategy**: Architecting and managing critical platform services and dependencies with a focus on SLAs, SLIs, and operational excellence for 15+ engineering teams.
@@ -237,26 +237,3 @@ I am looking to join a progressive company where I can operate at a high leaders
 **Dates**: Jan 2019 - Mar 2020 (1 yr 3 mos)  
 **Category**: Science and Technology  
 **Description**: Community manager and organizing lead. Took an inactive Google Developer Group in Leeds, gathered a few good people and we kickstarted, together, a new series of presentations, conferences, and workshops.
-
-## Publications
-
-### Designing User Interfaces as a Developer
-
-**Platform**: Medium  
-**Published**: October 30, 2017  
-**Description**: Technical article sharing insights on UI design from a developer's perspective.
-
-### W3C HTML Validation for Twig Generated Pages
-
-**Platform**: Medium  
-**Published**: October 26, 2017  
-**Description**: Technical guide on implementing W3C HTML validation for Twig-generated content.
-
-## Honors & Awards
-
-### 3rd Place at KPMG's 30 Voices: The Next Generation
-
-**Issuer**: KPMG  
-**Date**: March 2019  
-**Associated with**: Leeds Building Society  
-**Description**: An innovations competition for people under 30, about the challenges the financial sector will face by 2030. Our project proposal utilized AI, Blockchain, and Big Data for asset allocation via tokenisation of rights.
