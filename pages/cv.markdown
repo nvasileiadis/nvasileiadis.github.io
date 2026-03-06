@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CV — Nikos Vasileiadis | Engineering Leader | Leeds, UK
+nav_title: CV
 permalink: /cv/
 description: "CV of Nikos Vasileiadis — Engineering Leader with 20+ years experience. Former Engineering Manager at Utility Warehouse. Expertise in platform architecture, Design Systems, Agile transformation, and commercial engineering. Open to Head of Engineering and VP Engineering roles in the UK."
 ---
