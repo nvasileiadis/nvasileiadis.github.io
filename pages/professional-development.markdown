@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Professional Development
+title: Professional Development — Nikos Vasileiadis | Credentials, Clients & Community
 permalink: /professional-development/
+description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Engineering Leader based in Leeds, UK. Includes 40+ certifications across leadership, UX, analytics, cloud, and FinTech."
 ---
 
 _This page is an evidence appendix for those who want to go deeper. It covers the brands and organisations I've worked with, the full list of credentials I've earned, my community contributions, and notable recognition across my career._

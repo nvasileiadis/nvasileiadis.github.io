@@ -26,11 +26,17 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: nvasileiadis
 github_username: nvasileiadis
+author:
+  name: Nikos Vasileiadis
+  email: vasileiadis.nikos@gmail.com
+  linkedin: nvasileiadis
+  github: nvasileiadis
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Analytics
 # google_analytics is injected at build time via GitHub Actions secret GA_MEASUREMENT_ID
