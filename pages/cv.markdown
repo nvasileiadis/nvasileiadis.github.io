@@ -153,7 +153,7 @@ I am looking to join a progressive company where I can operate at a high leaders
 **Institution**: International University of Greece - Serres Campus  
 **Degree**: BSc Informatics Engineering (attended 2007–2012; did not graduate due to the Greek financial crisis)
 
-## Licenses & Certifications
+## Professional Credentials
 
 **Team Topologies Distilled** · Team Topologies Academy, Oct 2023  
 **Mental Health First Aid Champion** · MHFA England & UK Health Security Agency, 2022–2023  
@@ -161,6 +161,8 @@ I am looking to join a progressive company where I can operate at a high leaders
 **Professional Scrum Master I (PSM I)** · Scrum.org, Jun 2019
 
 _Full certifications list — Scrum, UX, FinTech, analytics, cloud, accessibility, and more — available on the [Professional Development](/professional-development/) page._
+
+## Community & Leadership
 
 **Mentor, WRK digital** _(Feb 2023–Present)_: Peer mentoring network with Engineering Managers, Heads of Engineering, VPs, and CTOs.
 
