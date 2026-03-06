@@ -19,6 +19,7 @@ Download profile: [PDF Version](/assets/Nikos_Vasileiadis_CV.pdf) | [DOCX Versio
 
 - **Engineering Leadership & Scaling**: Proven track record of building, mentoring, and retaining high-performing remote teams (100% retention rate) while establishing robust Agile practices.
 - **Platform & Infrastructure Strategy**: Architecting and managing critical platform services and dependencies with a focus on SLAs, SLIs, and operational excellence for 15+ engineering teams.
+- **Design Systems Leadership**: End-to-end experience building and managing Design Systems — from open-source implementation (Pulsar at Jadu) to leading a dedicated Design Systems team at scale, enabling consistent, high-velocity delivery across product and engineering.
 - **Agile Transformation & Delivery**: Deep expertise in stepping into complex, low-maturity environments, introducing structured Agile/Scrum methodologies, and driving predictable delivery.
 - **Cross-Functional Technical Vision**: Bridging the gap between product strategy, UX, and technical execution, backed by a 20-year foundation in full-stack architecture and digital transformation.
 
@@ -36,6 +37,8 @@ I am a strategic engineering leader with over two decades of full-stack experien
 
 My 20-year technical foundation—spanning digital strategy, organisational engineering, CMS platforms, modern web architecture, UX, and agile delivery—now serves as a profound strategic advantage. I sit comfortably in the boardroom understanding the financial roadmap, and can seamlessly translate that into a scalable engineering blueprint.
 
+**Progressive Leadership Arc (7+ years):** My leadership responsibilities have grown continuously since 2017 — from rotating Scrum Master at Jadu, to Interim Scrum Master during a critical digital transformation at Leeds Building Society, to formal Scrum Master at IMA-HOME, to bootstrapping and leading the Content Capability team at Utility Warehouse, to my current Engineering Manager role overseeing two teams and eight engineers. Each step was a deliberate expansion of scope.
+
 I am looking to join a progressive company where I can operate at a high leadership level, utilizing my commercial mindset and technical depth to shape technical strategy, drive business resilience, and lead engineering organizations that actually serve the bottom line. Let's connect.
 
 ## Experience
@@ -51,6 +54,7 @@ I am looking to join a progressive company where I can operate at a high leaders
 
 - **Strategic Delivery & Scaling:** Leading a company-wide rebranding initiative across 50 components and 460+ pages, directly managing related CapEx/OpEx budgets, staffing needs, and capacity planning.
 - **Platform Architecture & Dependencies:** Architecting and managing critical platform services acting as dependencies for 15+ engineering teams, ensuring high availability and strict SLA/SLO adherence.
+- **Design Systems Leadership:** Managed a dedicated Design Systems team — a cross-functional capability enabling consistent, high-velocity delivery across product and engineering. Design Systems work is inherently UX-led and organisation-wide in its reach.
 - **Commercial & Vendor Management:** Evaluated CMS solutions, negotiated requirements, and conducted extensive technical due diligence for a legacy CMS replacement to mitigate enterprise risk.
 - **Team Topology & Culture:** Built a high-performing engineering culture with a **100% retention rate** across two teams (8 engineers). Optimized team structures to deliver continuous enterprise value, resolving high-level organizational unknowns.
 - **Cross-Functional Leadership:** Proactively driving strategic partnerships across marketing, product, and engineering. Acting as the bridge between technical execution and executive roadmaps.
@@ -104,13 +108,15 @@ I am looking to join a progressive company where I can operate at a high leaders
 **Location**: Leeds, England, United Kingdom · Hybrid  
 **Employment Type**: Full-time
 
-**Description**: Designed UIs and developed new features with a strict focus on user experience, accessibility, and W3C standards for an award-winning custom CMS.
+**Description**: Designed UIs and developed new features with a strict focus on user experience, accessibility, and W3C standards for an award-winning custom CMS used by Local Authorities, Higher Education, and third-sector organisations.
+
+**Design Systems**: Co-created and maintained **Pulsar** — an open-source UX and Interface Design System powering the Jadu Continuum Platform. This is the foundation of my Design Systems specialism, combining component architecture, accessibility, and cross-team enablement.
 
 **Agile Delivery**: Gained foundational, hands-on Agile leadership experience through a rotating Scrum Master model, facilitating sprint planning, daily standups, and embedding the core principles of the Agile manifesto into the team's workflow.
 
 **UX Research**: Conducted UX interviews, user testing, and research to improve the decision-making process for the design and development teams.
 
-**Projects**: Award Winning custom CMS for large-scale institutions like Local Authorities, Higher Education and third-sector not-for-profit organisations, Open source Interface Design System (Pulsar)
+**Projects**: Award-winning custom CMS for large-scale public sector institutions — Open source Interface Design System ([Pulsar](https://jadu.github.io/pulsar/))
 
 ### Digital Developer
 
