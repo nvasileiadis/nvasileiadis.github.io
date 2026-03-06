@@ -155,47 +155,15 @@ I am looking to join a progressive company where I can operate at a high leaders
 
 ## Licenses & Certifications
 
-### Team Topologies Distilled
+**Team Topologies Distilled** · Team Topologies Academy, Oct 2023  
+**Mental Health First Aid Champion** · MHFA England & UK Health Security Agency, 2022–2023  
+**Professional Scrum Product Owner I (PSPO I)** · Scrum.org, Aug 2021  
+**Professional Scrum Master I (PSM I)** · Scrum.org, Jun 2019
 
-**Issuer**: Team Topologies Academy Corporate  
-**Issued**: October 2023  
-**Credential ID**: 2zliafscx5  
-**Skills**: Process Improvement, Technology Change Management, Stakeholder Management, Organizational engineering
+_Full certifications list — Scrum, UX, FinTech, analytics, cloud, accessibility, and more — available on the [Professional Development](/professional-development/) page._
 
-### Mental Health First Aid Champion
+**Mentor, WRK digital** _(Feb 2023–Present)_: Peer mentoring network with Engineering Managers, Heads of Engineering, VPs, and CTOs.
 
-**Issuer**: MHFA England & UK Health Security Agency · Issued 2022-2023  
-**Skills**: People Management
+**Mentor, School of Code** _(Aug–Jan 2024)_: Supported early-career engineers entering the industry.
 
-### Professional Scrum Product Owner I
-
-**Issuer**: Scrum.org  
-**Issued**: August 2021
-
-### Professional Scrum Master I
-
-**Issuer**: Scrum.org  
-**Issued**: June 2019
-
-## Volunteering & Mentoring
-
-### Mentor
-
-**Organization**: WRK digital  
-**Dates**: Feb 2023 - Present (2 yrs 8 mos)  
-**Category**: Science and Technology  
-**Description**: Mutual mentoring amongst Engineering Managers, Heads of Engineering, VPs and CTOs.
-
-### Mentor
-
-**Organization**: School Of Code  
-**Dates**: Aug 2023 - Jan 2024 (6 mos)  
-**Category**: Education  
-**Description**: Mentored talented Software Engineers to be and helped them prepare to enter the field.
-
-### Lead Organizer
-
-**Organization**: Google Developers Group  
-**Dates**: Jan 2019 - Mar 2020 (1 yr 3 mos)  
-**Category**: Science and Technology  
-**Description**: Community manager and organizing lead. Took an inactive Google Developer Group in Leeds, gathered a few good people and we kickstarted, together, a new series of presentations, conferences, and workshops.
+**Lead Organiser, Google Developers Group Leeds** _(Jan 2019–Mar 2020)_: Revived an inactive GDG chapter; organised conferences, workshops, and technical meetups.
