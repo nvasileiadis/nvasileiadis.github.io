@@ -4,8 +4,6 @@ title: Professional Development
 permalink: /professional-development/
 ---
 
-# Professional Development & Career Evidence
-
 _This page is an evidence appendix for those who want to go deeper. It covers the brands and organisations I've worked with, the full list of credentials I've earned, my community contributions, and notable recognition across my career._
 
 ---
@@ -16,13 +14,13 @@ Over 20 years I've delivered technical and leadership work for organisations acr
 
 **Global & Major Brands** Adidas · MARS · Royal Canin · Vivienne Westwood · Kärcher · Silverstone
 
-**Financial Services & FinTech** Leeds Building Society · Utility Warehouse
+**Regulated Industries** Leeds Building Society · Utility Warehouse
 
 **Public Sector & Education** Local Authorities (multiple) · Higher Education institutions · third-sector not-for-profit organisations _(via Jadu's award-winning CMS)_
 
 **Agency Clients** CACI · EQVVS · G-Type · Bowcliffe Hall · Gregg Wallace · Leeds Rhinos
 
-**Non-Profits & Community** UNESCO · Open Source Ecology · IEEE
+**Non-Profits & Community** UNESCO · Open Source Ecology · IEEE · Serres Linux Users Group
 
 ---
 

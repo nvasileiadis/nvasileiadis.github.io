@@ -13,7 +13,7 @@ permalink: /cv/
 
 <div style="clear: both;"></div>
 
-Download executive profile: [PDF Version](/assets/Nikos_Vasileiadis_CV.pdf) | [DOCX Version](/assets/Nikos_Vasileiadis_CV.docx)
+Download profile: [PDF Version](/assets/Nikos_Vasileiadis_CV.pdf) | [DOCX Version](/assets/Nikos_Vasileiadis_CV.docx)
 
 ## Top skills
 
@@ -130,7 +130,7 @@ I am looking to join a progressive company where I can operate at a high leaders
 
 **Company**: Creode  
 **Dates**: Oct 2015 - Sep 2016 (1 year)  
-**Location**: Greater Leeds Area  
+**Location**: Leeds, England, United Kingdom
 **Employment Type**: Full-time, On-site
 
 **Description**: Engineered responsive e-commerce solutions for major retail brands (Vivienne Westwood, Kärcher).

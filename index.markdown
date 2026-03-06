@@ -24,7 +24,6 @@ Strategic engineering leader with 20+ years of experience, now operating at the 
 
 - **[CV](/cv/)** — Professional experience and leadership background
 - **[Professional Development](/professional-development/)** — Ongoing learning journey
-- **[Blog](/blog/)** — Thoughts on engineering leadership and strategy
 
 ---
 
