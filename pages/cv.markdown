@@ -14,7 +14,7 @@ permalink: /cv/
 
 <div style="clear: both;"></div>
 
-_Download executive profile: [PDF Version](/assets/Nikos_Vasileiadis_CV.pdf) | [DOCX Version](/assets/Nikos_Vasileiadis_CV.docx)_
+Download executive profile: [PDF Version](/assets/Nikos_Vasileiadis_CV.pdf) | [DOCX Version](/assets/Nikos_Vasileiadis_CV.docx)
 
 ## Top skills
 
