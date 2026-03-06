@@ -48,19 +48,11 @@ I am looking to join a progressive company where I can operate at a high leaders
 
 **Responsibilities:**
 
-- **Leading Strategic Initiative:** Currently leading company-wide rebranding effort involving 50 components and 460+ pages across 2 quarters, demonstrating ability to execute large-scale organizational change
-- **Team Excellence:** Managing 2 teams with 8 engineers, maintaining **100% team retention rate**—nobody has quit under my leadership
-- **Platform Leadership:** Enabling 15+ teams through critical infrastructure dependencies; managing platform services with SLAs/SLOs, maintaining minimal incident rate
-- **Operational Excellence:** Conducted extensive due diligence and audit work for CMS platform replacement, demonstrating strategic capability and risk management
-- **Resource Efficiency:** Delivered results with lean teams (as small as 2 engineers: senior + mid-level), maximizing impact through strategic planning and efficient execution
-- **Managing Up:** Proactive communication with leadership, contributing to strategic roadmaps and quarterly planning
-- **Continuous Development:** 13 management books in recent years, continuously developing leadership capabilities and strategic thinking
-- Understanding team challenges and guiding solutions, resolving higher-level unknowns
-- Driving cross-team collaboration and fostering partnerships across 15+ dependent teams
-- Conducting regular 1:1s, building rapport and trust, monitoring team happiness and removing obstacles
-- Helping team members determine professional growth paths and career development
-- Mental Health Support within the Mental Health First Aider capacity
-- Monitoring staffing and training needs, tracking Capex/Opex timesheets
+- **Strategic Delivery & Scaling:** Leading a company-wide rebranding initiative across 50 components and 460+ pages, directly managing related CapEx/OpEx budgets, staffing needs, and capacity planning.
+- **Platform Architecture & Dependencies:** Architecting and managing critical platform services acting as dependencies for 15+ engineering teams, ensuring high availability and strict SLA/SLO adherence.
+- **Commercial & Vendor Management:** Evaluated CMS solutions, negotiated requirements, and conducted extensive technical due diligence for a legacy CMS replacement to mitigate enterprise risk.
+- **Team Topology & Culture:** Built a high-performing engineering culture with a **100% retention rate** across two teams (8 engineers). Optimized team structures to deliver continuous enterprise value, resolving high-level organizational unknowns.
+- **Cross-Functional Leadership:** Proactively driving strategic partnerships across marketing, product, and engineering. Acting as the bridge between technical execution and executive roadmaps.
 
 **Skills**: Grafana, Design Systems, Content Management Systems (CMS), Team Leadership, OneTrust, People Management, Technical Leadership, Incident Management, Agile Methodologies, Service-Level Agreements (SLA), Scrum, Amazon Web Services (AWS), Agile Leadership, Kubernetes, Dependency Management, Technology Change Management, Google Analytics, Stakeholder Management, Software Observability, Change Management, Web Development, Process Improvement, Business Strategy, Node.js, Continuous Integration and Continuous Delivery (CI/CD), Team Management, DevOps, Software Architecture, Agile Project Management, Application Programming Interfaces (API), Product Delivery, Organizational engineering, Engineering Leadership, Optimizely, Coaching, Business Process Improvement, Leadership, React.js, Migration Projects, Software Testing, Mixpanel, Terraform, User Experience (UX), Snowplow, Product Development, Technology Management, Capacity Planning, Engineering Management, Contentful
 
@@ -71,7 +63,12 @@ I am looking to join a progressive company where I can operate at a high leaders
 **Location**: United Kingdom · Remote  
 **Employment Type**: Full-time
 
-**Description**: A new team to develop the Content Capability was created around me. This was due to my agile, ux and engineering background. Created the initial backlog, mapped technical debt, documented and established processes, benchmarked CMS products, and prepared migration plans for a large-scale transition between systems. The technical decisions were influenced by my many years of experience. Was also involved in developing tech talent into full-fledged Software Engineers, coached and mentored colleagues.
+**Description:** The Content Capability team was built around me to leverage my cross-functional expertise in engineering, UX, and Agile delivery.
+
+- **Foundational Architecture:** Bootstrapped the core team from the ground up, translating business needs into a scalable engineering blueprint.
+- **Strategic Migration Planning:** Conducted rigorous CMS benchmarking, mapped technical debt, and authored the strategy for a large-scale enterprise transition between legacy systems.
+- **Process Engineering:** Established robust development lifecycles, definition of done, and workflows that served as the operational foundation for the new team.
+- **Talent Development:** Coached and up-skilled engineering talent, functioning as a technical multiplier to elevate the overall capability of the department.
 
 **Skills**: Grafana, Design Systems, JavaScript, Content Management Systems (CMS), Team Leadership, People Management, Technical Leadership, Incident Management, Agile Methodologies, Service-Level Agreements (SLA), Scrum, Project Management, Amazon Web Services (AWS), Agile Leadership, Kubernetes, Web Accessibility Testing, Google Analytics, Stakeholder Management, Software Observability, Web Development, Process Improvement, Node.js, Continuous Integration and Continuous Delivery (CI/CD), Team Management, DevOps, Software Architecture, Benchmarking, Agile Project Management, Application Programming Interfaces (API), Front-end Development, Organizational engineering, Coaching, Optimizing Performance, React.js, Migration Projects, Software Testing, Mixpanel, Terraform, User Experience (UX), Product Development, Contentful
 
