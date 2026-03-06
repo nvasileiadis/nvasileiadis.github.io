@@ -7,7 +7,7 @@ permalink: /cv/
 ## Who am I?
 
 - **Name**: Nikos Vasileiadis
-- **Title**: Senior Software Engineering Manager
+- **Title**: Engineering Leader
 - **Location**: Leeds, England, United Kingdom
 
 <div style="clear: both;"></div>
