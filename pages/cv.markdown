@@ -25,7 +25,7 @@ permalink: /cv/
 
 I am a strategic engineering leader with over two decades of full-stack experience, now focused on aligning technical infrastructure with business outcomes. Having spent 20 years deep in the code, I now operate at the intersection of product strategy, engineering delivery, and commercial realities. I don't believe in over-engineering for the sake of it; I am a strong advocate for pragmatic, "just right" architecture that solves the actual business problem, scales gracefully, and protects margins.
 
-**Commercial Acumen & Financial Literacy:** I am currently completing executive financial training (AAT Essentials, Budgeting, and CapEx) and hold business management training from Limitless Concepts. I approach engineering not just as a technical function, but as a lever for business growth. I actively manage CapEx/OpEx budgets, evaluate vendor ROI, and ensure technical investments map directly to company strategy.
+**Commercial Acumen & Financial Literacy:** I approach engineering not just as a technical function, but as a lever for business growth. Supported by formal training in "Finance for Non-Financial Managers," CapEx/OpEx budgeting, and business metrics, I actively evaluate vendor ROI and ensure technical investments map directly to company strategy.
 
 **Platform Leadership & Risk Management:** I manage critical infrastructure services that act as dependencies for 15+ teams. By leading extensive due diligence and audit work—such as replacing legacy CMS platforms—I proactively mitigate risk, ensure operational SLAs/SLOs, and provide the stable foundation upon which the rest of the business builds and scales.
 
