@@ -14,7 +14,7 @@ permalink: /cv/
 
 Download executive profile: [PDF Version](/assets/Nikos_Vasileiadis_CV.pdf) | [DOCX Version](/assets/Nikos_Vasileiadis_CV.docx)
 
-## Top skills8
+## Top skills
 
 - **Engineering Leadership & Scaling**: Proven track record of building, mentoring, and retaining high-performing remote teams (100% retention rate) while establishing robust Agile practices.
 - **Platform & Infrastructure Strategy**: Architecting and managing critical platform services and dependencies with a focus on SLAs, SLIs, and operational excellence for 15+ engineering teams.
@@ -54,8 +54,6 @@ I am looking to join a progressive company where I can operate at a high leaders
 - **Team Topology & Culture:** Built a high-performing engineering culture with a **100% retention rate** across two teams (8 engineers). Optimized team structures to deliver continuous enterprise value, resolving high-level organizational unknowns.
 - **Cross-Functional Leadership:** Proactively driving strategic partnerships across marketing, product, and engineering. Acting as the bridge between technical execution and executive roadmaps.
 
-**Skills**: Grafana, Design Systems, Content Management Systems (CMS), Team Leadership, OneTrust, People Management, Technical Leadership, Incident Management, Agile Methodologies, Service-Level Agreements (SLA), Scrum, Amazon Web Services (AWS), Agile Leadership, Kubernetes, Dependency Management, Technology Change Management, Google Analytics, Stakeholder Management, Software Observability, Change Management, Web Development, Process Improvement, Business Strategy, Node.js, Continuous Integration and Continuous Delivery (CI/CD), Team Management, DevOps, Software Architecture, Agile Project Management, Application Programming Interfaces (API), Product Delivery, Organizational engineering, Engineering Leadership, Optimizely, Coaching, Business Process Improvement, Leadership, React.js, Migration Projects, Software Testing, Mixpanel, Terraform, User Experience (UX), Snowplow, Product Development, Technology Management, Capacity Planning, Engineering Management, Contentful
-
 ### Lead Software Engineer
 
 **Company**: Utility Warehouse  
@@ -69,8 +67,6 @@ I am looking to join a progressive company where I can operate at a high leaders
 - **Strategic Migration Planning:** Conducted rigorous CMS benchmarking, mapped technical debt, and authored the strategy for a large-scale enterprise transition between legacy systems.
 - **Process Engineering:** Established robust development lifecycles, definition of done, and workflows that served as the operational foundation for the new team.
 - **Talent Development:** Coached and up-skilled engineering talent, functioning as a technical multiplier to elevate the overall capability of the department.
-
-**Skills**: Grafana, Design Systems, JavaScript, Content Management Systems (CMS), Team Leadership, People Management, Technical Leadership, Incident Management, Agile Methodologies, Service-Level Agreements (SLA), Scrum, Project Management, Amazon Web Services (AWS), Agile Leadership, Kubernetes, Web Accessibility Testing, Google Analytics, Stakeholder Management, Software Observability, Web Development, Process Improvement, Node.js, Continuous Integration and Continuous Delivery (CI/CD), Team Management, DevOps, Software Architecture, Benchmarking, Agile Project Management, Application Programming Interfaces (API), Front-end Development, Organizational engineering, Coaching, Optimizing Performance, React.js, Migration Projects, Software Testing, Mixpanel, Terraform, User Experience (UX), Product Development, Contentful
 
 ### Senior Full Stack Developer & Scrum Master
 
@@ -87,8 +83,6 @@ I am looking to join a progressive company where I can operate at a high leaders
 
 **Projects**: Adidas, MARS, Gregg Wallace, Leeds Rhinos, Royal Canin
 
-**Skills**: Design Systems, JavaScript, Content Management Systems (CMS), Incident Management, Agile Methodologies, Scrum, Project Management, Amazon Web Services (AWS), Web Accessibility Testing, Google Data Studio, Google Analytics, Web Development, Process Improvement, Pay Per Click (PPC), Search Engine Optimization (SEO), Node.js, Software Architecture, Benchmarking, Agile Project Management, Application Programming Interfaces (API), Front-end Development, Optimizing Performance, React.js, Digital Strategy, User Experience (UX), Product Development, Team Leadership, People Management, Agile Leadership, Stakeholder Management, Team Management, Coaching, Leadership, Technology Management
-
 ### Senior Digital Developer
 
 **Company**: Leeds Building Society  
@@ -101,8 +95,6 @@ I am looking to join a progressive company where I can operate at a high leaders
 **Agile Transformation**: Introduced Agile and Scrum practices to the organization for the first time. Functioned as the unofficial Agile champion for the majority of my tenure, scaling these processes to improve team delivery.
 
 **Leadership in Crisis**: Following the successful introduction of Agile workflows, I was formally appointed as Interim Scrum Master (Jun 2019 - Oct 2019) to stabilize delivery and lead a web development team through a critical digital transformation program.
-
-**Skills**: Design Systems, JavaScript, Content Management Systems (CMS), Technical Leadership, Incident Management, Agile Methodologies, Scrum, Project Management, Web Accessibility Testing, Google Analytics, Web Development, Process Improvement, Software Architecture, Agile Project Management, FinTech, Front-end Development, Optimizing Performance, Migration Projects, Software Testing, Product Development, Team Leadership, People Management, Agile Leadership, Stakeholder Management, Team Management, Coaching, Leadership, Technology Management
 
 ### UX Interface Developer
 
@@ -119,8 +111,6 @@ I am looking to join a progressive company where I can operate at a high leaders
 
 **Projects**: Award Winning custom CMS for large-scale institutions like Local Authorities, Higher Education and third-sector not-for-profit organisations, Open source Interface Design System (Pulsar)
 
-**Skills**: Design Systems, JavaScript, Content Management Systems (CMS), Design Thinking, Agile Methodologies, Scrum, Agile Leadership, Web Accessibility Testing, Stakeholder Management, Web Development, Process Improvement, Node.js, Software Architecture, Agile Project Management, Front-end Development, Software as a Service (SaaS), Optimizing Performance, Software Testing, User Experience (UX), Product Development
-
 ### Digital Developer
 
 **Company**: DS.Emotion  
@@ -134,8 +124,6 @@ I am looking to join a progressive company where I can operate at a high leaders
 - **Workflow Modernization**: Championed the transition to modern deployment lifecycles and structured version control (Git), establishing more reliable and efficient engineering workflows for the agency.
 
 **Projects**: Silverstone, Bowcliffe Hall, St. Leonard's Place, Woodside Square, Sixteen Real Estate
-
-**Skills**: JavaScript, Content Management Systems (CMS), Web Accessibility Testing, Google Analytics, Web Development, Process Improvement, Pay Per Click (PPC), Search Engine Optimization (SEO), Node.js, Software Architecture, Application Programming Interfaces (API), Front-end Development, Optimizing Performance
 
 ### Front-end Developer
 
@@ -151,8 +139,6 @@ I am looking to join a progressive company where I can operate at a high leaders
 
 **Projects**: Vivienne Westwood, Kärcher, CACI, EQVVS, G-Type
 
-**Skills**: JavaScript, Content Management Systems (CMS), Agile Methodologies, Scrum, Web Accessibility Testing, Google Analytics, Web Development, Pay Per Click (PPC), Search Engine Optimization (SEO), Node.js, Software Architecture, Application Programming Interfaces (API), Front-end Development, Optimizing Performance
-
 ### Early Career & Consulting
 
 **Dates**: Oct 2005 - Sep 2015 (10 years)
@@ -160,27 +146,12 @@ I am looking to join a progressive company where I can operate at a high leaders
 
 ## Education
 
-### Computer Software Engineering
+**Institution**: freeCodeCamp — Computer Software Engineering
 
-**Institution**: freeCodeCamp  
-**Program**: Computer Software Engineering  
-**Skills**: JavaScript, Software Architecture, Front-end Development, Web Development
+**Institution**: IxDF - The Interaction Design Foundation — User Experience and Interaction Design (2017–2020)
 
-### User Experience and Interaction Design
-
-**Institution**: IxDF - The Interaction Design Foundation  
-**Program**: User Experience and Interaction Design  
-**Dates**: 2017 - 2020  
-**Skills**: Web Accessibility Testing, User Experience (UX), Design Thinking
-
-### Bachelor's degree, Informatics Engineering
-
-**Institution**: Technological Educational Institute of Central Macedonia  
-**Degree**: Bachelor's degree, Informatics Engineering  
-**Dates**: 2007 - 2012  
-**Activities and societies**: IEEE, Serres Linux Users Group  
-**Notes**: Attended but never graduated, due to the greek financial crisis and other personal circumstances. The institution is known as "International University of Greece - Serres Campus" since 2019.  
-**Skills**: JavaScript, Software Architecture, Front-end Development, Web Development
+**Institution**: International University of Greece - Serres Campus  
+**Degree**: BSc Informatics Engineering (attended 2007–2012; did not graduate due to the Greek financial crisis)
 
 ## Licenses & Certifications
 
@@ -193,27 +164,18 @@ I am looking to join a progressive company where I can operate at a high leaders
 
 ### Mental Health First Aid Champion
 
-**Issuer**: Mental Health First Aid (MHFA) England  
-**Issued**: February 2023  
-**Skills**: People Management
-
-### COVID-19: PSYCHOLOGICAL FIRST AID
-
-**Issuer**: UK Health Security Agency  
-**Issued**: December 2022  
+**Issuer**: MHFA England & UK Health Security Agency · Issued 2022-2023  
 **Skills**: People Management
 
 ### Professional Scrum Product Owner I
 
 **Issuer**: Scrum.org  
-**Issued**: August 2021  
-**Skills**: Project Management, Scrum, Agile Project Management, Digital Strategy, Agile Methodologies, Stakeholder Management, Product Development, People Management
+**Issued**: August 2021
 
 ### Professional Scrum Master I
 
 **Issuer**: Scrum.org  
-**Issued**: June 2019  
-**Skills**: Scrum, Agile Methodologies, Project Management
+**Issued**: June 2019
 
 ## Volunteering & Mentoring
 

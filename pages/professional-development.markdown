@@ -6,153 +6,36 @@ permalink: /professional-development/
 
 # Professional Development
 
-My commitment to continuous learning and professional growth spans over two decades, encompassing formal education, professional certifications, specialized courses, and self-directed learning. This page showcases my learning journey across different domains and contexts.
+A commitment to continuous learning has been a defining constant across my career. This page reflects the areas I invest in deliberately rather than the technologies I encounter daily.
 
-## Academic Foundation
+## Executive & Business Education
 
-### University Courses (2007-2012)
+Developing the commercial fluency to lead engineering as a business function, not just a technical one.
 
-**Institution**: International University of Greece - Serres Campus (formerly Technological Educational Institute of Central Macedonia)
+- **Finance for Non-Financial Managers** — Understanding P&L, balance sheets, and cash flow to make commercially-grounded decisions
+- **CapEx/OpEx Budgeting** — Planning and managing capital vs. operational expenditure in an engineering context
+- **Business Metrics & Strategy** — Customer Acquisition Cost, LTV, MRR/ARR, profitability and breakeven analysis, NPV, and equity fundamentals
+- **Team Topologies Distilled** _(Team Topologies Academy, 2023)_ — Organisational patterns for structuring engineering teams around fast flow and reduced cognitive load
 
-**Core Computer Science:**
+## Leadership & People
 
-- Algorithms and Data Structures
-- Object Oriented Programming
-- Programming I & II
-- Software Engineering I & II
-- Systems Architecture
+- **Mental Health First Aid Champion** _(MHFA England, 2023)_ — Qualified to support team members experiencing mental health challenges
+- **Psychological First Aid** _(UK Health Security Agency, 2022)_
+- Continuous reading in engineering management, organisational design, and leadership — 13+ books in recent years covering topics from systems thinking to executive decision-making
 
-**Database & Networks:**
+## Agile & Delivery
 
-- Databases I & II
-- Networks I, II, III
-- Telecommunications Networks
+- **Professional Scrum Master I** _(Scrum.org, 2019)_
+- **Professional Scrum Product Owner I** _(Scrum.org, 2021)_
+- Hands-on experience facilitating Agile transformation at Leeds Building Society, IMA-HOME, and Jadu across multiple years
 
-**Systems & Operations:**
+## Technical Foundation
 
-- Operating Systems I & II
-- Linear Programming
-- Visual Programming
+20+ year foundation across full-stack web architecture, cloud-native infrastructure (AWS, Kubernetes, Terraform), CMS platforms, UX design systems, and modern JavaScript/Node.js ecosystems — applied today primarily to inform strategic platform decisions rather than hands-on implementation.
 
-## Professional Development
+## Community & Teaching
 
-### Work-Related Training
-
-**Utility Warehouse (2022-2023):**
-
-- Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers
-- Kubernetes Course - Full Beginners Tutorial (Containerize your Apps!)
-- Team Topologies Distilled
-
-**Leeds Building Society (2018-2020):**
-
-- Understanding Google Tag Manager
-- Decentralised Applications (Dapps)
-- FinTech Law and Policy
-
-**IMA-HOME (2020-2022):**
-
-- React - The Complete Guide (incl Hooks, React Router, Redux)
-- JavaScript Testing
-- JavaScript30
-- JavaScript: Understanding the Weird Parts
-- Learn and Understand NodeJS
-- Process Flowcharts & Process Mapping
-- User Story Masterclass: Your In-Depth Guide to User Stories
-
-**Jadu (2017-2018):**
-
-- Web Accessibility
-- Hack Design - Design Course
-
-**Creode (2015-2016):**
-
-- What The Flexbox?!
-- Intro to Progressive Web Apps
-- Learn Redux
-- CSS Grid
-
-**Freelance (2015-2016):**
-
-- Web Performance Optimization
-
-## Specialized Learning
-
-### Design & User Experience
-
-- Web Accessibility
-- Hack Design - Design Course
-- What The Flexbox?!
-- CSS Grid
-
-### Modern Web Development
-
-- React - The Complete Guide (incl Hooks, React Router, Redux)
-- JavaScript Testing
-- JavaScript30
-- JavaScript: Understanding the Weird Parts
-- Learn and Understand NodeJS
-- Learn Redux
-- Intro to Progressive Web Apps
-
-### DevOps & Infrastructure
-
-- Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers
-- Kubernetes Course - Full Beginners Tutorial (Containerize your Apps!)
-
-### Business & Process
-
-- AAT Essentials: Finance for Non-Finance Managers (Completed)
-- AAT Essentials: Budgeting and CapEx (In Progress)
-- Team Topologies Distilled
-- Process Flowcharts & Process Mapping
-- User Story Masterclass: Your In-Depth Guide to User Stories
-
-### Financial Technology
-
-- Decentralised Applications (Dapps)
-- FinTech Law and Policy
-
-### Analytics & Marketing
-
-- Understanding Google Tag Manager
-- Web Performance Optimization
-
-## General Knowledge & Personal Growth
-
-### Economics & Society
-
-- Paul Krugman Teached Economics and Society
-
-### Personal Development
-
-- **Limitless Concepts: Business** - Comprehensive business and financial acumen program covering:
-  - **Financial Fundamentals**: Profit & Loss Statements, Balance Sheets, Cash Flow Statements, and their interconnections
-  - **Business Metrics & Growth**: Customer Acquisition Costs, Lifetime Value, MRR/ARR, and growth measurement techniques
-  - **Strategic Decision Making**: Profitability analysis, breakeven analysis, probabilistic thinking, and Net Present Value calculations
-  - **Investment & Valuation**: Cap table fundamentals, fundraising dynamics, equity vs. debt structures, and value assessment methodologies
-  - **Advanced Financial Concepts**: Compounding principles, equity waterfall analysis, and founder/employee equity considerations
-
-## Learning Philosophy
-
-My approach to professional development is holistic and continuous:
-
-- **Stay Current**: Regularly update skills with emerging technologies and methodologies
-- **Cross-Domain Learning**: Apply insights from different fields to solve complex problems
-- **Practical Application**: Focus on courses that directly impact my work and team effectiveness
-- **Teaching Others**: Share knowledge through mentoring, presentations, and community involvement
-- **Industry Engagement**: Participate in conferences, meetups, and professional communities
-
-## Impact on Career
-
-This diverse learning journey has enabled me to:
-
-- **Lead Technical Teams**: Understanding both technical depth and business context
-- **Drive Innovation**: Applying cutting-edge technologies to solve real-world problems
-- **Mentor Effectively**: Sharing knowledge across different skill levels and domains
-- **Adapt Quickly**: Embracing new technologies and methodologies as they emerge
-- **Think Strategically**: Connecting technical decisions to business outcomes
-
----
-
-_This learning journey reflects my commitment to continuous growth and my belief that the best leaders are also the best learners. Each course, certification, and learning experience has contributed to my ability to lead diverse teams and deliver impactful solutions._
+- **School of Code** — Mentored early-career engineers preparing to enter the industry (2023–2024)
+- **WRK digital** — Peer mentoring network with Engineering Managers, Heads of Engineering, VPs, and CTOs (2023–present)
+- **Google Developers Group Leeds** — Lead Organiser, revived and ran a series of conferences and workshops (2019–2020)
+- **Guest Speaker, Northern User Experience** — Delivered _"UX: A Developer's Perspective"_ (2018)
