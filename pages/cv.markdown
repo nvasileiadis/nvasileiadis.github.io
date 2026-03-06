@@ -79,11 +79,11 @@ I am looking to join a progressive company where I can operate at a high leaders
 **Location**: Leeds, England, United Kingdom  
 **Employment Type**: Full-time, Hybrid
 
-**Description**: Operated as a dual-threat technical leader for global brands (Adidas, MARS). Alongside architecting frontend solutions using React and Node.js, I formally took on Scrum Master responsibilities to elevate the organization's delivery standards.
+**Description**: Operated as a dual-threat technical leader for global brands (Adidas, MARS). Alongside architecting frontend solutions, I formally took on Scrum Master responsibilities to elevate the organization's delivery standards and project predictability.
 
-**Technical**: Supported long-term design systems and built scalable architectures for high-traffic campaigns.
+**Technical Strategy**: Architected and supported scalable, long-term design systems capable of handling high-traffic, global campaigns.
 
-**Agile Leadership**: Led as a servant-leader across multiple projects, defining "Ways of Working," establishing coding best practices, and embedding a mature agile culture within the agency.
+**Agile Leadership & Process Engineering**: Led as a servant-leader across multiple projects. Redefined "Ways of Working," established rigorous coding best practices, and embedded a mature Agile culture to ensure consistent, high-quality agency output.
 
 **Projects**: Adidas, MARS, Gregg Wallace, Leeds Rhinos, Royal Canin
 
@@ -128,7 +128,10 @@ I am looking to join a progressive company where I can operate at a high leaders
 **Location**: Leeds, England, United Kingdom  
 **Employment Type**: Contract, On-site
 
-**Description**: Worked on the Front End side of projects using a lot of HTML, CSS/Sass and JavaScript/jQuery, including WordPress Custom Theming using the official guidelines and hooks, implementing pixel perfect and responsive designs frequently with the assistance of Foundation Framework. My excellent past experience proved very useful for the much needed Performance Optimisation for the plethora of current projects. Full Deployment life-cycle with the use of gulp and a modern workflow complemented with proper commits in Git version control system was part of the daily work. Which was thoroughly time-tracked with Toggl for more accurate estimates.
+**Description**: Delivered high-performance frontend solutions for premium real estate and automotive clients (e.g., Silverstone).
+
+- **Performance Optimization**: Spearheaded critical performance optimizations across a portfolio of existing projects, significantly improving load times and user engagement metrics.
+- **Workflow Modernization**: Championed the transition to modern deployment lifecycles and structured version control (Git), establishing more reliable and efficient engineering workflows for the agency.
 
 **Projects**: Silverstone, Bowcliffe Hall, St. Leonard's Place, Woodside Square, Sixteen Real Estate
 
@@ -141,7 +144,10 @@ I am looking to join a progressive company where I can operate at a high leaders
 **Location**: Greater Leeds Area  
 **Employment Type**: Full-time, On-site
 
-**Description**: Worked as a part of a team, bringing responsive designs to life for Drupal & Magento E-Commerce shops. HTML, CSS, Sass, Susy, JavaScript, jQuery, PHP, Gulp, Git was our tools of sculpturing the Web. For demanding clients a great effort was put for the greatest possible Internet Explorer and Cross Browser Compatibility. Newsletters were crafted with care using the most modern HTML Email Building technics to keep users always notified about last minute sales and attractive offers.
+**Description**: Engineered responsive e-commerce solutions for major retail brands (Vivienne Westwood, Kärcher).
+
+- **E-Commerce Delivery**: Collaborated cross-functionally to bring complex UI designs to life, ensuring seamless cross-browser compatibility and strict adherence to brand standards.
+- **Digital Marketing Support**: Developed robust architecture for high-conversion HTML email campaigns, directly supporting the agency's retention and sales generation strategies.
 
 **Projects**: Vivienne Westwood, Kärcher, CACI, EQVVS, G-Type
 
