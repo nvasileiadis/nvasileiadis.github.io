@@ -18,15 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nikos Vasileiadis - Senior Software Engineering Manager
+title: Nikos Vasileiadis — Engineering Leader
 email: vasileiadis.nikos@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Explore my professional background, experience, and achievements in leading software engineering teams. 
-  Get insights into my expertise in agile methodologies, project management, and delivering high-value and quality software solutions.
+  Strategic engineering leader with 20+ years of experience in platform architecture, commercial engineering, and building high-performing teams. Open to executive leadership opportunities.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: nvasileiadis
-github_username:  nvasileiadis
+github_username: nvasileiadis
 
 # Build settings
 theme: minima

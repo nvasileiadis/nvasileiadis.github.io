@@ -28,4 +28,4 @@ Strategic engineering leader with 20+ years of experience, now operating at the 
 
 ---
 
-_Open to conversations about executive engineering leadership, platform strategy, and organisational design. [Let's connect](mailto:nvasileiadis@gmail.com)._
+_Open to conversations about executive engineering leadership, platform strategy, and organisational design. [Let's connect](mailto:vasileiadis.nikos@gmail.com)._
