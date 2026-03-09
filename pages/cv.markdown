@@ -4,18 +4,20 @@ title: CV — Nikos Vasileiadis | Engineering Leader | Leeds, UK
 nav_title: CV
 permalink: /cv/
 description: "CV of Nikos Vasileiadis — Engineering Leader with 20+ years experience. Former Engineering Manager at Utility Warehouse. Expertise in platform architecture, Design Systems, Agile transformation, and commercial engineering. Open to Head of Engineering and VP Engineering roles in the UK."
+css: ".no-pdf { display: none !important; }"
+hide_title: true
 ---
 
-## Who am I?
+# Nikos Vasileiadis
 
-- **Name**: Nikos Vasileiadis
-- **Title**: Engineering Leader
-- **Location**: Leeds, England, United Kingdom
-- **Right to work**: British Citizen
+**Engineering Leader** · Leeds, England, United Kingdom · British Citizen  
+[vasileiadis.nikos@gmail.com](mailto:vasileiadis.nikos@gmail.com) · [linkedin.com/in/nvasileiadis](https://www.linkedin.com/in/nvasileiadis) · [nvasileiadis.github.io](https://nvasileiadis.github.io)<span class="pdf-only"> · 07729 021 996</span>
 
-<div style="clear: both;"></div>
+<div class="no-pdf" markdown="1">
 
 Download profile: [PDF Version](/assets/Nikos_Vasileiadis_CV.pdf) | [DOCX Version](/assets/Nikos_Vasileiadis_CV.docx)
+
+</div>
 
 ## Top skills
 
@@ -27,21 +29,7 @@ Download profile: [PDF Version](/assets/Nikos_Vasileiadis_CV.pdf) | [DOCX Versio
 
 ## About
 
-I am a strategic engineering leader with over two decades of full-stack experience, now focused on aligning technical infrastructure with business outcomes. Having spent 20 years deep in the code, I now operate at the intersection of product strategy, engineering delivery, and commercial realities. I don't believe in over-engineering for the sake of it; I am a strong advocate for pragmatic, "just right" architecture that solves the actual business problem, scales gracefully, and protects margins.
-
-**Commercial Acumen & Financial Literacy:** I approach engineering not just as a technical function, but as a lever for business growth. Supported by formal training in "Finance for Non-Financial Managers," CapEx/OpEx budgeting, and business metrics, I actively evaluate vendor ROI and ensure technical investments map directly to company strategy.
-
-**Platform Leadership & Risk Management:** I manage critical infrastructure services that act as dependencies for 15+ teams. By leading extensive due diligence and audit work—such as replacing legacy CMS platforms—I proactively mitigate risk, ensure operational SLAs/SLOs, and provide the stable foundation upon which the rest of the business builds and scales.
-
-**Operational Excellence & Team Retention:** I believe that a healthy culture is the ultimate productivity hack. I currently maintain a **100% team retention rate** across my engineering teams, ensuring we deliver predictable, high-quality results even in lean, resource-efficient setups.
-
-**Strategic Execution:** Currently leading a company-wide rebranding initiative involving 50 distinct components and 460+ pages across two quarters, demonstrating my capability to execute large-scale, cross-functional organizational change.
-
-My 20-year technical foundation—spanning digital strategy, organisational engineering, CMS platforms, modern web architecture, UX, and agile delivery—now serves as a profound strategic advantage. I sit comfortably in the boardroom understanding the financial roadmap, and can seamlessly translate that into a scalable engineering blueprint.
-
-**Progressive Leadership Arc (7+ years):** My leadership responsibilities have grown continuously since 2017 — from rotating Scrum Master at Jadu, to Interim Scrum Master during a critical digital transformation at Leeds Building Society, to formal Scrum Master at IMA-HOME, to bootstrapping and leading the Content Capability team at Utility Warehouse, to my current Engineering Manager role overseeing two teams and eight engineers. Each step was a deliberate expansion of scope.
-
-I am looking to join a progressive company where I can operate at a high leadership level, utilizing my commercial mindset and technical depth to shape technical strategy, drive business resilience, and lead engineering organizations that actually serve the bottom line. Let's connect.
+Strategic engineering leader with 20+ years of full-stack experience, operating at the intersection of product strategy, technical architecture, and commercial reality. I treat engineering as a business lever — contributing to CapEx/OpEx planning, evaluating vendor ROI, and ensuring technical investments map directly to business outcomes. My leadership arc has grown continuously since 2017: from rotating Scrum Master roles at Jadu and Leeds Building Society, to bootstrapping and leading the Content Capability team at Utility Warehouse, to my current Engineering Manager role overseeing two teams and eight engineers — each step a deliberate expansion of scope.
 
 ## Experience
 
@@ -54,12 +42,13 @@ I am looking to join a progressive company where I can operate at a high leaders
 
 **Responsibilities:**
 
-- **Strategic Delivery & Scaling:** Leading a company-wide rebranding initiative across 50 components and 460+ pages, directly managing related CapEx/OpEx budgets, staffing needs, and capacity planning.
-- **Platform Architecture & Dependencies:** Architecting and managing critical platform services acting as dependencies for 15+ engineering teams, ensuring high availability and strict SLA/SLO adherence.
-- **Design Systems Leadership:** Managed a dedicated Design Systems team — a cross-functional capability enabling consistent, high-velocity delivery across product and engineering. Design Systems work is inherently UX-led and organisation-wide in its reach.
-- **Commercial & Vendor Management:** Evaluated CMS solutions, negotiated requirements, and conducted extensive technical due diligence for a legacy CMS replacement to mitigate enterprise risk.
-- **Team Topology & Culture:** Built a high-performing engineering culture with a **100% retention rate** across two teams (8 engineers). Optimized team structures to deliver continuous enterprise value, resolving high-level organizational unknowns.
-- **Cross-Functional Leadership:** Proactively driving strategic partnerships across marketing, product, and engineering. Acting as the bridge between technical execution and executive roadmaps.
+- **Rebranding Programme (2 quarters; 500 pages shipped):** Delivered UW's company-wide brand refresh across the full uw.co.uk estate — the primary digital entry point for customers, partners, and the subscriber account system, and the platform where all A/B tests and business tracking metrics run. Our delivery was the critical path: no other team's rebranding work could go live until the main website shipped. Authored automated migration scripts that saved content editors hundreds of manual hours.
+- **Platform Reliability:** Maintained **100% uptime** on uw.co.uk (SLO: 99.99%) with <3s page load times on critical-path pages and ≤2 incidents per year, all resolved within hours. Supported 15 dependent teams across Customer Marketing, Digital Marketing, Partner Marketing, Acquisition, Data Science, Recruitment, and more (monitored via Kubernetes, Sentry, Prometheus, Pingdom, Cloudflare).
+- **Design Systems (Hearth) — 20 teams, company-wide adoption:** Led adoption of the Hearth Design System across 20 engineering and product teams (15 full adoption, 5 partial). Consolidating component work at the Design System level eliminated thousands of hours of duplicated engineering effort — at £35+/hour, savings at rebrand scale reached into the hundreds of thousands.
+- **CMS Transformation (Apostrophe → Contentful):** Led the end-to-end replacement of an effectively abandoned legacy CMS (no SLA, no SSO, dead tech stack). Conducted rigorous 2-month evaluation across 10 vendors, shortlisted to 3, and selected Contentful. Executed a zero-disruption dual-serve migration; three marketing teams (~18 people) gained content scheduling, structured content models, and eliminated duplication — removing major technical debt.
+- **Team Leadership, Retention & Developing Leaders:** Managed two teams (8 engineers) with a **100% retention rate** through three company restructurings. Mentored engineers who subsequently moved into Engineering Manager roles — both within UW and externally — developing leadership capability one level above my formal remit.
+- **Hiring & Talent Acquisition:** Involved in the end-to-end hiring of 3 external engineers and facilitated 4 internal transfers, contributing to recruitment decisions, candidate assessment, and onboarding.
+- **Org Design & Structural Influence:** During restructurings, took on unguided responsibility for scoping and executing team migrations — including the Content Capability team’s move between departments — by independently mapping scope, chasing stakeholder alignment, and building consensus from scratch. Challenged and reversed structural decisions that would have eliminated the Design Systems team, demonstrating strategic influence well above the Engineering Manager remit.
 
 ### Lead Software Engineer
 
@@ -70,10 +59,9 @@ I am looking to join a progressive company where I can operate at a high leaders
 
 **Description:** The Content Capability team was built around me to leverage my cross-functional expertise in engineering, UX, and Agile delivery.
 
-- **Foundational Architecture:** Bootstrapped the core team from the ground up, translating business needs into a scalable engineering blueprint.
-- **Strategic Migration Planning:** Conducted rigorous CMS benchmarking, mapped technical debt, and authored the strategy for a large-scale enterprise transition between legacy systems.
-- **Process Engineering:** Established robust development lifecycles, definition of done, and workflows that served as the operational foundation for the new team.
-- **Talent Development:** Coached and up-skilled engineering talent, functioning as a technical multiplier to elevate the overall capability of the department.
+- **Team Building from Zero:** Joined as the founding engineer and grew the team from 3 to 6+ through recruitment and restructuring. The team survived three company-wide restructurings (Marketing Capability → Content Capability → COREX + CMS Team) — a mark of its embedded value to the business.
+- **Engineering Rigour from Scratch:** Primary Year 1 objective met: a fully operational Scrum environment with structured backlog, measurable velocity, and predictable delivery — transforming a nascent capability into a reliable engineering team.
+- **CMS Strategy & Decision:** Led the evaluation process that resulted in UW's adoption of Contentful as its enterprise CMS. Presented findings and audit trail to leadership; recommendation accepted and implemented.
 
 ### Senior Full Stack Developer & Scrum Master
 
@@ -84,9 +72,9 @@ I am looking to join a progressive company where I can operate at a high leaders
 
 **Description**: Operated as a dual-threat technical leader for global brands (Adidas, MARS). Alongside architecting frontend solutions, I formally took on Scrum Master responsibilities to elevate the organization's delivery standards and project predictability.
 
-**Technical Strategy**: Architected and supported scalable, long-term design systems capable of handling high-traffic, global campaigns.
+**Agile Transformation:** Introduced structured Agile/Scrum practices to an agency running entirely on ad-hoc, fire-driven delivery. Result: measurable sprint velocity, predictable project allocation, and regular client demos — improving delivery health and client confidence across the board.
 
-**Agile Leadership & Process Engineering**: Led as a servant-leader across multiple projects. Redefined "Ways of Working," established rigorous coding best practices, and embedded a mature Agile culture to ensure consistent, high-quality agency output.
+**Global Design Systems (Royal Canin / MARS):** Architected the frontend for Royal Canin's global web presence — a single design system serving 30+ countries including Japan and Saudi Arabia, with RTL and vertical reading direction support. Served traffic in the millions.
 
 **Projects**: Adidas, MARS, Gregg Wallace, Leeds Rhinos, Royal Canin
 
@@ -99,9 +87,9 @@ I am looking to join a progressive company where I can operate at a high leaders
 
 **Description**: Maintained public-facing digital assets in a highly regulated FinTech environment while actively mentoring engineering teams to elevate code quality and UX standards.
 
-**Agile Transformation**: Introduced Agile and Scrum practices to the organization for the first time. Functioned as the unofficial Agile champion for the majority of my tenure, scaling these processes to improve team delivery.
+**Agile First Mover:** Introduced Agile and Scrum to LBS for the first time, shifting a high-bureaucracy, low-velocity organisation from ad-hoc output to sprint-based iterative delivery with measurable velocity. Served as the unofficial internal Agile champion throughout my tenure.
 
-**Leadership in Crisis**: Following the successful introduction of Agile workflows, I was formally appointed as Interim Scrum Master (Jun 2019 - Oct 2019) to stabilize delivery and lead a web development team through a critical digital transformation program.
+**Digital Transformation (Interim Scrum Master, Jun–Oct 2019):** Appointed to lead the Digital Transformation programme alongside external consultants and cross-functional teams — moving from firefighting culture to structured, iterative feature development with regular delivery cadences.
 
 ### UX Interface Developer
 
@@ -173,7 +161,7 @@ _Full certifications list — Scrum, UX, FinTech, analytics, cloud, accessibilit
 
 ## Community & Leadership
 
-**Mentor, WRK digital** _(Feb 2023–Present)_: Peer mentoring network with Engineering Managers, Heads of Engineering, VPs, and CTOs.
+**Mentor, WRK digital** _(Feb 2023–Present)_: Mentored engineers who progressed into Engineering Manager roles (both within UW and externally). Peer mentoring network spanning Engineering Managers, Heads of Engineering, VPs, and CTOs.
 
 **Mentor, School of Code** _(Aug–Jan 2024)_: Supported early-career engineers entering the industry.
 

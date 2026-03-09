@@ -16,17 +16,17 @@ Strategic engineering leader with 20+ years of experience, now operating at the 
 
 **Commercial Engineering**: I treat engineering as a business lever, not a cost centre. I actively manage CapEx/OpEx budgets, evaluate vendor ROI, and ensure technical investments map directly to business strategy outcomes.
 
-**Building Cultures That Retain**: I maintain a **100% team retention rate** across my engineering teams by fostering trust, clear ownership, and career growth. Great culture is the most reliable productivity multiplier I know.
+**Building Teams That Stay**: I maintain a **100% team retention rate** across my engineering teams — sustained through three company restructurings — by fostering trust, clear ownership, and career growth. High retention is, in practice, the most reliable productivity multiplier I know.
 
 ## Currently
 
-**Software Engineering Manager at Utility Warehouse** — Leading a company-wide rebranding initiative (50 components, 460+ pages) while managing platform services for 15+ dependent teams and continuing to develop my expertise in financial management and executive leadership.
+**Software Engineering Manager at Utility Warehouse** — Recently shipped a company-wide brand refresh across 500 pages — the critical-path work that unblocked every other team's rebranding effort at UW. Managing CMS platform services for 15+ dependent teams, while developing expertise in financial management and executive leadership.
+
+---
+
+**Open to conversations about executive engineering leadership, platform strategy, and organisational design.** [Let's connect →](mailto:vasileiadis.nikos@gmail.com)
 
 ## Explore
 
 - **[CV](/cv/)** — Professional experience and leadership background
 - **[Professional Development](/professional-development/)** — Ongoing learning journey
-
----
-
-_Open to conversations about executive engineering leadership, platform strategy, and organisational design. [Let's connect](mailto:vasileiadis.nikos@gmail.com)._
