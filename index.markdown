@@ -12,11 +12,17 @@ Strategic engineering leader with 20+ years of experience, now operating at the 
 
 ## What I Do
 
+<div class="leadership-card" markdown="1">
 **Platform Leadership at Scale**: I architect and manage critical platform services that act as foundational dependencies for 15+ engineering teams—ensuring high availability, SLA/SLO adherence, and the kind of invisible, reliable infrastructure that lets others move fast.
+</div>
 
+<div class="leadership-card" markdown="1">
 **Commercial Engineering**: I treat engineering as a business lever, not a cost centre. I actively manage CapEx/OpEx budgets, evaluate vendor ROI, and ensure technical investments map directly to business strategy outcomes.
+</div>
 
+<div class="leadership-card" markdown="1">
 **Building Teams That Stay**: I maintain a **100% team retention rate** across my engineering teams — sustained through three company restructurings — by fostering trust, clear ownership, and career growth. High retention is, in practice, the most reliable productivity multiplier I know.
+</div>
 
 ## Currently
 

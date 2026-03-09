@@ -56,6 +56,7 @@ sass:
 header_pages:
   - pages/cv.markdown
   - pages/professional-development.markdown
+  # blog is intentionally excluded from nav until first real post is published
 
 # Exclude from processing.
 # The following items will not be processed, by default.

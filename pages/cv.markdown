@@ -21,15 +21,15 @@ Download profile: [PDF Version](/assets/Nikos_Vasileiadis_CV.pdf) | [DOCX Versio
 
 ## Top skills
 
-- **Engineering Leadership & Scaling**: Proven track record of building, mentoring, and retaining high-performing remote teams (100% retention rate) while establishing robust Agile practices.
-- **Platform & Infrastructure Strategy**: Architecting and managing critical platform services and dependencies with a focus on SLAs, SLIs, and operational excellence for 15+ engineering teams.
+- **Engineering Leadership & Scaling**: Proven track record of building, mentoring, and retaining high-performing remote teams (<span class="stat">100% retention rate</span>) while establishing robust Agile practices.
+- **Platform & Infrastructure Strategy**: Architecting and managing critical platform services and dependencies with a focus on SLAs, SLIs, and operational excellence for <span class="stat">15+</span> engineering teams.
 - **Design Systems Leadership**: End-to-end experience building and managing Design Systems — from open-source implementation (Pulsar at Jadu) to leading a dedicated Design Systems team at scale, enabling consistent, high-velocity delivery across product and engineering.
 - **Agile Transformation & Delivery**: Deep expertise in stepping into complex, low-maturity environments, introducing structured Agile/Scrum methodologies, and driving predictable delivery.
-- **Cross-Functional Technical Vision**: Bridging the gap between product strategy, UX, and technical execution, backed by a 20-year foundation in full-stack architecture and digital transformation.
+- **Cross-Functional Technical Vision**: Bridging the gap between product strategy, UX, and technical execution, backed by a <span class="stat">20-year</span> foundation in full-stack architecture and digital transformation.
 
 ## About
 
-Strategic engineering leader with 20+ years of full-stack experience, operating at the intersection of product strategy, technical architecture, and commercial reality. I treat engineering as a business lever — contributing to CapEx/OpEx planning, evaluating vendor ROI, and ensuring technical investments map directly to business outcomes. My leadership arc has grown continuously since 2017: from rotating Scrum Master roles at Jadu and Leeds Building Society, to bootstrapping and leading the Content Capability team at Utility Warehouse, to my current Engineering Manager role overseeing two teams and eight engineers — each step a deliberate expansion of scope.
+Strategic engineering leader with <span class="stat">20+ years</span> of full-stack experience, operating at the intersection of product strategy, technical architecture, and commercial reality. I treat engineering as a business lever — contributing to CapEx/OpEx planning, evaluating vendor ROI, and ensuring technical investments map directly to business outcomes. My leadership arc has grown continuously since 2017: from rotating Scrum Master roles at Jadu and Leeds Building Society, to bootstrapping and leading the Content Capability team at Utility Warehouse, to my current Engineering Manager role overseeing two teams and <span class="stat">eight engineers</span> — each step a deliberate expansion of scope.
 
 ## Experience
 
@@ -42,12 +42,12 @@ Strategic engineering leader with 20+ years of full-stack experience, operating 
 
 **Responsibilities:**
 
-- **Rebranding Programme (2 quarters; 500 pages shipped):** Delivered UW's company-wide brand refresh across the full uw.co.uk estate — the primary digital entry point for customers, partners, and the subscriber account system, and the platform where all A/B tests and business tracking metrics run. Our delivery was the critical path: no other team's rebranding work could go live until the main website shipped. Authored automated migration scripts that saved content editors hundreds of manual hours.
-- **Platform Reliability:** Maintained **100% uptime** on uw.co.uk (SLO: 99.99%) with <3s page load times on critical-path pages and ≤2 incidents per year, all resolved within hours. Supported 15 dependent teams across Customer Marketing, Digital Marketing, Partner Marketing, Acquisition, Data Science, Recruitment, and more (monitored via Kubernetes, Sentry, Prometheus, Pingdom, Cloudflare).
-- **Design Systems (Hearth) — 20 teams, company-wide adoption:** Led adoption of the Hearth Design System across 20 engineering and product teams (15 full adoption, 5 partial). Consolidating component work at the Design System level eliminated thousands of hours of duplicated engineering effort — at £35+/hour, savings at rebrand scale reached into the hundreds of thousands.
-- **CMS Transformation (Apostrophe → Contentful):** Led the end-to-end replacement of an effectively abandoned legacy CMS (no SLA, no SSO, dead tech stack). Conducted rigorous 2-month evaluation across 10 vendors, shortlisted to 3, and selected Contentful. Executed a zero-disruption dual-serve migration; three marketing teams (~18 people) gained content scheduling, structured content models, and eliminated duplication — removing major technical debt.
-- **Team Leadership, Retention & Developing Leaders:** Managed two teams (8 engineers) with a **100% retention rate** through three company restructurings. Mentored engineers who subsequently moved into Engineering Manager roles — both within UW and externally — developing leadership capability one level above my formal remit.
-- **Hiring & Talent Acquisition:** Involved in the end-to-end hiring of 3 external engineers and facilitated 4 internal transfers, contributing to recruitment decisions, candidate assessment, and onboarding.
+- **Rebranding Programme (<span class="stat">2 quarters</span>; <span class="stat">500 pages</span> shipped):** Delivered UW's company-wide brand refresh across the full uw.co.uk estate — the primary digital entry point for customers, partners, and the subscriber account system, and the platform where all A/B tests and business tracking metrics run. Our delivery was the critical path: no other team's rebranding work could go live until the main website shipped. Authored automated migration scripts that saved content editors hundreds of manual hours.
+- **Platform Reliability:** Maintained <span class="stat">100% uptime</span> on uw.co.uk (SLO: 99.99%) with <span class="stat">&lt;3s</span> page load times on critical-path pages and ≤2 incidents per year, all resolved within hours. Supported <span class="stat">15</span> dependent teams across Customer Marketing, Digital Marketing, Partner Marketing, Acquisition, Data Science, Recruitment, and more (monitored via Kubernetes, Sentry, Prometheus, Pingdom, Cloudflare).
+- **Design Systems (Hearth) — <span class="stat">20 teams</span>, company-wide adoption:** Led adoption of the Hearth Design System across <span class="stat">20</span> engineering and product teams (15 full adoption, 5 partial). Consolidating component work at the Design System level eliminated thousands of hours of duplicated engineering effort — at £35+/hour, savings at rebrand scale reached into the hundreds of thousands.
+- **CMS Transformation (Apostrophe → Contentful):** Led the end-to-end replacement of an effectively abandoned legacy CMS (no SLA, no SSO, dead tech stack). Conducted rigorous <span class="stat">2-month</span> evaluation across <span class="stat">10 vendors</span>, shortlisted to 3, and selected Contentful. Executed a zero-disruption dual-serve migration; three marketing teams (<span class="stat">~18 people</span>) gained content scheduling, structured content models, and eliminated duplication — removing major technical debt.
+- **Team Leadership, Retention & Developing Leaders:** Managed two teams (<span class="stat">8 engineers</span>) with a <span class="stat">100% retention rate</span> through three company restructurings. Mentored engineers who subsequently moved into Engineering Manager roles — both within UW and externally — developing leadership capability one level above my formal remit.
+- **Hiring & Talent Acquisition:** Involved in the end-to-end hiring of <span class="stat">3</span> external engineers and facilitated <span class="stat">4</span> internal transfers, contributing to recruitment decisions, candidate assessment, and onboarding.
 - **Org Design & Structural Influence:** During restructurings, took on unguided responsibility for scoping and executing team migrations — including the Content Capability team’s move between departments — by independently mapping scope, chasing stakeholder alignment, and building consensus from scratch. Challenged and reversed structural decisions that would have eliminated the Design Systems team, demonstrating strategic influence well above the Engineering Manager remit.
 
 ### Lead Software Engineer
@@ -59,7 +59,7 @@ Strategic engineering leader with 20+ years of full-stack experience, operating 
 
 **Description:** The Content Capability team was built around me to leverage my cross-functional expertise in engineering, UX, and Agile delivery.
 
-- **Team Building from Zero:** Joined as the founding engineer and grew the team from 3 to 6+ through recruitment and restructuring. The team survived three company-wide restructurings (Marketing Capability → Content Capability → COREX + CMS Team) — a mark of its embedded value to the business.
+- **Team Building from Zero:** Joined as the founding engineer and grew the team from <span class="stat">3 to 6+</span> through recruitment and restructuring. The team survived <span class="stat">three</span> company-wide restructurings (Marketing Capability → Content Capability → COREX + CMS Team) — a mark of its embedded value to the business.
 - **Engineering Rigour from Scratch:** Primary Year 1 objective met: a fully operational Scrum environment with structured backlog, measurable velocity, and predictable delivery — transforming a nascent capability into a reliable engineering team.
 - **CMS Strategy & Decision:** Led the evaluation process that resulted in UW's adoption of Contentful as its enterprise CMS. Presented findings and audit trail to leadership; recommendation accepted and implemented.
 
@@ -74,7 +74,7 @@ Strategic engineering leader with 20+ years of full-stack experience, operating 
 
 **Agile Transformation:** Introduced structured Agile/Scrum practices to an agency running entirely on ad-hoc, fire-driven delivery. Result: measurable sprint velocity, predictable project allocation, and regular client demos — improving delivery health and client confidence across the board.
 
-**Global Design Systems (Royal Canin / MARS):** Architected the frontend for Royal Canin's global web presence — a single design system serving 30+ countries including Japan and Saudi Arabia, with RTL and vertical reading direction support. Served traffic in the millions.
+**Global Design Systems (Royal Canin / MARS):** Architected the frontend for Royal Canin's global web presence — a single design system serving <span class="stat">30+ countries</span> including Japan and Saudi Arabia, with RTL and vertical reading direction support. Served traffic in the millions.
 
 **Projects**: Adidas, MARS, Gregg Wallace, Leeds Rhinos, Royal Canin
 
