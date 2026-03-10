@@ -39,7 +39,7 @@ plugins:
   - jekyll-seo-tag
 
 # Analytics
-# google_analytics is injected at build time via GitHub Actions secret GA_MEASUREMENT_ID
+# google_tag_manager is injected at build time via GitHub Actions secret GTM_CONTAINER_ID
 
 # Sass configuration
 sass:

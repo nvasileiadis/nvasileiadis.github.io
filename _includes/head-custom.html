@@ -3,44 +3,14 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
 
-<!-- Default Cookie Consent Form config -->
-<script data-cookieconsent="ignore">
-  window.dataLayer = window.dataLayer || [];
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-  gtag("consent", "default", {
-      ad_personalization: "denied",
-      ad_storage: "denied",
-      ad_user_data: "denied",
-      analytics_storage: "denied",
-      functionality_storage: "denied",
-      personalization_storage: "denied",
-      security_storage: "granted",
-      wait_for_update: 500,
-  });
-  gtag("set", "ads_data_redaction", true);
-  gtag("set", "url_passthrough", false);
-</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','{{ site.google_tag_manager }}');</script>
+<!-- End Google Tag Manager -->
 
-<!-- Google tag (gtag.js) -->
-<script
-  async
-  src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"
-></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag() {
-    dataLayer.push(arguments);
-  }
-  gtag("js", new Date());
-  gtag("config", "{{ site.google_analytics }}");
-
-  // Optional: Honor Do Not Track in supporting browsers
-  if (navigator.doNotTrack == "1" || window.doNotTrack == "1") {
-    window["ga-disable-{{ site.google_analytics }}"] = true;
-  }
-</script>
 
 
 <meta name="robots" content="index, follow" />

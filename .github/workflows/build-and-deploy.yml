@@ -2,7 +2,7 @@ name: Build and Deploy Pages
 
 on:
   push:
-    branches: [ develop ]
+    branches: [develop]
   workflow_dispatch:
 
 jobs:
@@ -19,14 +19,14 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3.1'
+          ruby-version: "3.3.1"
           bundler-cache: true
 
-      - name: Inject GA config from secret
+      - name: Inject GTM config from secret
         run: |
-          echo "google_analytics: ${GA_MEASUREMENT_ID}" > _config_secrets.yml
+          echo "google_tag_manager: ${GTM_CONTAINER_ID}" > _config_secrets.yml
         env:
-          GA_MEASUREMENT_ID: ${{ secrets.GA_MEASUREMENT_ID }}
+          GTM_CONTAINER_ID: ${{ secrets.GTM_CONTAINER_ID }}
 
       - name: Build site
         run: bundle exec jekyll build --config _config.yml,_config_secrets.yml
@@ -49,5 +49,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
-
