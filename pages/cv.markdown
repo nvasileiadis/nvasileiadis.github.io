@@ -153,6 +153,7 @@ Strategic engineering leader with <span class="stat">20+ years</span> of full-st
 
 ## Professional Credentials
 
+**AI Leader: Generative AI & Agentic AI for Leaders & Founders** · Udemy, Mar 2026  
 **Team Topologies Distilled** · Team Topologies Academy, Oct 2023  
 **Mental Health First Aid Champion** · MHFA England & UK Health Security Agency, 2022–2023  
 **Professional Scrum Product Owner I (PSPO I)** · Scrum.org, Aug 2021  

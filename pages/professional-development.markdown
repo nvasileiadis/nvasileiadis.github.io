@@ -39,6 +39,10 @@ Over 20 years I've delivered technical and leadership work for organisations acr
 - **UX Management: Strategy and Tactics** · IxDF, Aug 2018
 - **IS110x: Innovation and IT Management** · Indian Institute of Management Bangalore, Sep 2015
 
+### AI Strategy & Implementation
+
+- **AI Leader: Generative AI & Agentic AI for Leaders & Founders** · Udemy, Mar 2026
+
 ### Business & Finance
 
 - **Finance for Non-Financial Managers** · AAT Essentials _(Completed)_
