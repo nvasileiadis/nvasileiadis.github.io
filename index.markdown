@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nikos Vasileiadis — Engineering Leader | Head of Engineering | UK
+title: Nikos Vasileiadis — Engineering Leader | UK
 nav_title: Nikos Vasileiadis — Engineering Leader
 permalink: /
 description: "Strategic engineering leader with 20+ years of experience in platform architecture, Design Systems, and building high-performing teams. Based in Leeds, UK. British Citizen. Open to Head of Engineering and VP Engineering roles."
