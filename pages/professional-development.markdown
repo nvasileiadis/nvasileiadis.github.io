@@ -54,6 +54,7 @@ Over 20 years I've delivered technical and leadership work for organisations acr
 
 ### Technology & Architecture
 
+- **Prometheus Alerting and Monitoring** · Udemy, Apr 2026
 - **IBM Blockchain Foundation Developer** · IBM, Feb 2019
 - **IBM Blockchain Essentials** · IBM, Jan 2019
 - **Magento Certified Front End Developer** · Adobe Commerce, Jun 2018
