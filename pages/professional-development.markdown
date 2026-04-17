@@ -23,8 +23,8 @@ _This page is an evidence appendix for those who want to go deeper. It covers th
     <span class="metric-label">Notable Brands</span>
   </div>
   <div class="metric-card">
-    <span class="metric-number">12</span>
-    <span class="metric-label">Community Roles</span>
+    <span class="metric-number">13</span>
+    <span class="metric-label">Public & Comm. Roles</span>
   </div>
 </div>
 <!-- markdownlint-enable MD033 -->
@@ -128,7 +128,7 @@ Open-source user experience and interface framework powering the Jadu Continuum 
 
 ---
 
-## Community & Recognition
+## Public Service, Community & Recognition
 
 **3rd Place — KPMG's "30 Voices: The Next Generation"** _(Mar 2019)_
 Innovations competition for under-30s exploring how the financial sector will evolve by 2030. Our team's proposal leveraged AI, Blockchain, and Big Data for asset allocation via tokenisation of rights. _Associated with Leeds Building Society._
@@ -154,6 +154,9 @@ Organised regular UX meetups and community networking sessions in Leeds.
 **Community Manager — Open Source Ecology Greece** _(Jan 2012–Jan 2014)_
 Pioneered IoT (Arduino/Raspberry Pi) integration for ecological living (originally as OSAEC) before merging efforts to lead the Greek chapter of OSE. Acted as a global liaison, contributed to web operations, and evangelised open-source technology through public lectures, fieldwork, and an appearance on Greek National Television.
 
+**Private — Greek Army** _(Nov 2012–Aug 2013)_
+Conscripted and trained to serve as a soldier in an armoured brigade communications support unit. Helped digitise processes in the 1st Office. Improved schedule and leave management. Set up network cabling. Stock ordering and food provisioning for the kitchens.
+
 **E-Culture Manager — UNESCO** _(Aug 2011–Sep 2012)_
 Web developer and event organiser for UNESCO's digital culture initiatives.
 
@@ -170,8 +173,8 @@ Nationwide Greek Free and Open Source Software conference (350 attendees). Manag
 
 ## Publications
 
-**Designing User Interfaces as a Developer** · Medium, Oct 2017
+**[Designing User Interfaces as a Developer](https://medium.com/pulsar/designing-user-interfaces-as-a-developer-22799b6e58a)** · Medium, Oct 2017
 Technical article on bridging design thinking with frontend engineering.
 
-**W3C HTML Validation for Twig Generated Pages** · Medium, Oct 2017
+**[W3C HTML Validation for Twig Generated Pages](https://medium.com/pulsar/w3c-html-validation-for-twig-generated-pages-42cc625e7db0)** · Medium, Oct 2017
 Technical guide on implementing HTML validation within Twig templating workflows.
