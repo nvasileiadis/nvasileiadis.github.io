@@ -47,6 +47,19 @@ Over 20 years I've delivered technical and leadership work for organisations acr
 
 ---
 
+## Notable Projects
+
+**Global Product Launch Displays — Adidas** _(IMA-HOME)_
+Developed highly-optimised, custom web interfaces deployed to digital signage across international retail locations. Engineered synchronised countdown systems for high-profile product launches, ensuring robust continuous performance and precise global timezone coordination.
+
+**Royal Canin Global Design System** _(IMA-HOME)_
+Engineered a comprehensive Design System for the global pet food brand, with a heavy focus on internationalisation. Implemented extensive UX and architectural improvements to cater for Right-to-Left (RTL) languages such as Arabic, as well as addressing the unique structural and typographic requirements of the Russian and Japanese markets.
+
+**Pulsar UX & UI Framework** _(Jadu, 2017–2019)_
+Open-source user experience and interface framework powering the Jadu Continuum Platform, used by Local Authorities, Higher Education institutions, and third-sector organisations across the UK. [View on GitHub](https://jadu.github.io/pulsar/)
+
+---
+
 ## Full Credentials
 
 ### Leadership & Management
@@ -76,22 +89,22 @@ Over 20 years I've delivered technical and leadership work for organisations acr
 ### Technology & Architecture
 
 - **Prometheus Alerting and Monitoring** · Udemy, Apr 2026
+- **JavaScript Algorithms and Data Structures** · freeCodeCamp, Oct 2019
 - **IBM Blockchain Foundation Developer** · IBM, Feb 2019
 - **IBM Blockchain Essentials** · IBM, Jan 2019
 - **Magento Certified Front End Developer** · Adobe Commerce, Jun 2018
-- **JavaScript Algorithms and Data Structures** · freeCodeCamp, Oct 2019
+- **ES6 for Everyone** · Wes Bos, Jan 2017
+- **React for Beginners** · Wes Bos, Nov 2016
 - **Web Application Architectures** · University of New Mexico, May 2015
 - **CS169.1x: Software as a Service** · UC Berkeley, Jun 2014
-- **React for Beginners** · Wes Bos, Nov 2016
-- **ES6 for Everyone** · Wes Bos, Jan 2017
 
 ### Analytics & Digital Marketing
 
-- **Google Analytics Individual Qualification** · Google, Nov 2018
-- **Advanced Google Analytics** · Google, Nov 2018
+- **Google Tag Manager Fundamentals** · Google, Feb 2019
 - **Google Analytics for Power Users** · Google, Dec 2018
 - **Getting Started With Google Analytics 360** · Google, Dec 2018
-- **Google Tag Manager Fundamentals** · Google, Feb 2019
+- **Google Analytics Individual Qualification** · Google, Nov 2018
+- **Advanced Google Analytics** · Google, Nov 2018
 - **Digital Sales** · Google, Dec 2017
 - **Mobile Sites** · Google, Dec 2017
 - **The Online Marketing Fundamentals** · Google, Sep 2016
@@ -106,11 +119,11 @@ Over 20 years I've delivered technical and leadership work for organisations acr
 - **Web Design for Usability** · IxDF, Aug 2017
 - **Quality Web Communication** · IxDF, Aug 2017
 - **User Research — Methods and Best Practices** · IxDF, Jul 2017
+- **Get Your First Job as a UX or Interaction Designer** · IxDF, Jul 2017
+- **How to Become a Freelance Designer** · IxDF, Jul 2017
 - **Mobile User Experience (UX) Design** · IxDF, Jun 2017
 - **Becoming a UX Designer from scratch** · IxDF, May 2017
 - **Design Thinking: The Beginner's Guide** · IxDF, May 2017
-- **Get Your First Job as a UX or Interaction Designer** · IxDF, Jul 2017
-- **How to Become a Freelance Designer** · IxDF, Jul 2017
 
 ### Historical Certifications
 
@@ -121,29 +134,7 @@ Over 20 years I've delivered technical and leadership work for organisations acr
 
 ---
 
-## Notable Projects
-
-**Global Product Launch Displays — Adidas** _(IMA-HOME)_
-Developed highly-optimised, custom web interfaces deployed to digital signage across international retail locations. Engineered synchronised countdown systems for high-profile product launches, ensuring robust continuous performance and precise global timezone coordination.
-
-**Royal Canin Global Design System** _(IMA-HOME)_
-Engineered a comprehensive Design System for the global pet food brand, with a heavy focus on internationalisation. Implemented extensive UX and architectural improvements to cater for Right-to-Left (RTL) languages such as Arabic, as well as addressing the unique structural and typographic requirements of the Russian and Japanese markets.
-
-**Pulsar UX & UI Framework** _(Jadu, 2017–2019)_
-Open-source user experience and interface framework powering the Jadu Continuum Platform, used by Local Authorities, Higher Education institutions, and third-sector organisations across the UK. [View on GitHub](https://jadu.github.io/pulsar/)
-
----
-
 ## Public Service, Community & Recognition
-
-**3rd Place — KPMG's "30 Voices: The Next Generation"** _(Mar 2019)_
-Innovations competition for under-30s exploring how the financial sector will evolve by 2030. Our team's proposal leveraged AI, Blockchain, and Big Data for asset allocation via tokenisation of rights. _Associated with Leeds Building Society._
-
-**Guest Speaker — Northern User Experience** _(May 2018)_
-Delivered _"UX: A Developer's Perspective"_ at NUX Leeds. [Event details](https://nuxuk.org/2018/05/14/nux-leeds-tuesday-29th-may-ux-a-developers-perspective/)
-
-**Lead Organiser — Google Developer Group Leeds** _(2019–2020)_
-Revived an inactive GDG chapter from the ground up, assembling a volunteer team and running a series of technical conferences, workshops, and presentations.
 
 **Mentor — WRK digital** _(Feb 2023–Present)_
 Peer mentoring network with Engineering Managers, Heads of Engineering, VPs, and CTOs.
@@ -151,11 +142,20 @@ Peer mentoring network with Engineering Managers, Heads of Engineering, VPs, and
 **Mentor — School of Code** _(Aug 2023–Jan 2024)_
 Supported early-career bootcamp graduates entering the industry as software engineers.
 
-**Mentor — Sky Coding Club** _(Nov 2019)_
-Inspired and assisted attendees learning HTML, CSS, and JavaScript.
+**Lead Organiser — Google Developer Group Leeds** _(2019–2020)_
+Revived an inactive GDG chapter from the ground up, assembling a volunteer team and running a series of technical conferences, workshops, and presentations.
 
 **IDF Local Leader — Interaction Design Foundation Leeds** _(2018–2020)_
 Organised regular UX meetups and community networking sessions in Leeds.
+
+**Mentor — Sky Coding Club** _(Nov 2019)_
+Inspired and assisted attendees learning HTML, CSS, and JavaScript.
+
+**3rd Place — KPMG's "30 Voices: The Next Generation"** _(Mar 2019)_
+Innovations competition for under-30s exploring how the financial sector will evolve by 2030. Our team's proposal leveraged AI, Blockchain, and Big Data for asset allocation via tokenisation of rights. _Associated with Leeds Building Society._
+
+**Guest Speaker — Northern User Experience** _(May 2018)_
+Delivered _"UX: A Developer's Perspective"_ at NUX Leeds. [Event details](https://nuxuk.org/2018/05/14/nux-leeds-tuesday-29th-may-ux-a-developers-perspective/)
 
 **Community Manager — Open Source Ecology Greece** _(Jan 2012–Jan 2014)_
 Pioneered IoT (Arduino/Raspberry Pi) integration for ecological living (originally as OSAEC) before merging efforts to lead the Greek chapter of OSE. Acted as a global liaison, contributed to web operations, and evangelised open-source technology through public lectures, fieldwork, and an appearance on Greek National Television.
@@ -166,14 +166,14 @@ Conscripted and trained to serve as a soldier in an armoured brigade communicati
 **E-Culture Manager — UNESCO** _(Aug 2011–Sep 2012)_
 Web developer and event organiser for UNESCO's digital culture initiatives.
 
-**Web Developer & SysAdmin — IEEE** _(Oct 2010–Dec 2011)_
-Led technical infrastructure for regional science and technology initiatives. Configured and maintained Debian-based web hosting services (ISPConfig) and managed the customization of a Drupal ecosystem.
+**Organising Committee — FOSSCOMM 2012** _(Dec 2011–May 2012)_
+Nationwide Greek Free and Open Source Software conference (350 attendees). Managed budget, sponsorships, venue, and technical teams.
 
 **Founder — Serres Linux Users Group** _(2008–2012)_
 Founded and ran the local Linux community in Serres, Greece — organising presentations, install-fests, and maintaining the group's web infrastructure.
 
-**Organising Committee — FOSSCOMM 2012** _(Dec 2011–May 2012)_
-Nationwide Greek Free and Open Source Software conference (350 attendees). Managed budget, sponsorships, venue, and technical teams.
+**Web Developer & SysAdmin — IEEE** _(Oct 2010–Dec 2011)_
+Led technical infrastructure for regional science and technology initiatives. Configured and maintained Debian-based web hosting services (ISPConfig) and managed the customization of a Drupal ecosystem.
 
 ---
 
