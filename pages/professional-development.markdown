@@ -8,6 +8,27 @@ description: "Full credentials, notable brand clients, community contributions, 
 
 _This page is an evidence appendix for those who want to go deeper. It covers the brands and organisations I've worked with, the full list of credentials I've earned, my community contributions, and notable recognition across my career._
 
+<!-- markdownlint-disable MD033 -->
+<div class="metrics-grid">
+  <div class="metric-card">
+    <span class="metric-number">20</span>
+    <span class="metric-label">Years Experience</span>
+  </div>
+  <div class="metric-card">
+    <span class="metric-number">47</span>
+    <span class="metric-label">Completed Credentials</span>
+  </div>
+  <div class="metric-card">
+    <span class="metric-number">18</span>
+    <span class="metric-label">Notable Brands</span>
+  </div>
+  <div class="metric-card">
+    <span class="metric-number">12</span>
+    <span class="metric-label">Community Roles</span>
+  </div>
+</div>
+<!-- markdownlint-enable MD033 -->
+
 ---
 
 ## Notable Brands & Clients
@@ -130,8 +151,14 @@ Inspired and assisted attendees learning HTML, CSS, and JavaScript.
 **IDF Local Leader — Interaction Design Foundation Leeds** _(2018–2020)_
 Organised regular UX meetups and community networking sessions in Leeds.
 
+**Community Manager — Open Source Ecology Greece** _(Jan 2012–Jan 2014)_
+Pioneered IoT (Arduino/Raspberry Pi) integration for ecological living (originally as OSAEC) before merging efforts to lead the Greek chapter of OSE. Acted as a global liaison, contributed to web operations, and evangelised open-source technology through public lectures, fieldwork, and an appearance on Greek National Television.
+
 **E-Culture Manager — UNESCO** _(Aug 2011–Sep 2012)_
 Web developer and event organiser for UNESCO's digital culture initiatives.
+
+**Web Developer & SysAdmin — IEEE** _(Oct 2010–Dec 2011)_
+Led technical infrastructure for regional science and technology initiatives. Configured and maintained Debian-based web hosting services (ISPConfig) and managed the customization of a Drupal ecosystem.
 
 **Founder — Serres Linux Users Group** _(2008–2012)_
 Founded and ran the local Linux community in Serres, Greece — organising presentations, install-fests, and maintaining the group's web infrastructure.
