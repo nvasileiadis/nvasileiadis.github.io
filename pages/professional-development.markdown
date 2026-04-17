@@ -126,6 +126,9 @@ Over 20 years I've delivered technical and leadership work for organisations acr
 **Royal Canin Global Design System** _(IMA-HOME)_
 Engineered a comprehensive Design System for the global pet food brand, with a heavy focus on internationalisation. Implemented extensive UX and architectural improvements to cater for Right-to-Left (RTL) languages such as Arabic, as well as addressing the unique structural and typographic requirements of the Russian and Japanese markets.
 
+**Global Product Launch Displays — Adidas** _(IMA-HOME)_
+Developed highly-optimised, custom web interfaces deployed to digital signage across international retail locations. Engineered synchronised countdown systems for high-profile product launches, ensuring robust continuous performance and precise global timezone coordination.
+
 **Pulsar UX & UI Framework** _(Jadu, 2017–2019)_
 Open-source user experience and interface framework powering the Jadu Continuum Platform, used by Local Authorities, Higher Education institutions, and third-sector organisations across the UK. [View on GitHub](https://jadu.github.io/pulsar/)
 
