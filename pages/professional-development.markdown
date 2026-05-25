@@ -58,6 +58,9 @@ Engineered a comprehensive Design System for the global pet food brand, with a h
 **Pulsar UX & UI Framework** _(Jadu, 2017–2019)_
 Open-source user experience and interface framework powering the Jadu Continuum Platform, used by Local Authorities, Higher Education institutions, and third-sector organisations across the UK. [View on GitHub](https://jadu.github.io/pulsar/)
 
+**End-to-End CMS Feature Development** _(Jadu, 2017–2018)_
+Owned the full product lifecycle for the Jadu CMS — from user research through to production release. Conducted regular on-site visits to council and university offices including Wyre Council, Rotherham Council, Greater Manchester Combined Authority, City of York Council, and the University of Leeds. Interviewed employees and performed contextual inquiry sessions — observing real workflows and recording usability tests with Silverback. Distilled field research into actionable reports that directly shaped the company's feature roadmap. Designed and prototyped solutions, ran iterative usability testing cycles, and shipped validated features into the live product. One of three developers in the Leeds office building Pulsar, each independently responsible for a major product area — I owned the CMS, alongside colleagues covering Forms and CRM — operating with product-ownership scope that exceeded the UX Interface Developer title.
+
 ---
 
 ## Full Credentials
@@ -79,7 +82,7 @@ Open-source user experience and interface framework powering the Jadu Continuum 
 
 ### Business & Finance
 
-- **Finance for Non-Financial Managers** · AAT Essentials _(Completed)_
+- **Finance for Non-Financial Managers** · AAT Essentials, Feb 2026
 - **Budgeting for Non-Financial Managers** · AAT Essentials _(In Progress)_
 - **CapEx Planning** · AAT Essentials _(Booked)_
 - **Business Metrics & Growth** · Limitless Concepts _(Completed)_ — P&L, Cash Flow, CAC, LTV, MRR/ARR, NPV, Cap Tables

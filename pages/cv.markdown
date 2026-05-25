@@ -105,7 +105,7 @@ Strategic engineering leader with <span class="stat">20+ years</span> of full-st
 
 **Agile Delivery**: Gained foundational, hands-on Agile leadership experience through a rotating Scrum Master model, facilitating sprint planning, daily standups, and embedding the core principles of the Agile manifesto into the team's workflow.
 
-**UX Research**: Conducted UX interviews, user testing, and research to improve the decision-making process for the design and development teams.
+**UX Research & End-to-End Feature Ownership:** Owned the full feature lifecycle for the CMS product — conducting regular on-site contextual inquiry at client organisations (Wyre Council, Rotherham Council, Greater Manchester Combined Authority, City of York Council, University of Leeds), distilling field research into reports that shaped the product roadmap, and iterating from mockups through usability testing to production release. Operated as one of three product-area leads (CMS, Forms, CRM), each independently responsible for their domain.
 
 **Projects**: Award-winning custom CMS for large-scale public sector institutions — Open source Interface Design System ([Pulsar](https://jadu.github.io/pulsar/))
 
