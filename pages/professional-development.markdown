@@ -187,3 +187,26 @@ Technical article on bridging design thinking with frontend engineering.
 
 **[W3C HTML Validation for Twig Generated Pages](https://medium.com/pulsar/w3c-html-validation-for-twig-generated-pages-42cc625e7db0)** · Medium, Oct 2017
 Technical guide on implementing HTML validation within Twig templating workflows.
+
+---
+
+## Conferences Attended
+
+- **LDX3 2026** · London, UK
+- **WordSesh 2020** · Online
+- **GDG DevFest 2019** · Leeds, UK
+- **Canvas Conference 2018** · Birmingham, UK
+- **UX London 2018** · London, UK
+- **FrontEnd North 2018** · Leeds, UK
+- **#NUX6 2017** · Manchester, UK
+- **React Amsterdam 2017** · Amsterdam, The Netherlands
+- **WordCamp Europe 2017** · Paris, France
+- **FrontEnd North 2016** · Leeds, UK
+- **WordCamp Europe 2016** · Vienna, Austria
+- **DEVit Web Conference 2015** · Thessaloniki, Greece
+- **WordCamp Europe 2014** · Sofia, Bulgaria
+- **openSUSE Conference 2013** · Thessaloniki, Greece
+- **FOSSCOMM 2012** · Serres, Greece
+- **WordCamp Greece 2011** · Thessaloniki, Greece
+- **FOSSCOMM 2010** · Thessaloniki, Greece
+- **FOSSCOMM 2009** · Larissa, Greece
