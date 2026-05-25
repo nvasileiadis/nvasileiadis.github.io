@@ -197,11 +197,11 @@ Technical guide on implementing HTML validation within Twig templating workflows
 - **GDG DevFest 2019** · Leeds, UK
 - **Canvas Conference 2018** · Birmingham, UK
 - **UX London 2018** · London, UK
-- **FrontEnd North 2018** · Leeds, UK
+- **FrontEnd North 2018** · Sheffield, UK
 - **#NUX6 2017** · Manchester, UK
 - **React Amsterdam 2017** · Amsterdam, The Netherlands
 - **WordCamp Europe 2017** · Paris, France
-- **FrontEnd North 2016** · Leeds, UK
+- **FrontEnd North 2016** · Sheffield, UK
 - **WordCamp Europe 2016** · Vienna, Austria
 - **DEVit Web Conference 2015** · Thessaloniki, Greece
 - **WordCamp Europe 2014** · Sofia, Bulgaria
