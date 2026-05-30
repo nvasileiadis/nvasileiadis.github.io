@@ -82,12 +82,12 @@ Owned the full product lifecycle for the Jadu CMS — from user research through
 
 ### Business & Finance
 
-- **Finance for Non-Financial Managers** · AAT Essentials, Feb 2026
-- **Budgeting for Non-Financial Managers** · AAT Essentials _(In Progress)_
 - **CapEx Planning** · AAT Essentials _(Booked)_
-- **Business Metrics & Growth** · Limitless Concepts _(Completed)_ — P&L, Cash Flow, CAC, LTV, MRR/ARR, NPV, Cap Tables
+- **Budgeting for Non-Financial Managers** · AAT Essentials, Jun 2026
+- **Finance for Non-Financial Managers** · AAT Essentials, Feb 2026
+- **Business Metrics & Growth** · Limitless Concepts, 2023 — P&L, Cash Flow, CAC, LTV, MRR/ARR, NPV, Cap Tables
+- **FinTech Law and Policy** · Coursera, 2019
 - **DFIN-511: Introduction to Digital Currencies** · University of Nicosia, Dec 2016
-- **FinTech Law and Policy** · Coursera
 
 ### Technology & Architecture
 
@@ -190,11 +190,14 @@ Technical guide on implementing HTML validation within Twig templating workflows
 
 ---
 
-## Conferences Attended
+## Conferences & Speaking
 
 - **LDX3 2026** · London, UK
+- **Next.js Conf 2023** · Online
+- **Next.js Conf 2021** · Online
+- **Next.js Conf 2020** · Online
 - **WordSesh 2020** · Online
-- **GDG DevFest 2019** · Leeds, UK
+- **GDG DevFest 2019** · Leeds, UK — Speaker: *Design Systems*
 - **Canvas Conference 2018** · Birmingham, UK
 - **UX London 2018** · London, UK
 - **FrontEnd North 2018** · Sheffield, UK
@@ -205,8 +208,10 @@ Technical guide on implementing HTML validation within Twig templating workflows
 - **WordCamp Europe 2016** · Vienna, Austria
 - **DEVit Web Conference 2015** · Thessaloniki, Greece
 - **WordCamp Europe 2014** · Sofia, Bulgaria
+- **GDG Thessaloniki 2014** · Thessaloniki, Greece
 - **openSUSE Conference 2013** · Thessaloniki, Greece
-- **FOSSCOMM 2012** · Serres, Greece
+- **FOSSCOMM 2012** · Serres, Greece — Speaker: *Open Source Ecology*
+- **TEDxTEISER 2011** · Serres, Greece
 - **WordCamp Greece 2011** · Thessaloniki, Greece
 - **FOSSCOMM 2010** · Thessaloniki, Greece
 - **FOSSCOMM 2009** · Larissa, Greece
