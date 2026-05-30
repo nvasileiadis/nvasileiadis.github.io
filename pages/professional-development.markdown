@@ -23,7 +23,7 @@ _This page is an evidence appendix for those who want to go deeper. It covers th
     <span class="metric-label">Notable Brands</span>
   </div>
   <div class="metric-card">
-    <span class="metric-number">16</span>
+    <span class="metric-number">17</span>
     <span class="metric-label">Comm. Roles & Talks</span>
   </div>
 </div>
@@ -210,6 +210,7 @@ Technical guide on implementing HTML validation within Twig templating workflows
 - **WordCamp Europe 2014** · Sofia, Bulgaria
 - **GDG Thessaloniki 2014** · Thessaloniki, Greece
 - **openSUSE Conference 2013** · Thessaloniki, Greece
+- **Local Tech Community Presentations** · Xanthi, Greece — Speaker: *Arduino & Raspberry Pi, Linux, Introduction to Cryptography* (2013–2014)
 - **FOSSCOMM 2012** · Serres, Greece <span class="badge badge-organiser">Organiser</span> <span class="badge badge-speaker">Speaker: Open Source Ecology</span>
 - **TEDxTEISER 2011** · Serres, Greece <span class="badge badge-organiser">Organiser</span>
 - **WordCamp Greece 2011** · Thessaloniki, Greece
