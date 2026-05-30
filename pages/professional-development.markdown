@@ -197,7 +197,7 @@ Technical guide on implementing HTML validation within Twig templating workflows
 - **Next.js Conf 2021** · Online
 - **Next.js Conf 2020** · Online
 - **WordSesh 2020** · Online
-- **GDG DevFest 2019** · Leeds, UK — Speaker: *Design Systems*
+- **GDG DevFest 2019** · Leeds, UK — Organiser & Speaker: *Design Systems*
 - **Canvas Conference 2018** · Birmingham, UK
 - **UX London 2018** · London, UK
 - **FrontEnd North 2018** · Sheffield, UK
@@ -210,7 +210,7 @@ Technical guide on implementing HTML validation within Twig templating workflows
 - **WordCamp Europe 2014** · Sofia, Bulgaria
 - **GDG Thessaloniki 2014** · Thessaloniki, Greece
 - **openSUSE Conference 2013** · Thessaloniki, Greece
-- **FOSSCOMM 2012** · Serres, Greece — Speaker: *Open Source Ecology*
+- **FOSSCOMM 2012** · Serres, Greece — Organiser & Speaker: *Open Source Ecology*
 - **TEDxTEISER 2011** · Serres, Greece
 - **WordCamp Greece 2011** · Thessaloniki, Greece
 - **FOSSCOMM 2010** · Thessaloniki, Greece
