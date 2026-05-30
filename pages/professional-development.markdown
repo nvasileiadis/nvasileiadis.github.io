@@ -12,7 +12,7 @@ _This page is an evidence appendix for those who want to go deeper. It covers th
 <div class="metrics-grid">
   <div class="metric-card">
     <span class="metric-number">20</span>
-    <span class="metric-label">Years Experience<br><small style="font-size: 0.8em; opacity: 0.8;">14 Engineering / 6 Leadership</small></span>
+    <span class="metric-label">Years Experience<br><small style="font-size: 0.8em; opacity: 0.8;">14 Engineering <br> 6 Leadership</small></span>
   </div>
   <div class="metric-card">
     <span class="metric-number">47</span>
