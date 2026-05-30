@@ -211,7 +211,7 @@ Technical guide on implementing HTML validation within Twig templating workflows
 - **GDG Thessaloniki 2014** · Thessaloniki, Greece
 - **openSUSE Conference 2013** · Thessaloniki, Greece
 - **FOSSCOMM 2012** · Serres, Greece — Organiser & Speaker: *Open Source Ecology*
-- **TEDxTEISER 2011** · Serres, Greece
+- **TEDxTEISER 2011** · Serres, Greece — Organiser
 - **WordCamp Greece 2011** · Thessaloniki, Greece
 - **FOSSCOMM 2010** · Thessaloniki, Greece
 - **FOSSCOMM 2009** · Larissa, Greece
