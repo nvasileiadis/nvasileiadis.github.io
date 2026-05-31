@@ -198,7 +198,7 @@ Technical guide on implementing HTML validation within Twig templating workflows
 - **Next.js Conf 2021** · Online
 - **Next.js Conf 2020** · Online
 - **WordSesh 2020** · Online
-- **GDG DevFest 2019** · Leeds, UK <span class="badge badge-organiser">Organiser</span> <span class="badge badge-speaker">Speaker: Design Systems</span>
+- **GDG DevFest 2019** · Leeds, UK <span class="badge badge-organiser">Organiser</span> <span class="badge badge-speaker">Speaker</span>: Design Systems
 - **Canvas Conference 2018** · Birmingham, UK
 - **UX London 2018** · London, UK
 - **FrontEnd North 2018** · Sheffield, UK
@@ -210,9 +210,9 @@ Technical guide on implementing HTML validation within Twig templating workflows
 - **DEVit Web Conference 2015** · Thessaloniki, Greece
 - **WordCamp Europe 2014** · Sofia, Bulgaria
 - **GDG Thessaloniki 2014** · Thessaloniki, Greece
-- **Local Tech Community Presentations** · Xanthi, Greece — <span class="badge badge-speaker">Arduino & Raspberry Pi, Linux, Introduction to Cryptography</span> (2013–2014)
+- **Local Tech Community Presentations** · Xanthi, Greece <span class="badge badge-speaker">Speaker</span>:Arduino & Raspberry Pi, Linux, Introduction to Cryptography (2013–2014)
 - **openSUSE Conference 2013** · Thessaloniki, Greece
-- **FOSSCOMM 2012** · Serres, Greece <span class="badge badge-organiser">Organiser</span> <span class="badge badge-speaker">Speaker: Open Source Ecology</span>
+- **FOSSCOMM 2012** · Serres, Greece <span class="badge badge-organiser">Organiser</span> <span class="badge badge-speaker">Speaker</span>: Open Source Ecology
 - **TEDxTEISER 2011** · Serres, Greece <span class="badge badge-organiser">Organiser</span>
 - **WordCamp Greece 2011** · Thessaloniki, Greece
 - **FOSSCOMM 2010** · Thessaloniki, Greece
