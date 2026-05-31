@@ -193,6 +193,7 @@ Technical guide on implementing HTML validation within Twig templating workflows
 ## Conferences & Speaking
 
 - **LDX3 2026** · London, UK
+- **WRK digital Tech Leaders Summit 2025** · Leeds, UK
 - **Next.js Conf 2023** · Online
 - **Next.js Conf 2021** · Online
 - **Next.js Conf 2020** · Online
@@ -209,8 +210,8 @@ Technical guide on implementing HTML validation within Twig templating workflows
 - **DEVit Web Conference 2015** · Thessaloniki, Greece
 - **WordCamp Europe 2014** · Sofia, Bulgaria
 - **GDG Thessaloniki 2014** · Thessaloniki, Greece
+- **Local Tech Community Presentations** · Xanthi, Greece — <span class="badge badge-speaker">Arduino & Raspberry Pi, Linux, Introduction to Cryptography</span> (2013–2014)
 - **openSUSE Conference 2013** · Thessaloniki, Greece
-- **Local Tech Community Presentations** · Xanthi, Greece — Speaker: *Arduino & Raspberry Pi, Linux, Introduction to Cryptography* (2013–2014)
 - **FOSSCOMM 2012** · Serres, Greece <span class="badge badge-organiser">Organiser</span> <span class="badge badge-speaker">Speaker: Open Source Ecology</span>
 - **TEDxTEISER 2011** · Serres, Greece <span class="badge badge-organiser">Organiser</span>
 - **WordCamp Greece 2011** · Thessaloniki, Greece
