@@ -3,12 +3,12 @@ layout: page
 title: Nikos Vasileiadis — Engineering Leader | UK
 nav_title: Nikos Vasileiadis — Engineering Leader
 permalink: /
-description: "Strategic engineering leader with 20+ years of experience in platform architecture, Design Systems, and building high-performing teams. Based in Leeds, UK. British Citizen. Open to Head of Engineering and VP Engineering roles."
+description: "Strategic engineering leader with 20+ years of continuous engineering experience and 9 years of dual-tracked leadership. Expert in platform architecture, Design Systems, and building high-performing teams. Based in Leeds, UK. British Citizen. Open to Head of Engineering and VP Engineering roles."
 ---
 
 ## Engineering Leader | Platform & Product Strategy
 
-Strategic engineering leader with 20+ years of experience, now operating at the intersection of technical architecture, business outcomes, and organisational design. I build and scale engineering teams that enable organisations to grow with confidence.
+Strategic engineering leader with 20+ years of experience — 9 of them dual-tracking engineering and leadership — now operating at the intersection of technical architecture, business outcomes, and organisational design. I have never stopped writing code. I build and scale engineering teams that enable organisations to grow with confidence, without ever losing touch with the craft.
 
 ## What I Do
 
@@ -26,7 +26,7 @@ Strategic engineering leader with 20+ years of experience, now operating at the 
 
 ## Currently
 
-**Software Engineering Manager at Utility Warehouse** — Recently shipped a company-wide brand refresh across 500 pages — the critical-path work that unblocked every other team's rebranding effort at UW. Managing CMS platform services for 15+ dependent teams, while developing expertise in financial management and executive leadership.
+**Software Engineering Manager at Utility Warehouse** — Recently shipped a company-wide brand refresh across 500 pages — the critical-path work that unblocked every other team's rebranding effort at UW. Managing CMS platform services for 15+ dependent teams. Currently operating as EM, PM, and IC simultaneously under resource constraints — continuing the dual-track approach that has defined my career since 2017.
 
 ---
 

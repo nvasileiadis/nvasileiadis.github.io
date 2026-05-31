@@ -3,16 +3,16 @@ layout: page
 title: Professional Development — Nikos Vasileiadis | Credentials, Clients & Community
 nav_title: Professional Development
 permalink: /professional-development/
-description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Engineering Leader based in Leeds, UK. Includes 40+ certifications across leadership, UX, analytics, cloud, and FinTech."
+description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Engineering Leader with 20+ years of continuous engineering and 9 years of dual-tracked leadership. Based in Leeds, UK. Includes 40+ certifications across leadership, UX, analytics, cloud, and FinTech."
 ---
 
-_This page is an evidence appendix for those who want to go deeper. It covers the brands and organisations I've worked with, the full list of credentials I've earned, my community contributions, and notable recognition across my career._
+_This page is an evidence appendix for those who want to go deeper. It maps the dual-track career I've built over 20+ years — the brands and organisations I've worked with, the credentials I've earned across engineering and leadership, my community contributions, and notable recognition._
 
 <!-- markdownlint-disable MD033 -->
 <div class="metrics-grid">
   <div class="metric-card">
-    <span class="metric-number">20</span>
-    <span class="metric-label">Years Experience<br><small style="font-size: 0.8em; opacity: 0.8;">14 Engineering <br> 6 Leadership</small></span>
+    <span class="metric-number">20+</span>
+    <span class="metric-label">Years Experience<br><small style="font-size: 0.8em; opacity: 0.8;">20+ Engineering · 9 Leadership<br>Dual-tracking since 2017</small></span>
   </div>
   <div class="metric-card">
     <span class="metric-number">47</span>
@@ -29,11 +29,21 @@ _This page is an evidence appendix for those who want to go deeper. It covers th
 </div>
 <!-- markdownlint-enable MD033 -->
 
+## The Dual-Track Career
+
+Most engineering leaders stop writing code when they move into management. I never did. For <span class="stat">9 years</span>, from my first Scrum Master rotation at Jadu in 2017 through to today, I have held leadership accountability while remaining an active engineer — not as a luxury, but out of commitment to my teams and the work.
+
+At **Jadu**, I facilitated sprints and owned a product domain while shipping features into an award-winning CMS. At **Leeds Building Society**, I introduced Agile to the entire organisation — its first structured delivery methodology — while building and maintaining their public-facing website. At **IMA-HOME**, I ran Scrum for global brand projects (Adidas, MARS, Royal Canin) while engineering their frontend systems. At **Utility Warehouse**, I was hired explicitly as both Team Lead and Senior Software Engineer — building a team from scratch while writing production code alongside them.
+
+Even after being promoted to Engineering Manager, I continued contributing code. And in the past year, with the company under-resourced and under pressure to deliver, I have absorbed three roles simultaneously — **Engineering Manager, Product Manager, and Individual Contributor** — to keep my teams shipping.
+
+**<span class="stat">20+</span> years of engineering. <span class="stat">9</span> years of leadership. Running in parallel.** That's not a career split — it's a dual track, sustained by the conviction that leaders should never lose touch with the craft.
+
 ---
 
 ## Notable Brands & Clients
 
-Over 20 years I've delivered technical and leadership work for organisations across regulated industries, global brand agencies, and enterprise software. A selection of the most recognisable:
+Over 20+ years of dual-tracked engineering and leadership, I've delivered for organisations across regulated industries, global brand agencies, and enterprise software. A selection of the most recognisable:
 
 **Global & Major Brands** Adidas · MARS · Royal Canin · Vivienne Westwood · Kärcher · Silverstone
 
