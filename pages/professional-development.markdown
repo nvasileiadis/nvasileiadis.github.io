@@ -205,6 +205,7 @@ Technical guide on implementing HTML validation within Twig templating workflows
 - **#NUX6 2017** · Manchester, UK
 - **React Amsterdam 2017** · Amsterdam, The Netherlands
 - **WordCamp Europe 2017** · Paris, France
+- **WordCamp London 2017** · London, UK
 - **FrontEnd North 2016** · Sheffield, UK
 - **WordCamp Europe 2016** · Vienna, Austria
 - **DEVit Web Conference 2015** · Thessaloniki, Greece
