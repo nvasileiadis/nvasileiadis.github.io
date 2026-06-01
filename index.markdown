@@ -21,12 +21,12 @@ Strategic engineering leader with 20+ years of experience — 9 of them dual-tra
 </div>
 
 <div class="leadership-card" markdown="1">
-**Building Teams That Stay**: I maintain a **100% team retention rate** across my engineering teams — sustained through three company restructurings — by fostering trust, clear ownership, and career growth. High retention is, in practice, the most reliable productivity multiplier I know.
+**Building Teams That Stay — and Grow**: I maintain a **100% team retention rate** across my engineering teams — sustained through three company restructurings — by fostering trust, clear ownership, and career growth. I've driven **3 promotions** through evidence-based cases, identifying and developing high-potential talent and advocating for people across organisational boundaries.
 </div>
 
 ## Currently
 
-**Software Engineering Manager at Utility Warehouse** — Recently shipped a company-wide brand refresh across 500 pages — the critical-path work that unblocked every other team's rebranding effort at UW. Managing CMS platform services for 15+ dependent teams. Currently operating as EM, PM, and IC simultaneously under resource constraints — continuing the dual-track approach that has defined my career since 2017.
+**Software Engineering Manager at Utility Warehouse** — Recently shipped a company-wide brand refresh across 500 pages — the critical-path work that unblocked every other team's rebranding effort at UW. Leading a specialist 3-person team responsible for six platform services (Contentful CMS, GTM, Snowplow, Mixpanel, Optimizely, OneTrust) serving 15+ dependent teams. Currently operating as EM, PM, and IC simultaneously — sustaining the scope that once required 8 engineers, through the dual-track approach that has defined my career since 2017.
 
 ---
 
