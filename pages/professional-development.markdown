@@ -39,7 +39,7 @@ At every company, the pattern was the same: I'd be hired as an engineer, and wit
 
 The promotion to Engineering Manager didn't change what I did — it formalised what I'd always been doing. What changed was my understanding of where I create the most value. It's not in the code. It's in the conditions I create for others to do their best work.
 
-Over <span class="stat">100 articles</span> of documentation built from nothing. <span class="stat">3 promotions</span> driven through evidence-based cases. Zero attrition across my teams. A Design Systems team saved from disbandment that went on to enable a company-wide rebrand across <span class="stat">500 pages</span>. I've built the same team twice — first as a standalone unit with no department (2022), then again when I formed a specialist CMS team from a larger restructuring (2025), selecting the engineers I trusted most and starting from scratch a second time.
+Over <span class="stat">100 articles</span> of documentation built from nothing. <span class="stat">3 promotions</span> driven through evidence-based cases. Zero attrition across my teams. A Design Systems team saved from disbandment that went on to enable a company-wide rebrand across <span class="stat">522 pages</span>. I've built the same team twice — first as a standalone unit with no department (2022), then again when I formed a specialist CMS team from a larger restructuring (2025), selecting the engineers I trusted most and starting from scratch a second time.
 
 **<span class="stat">20+</span> years in technology. <span class="stat">9</span> years in leadership.** The engineering gave me the credibility. The people work gave me the purpose.
 
@@ -47,7 +47,7 @@ Over <span class="stat">100 articles</span> of documentation built from nothing.
 
 ## Notable Brands & Clients
 
-Over 20+ years of dual-tracked engineering and leadership, I've delivered for organisations across regulated industries, global brand agencies, and enterprise software. A selection of the most recognisable:
+Over 20+ years in technology — from engineering to engineering leadership — I've delivered for organisations across regulated industries, global brand agencies, and enterprise software. A selection of the most recognisable:
 
 **Global & Major Brands** Adidas · MARS · Royal Canin · Vivienne Westwood · Kärcher · Silverstone
 
@@ -81,7 +81,7 @@ Owned the full product lifecycle for the Jadu CMS — from user research through
 
 ### Leadership & Management
 
-- **Team Topologies Distilled** · Team Topologies Academy Corporate, Oct 2023
+- **Team Topologies Distilled** · Team Topologies Academy Corporate, Oct 2023 — _Applied to identify platform team anti-patterns, redesign team interaction modes, and propose organisational structures aligned with cognitive load theory._
 - **Mental Health First Aid (MHFA) Champion** · MHFA England, Feb 2023
 - **COVID-19: Psychological First Aid** · UK Health Security Agency, Dec 2022
 - **Professional Scrum Product Owner I (PSPO I)** · Scrum.org, Aug 2021
@@ -206,7 +206,7 @@ Technical guide on implementing HTML validation within Twig templating workflows
 
 ## Conferences & Speaking
 
-- **LDX3 2026** · London, UK
+- **LXD3 2026** · London, UK — Engineering leadership conference. Workshops with CTOs, peer networking with Heads of Engineering and VPs.
 - **WRK digital Tech Leaders Summit 2025** · Leeds, UK
 - **Next.js Conf 2023** · Online
 - **Next.js Conf 2021** · Online

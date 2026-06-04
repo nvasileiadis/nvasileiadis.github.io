@@ -26,7 +26,7 @@ Engineering leader with <span class="stat">20+ years</span> in technology and <s
 
 ## Currently
 
-**Software Engineering Manager at Utility Warehouse** — Leading a specialist team responsible for six platform services (Contentful CMS, GTM, Snowplow, Mixpanel, Optimizely, OneTrust) serving <span class="stat">15+</span> dependent teams. Recently delivered UW's company-wide brand refresh across <span class="stat">500 pages</span> — the critical-path work that unblocked every other team's rebranding effort. Built and preserved the Design Systems team that enabled it. Authored over <span class="stat">100 articles</span> of technical documentation, establishing the strongest documentation culture in the engineering org.
+**Software Engineering Manager at Utility Warehouse** — Leading a specialist team responsible for six platform services (Contentful CMS, GTM, Snowplow, Mixpanel, Optimizely, OneTrust) serving <span class="stat">15+</span> engineering teams and <span class="stat">8</span> content teams (<span class="stat">33</span> direct users across Marketing, Acquisition, Data Science, and more). Delivered UW's company-wide brand refresh across <span class="stat">522 pages</span> in two quarters (Oct 2025 – Apr 2026) — the critical-path work that unblocked every other team's rebranding effort. Built and preserved the Design Systems team that enabled it. Authored over <span class="stat">100 articles</span> of technical documentation, establishing the strongest documentation culture in the engineering org.
 
 ---
 
