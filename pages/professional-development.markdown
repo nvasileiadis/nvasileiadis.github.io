@@ -3,16 +3,16 @@ layout: page
 title: Professional Development — Nikos Vasileiadis | Credentials, Clients & Community
 nav_title: Professional Development
 permalink: /professional-development/
-description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Engineering Leader with 20+ years of continuous engineering and 9 years of dual-tracked leadership. Based in Leeds, UK. Includes 40+ certifications across leadership, UX, analytics, cloud, and FinTech."
+description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Engineering Leader with 20+ years in technology and 9 years in leadership. Based in Leeds, UK. Includes 40+ certifications across leadership, UX, analytics, cloud, and FinTech."
 ---
 
-_This page is an evidence appendix for those who want to go deeper. It maps the dual-track career I've built over 20+ years — the brands and organisations I've worked with, the credentials I've earned across engineering and leadership, my community contributions, and notable recognition._
+_This page is an evidence appendix for those who want to go deeper. It maps the journey from engineer to engineering leader — the brands and organisations I've worked with, the credentials I've earned across engineering and leadership, my community contributions, and notable recognition._
 
 <!-- markdownlint-disable MD033 -->
 <div class="metrics-grid">
   <div class="metric-card">
     <span class="metric-number">20+</span>
-    <span class="metric-label">Years Experience<br><small style="font-size: 0.8em; opacity: 0.8;">20+ Engineering · 9 Leadership<br>Dual-tracking since 2017</small></span>
+    <span class="metric-label">Years in Technology<br><small style="font-size: 0.8em; opacity: 0.8;">20+ Engineering · 9 Leadership<br>Leading since 2017</small></span>
   </div>
   <div class="metric-card">
     <span class="metric-number">47</span>
@@ -29,15 +29,19 @@ _This page is an evidence appendix for those who want to go deeper. It maps the 
 </div>
 <!-- markdownlint-enable MD033 -->
 
-## The Dual-Track Career
+## From Engineer to Engineering Leader
 
-Most engineering leaders stop writing code when they move into management. I never did. For <span class="stat">9 years</span>, from my first Scrum Master rotation at Jadu in 2017 through to today, I have held leadership accountability while remaining an active engineer — not as a luxury, but out of commitment to my teams and the work.
+I started programming as a hobby. It became a part-time gig, then a full-time career. Over <span class="stat">20+ years</span>, I mastered the craft — from frontend to full-stack, from CMS architecture to Design Systems, from Kubernetes to platform analytics.
 
-At **Jadu**, I facilitated sprints and owned a product domain while shipping features into an award-winning CMS. At **Leeds Building Society**, I introduced Agile to the entire organisation — its first structured delivery methodology — while building and maintaining their public-facing website. At **IMA-HOME**, I ran Scrum for global brand projects (Adidas, MARS, Royal Canin) while engineering their frontend systems. At **Utility Warehouse**, I was hired explicitly as both Team Lead and Senior Software Engineer — building a team from scratch while writing production code alongside them. There was no team, no department, no documentation. I did "Archeology" on the legacy CMS to map what existed, authored the processes from zero, and grew what would become over <span class="stat">100 articles</span> of technical documentation — making it the most thoroughly documented team in the company.
+But the thing I was always better at was people.
 
-Even after being promoted to Engineering Manager — at peak overseeing 8 engineers across two teams — I continued contributing code. I also built the same team twice: first as a standalone team with no formal department (2022), then again when I formed a specialist CMS team from a larger restructuring (2025) — selecting the engineers I trusted most and starting from scratch a second time. Three company restructurings progressively reduced the team to a core of 2 engineers, but the scope never shrank. In the past year, with the team covering <span class="stat">six platform services</span> (Contentful CMS, GTM, Snowplow, Mixpanel, Optimizely, OneTrust) in a high-constraint environment, I have absorbed four roles simultaneously — **Engineering Manager, Product Manager, Individual Contributor, and on-call engineer** — sustaining delivery, uptime, and team stability. When I identified a gap in the team's Kubernetes knowledge, I closed it myself through self-directed learning, then trained the team and documented everything for future engineers.
+At every company, the pattern was the same: I'd be hired as an engineer, and within months I'd be the one setting up processes, mentoring juniors, facilitating sprints, and bridging the gap between engineering and business. At **Jadu**, I was facilitating sprints while shipping features into an award-winning CMS. At **Leeds Building Society**, I introduced Agile to the entire organisation — its first structured delivery methodology. At **IMA-HOME**, I ran Scrum for global brand projects (Adidas, MARS, Royal Canin) while engineering their frontend systems. At **Utility Warehouse**, I was hired as a Senior Software Engineer — and within a year I was managing the team, building the backlog, setting up Scrum, and mentoring an Associate into a Mid-level engineer.
 
-**<span class="stat">20+</span> years of engineering. <span class="stat">9</span> years of leadership. Running in parallel.** That's not a career split — it's a dual track, sustained by the conviction that leaders should never lose touch with the craft.
+The promotion to Engineering Manager didn't change what I did — it formalised what I'd always been doing. What changed was my understanding of where I create the most value. It's not in the code. It's in the conditions I create for others to do their best work.
+
+Over <span class="stat">100 articles</span> of documentation built from nothing. <span class="stat">3 promotions</span> driven through evidence-based cases. Zero attrition across my teams. A Design Systems team saved from disbandment that went on to enable a company-wide rebrand across <span class="stat">500 pages</span>. I've built the same team twice — first as a standalone unit with no department (2022), then again when I formed a specialist CMS team from a larger restructuring (2025), selecting the engineers I trusted most and starting from scratch a second time.
+
+**<span class="stat">20+</span> years in technology. <span class="stat">9</span> years in leadership.** The engineering gave me the credibility. The people work gave me the purpose.
 
 ---
 

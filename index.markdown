@@ -3,21 +3,21 @@ layout: page
 title: Nikos Vasileiadis — Engineering Leader | UK
 nav_title: Nikos Vasileiadis — Engineering Leader
 permalink: /
-description: "Strategic engineering leader with 20+ years of continuous engineering experience and 9 years of dual-tracked leadership. Expert in platform architecture, Design Systems, and building high-performing teams. Based in Leeds, UK. British Citizen. Open to Head of Engineering and VP Engineering roles."
+description: "Strategic engineering leader with 20+ years in technology and 9 years in leadership. Expert in organisational design, people performance, and building engineering teams that deliver autonomously. Based in Leeds, UK. British Citizen. Open to Senior Engineering Manager and Head of Engineering roles."
 ---
 
-## Engineering Leader | Platform & Product Strategy
+## Engineering Leader | People & Organisational Design
 
-Strategic engineering leader with 20+ years of experience — 9 of them dual-tracking engineering and leadership — now operating at the intersection of technical architecture, business outcomes, and organisational design. I have never stopped writing code. I build and scale engineering teams that enable organisations to grow with confidence, without ever losing touch with the craft.
+Engineering leader with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> in leadership — now operating at the intersection of organisational design, people performance, and business outcomes. I started in code and mastered the craft; what I discovered along the way is that my real strength is people. I build the conditions where engineering teams thrive — through structure, clarity, and a genuine understanding of what makes people do their best work.
 
 ## What I Do
 
 <div class="leadership-card" markdown="1">
-**Platform Leadership at Scale**: I architect and manage critical platform services that act as foundational dependencies for 15+ engineering teams—ensuring high availability, SLA/SLO adherence, and the kind of invisible, reliable infrastructure that lets others move fast.
+**People & Performance**: I create environments where engineers and managers operate with clarity and autonomy. Through mentorship, process design, and deep understanding of individual motivation, I unlock the performance that's already there — acting as a multiplier, not a bottleneck.
 </div>
 
 <div class="leadership-card" markdown="1">
-**Commercial Engineering**: I treat engineering as a business lever, not a cost centre. I actively manage CapEx/OpEx budgets, evaluate vendor ROI, and ensure technical investments map directly to business strategy outcomes.
+**Commercial Engineering**: I treat engineering as a business lever, not a cost centre. I actively manage CapEx/OpEx budgets, evaluate vendor ROI, and ensure technical investments map directly to business strategy outcomes. Every decision within a company is a financial decision — I make sure engineering teams understand this.
 </div>
 
 <div class="leadership-card" markdown="1">
@@ -26,13 +26,13 @@ Strategic engineering leader with 20+ years of experience — 9 of them dual-tra
 
 ## Currently
 
-**Software Engineering Manager at Utility Warehouse** — Recently shipped a company-wide brand refresh across 500 pages — the critical-path work that unblocked every other team's rebranding effort at UW. Leading a specialist 3-person team responsible for six platform services (Contentful CMS, GTM, Snowplow, Mixpanel, Optimizely, OneTrust) serving 15+ dependent teams. Currently operating as EM, PM, and IC simultaneously — sustaining the scope that once required 8 engineers, through the dual-track approach that has defined my career since 2017.
+**Software Engineering Manager at Utility Warehouse** — Leading a specialist team responsible for six platform services (Contentful CMS, GTM, Snowplow, Mixpanel, Optimizely, OneTrust) serving <span class="stat">15+</span> dependent teams. Recently delivered UW's company-wide brand refresh across <span class="stat">500 pages</span> — the critical-path work that unblocked every other team's rebranding effort. Built and preserved the Design Systems team that enabled it. Authored over <span class="stat">100 articles</span> of technical documentation, establishing the strongest documentation culture in the engineering org.
 
 ---
 
-**Open to conversations about executive engineering leadership, platform strategy, and organisational design.** [Let's connect →](mailto:vasileiadis.nikos@gmail.com)
+**Open to conversations about senior engineering leadership, organisational design, and people strategy.** [Let's connect →](mailto:vasileiadis.nikos@gmail.com)
 
 ## Explore
 
 - **[CV](/cv/)** — Professional experience and leadership background
-- **[Professional Development](/professional-development/)** — Ongoing learning journey
+- **[Professional Development](/professional-development/)** — Credentials, community, and career journey
