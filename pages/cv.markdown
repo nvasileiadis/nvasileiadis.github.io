@@ -1,16 +1,16 @@
 ---
 layout: page
-title: CV — Nikos Vasileiadis | Engineering Leader | Leeds, UK
+title: CV — Nikos Vasileiadis | Software Engineering Leader | Leeds, UK
 nav_title: CV
 permalink: /cv/
-description: "CV of Nikos Vasileiadis — Engineering Leader with 20+ years in technology and 9 years of progressive leadership. Engineering Manager at Utility Warehouse. Expertise in people performance, organisational design, platform strategy, and commercial engineering. Open to Senior Engineering Manager and Head of Engineering roles in the UK."
+description: "CV of Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology and 9 years of progressive leadership. Engineering Manager at Utility Warehouse. Expertise in people performance, organisational design, platform strategy, and commercial engineering. Open to Senior Engineering Manager and Head of Engineering roles in the UK."
 css: ".no-pdf { display: none !important; }"
 hide_title: true
 ---
 
 # Nikos Vasileiadis
 
-**Engineering Leader** · Leeds, England, United Kingdom · British Citizen  
+**Software Engineering Leader** · Leeds, England, United Kingdom · British Citizen  
 [vasileiadis.nikos@gmail.com](mailto:vasileiadis.nikos@gmail.com) · [linkedin.com/in/nvasileiadis](https://www.linkedin.com/in/nvasileiadis) · [nvasileiadis.github.io](https://nvasileiadis.github.io)<span class="pdf-only"> · 07729 021 996</span>
 
 <div class="no-pdf" markdown="1">
@@ -29,7 +29,7 @@ Download profile: [PDF Version](/assets/Nikos_Vasileiadis_CV.pdf) | [DOCX Versio
 
 ## About
 
-Engineering leader with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> of progressive leadership. I started in code — frontend, full-stack, CMS architecture, platform engineering — and mastered the craft. What I discovered along the way is that my real strength is people: building teams, developing talent, creating clarity, and designing the organisational conditions where engineers do their best work.
+Software engineering leader with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> of progressive leadership. I started in code — frontend, full-stack, CMS architecture, platform engineering — and mastered the craft. What I discovered along the way is that my real strength is people: building teams, developing talent, creating clarity, and designing the organisational conditions where engineers do their best work.
 
 My leadership arc has grown continuously since 2017: from Scrum Master rotations at Jadu and Leeds Building Society, to bootstrapping and leading the Content Capability team at Utility Warehouse, to managing multiple teams (<span class="stat">8 engineers</span> at peak) across Content Capability and Design Systems. Through three restructurings, I now lead a specialist <span class="stat">3-person</span> team covering <span class="stat">six critical platform services</span> across the uw.co.uk estate — having built the same team from scratch twice.
 

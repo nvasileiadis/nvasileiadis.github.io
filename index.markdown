@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Nikos Vasileiadis — Engineering Leader | UK
-nav_title: Nikos Vasileiadis — Engineering Leader
+title: Nikos Vasileiadis — Software Engineering Leader | UK
+nav_title: Nikos Vasileiadis — Software Engineering Leader
 permalink: /
-description: "Strategic engineering leader with 20+ years in technology and 9 years in leadership. Expert in organisational design, people performance, and building engineering teams that deliver autonomously. Based in Leeds, UK. British Citizen. Open to Senior Engineering Manager and Head of Engineering roles."
+description: "Strategic software engineering leader with 20+ years in technology and 9 years in leadership. Expert in organisational design, people performance, and building engineering teams that deliver autonomously. Based in Leeds, UK. British Citizen. Open to Senior Engineering Manager and Head of Engineering roles."
 ---
 
-## Engineering Leader | People & Organisational Design
+## Software Engineering Leader | People & Organisational Design
 
-Engineering leader with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> in leadership — now operating at the intersection of organisational design, people performance, and business outcomes. I started in code and mastered the craft; what I discovered along the way is that my real strength is people. I build the conditions where engineering teams thrive — through structure, clarity, and a genuine understanding of what makes people do their best work.
+Software engineering leader with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> in leadership — now operating at the intersection of organisational design, people performance, and business outcomes. I started in code and mastered the craft; what I discovered along the way is that my real strength is people. I build the conditions where engineering teams thrive — through structure, clarity, and a genuine understanding of what makes people do their best work.
 
 ## What I Do
 
