@@ -69,6 +69,33 @@ $on-laptop: 800px !default;
   }
 }
 
+// Hero header: controlled top section for the homepage.
+.hero-header {
+  margin-bottom: $spacing-unit / 2;
+
+  h1 {
+    margin-bottom: 4px;
+  }
+}
+
+.hero-subtitle {
+  font-size: $base-font-size * 1.15;
+  color: $grey-color-dark;
+  font-weight: 400;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+// Tighter metrics grid variant for the homepage hero area.
+.hero-metrics {
+  margin-top: $spacing-unit / 2;
+  margin-bottom: $spacing-unit;
+
+  .metric-card {
+    padding: $spacing-unit / 2;
+  }
+}
+
 // Stat highlight: draws the eye to key metrics in experience bullets.
 .stat {
   color: $accent-color;

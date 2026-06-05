@@ -3,7 +3,7 @@ layout: page
 title: Professional Development — Nikos Vasileiadis | Credentials, Clients & Community
 nav_title: Professional Development
 permalink: /professional-development/
-description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Engineering Leader with 20+ years in technology and 9 years in leadership. Based in Leeds, UK. Includes 40+ certifications across leadership, UX, analytics, cloud, and FinTech."
+description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology and 9 years in leadership. Based in Leeds, UK. Includes 40+ certifications across leadership, UX, analytics, cloud, and FinTech."
 ---
 
 _This page is an evidence appendix for those who want to go deeper. It maps the journey from engineer to engineering leader — the brands and organisations I've worked with, the credentials I've earned across engineering and leadership, my community contributions, and notable recognition._
@@ -47,7 +47,7 @@ Over <span class="stat">100 articles</span> of documentation built from nothing.
 
 ## Notable Brands & Clients
 
-Over 20+ years in technology — from engineering to engineering leadership — I've delivered for organisations across regulated industries, global brand agencies, and enterprise software. A selection of the most recognisable:
+From engineering to engineering leadership, I've delivered for organisations across regulated industries, global brand agencies, and enterprise software. A selection of the most recognisable:
 
 **Global & Major Brands** Adidas · MARS · Royal Canin · Vivienne Westwood · Kärcher · Silverstone
 
