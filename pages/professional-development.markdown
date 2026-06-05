@@ -213,6 +213,7 @@ Technical guide on implementing HTML validation within Twig templating workflows
 - **Next.js Conf 2020** · Online
 - **WordSesh 2020** · Online
 - **GDG DevFest 2019** · Leeds, UK <span class="badge badge-organiser">Organiser</span> <span class="badge badge-speaker">Speaker</span>: Design Systems
+- **AI Tech North 2019** · Leeds, UK
 - **Canvas Conference 2018** · Birmingham, UK
 - **UX London 2018** · London, UK
 - **FrontEnd North 2018** · Sheffield, UK
