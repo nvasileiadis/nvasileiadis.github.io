@@ -3,7 +3,7 @@ layout: page
 title: Nikos Vasileiadis — Software Engineering Leader | UK
 nav_title: Nikos Vasileiadis — Software Engineering Leader
 permalink: /
-description: "Strategic software engineering leader with 20+ years in technology and 9 years in leadership. Expert in organisational design, people performance, and building engineering teams that deliver autonomously. Based in Leeds, UK. British Citizen. Open to Senior Engineering Manager and Head of Engineering roles."
+description: "Strategic software engineering leader with 20+ years in technology and 9 years in leadership. Currently Engineering Manager at Utility Warehouse (FTSE 250). Expert in organisational design, people performance, and building engineering teams that deliver autonomously. Based in Leeds, UK. British Citizen. Open to Senior Engineering Manager and Head of Engineering roles."
 hide_title: true
 ---
 
@@ -49,7 +49,7 @@ I started in code and mastered the craft. What I discovered along the way is tha
 
 ## Currently
 
-**Software Engineering Manager at Utility Warehouse** — Leading a specialist team responsible for six platform services (Contentful CMS, GTM, Snowplow, Mixpanel, Optimizely, OneTrust) serving <span class="stat">15+</span> engineering teams and <span class="stat">8</span> content teams (<span class="stat">33</span> direct users across Marketing, Acquisition, Data Science, and more). Delivered UW's company-wide brand refresh across <span class="stat">522 pages</span> in two quarters (Oct 2025 – Apr 2026) — the critical-path work that unblocked every other team's rebranding effort. Built and preserved the Design Systems team that enabled it. Authored over <span class="stat">100 articles</span> of technical documentation, establishing the strongest documentation culture in the engineering org.
+**Software Engineering Manager at Utility Warehouse** (FTSE 250) — Leading a specialist team responsible for six platform services (Contentful CMS, GTM, Snowplow, Mixpanel, Optimizely, OneTrust) serving <span class="stat">15+</span> engineering teams and <span class="stat">8</span> content teams (<span class="stat">33</span> direct users across Marketing, Acquisition, Data Science, and more). Delivered UW's company-wide brand refresh across <span class="stat">522 pages</span> in two quarters (Oct 2025 – Apr 2026) — the critical-path work that unblocked every other team's rebranding effort. Built and preserved the Design Systems team that enabled it. Authored over <span class="stat">100 articles</span> of technical documentation, establishing the strongest documentation culture in the engineering org.
 
 ---
 

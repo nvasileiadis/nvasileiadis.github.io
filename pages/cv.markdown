@@ -3,7 +3,7 @@ layout: page
 title: CV — Nikos Vasileiadis | Software Engineering Leader | Leeds, UK
 nav_title: CV
 permalink: /cv/
-description: "CV of Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology and 9 years of progressive leadership. Engineering Manager at Utility Warehouse. Expertise in people performance, organisational design, platform strategy, and commercial engineering. Open to Senior Engineering Manager and Head of Engineering roles in the UK."
+description: "CV of Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology and 9 years of progressive leadership. Engineering Manager at Utility Warehouse (FTSE 250). Expertise in people performance, organisational design, platform strategy, and commercial engineering. Open to Senior Engineering Manager and Head of Engineering roles in the UK."
 css: ".no-pdf { display: none !important; }"
 hide_title: true
 ---
@@ -39,8 +39,8 @@ I treat engineering as a business lever — contributing to CapEx/OpEx planning,
 
 ### Software Engineering Manager
 
-**Company**: Utility Warehouse  
-**Dates**: Jul 2023 - Present (2 yrs 3 mos)  
+**Company**: Utility Warehouse (Telecom Plus PLC · FTSE 250)  
+**Dates**: Jul 2023 - Present  
 **Location**: United Kingdom · Remote  
 **Employment Type**: Full-time
 
@@ -60,7 +60,7 @@ I treat engineering as a business lever — contributing to CapEx/OpEx planning,
 
 ### Lead Software Engineer
 
-**Company**: Utility Warehouse  
+**Company**: Utility Warehouse (Telecom Plus PLC · FTSE 250)  
 **Dates**: May 2022 - Jul 2023 (1 yr 3 mos)  
 **Location**: United Kingdom · Remote  
 **Employment Type**: Full-time
@@ -88,7 +88,7 @@ I treat engineering as a business lever — contributing to CapEx/OpEx planning,
 
 ### Senior Digital Developer
 
-**Company**: Leeds Building Society  
+**Company**: Leeds Building Society (5th largest UK building society · £31B+ assets)  
 **Dates**: Oct 2018 - Jan 2020 (1 yr 4 mos)  
 **Location**: Leeds, England, United Kingdom · Hybrid  
 **Employment Type**: Full-time
