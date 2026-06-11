@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Professional Development — Nikos Vasileiadis | Credentials, Clients & Community
-nav_title: Professional Development
+nav_title: Credentials
 permalink: /professional-development/
-description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology and 9 years in leadership. Based in Leeds, UK. Includes 40+ certifications across leadership, UX, analytics, cloud, and FinTech."
+description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology and 9 years in leadership. Based in Leeds, UK. Includes 48 certifications across leadership, UX, analytics, cloud, and FinTech."
 ---
 
 _This page is an evidence appendix for those who want to go deeper. It maps the journey from engineer to engineering leader — the brands and organisations I've worked with, the credentials I've earned across engineering and leadership, my community contributions, and notable recognition._
@@ -15,7 +15,7 @@ _This page is an evidence appendix for those who want to go deeper. It maps the 
     <span class="metric-label">Years in Technology<br><small style="font-size: 0.8em; opacity: 0.8;">20+ Engineering · 9 Leadership<br>Leading since 2017</small></span>
   </div>
   <div class="metric-card">
-    <span class="metric-number">47</span>
+    <span class="metric-number">48</span>
     <span class="metric-label">Completed Credentials</span>
   </div>
   <div class="metric-card">
@@ -31,11 +31,9 @@ _This page is an evidence appendix for those who want to go deeper. It maps the 
 
 ## From Engineer to Engineering Leader
 
-I started programming as a hobby. It became a part-time gig, then a full-time career. Over <span class="stat">20+ years</span>, I mastered the craft — from frontend to full-stack, from CMS architecture to Design Systems, from Kubernetes to platform analytics.
+The evidence is in the pattern. At every company, the same thing happened: I was hired as an engineer, and within months I was the one setting up processes, mentoring juniors, facilitating sprints, and bridging the gap between engineering and business.
 
-But the thing I was always better at was people.
-
-At every company, the pattern was the same: I'd be hired as an engineer, and within months I'd be the one setting up processes, mentoring juniors, facilitating sprints, and bridging the gap between engineering and business. At **Jadu**, I was facilitating sprints while shipping features into an award-winning CMS. At **Leeds Building Society**, I introduced Agile to the entire organisation — its first structured delivery methodology. At **IMA-HOME**, I ran Scrum for global brand projects (Adidas, MARS, Royal Canin) while engineering their frontend systems. At **Utility Warehouse**, I was hired as a Senior Software Engineer — and within a year I was managing the team, building the backlog, setting up Scrum, and mentoring an Associate into a Mid-level engineer.
+At **Jadu**, I was facilitating sprints while shipping features into an award-winning CMS. At **Leeds Building Society**, I introduced Agile to the entire organisation — its first structured delivery methodology. At **IMA-HOME**, I ran Scrum for global brand projects (Adidas, MARS, Royal Canin) while engineering their frontend systems. At **Utility Warehouse**, I was hired as a Senior Software Engineer — and within a year I was managing the team, building the backlog, setting up Scrum, and mentoring an Associate into a Mid-level engineer.
 
 The promotion to Engineering Manager didn't change what I did — it formalised what I'd always been doing. What changed was my understanding of where I create the most value. It's not in the code. It's in the conditions I create for others to do their best work.
 
@@ -96,7 +94,7 @@ Owned the full product lifecycle for the Jadu CMS — from user research through
 
 ### Business & Finance
 
-- **CapEx Planning** · AAT Essentials _(Booked)_
+- **CapEx Planning** · AAT Essentials, Jun 2026
 - **Budgeting for Non-Financial Managers** · AAT Essentials, Jun 2026
 - **Finance for Non-Financial Managers** · AAT Essentials, Feb 2026
 - **Business Metrics & Growth** · Limitless Concepts, 2023 — P&L, Cash Flow, CAC, LTV, MRR/ARR, NPV, Cap Tables

@@ -9,6 +9,8 @@ hide_title: true
 
 <header class="hero-header" markdown="1">
 
+<img src="/assets/profile.jpeg" alt="Nikos Vasileiadis" class="profile-photo" width="120" height="120">
+
 # Nikos Vasileiadis
 
 **Software Engineering Leader** · People, Platform & Organisational Design
@@ -31,7 +33,7 @@ hide_title: true
   </div>
 </div>
 
-I grew up in northern Greece and fell in love with the web as a teenager — turning a hobby into a career when the 2008 financial crisis cut my university path short. After a decade of building from scratch, I moved to the UK in 2015 and put down roots in Leeds. What I discovered across those twenty years is that my real strength isn't code — it's people. I build the conditions where engineering teams thrive — through structure, clarity, and a genuine understanding of what makes people do their best work.
+I grew up in northern Greece and fell in love with the web as a teenager — turning a hobby into a career when the 2008 financial crisis cut my university path short. After a decade of building my way up, I moved to the UK in 2015 and put down roots in Leeds. What I discovered across those twenty years is that my real strength isn't code — it's people. I build the conditions where engineering teams thrive — through structure, clarity, and a genuine understanding of what makes people do their best work.
 
 ## Currently
 
@@ -57,5 +59,15 @@ I grew up in northern Greece and fell in love with the web as a teenager — tur
 
 ## Explore
 
-- **[CV](/cv/)** — Professional experience and leadership background
-- **[Professional Development](/professional-development/)** — Credentials, community, and career journey
+<div class="explore-grid">
+  <a class="explore-card" href="/cv/">
+    <strong>CV</strong>
+    <span>Professional experience and leadership background</span>
+    <span class="explore-arrow">→</span>
+  </a>
+  <a class="explore-card" href="/professional-development/">
+    <strong>Credentials</strong>
+    <span>Certifications, community contributions, and career journey</span>
+    <span class="explore-arrow">→</span>
+  </a>
+</div>

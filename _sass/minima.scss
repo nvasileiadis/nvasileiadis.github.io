@@ -78,6 +78,18 @@ $on-laptop: 800px !default;
   }
 }
 
+// Profile photo: circular headshot in the hero.
+.profile-photo {
+  display: block;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+  border: 3px solid lighten($brand-color, 45%);
+  margin: 0 auto $spacing-unit / 2;
+}
+
 .hero-subtitle {
   font-size: $base-font-size * 1.15;
   color: $grey-color-dark;
@@ -163,4 +175,99 @@ $on-laptop: 800px !default;
   background-color: $brand-color;
   color: #ffffff;
   border: 1px solid darken($brand-color, 10%);
+}
+
+// Explore cards: 2-column navigation grid on the homepage.
+.explore-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: $spacing-unit / 2;
+  margin-top: $spacing-unit / 2;
+
+  @include media-query($on-palm) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.explore-card {
+  display: flex;
+  flex-direction: column;
+  padding: $spacing-unit / 1.5;
+  padding-right: $spacing-unit * 1.5;
+  background-color: lighten($brand-color, 65%);
+  border: 1px solid lighten($brand-color, 45%);
+  border-left: 3px solid $brand-color;
+  border-radius: 0 4px 4px 0;
+  text-decoration: none;
+  color: $text-color;
+  position: relative;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover, &:focus {
+    border-left-color: $accent-color;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    text-decoration: none;
+  }
+
+  strong {
+    font-size: $base-font-size * 1.1;
+    color: $brand-color;
+    margin-bottom: 4px;
+  }
+
+  span {
+    font-size: $small-font-size;
+    color: $grey-color-dark;
+    line-height: 1.4;
+  }
+
+  .explore-arrow {
+    position: absolute;
+    top: 50%;
+    right: $spacing-unit / 2;
+    transform: translateY(-50%);
+    font-size: 1.2rem;
+    color: $brand-color;
+    transition: transform 0.2s ease;
+  }
+
+  &:hover .explore-arrow {
+    transform: translateY(-50%) translateX(4px);
+    color: $accent-color;
+  }
+}
+
+// 404 page: branded error page.
+.error-page {
+  text-align: center;
+  padding: $spacing-unit * 2 0;
+
+  .error-code {
+    font-size: 5rem;
+    font-weight: 700;
+    color: $brand-color;
+    line-height: 1;
+    margin-bottom: $spacing-unit / 2;
+  }
+
+  .error-message {
+    font-size: $base-font-size * 1.2;
+    color: $grey-color-dark;
+    margin-bottom: $spacing-unit;
+  }
+
+  .error-link {
+    display: inline-block;
+    padding: 10px 24px;
+    background-color: $brand-color;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: 500;
+    transition: background-color 0.2s ease;
+
+    &:hover {
+      background-color: darken($brand-color, 8%);
+    }
+  }
 }

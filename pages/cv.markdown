@@ -29,11 +29,11 @@ Download profile: [PDF Version](/assets/Nikos_Vasileiadis_CV.pdf) | [DOCX Versio
 
 ## About
 
-With <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> of progressive leadership, I started in code — frontend, full-stack, CMS architecture, platform engineering — and mastered the craft. What I discovered along the way is that my real strength is people: building teams, developing talent, creating clarity, and designing the organisational conditions where engineers do their best work.
+After <span class="stat">20+ years</span> building a career from self-taught web developer in Greece to engineering leader in the UK — and <span class="stat">9 years</span> of progressive leadership — I've learned that my real strength is people: building teams, developing talent, creating clarity, and designing the organisational conditions where engineers do their best work.
 
 My leadership arc has grown continuously since 2017: from Scrum Master rotations at Jadu and Leeds Building Society, to bootstrapping and leading the Content Capability team at Utility Warehouse, to managing multiple teams (<span class="stat">8 engineers</span> at peak) across Content Capability and Design Systems. Through three restructurings, I now lead a specialist <span class="stat">3-person</span> team covering <span class="stat">six critical platform services</span> across the uw.co.uk estate — having built the same team from scratch twice.
 
-I treat engineering as a business lever — contributing to CapEx/OpEx planning, evaluating vendor ROI, and ensuring technical investments map directly to business outcomes. My technical depth gives me credibility with engineers; my focus on people, process, and organisational design is where I create the most value.
+I treat engineering as a business lever — contributing to CapEx/OpEx planning, evaluating vendor ROI, and ensuring technical investments map directly to business outcomes. My technical depth — frontend, full-stack, CMS architecture, platform engineering — gives me credibility with engineers; my focus on people, process, and organisational design is where I create the most value.
 
 ## Experience
 
