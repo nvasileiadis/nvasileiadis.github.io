@@ -33,6 +33,10 @@ hide_title: true
 
 I grew up in northern Greece and fell in love with the web as a teenager — turning a hobby into a career when the 2008 financial crisis cut my university path short. After a decade of building from scratch, I moved to the UK in 2015 and put down roots in Leeds. What I discovered across those twenty years is that my real strength isn't code — it's people. I build the conditions where engineering teams thrive — through structure, clarity, and a genuine understanding of what makes people do their best work.
 
+## Currently
+
+**Software Engineering Manager at Utility Warehouse** (FTSE 250) — Leading a specialist team responsible for six platform services (Contentful CMS, GTM, Snowplow, Mixpanel, Optimizely, OneTrust) serving <span class="stat">15+</span> engineering teams and <span class="stat">8</span> content teams (<span class="stat">33</span> direct users across Marketing, Acquisition, Data Science, and more). Delivered UW's company-wide brand refresh across <span class="stat">522 pages</span> in two quarters (Oct 2025 – Apr 2026) — the critical-path work that unblocked every other team's rebranding effort. Built and preserved the Design Systems team that enabled it. Authored over <span class="stat">100 articles</span> of technical documentation, establishing the strongest documentation culture in the engineering org.
+
 ## What I Do
 
 <div class="leadership-card" markdown="1">
@@ -46,10 +50,6 @@ I grew up in northern Greece and fell in love with the web as a teenager — tur
 <div class="leadership-card" markdown="1">
 **Building Teams That Stay — and Grow**: I maintain a **100% team retention rate** across my engineering teams — sustained through three company restructurings — by fostering trust, clear ownership, and career growth. I've driven **3 promotions** through evidence-based cases, identifying and developing high-potential talent and advocating for people across organisational boundaries.
 </div>
-
-## Currently
-
-**Software Engineering Manager at Utility Warehouse** (FTSE 250) — Leading a specialist team responsible for six platform services (Contentful CMS, GTM, Snowplow, Mixpanel, Optimizely, OneTrust) serving <span class="stat">15+</span> engineering teams and <span class="stat">8</span> content teams (<span class="stat">33</span> direct users across Marketing, Acquisition, Data Science, and more). Delivered UW's company-wide brand refresh across <span class="stat">522 pages</span> in two quarters (Oct 2025 – Apr 2026) — the critical-path work that unblocked every other team's rebranding effort. Built and preserved the Design Systems team that enabled it. Authored over <span class="stat">100 articles</span> of technical documentation, establishing the strongest documentation culture in the engineering org.
 
 ---
 
