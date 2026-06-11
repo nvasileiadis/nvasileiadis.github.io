@@ -29,7 +29,7 @@ Download profile: [PDF Version](/assets/Nikos_Vasileiadis_CV.pdf) | [DOCX Versio
 
 ## About
 
-After <span class="stat">20+ years</span> building a career from self-taught web developer in Greece to engineering leader in the UK — and <span class="stat">9 years</span> of progressive leadership — I've learned that my real strength is people: building teams, developing talent, creating clarity, and designing the organisational conditions where engineers do their best work.
+After <span class="stat">20+ years</span> building a career from web developer in Greece to engineering leader in the UK — and <span class="stat">9 years</span> of progressive leadership — I've learned that my real strength is people: building teams, developing talent, creating clarity, and designing the organisational conditions where engineers do their best work.
 
 My leadership arc has grown continuously since 2017: from Scrum Master rotations at Jadu and Leeds Building Society, to bootstrapping and leading the Content Capability team at Utility Warehouse, to managing multiple teams (<span class="stat">8 engineers</span> at peak) across Content Capability and Design Systems. Through three restructurings, I now lead a specialist <span class="stat">3-person</span> team covering <span class="stat">six critical platform services</span> across the uw.co.uk estate — having built the same team from scratch twice.
 
