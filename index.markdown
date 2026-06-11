@@ -31,7 +31,7 @@ hide_title: true
   </div>
 </div>
 
-I started in code and mastered the craft. What I discovered along the way is that my real strength is people. I build the conditions where engineering teams thrive — through structure, clarity, and a genuine understanding of what makes people do their best work.
+I grew up in northern Greece and fell in love with the web as a teenager — turning a hobby into a career when the 2008 financial crisis cut my university path short. After a decade of building from scratch, I moved to the UK in 2015 and put down roots in Leeds. What I discovered across those twenty years is that my real strength isn't code — it's people. I build the conditions where engineering teams thrive — through structure, clarity, and a genuine understanding of what makes people do their best work.
 
 ## What I Do
 
