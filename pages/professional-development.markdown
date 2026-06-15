@@ -3,7 +3,7 @@ layout: page
 title: Professional Development — Nikos Vasileiadis | Credentials, Clients & Community
 nav_title: Credentials
 permalink: /professional-development/
-description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology and 9 years in leadership. Based in Leeds, UK. Includes 45 certifications and 60+ completed courses across leadership, UX, analytics, cloud, and FinTech."
+description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology and 9 years in leadership. Based in Leeds, UK. Includes 45 certificates and 60+ completed courses across leadership, UX, analytics, cloud, and FinTech."
 ---
 
 _This page is an evidence appendix for those who want to go deeper. It maps the journey from engineer to engineering leader — the brands and organisations I've worked with, the credentials I've earned across engineering and leadership, my community contributions, and notable recognition._
@@ -16,7 +16,7 @@ _This page is an evidence appendix for those who want to go deeper. It maps the 
   </div>
   <div class="metric-card">
     <span class="metric-number">45</span>
-    <span class="metric-label">Certifications<br><small style="font-size: 0.8em; opacity: 0.8;">+ 60 completed courses</small></span>
+    <span class="metric-label">Certificates<br><small style="font-size: 0.8em; opacity: 0.8;">+ 60 completed courses</small></span>
   </div>
   <div class="metric-card">
     <span class="metric-number">18</span>
@@ -237,7 +237,7 @@ Owned the full product lifecycle for the Jadu CMS — from user research through
 </details>
 <!-- markdownlint-enable MD033 -->
 
-### Historical Certifications
+### Historical Certificates
 
 - **Certified Training Professional** · ICDL Certification, 2006
 - **ImageMaker** · ICDL Certification, 2006

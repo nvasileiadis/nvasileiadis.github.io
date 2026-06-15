@@ -146,7 +146,7 @@ I treat engineering as a business lever — contributing to CapEx/OpEx planning,
 **Professional Scrum Product Owner I (PSPO I)** · Scrum.org, Aug 2021  
 **Professional Scrum Master I (PSM I)** · Scrum.org, Jun 2019
 
-_Full certifications list — Scrum, UX, FinTech, analytics, cloud, accessibility, and more — available on the [Professional Development](/professional-development/) page._
+_Full credentials list — Scrum, UX, FinTech, analytics, cloud, accessibility, and more — available on the [Professional Development](/professional-development/) page._
 
 ## Community & Leadership
 

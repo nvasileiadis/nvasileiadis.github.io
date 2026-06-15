@@ -67,7 +67,7 @@ I grew up in northern Greece and fell in love with the web as a teenager — tur
   </a>
   <a class="explore-card" href="/professional-development/">
     <strong>Credentials</strong>
-    <span>Certifications, community contributions, and career journey</span>
+    <span>Credentials, community contributions, and career journey</span>
     <span class="explore-arrow">→</span>
   </a>
 </div>
