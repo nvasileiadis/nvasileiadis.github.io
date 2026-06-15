@@ -124,38 +124,10 @@ I treat engineering as a business lever — contributing to CapEx/OpEx planning,
 
 **Projects**: Award-winning custom CMS for large-scale public sector institutions — Open source Interface Design System ([Pulsar](https://jadu.github.io/pulsar/))
 
-### Digital Developer
-
-**Company**: DS.Emotion  
-**Dates**: Oct 2016 - Nov 2016 (2 months)  
-**Location**: Leeds, England, United Kingdom  
-**Employment Type**: Contract, On-site
-
-**Description**: Delivered high-performance frontend solutions for premium real estate and automotive clients (e.g., Silverstone).
-
-- **Performance Optimization**: Spearheaded critical performance optimizations across a portfolio of existing projects, significantly improving load times and user engagement metrics.
-- **Workflow Modernization**: Championed the transition to modern deployment lifecycles and structured version control (Git), establishing more reliable and efficient engineering workflows for the agency.
-
-**Projects**: Silverstone, Bowcliffe Hall, St. Leonard's Place, Woodside Square, Sixteen Real Estate
-
-### Front-end Developer
-
-**Company**: Creode  
-**Dates**: Oct 2015 - Sep 2016 (1 year)  
-**Location**: Leeds, England, United Kingdom
-**Employment Type**: Full-time, On-site
-
-**Description**: Engineered responsive e-commerce solutions for major retail brands (Vivienne Westwood, Kärcher).
-
-- **E-Commerce Delivery**: Collaborated cross-functionally to bring complex UI designs to life, ensuring seamless cross-browser compatibility and strict adherence to brand standards.
-- **Digital Marketing Support**: Developed robust architecture for high-conversion HTML email campaigns, directly supporting the agency's retention and sales generation strategies.
-
-**Projects**: Vivienne Westwood, Kärcher, CACI, EQVVS, G-Type
-
 ### Early Career & Consulting
 
-**Dates**: Oct 2005 - Sep 2015 (10 years)
-**Description**: Various full-stack development, consultancy, and training roles building the foundation of my technical and leadership capabilities. Key experiences included developing CMS-based solutions for non-profits (UNESCO) and local businesses, architecting real estate platforms, engineering e-commerce splits payment systems, and delivering technical training (C Programming, Algorithms).
+**Dates**: Oct 2005 - Dec 2016 (11 years)
+**Description**: Full-stack development, consultancy, and training roles building the foundation of my technical capabilities. Key experiences included developing CMS-based solutions for non-profits (UNESCO) and local businesses, architecting real estate platforms, engineering e-commerce splits payment systems, and delivering technical training (C Programming, Algorithms). After relocating to the UK in 2015, delivered frontend engineering for Leeds-based agencies — building responsive e-commerce solutions for global fashion and retail brands and driving performance optimisation across client portfolios.
 
 ## Education
 
