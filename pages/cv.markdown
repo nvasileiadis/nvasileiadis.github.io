@@ -94,7 +94,7 @@ I treat engineering as a business lever — contributing to CapEx/OpEx planning,
 
 **Projects**: Adidas, MARS, Gregg Wallace, Leeds Rhinos, Royal Canin
 
-### Senior Digital Developer
+### Senior Digital Developer & Scrum Master
 
 **Company**: Leeds Building Society (5th largest UK building society · £31B+ assets)  
 **Dates**: Oct 2018 - Jan 2020 (1 yr 4 mos)  
@@ -105,9 +105,9 @@ I treat engineering as a business lever — contributing to CapEx/OpEx planning,
 
 **Agile First Mover:** Introduced Agile and Scrum to LBS for the first time, shifting a high-bureaucracy, low-velocity organisation from ad-hoc output to sprint-based iterative delivery with measurable velocity. Served as the unofficial internal Agile champion throughout my tenure.
 
-**Digital Transformation (Interim Scrum Master, Jun–Oct 2019):** Appointed to lead the Digital Transformation programme alongside external consultants and cross-functional teams — moving from firefighting culture to structured, iterative feature development with regular delivery cadences.
+**Leadership in Crisis — Digital Transformation (Interim Scrum Master, Jun–Oct 2019):** Formally appointed to stabilise delivery and lead the Digital Transformation programme — working alongside external consultants and cross-functional teams to move a firefighting culture into structured, iterative feature development with regular delivery cadences.
 
-### UX Interface Developer
+### UX Interface Developer & Scrum Master
 
 **Company**: Jadu  
 **Dates**: Jan 2017 - Oct 2018 (1 yr 10 mos)  
