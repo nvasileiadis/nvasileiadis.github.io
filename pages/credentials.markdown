@@ -37,7 +37,7 @@ At **Jadu**, I was facilitating sprints while shipping features into an award-wi
 
 The promotion to Engineering Manager didn't change what I did — it formalised what I'd always been doing. What changed was my understanding of where I create the most value. It's not in the code. It's in the conditions I create for others to do their best work.
 
-Over <span class="stat">100 articles</span> of documentation built from nothing. <span class="stat">3 promotions</span> driven through evidence-based cases. Zero attrition across my teams. A Design Systems team saved from disbandment that went on to enable a company-wide rebrand across <span class="stat">522 pages</span>. I've built the same team twice — first as a standalone unit with no department (2022), then again when I formed a specialist CMS team from a larger restructuring (2025), selecting the engineers I trusted most and starting from scratch a second time.
+Over <span class="stat">100 articles</span> of documentation built from nothing. <span class="stat">3 promotions</span> driven through evidence-based cases. Zero attrition across my teams. A Design Systems team saved from disbandment that went on to enable a company-wide rebrand across <span class="stat">522 pages</span>. I've built the same team twice — first as a standalone unit with no department (2022), then again when I formed a specialist CMS team from a larger restructuring (2025), retaining a high-trust, high-capability core and starting from scratch a second time.
 
 **<span class="stat">20+</span> years in technology. <span class="stat">9</span> years in leadership.** The engineering gave me the credibility. The people work gave me the purpose.
 
