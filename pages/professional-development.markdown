@@ -3,7 +3,7 @@ layout: page
 title: Professional Development — Nikos Vasileiadis | Credentials, Clients & Community
 nav_title: Credentials
 permalink: /professional-development/
-description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology and 9 years in leadership. Based in Leeds, UK. Includes 48 certifications across leadership, UX, analytics, cloud, and FinTech."
+description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology and 9 years in leadership. Based in Leeds, UK. Includes 104 certifications across leadership, UX, analytics, cloud, and FinTech."
 ---
 
 _This page is an evidence appendix for those who want to go deeper. It maps the journey from engineer to engineering leader — the brands and organisations I've worked with, the credentials I've earned across engineering and leadership, my community contributions, and notable recognition._
@@ -15,7 +15,7 @@ _This page is an evidence appendix for those who want to go deeper. It maps the 
     <span class="metric-label">Years in Technology<br><small style="font-size: 0.8em; opacity: 0.8;">20+ Engineering · 9 Leadership<br>Leading since 2017</small></span>
   </div>
   <div class="metric-card">
-    <span class="metric-number">48</span>
+    <span class="metric-number">104</span>
     <span class="metric-label">Completed Credentials</span>
   </div>
   <div class="metric-card">
@@ -82,10 +82,12 @@ Owned the full product lifecycle for the Jadu CMS — from user research through
 - **Team Topologies Distilled** · Team Topologies Academy Corporate, Oct 2023 — _Applied to identify platform team anti-patterns, redesign team interaction modes, and propose organisational structures aligned with cognitive load theory._
 - **Mental Health First Aid (MHFA) Champion** · MHFA England, Feb 2023
 - **COVID-19: Psychological First Aid** · UK Health Security Agency, Dec 2022
-- **Professional Scrum Product Owner I (PSPO I)** · Scrum.org, Aug 2021
-- **Professional Scrum Master I (PSM I)** · Scrum.org, Jun 2019
-- **Professional Scrum Developer I (PSD I)** · Scrum.org, Dec 2018
+- **Professional Scrum Product Owner I (PSPO I)** · [Scrum.org](https://www.scrum.org/user/391877), Aug 2021
+- **Professional Scrum Master I (PSM I)** · [Scrum.org](https://www.scrum.org/user/391877), Jun 2019
+- **Professional Scrum Developer I (PSD I)** · [Scrum.org](https://www.scrum.org/user/391877), Dec 2018
 - **UX Management: Strategy and Tactics** · IxDF, Aug 2018
+- **PMP® Exam Prep - Introduction to Project Management & The PMP® Exam** · Pluralsight, Jul 2016
+- **Agile Fundamentals** · Pluralsight, Jul 2016
 - **IS110x: Innovation and IT Management** · Indian Institute of Management Bangalore, Sep 2015
 
 ### AI Strategy & Implementation
@@ -108,10 +110,95 @@ Owned the full product lifecycle for the Jadu CMS — from user research through
 - **IBM Blockchain Foundation Developer** · IBM, Feb 2019
 - **IBM Blockchain Essentials** · IBM, Jan 2019
 - **Magento Certified Front End Developer** · Adobe Commerce, Jun 2018
+- **Website Performance Optimization** · Udacity, 2017
+- **JavaScript Promises** · Udacity, 2017
+- **Intro to Progressive Web Apps** · Udacity, 2017
+- **JavaScript Testing** · Udacity, 2017
 - **ES6 for Everyone** · Wes Bos, Jan 2017
 - **React for Beginners** · Wes Bos, Nov 2016
+- **Introduction to Testing in Java** · Pluralsight, Jul 2016
+- **JavaScript Build Automation With Gulp.js** · Pluralsight, Jul 2016
 - **Web Application Architectures** · University of New Mexico, May 2015
 - **CS169.1x: Software as a Service** · UC Berkeley, Jun 2014
+- **Ruby on Rails Tutorial** · [Michael Hartl](https://www.railstutorial.org/), 2014
+
+<!-- markdownlint-disable MD033 -->
+<details class="credential-group" markdown="1">
+<summary>Code School — HTML/CSS & Design Path <span class="credential-count">10 courses</span></summary>
+
+- Front-end Foundations
+- Front-end Formations
+- CSS Cross-Country
+- Assembling Sass
+- Blasting Off with Bootstrap
+- Fundamentals of Design
+- Unmasking HTML Emails
+- Cracking the Case With Flexbox
+- The Elements of Web Design
+- You, Me & SVG
+
+</details>
+
+<details class="credential-group" markdown="1">
+<summary>Code School — Ruby & Rails Path <span class="credential-count">10 courses</span></summary>
+
+- Try Ruby
+- Ruby Bits
+- Ruby Bits Part 2
+- Rails for Zombies Redux
+- Rails for Zombies 2
+- Rails Testing for Zombies
+- Rails 4: Zombie Outlaws
+- Rails 4 Patterns
+- Surviving APIs with Rails
+- Testing with RSpec
+
+</details>
+
+<details class="credential-group" markdown="1">
+<summary>Code School — JavaScript Path <span class="credential-count">16 courses</span></summary>
+
+- JavaScript Road Trip Part 1
+- JavaScript Road Trip Part 2
+- JavaScript Road Trip Part 3
+- JavaScript Best Practices
+- ES2015: The Shape of JavaScript to Come
+- Try jQuery
+- jQuery: The Return Flight
+- Anatomy of Backbone.js
+- Anatomy of Backbone.js Part 2
+- Shaping Up With AngularJS
+- Staying Sharp With AngularJS
+- Real-time Web with Node.js
+- Building Blocks of Express.js
+- CoffeeScript
+- Powering Up With React
+- Accelerating Through Angular
+
+</details>
+
+<details class="credential-group" markdown="1">
+<summary>Code School — Git Path <span class="credential-count">4 courses</span></summary>
+
+- Try Git
+- Git Real
+- Git Real 2
+- Mastering GitHub
+
+</details>
+
+<details class="credential-group" markdown="1">
+<summary>Code School — Databases & Electives <span class="credential-count">6 courses</span></summary>
+
+- Try SQL
+- The Sequel to SQL
+- Discover DevTools
+- Breaking the Ice With Regular Expressions
+- Adventures in Web Animations
+- Journey Into Mobile
+
+</details>
+<!-- markdownlint-enable MD033 -->
 
 ### Analytics & Digital Marketing
 
@@ -127,6 +214,7 @@ Owned the full product lifecycle for the Jadu CMS — from user research through
 ### UX, Accessibility & Design
 
 - **Accessibility: How to Design for All** · IxDF, Sep 2018
+- **Web Accessibility** · Udacity, 2017
 - **Conducting Usability Testing** · IxDF, Jun 2018
 - **Information Visualization** · IxDF, Jun 2018
 - **Gamification - Creating Addictive User Experiences** · IxDF, Mar 2018
