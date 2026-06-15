@@ -452,3 +452,80 @@ $on-laptop: 800px !default;
   letter-spacing: 0.3px;
 }
 
+// Footer: simplified single-row layout.
+.footer-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 4px 0;
+  font-size: $small-font-size;
+  color: $grey-color;
+
+  a {
+    color: $grey-color-dark;
+
+    &:hover {
+      color: $brand-color;
+    }
+  }
+}
+
+.footer-sep {
+  margin: 0 8px;
+  color: $grey-color-light;
+}
+
+// Print stylesheet: clean output for recruiters hitting Cmd+P.
+@media print {
+  .site-header,
+  .site-footer,
+  .no-pdf,
+  .cv-download-bar,
+  .explore-grid {
+    display: none !important;
+  }
+
+  .page-content {
+    background-image: none !important;
+    padding-top: 0;
+  }
+
+  body {
+    background-color: #fff;
+    font-size: 12pt;
+  }
+
+  .wrapper {
+    max-width: 100%;
+  }
+
+  a {
+    color: $text-color !important;
+    text-decoration: none !important;
+  }
+
+  .stat {
+    color: $text-color !important;
+    font-weight: 700;
+  }
+
+  .metric-card {
+    border-top-color: $grey-color !important;
+    box-shadow: none !important;
+  }
+
+  .leadership-card {
+    border-left-color: $grey-color !important;
+    background-color: transparent !important;
+  }
+
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+
+  ul, ol, .leadership-card {
+    page-break-inside: avoid;
+  }
+}
+

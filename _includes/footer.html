@@ -2,36 +2,18 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author.name | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- elsif site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-            {%- endif -%}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
-      </div>
+    <div class="footer-row">
+      <span class="p-name">{{ site.author.name | escape }}</span>
+      <span class="footer-sep" aria-hidden="true">·</span>
+      <a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+      {%- if site.github_username -%}
+      <span class="footer-sep" aria-hidden="true">·</span>
+      <a href="https://github.com/{{ site.github_username }}" rel="me noopener" target="_blank">GitHub</a>
+      {%- endif -%}
+      {%- if site.linkedin_username -%}
+      <span class="footer-sep" aria-hidden="true">·</span>
+      <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" rel="me noopener" target="_blank">LinkedIn</a>
+      {%- endif -%}
     </div>
-
   </div>
-
 </footer>
