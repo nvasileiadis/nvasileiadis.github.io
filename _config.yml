@@ -38,6 +38,11 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+# SEO / Social Sharing
+image: /assets/profile.jpeg
+twitter:
+  card: summary
+
 # Analytics
 # google_tag_manager is injected at build time via GitHub Actions secret GTM_CONTAINER_ID
 
