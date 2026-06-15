@@ -37,11 +37,7 @@ hide_title: true
 
 ## About
 
-After <span class="stat">20+ years</span> building a career from web developer in Greece to engineering leader in the UK — and <span class="stat">9 years</span> of progressive leadership — I've learned that my real strength is people: building teams, developing talent, creating clarity, and designing the organisational conditions where engineers do their best work.
-
-My leadership arc has grown continuously since 2017: from Scrum Master rotations at Jadu and Leeds Building Society, to bootstrapping and leading the Content Capability team at Utility Warehouse, to managing multiple teams (<span class="stat">8 engineers</span> at peak) across Content Capability and Design Systems. Through three restructurings, I now lead a specialist <span class="stat">3-person</span> team covering <span class="stat">six critical platform services</span> across the uw.co.uk estate — having built the same team from scratch twice.
-
-I treat engineering as a business lever — contributing to CapEx/OpEx planning, evaluating vendor ROI, and ensuring technical investments map directly to business outcomes. My technical depth — frontend, full-stack, CMS architecture, platform engineering — gives me credibility with engineers; my focus on people, process, and organisational design is where I create the most value.
+Software Engineering Leader with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> of progressive leadership experience. Proven track record of building and retaining high-performing remote teams, navigating organisational design through complex restructurings, and architecting critical platform services. I treat engineering as a business lever—contributing to CapEx/OpEx planning and ensuring technical investments map directly to business outcomes. While my technical depth across frontend and platform architecture establishes credibility, my true strength lies in designing the conditions where engineers do their best work.
 
 ## Experience
 
@@ -146,7 +142,7 @@ I treat engineering as a business lever — contributing to CapEx/OpEx planning,
 **Professional Scrum Product Owner I (PSPO I)** · Scrum.org, Aug 2021  
 **Professional Scrum Master I (PSM I)** · Scrum.org, Jun 2019
 
-_Full credentials list — Scrum, UX, FinTech, analytics, cloud, accessibility, and more — available on the [Professional Development](/professional-development/) page._
+_Full credentials list — Scrum, UX, FinTech, analytics, cloud, accessibility, and more — available on the [Credentials](/credentials/) page._
 
 ## Community & Leadership
 

@@ -55,7 +55,7 @@ sass:
 # Pages to include in the site header navigation
 header_pages:
   - pages/cv.markdown
-  - pages/professional-development.markdown
+  - pages/credentials.markdown
   # blog is intentionally excluded from nav until first real post is published
 
 # Exclude from processing.

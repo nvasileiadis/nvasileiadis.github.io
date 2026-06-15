@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Professional Development — Nikos Vasileiadis | Credentials, Clients & Community
+title: Credentials — Nikos Vasileiadis | Clients & Community
 nav_title: Credentials
-permalink: /professional-development/
+permalink: /credentials/
 description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology and 9 years in leadership. Based in Leeds, UK. Includes 45 certificates and 60+ completed courses across leadership, UX, analytics, cloud, and FinTech."
 ---
 
-_This page is an evidence appendix for those who want to go deeper. It maps the journey from engineer to engineering leader — the brands and organisations I've worked with, the credentials I've earned across engineering and leadership, my community contributions, and notable recognition._
+_This page is an evidence appendix for those who want to go deeper. For a complete summary of my professional experience, see my [CV](/cv/). It maps the journey from engineer to engineering leader — the brands and organisations I've worked with, the credentials I've earned across engineering and leadership, my community contributions, and notable recognition._
 
 <!-- markdownlint-disable MD033 -->
 <div class="metrics-grid">
@@ -287,9 +287,7 @@ Founded and ran the local Linux community in Serres, Greece — organising prese
 **Web Developer & SysAdmin — IEEE** _(Oct 2010–Dec 2011)_
 Led technical infrastructure for regional science and technology initiatives. Configured and maintained Debian-based web hosting services (ISPConfig) and managed the customization of a Drupal ecosystem.
 
----
-
-## Publications
+### Publications
 
 **[Designing User Interfaces as a Developer](https://medium.com/pulsar/designing-user-interfaces-as-a-developer-22799b6e58a)** · Medium, Oct 2017
 Technical article on bridging design thinking with frontend engineering.
@@ -297,9 +295,7 @@ Technical article on bridging design thinking with frontend engineering.
 **[W3C HTML Validation for Twig Generated Pages](https://medium.com/pulsar/w3c-html-validation-for-twig-generated-pages-42cc625e7db0)** · Medium, Oct 2017
 Technical guide on implementing HTML validation within Twig templating workflows.
 
----
-
-## Conferences & Speaking
+### Conferences & Speaking
 
 - **LXD3 2026** · London, UK — Engineering leadership conference. Workshops with CTOs, peer networking with Heads of Engineering and VPs.
 - **WRK digital Tech Leaders Summit 2025** · Leeds, UK
