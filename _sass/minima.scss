@@ -378,26 +378,26 @@ $on-laptop: 800px !default;
 }
 
 // Credential groups: collapsible <details> elements for progressive disclosure.
-// Applies Miller's Law (chunking) and Hick's Law (reduce visible choices).
+// Quieter sibling of the leadership-card — same palette, reduced intensity.
 .credential-group {
-  margin-top: $spacing-unit / 3;
-  margin-bottom: $spacing-unit / 3;
-  border: 1px solid lighten($brand-color, 45%);
-  border-left: 3px solid $brand-color;
-  border-radius: 0 4px 4px 0;
-  background-color: lighten($brand-color, 65%);
+  margin-top: $spacing-unit / 4;
+  margin-bottom: $spacing-unit / 4;
+  border: 1px solid lighten($brand-color, 52%);
+  border-left: 2px solid lighten($brand-color, 20%);
+  border-radius: 0 3px 3px 0;
+  background-color: lighten($brand-color, 68%);
 
   summary {
-    padding: $spacing-unit / 2.5 $spacing-unit / 1.5;
-    font-weight: 600;
-    font-size: $base-font-size;
-    color: $brand-color;
+    padding: 9px 16px;
+    font-weight: 500;
+    font-size: $small-font-size;
+    color: $grey-color-dark;
     cursor: pointer;
     list-style: none;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    transition: background-color 0.2s ease;
+    transition: color 0.2s ease, background-color 0.2s ease;
 
     &::-webkit-details-marker {
       display: none;
@@ -407,12 +407,15 @@ $on-laptop: 800px !default;
       content: "▸";
       display: inline-block;
       margin-right: 8px;
+      font-size: 0.85em;
       transition: transform 0.2s ease;
       flex-shrink: 0;
+      color: lighten($brand-color, 20%);
     }
 
     &:hover {
-      background-color: lighten($brand-color, 58%);
+      color: $text-color;
+      background-color: lighten($brand-color, 63%);
     }
   }
 
@@ -423,13 +426,13 @@ $on-laptop: 800px !default;
   // Style the expanded content area
   > ul {
     margin: 0;
-    padding: $spacing-unit / 3 $spacing-unit / 1.5;
-    padding-left: $spacing-unit * 1.2;
-    border-top: 1px solid lighten($brand-color, 45%);
+    padding: 6px 16px 12px;
+    padding-left: $spacing-unit * 1.1;
+    border-top: 1px solid lighten($brand-color, 52%);
     list-style-type: "–  ";
 
     li {
-      font-size: $small-font-size;
+      font-size: $small-font-size * 0.95;
       color: $grey-color-dark;
       padding: 2px 0;
     }
@@ -439,12 +442,12 @@ $on-laptop: 800px !default;
 // Course count badge inside the summary
 .credential-count {
   display: inline-block;
-  padding: 2px 10px;
-  font-size: 0.75em;
+  padding: 2px 9px;
+  font-size: 0.72em;
   font-weight: 500;
-  color: $grey-color-dark;
-  background-color: lighten($brand-color, 55%);
-  border-radius: 10px;
+  color: $grey-color;
+  background-color: lighten($brand-color, 60%);
+  border-radius: 9px;
   margin-left: auto;
   letter-spacing: 0.3px;
 }

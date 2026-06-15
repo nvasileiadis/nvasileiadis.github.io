@@ -3,7 +3,7 @@ layout: page
 title: Professional Development — Nikos Vasileiadis | Credentials, Clients & Community
 nav_title: Credentials
 permalink: /professional-development/
-description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology and 9 years in leadership. Based in Leeds, UK. Includes 104 certifications across leadership, UX, analytics, cloud, and FinTech."
+description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology and 9 years in leadership. Based in Leeds, UK. Includes 45 certifications and 60+ completed courses across leadership, UX, analytics, cloud, and FinTech."
 ---
 
 _This page is an evidence appendix for those who want to go deeper. It maps the journey from engineer to engineering leader — the brands and organisations I've worked with, the credentials I've earned across engineering and leadership, my community contributions, and notable recognition._
@@ -15,8 +15,8 @@ _This page is an evidence appendix for those who want to go deeper. It maps the 
     <span class="metric-label">Years in Technology<br><small style="font-size: 0.8em; opacity: 0.8;">20+ Engineering · 9 Leadership<br>Leading since 2017</small></span>
   </div>
   <div class="metric-card">
-    <span class="metric-number">104</span>
-    <span class="metric-label">Completed Credentials</span>
+    <span class="metric-number">45</span>
+    <span class="metric-label">Certifications<br><small style="font-size: 0.8em; opacity: 0.8;">+ 60 completed courses</small></span>
   </div>
   <div class="metric-card">
     <span class="metric-number">18</span>
@@ -207,6 +207,7 @@ Owned the full product lifecycle for the Jadu CMS — from user research through
 - **Getting Started With Google Analytics 360** · Google, Dec 2018
 - **Google Analytics Individual Qualification** · Google, Nov 2018
 - **Advanced Google Analytics** · Google, Nov 2018
+- **Google Analytics for Beginners** · Google, Nov 2018
 - **Digital Sales** · Google, Dec 2017
 - **Mobile Sites** · Google, Dec 2017
 - **The Online Marketing Fundamentals** · Google, Sep 2016
@@ -214,19 +215,27 @@ Owned the full product lifecycle for the Jadu CMS — from user research through
 ### UX, Accessibility & Design
 
 - **Accessibility: How to Design for All** · IxDF, Sep 2018
-- **Web Accessibility** · Udacity, 2017
 - **Conducting Usability Testing** · IxDF, Jun 2018
 - **Information Visualization** · IxDF, Jun 2018
 - **Gamification - Creating Addictive User Experiences** · IxDF, Mar 2018
 - **How to Design for Augmented and Virtual Reality** · IxDF, Mar 2018
+- **Web Accessibility** · Udacity, 2017
 - **Web Design for Usability** · IxDF, Aug 2017
 - **Quality Web Communication** · IxDF, Aug 2017
 - **User Research — Methods and Best Practices** · IxDF, Jul 2017
-- **Get Your First Job as a UX or Interaction Designer** · IxDF, Jul 2017
-- **How to Become a Freelance Designer** · IxDF, Jul 2017
 - **Mobile User Experience (UX) Design** · IxDF, Jun 2017
-- **Becoming a UX Designer from scratch** · IxDF, May 2017
-- **Design Thinking: The Beginner's Guide** · IxDF, May 2017
+
+<!-- markdownlint-disable MD033 -->
+<details class="credential-group" markdown="1">
+<summary>IxDF — Foundations & Career <span class="credential-count">4 courses</span></summary>
+
+- Design Thinking: The Beginner's Guide
+- Becoming a UX Designer from scratch
+- Get Your First Job as a UX or Interaction Designer
+- How to Become a Freelance Designer
+
+</details>
+<!-- markdownlint-enable MD033 -->
 
 ### Historical Certifications
 
