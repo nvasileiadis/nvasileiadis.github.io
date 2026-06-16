@@ -4,7 +4,6 @@ _site
 .jekyll-metadata
 vendor
 
-# Private local notes
+# Private local notes (also excluded from Jekyll build via _ prefix)
 _notes/
-artifacts/
 _drafts/
