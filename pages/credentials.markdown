@@ -297,7 +297,7 @@ Technical guide on implementing HTML validation within Twig templating workflows
 
 ### Conferences & Speaking
 
-- **LXD3 2026** · London, UK — Engineering leadership conference. Workshops with CTOs, peer networking with Heads of Engineering and VPs.
+- **LDX3 2026** · London, UK — Engineering leadership conference. Workshops with CTOs, peer networking with Heads of Engineering and VPs.
 - **WRK digital Tech Leaders Summit 2025** · Leeds, UK
 - **Next.js Conf 2023** · Online
 - **Next.js Conf 2021** · Online
