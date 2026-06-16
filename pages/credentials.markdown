@@ -287,14 +287,6 @@ Founded and ran the local Linux community in Serres, Greece — organising prese
 **Web Developer & SysAdmin — IEEE** _(Oct 2010–Dec 2011)_
 Led technical infrastructure for regional science and technology initiatives. Configured and maintained Debian-based web hosting services (ISPConfig) and managed the customization of a Drupal ecosystem.
 
-### Publications
-
-**[Designing User Interfaces as a Developer](https://medium.com/pulsar/designing-user-interfaces-as-a-developer-22799b6e58a)** · Medium, Oct 2017
-Technical article on bridging design thinking with frontend engineering.
-
-**[W3C HTML Validation for Twig Generated Pages](https://medium.com/pulsar/w3c-html-validation-for-twig-generated-pages-42cc625e7db0)** · Medium, Oct 2017
-Technical guide on implementing HTML validation within Twig templating workflows.
-
 ### Conferences & Speaking
 
 - **LDX3 2026** · London, UK — Engineering leadership conference. Workshops with CTOs, peer networking with Heads of Engineering and VPs.
@@ -324,3 +316,17 @@ Technical guide on implementing HTML validation within Twig templating workflows
 - **WordCamp Greece 2011** · Thessaloniki, Greece
 - **FOSSCOMM 2010** · Thessaloniki, Greece
 - **FOSSCOMM 2009** · Larissa, Greece
+
+### Competitions & Coding Challenges
+
+- **Code in the Dark 2016** · Leeds, UK
+- **Code in the Dark 2017** · Leeds, UK
+- **Code in the Dark 2018** · Leeds, UK
+
+### Publications
+
+**[Designing User Interfaces as a Developer](https://medium.com/pulsar/designing-user-interfaces-as-a-developer-22799b6e58a)** · Medium, Oct 2017
+Technical article on bridging design thinking with frontend engineering.
+
+**[W3C HTML Validation for Twig Generated Pages](https://medium.com/pulsar/w3c-html-validation-for-twig-generated-pages-42cc625e7db0)** · Medium, Oct 2017
+Technical guide on implementing HTML validation within Twig templating workflows.
