@@ -242,7 +242,7 @@ Owned the full product lifecycle for the Jadu CMS — from user research through
 - **Certified Training Professional** · ICDL Certification, 2006
 - **ImageMaker** · ICDL Certification, 2006
 - **ECDL Expert** · ICDL Certification, 2003
-- **ECDL (Original)** · ICDL Europe, 2001
+- **ECDL (Original)** · ICDL Certification, 2001
 
 ---
 
