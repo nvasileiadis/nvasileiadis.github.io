@@ -3,7 +3,7 @@ layout: page
 title: Nikos Vasileiadis — Software Engineering Leader | UK
 nav_title: Nikos Vasileiadis — Software Engineering Leader
 permalink: /
-description: "Strategic software engineering leader with 20+ years in technology and 9 years in leadership. Currently Engineering Manager at Utility Warehouse (FTSE 250). Expert in organisational design, people performance, and building engineering teams that deliver autonomously. Based in Leeds, UK. British Citizen. Open to Senior Engineering Manager and Head of Engineering roles."
+description: "Software engineering leader with 20+ years in technology — from building his first website at 15 and delivering 40+ web projects across Greece to leading platform teams at Utility Warehouse (FTSE 250). 9 years in leadership. 100% team retention. Self-taught, community-driven, and commercially minded. Based in Leeds, UK. British Citizen. Open to Senior Engineering Manager and Head of Engineering roles."
 hide_title: true
 ---
 
