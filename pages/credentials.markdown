@@ -239,11 +239,11 @@ Owned the full product lifecycle for the Jadu CMS — from user research through
 
 ### Historical Certificates
 
+- **Estonia e-Residency** · Republic of Estonia, Dec 2015 — Approved as one of the first 2,000 global pilot participants.
 - **Certified Training Professional** · ICDL Certification, 2006 — _Applied professionally: spent a year teaching ECDL to adult learners at a computer school in Serres, and later tutored privately in algorithmic logic, C, and hardware. A former student now works as an engineer at Sophos._
 - **ImageMaker** · ICDL Certification, 2006
 - **ECDL Expert** · ICDL Certification, 2003
 - **ECDL (Original)** · ICDL Certification, 2001
-- **Estonia e-Residency** · Republic of Estonia, Dec 2015 — Approved as one of the first 2,000 global pilot participants.
 
 ---
 
