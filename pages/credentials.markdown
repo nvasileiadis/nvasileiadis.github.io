@@ -31,7 +31,7 @@ _This page is an evidence appendix for those who want to go deeper. For a comple
 
 ## From Engineer to Engineering Leader
 
-The evidence is in the pattern. At every company, the same thing happened: I was hired as an engineer, and within months I was the one setting up processes, mentoring juniors, facilitating sprints, and bridging the gap between engineering and business.
+The evidence is in the pattern. I've been leading from the front since before I had a title for it — from teaching adults to hold a mouse in a Greek computer school at age 18, to organising a 350-person national open-source conference at university, to running Sunday computing sessions for children through UNESCO. At every company, the same thing happened: I was hired as an engineer, and within months I was the one setting up processes, mentoring juniors, facilitating sprints, and bridging the gap between engineering and business.
 
 At **Jadu**, I was facilitating sprints while shipping features into an award-winning CMS. At **Leeds Building Society**, I introduced Agile to the entire organisation — its first structured delivery methodology. At **IMA-HOME**, I ran Scrum for global brand projects (Adidas, MARS, Royal Canin) while engineering their frontend systems. At **Utility Warehouse**, I was hired as a Senior Software Engineer — and within a year I was managing the team, building the backlog, setting up Scrum, and mentoring an Associate into a Mid-level engineer.
 
@@ -239,10 +239,11 @@ Owned the full product lifecycle for the Jadu CMS — from user research through
 
 ### Historical Certificates
 
-- **Certified Training Professional** · ICDL Certification, 2006
+- **Certified Training Professional** · ICDL Certification, 2006 — _Applied professionally: spent a year teaching ECDL to adult learners at a computer school in Serres, and later tutored privately in algorithmic logic, C, and hardware. A former student now works as an engineer at Sophos._
 - **ImageMaker** · ICDL Certification, 2006
 - **ECDL Expert** · ICDL Certification, 2003
 - **ECDL (Original)** · ICDL Certification, 2001
+- **Estonia e-Residency** · Republic of Estonia, Dec 2015 — Approved as one of the first 2,000 global pilot participants.
 
 ---
 
@@ -282,7 +283,7 @@ Web developer and event organiser for UNESCO's digital culture initiatives.
 Nationwide Greek Free and Open Source Software conference (350 attendees). Managed budget, sponsorships, venue, and technical teams.
 
 **Founder — Serres Linux Users Group** _(2008–2012)_
-Founded and ran the local Linux community in Serres, Greece — organising presentations, install-fests, and maintaining the group's web infrastructure.
+Founded and ran the local Linux community in Serres, Greece — organising presentations, install-fests, Sunday computing classes for adults and children (in partnership with UNESCO), and maintaining the group's web infrastructure. This community work generated a civic technology portfolio including the UNESCO Serres website, local municipality sites, the Natural History Museum, and a local radio station.
 
 **Web Developer & SysAdmin — IEEE** _(Oct 2010–Dec 2011)_
 Led technical infrastructure for regional science and technology initiatives. Configured and maintained Debian-based web hosting services (ISPConfig) and managed the customization of a Drupal ecosystem.

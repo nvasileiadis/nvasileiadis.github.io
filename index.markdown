@@ -33,7 +33,9 @@ hide_title: true
   </div>
 </div>
 
-I grew up in northern Greece and fell in love with the web as a teenager — turning a hobby into a career when the 2008 financial crisis cut my university path short. After a decade of building my way up, I moved to the UK in 2015 and put down roots in Leeds. What I discovered across those twenty years is that my real strength isn't code — it's people. I build the conditions where engineering teams thrive — through structure, clarity, and a genuine understanding of what makes people do their best work.
+I grew up in northern Greece and fell in love with the web as a teenager — building my first websites at 15, buying my first domain in 2005, and working on over 40 web projects before I ever left the country. After a decade of building my way up through freelancing, teaching, and community organising, I moved to the UK in 2015 and put down roots in Leeds. What I discovered across those twenty years is that my real strength isn't code — it's people. I build the conditions where engineering teams thrive — through structure, clarity, and a genuine understanding of what makes people do their best work.
+
+I've been mentoring engineers since before it was part of any job title — from teaching adults to use computers in Greek classrooms to developing engineers who've gone on to lead teams of their own.
 
 ## Currently
 

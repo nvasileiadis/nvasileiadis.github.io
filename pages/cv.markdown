@@ -122,10 +122,16 @@ Software Engineering Leader with <span class="stat">20+ years</span> in technolo
 
 **Projects**: Award-winning custom CMS for large-scale public sector institutions — Open source Interface Design System ([Pulsar](https://jadu.github.io/pulsar/))
 
-### Early Career & Consulting
+### Early Career, Teaching & Consulting
 
 **Dates**: Oct 2005 - Dec 2016 (11 years)
-**Description**: Full-stack development, consultancy, and training roles building the foundation of my technical capabilities. Key experiences included developing CMS-based solutions for non-profits (UNESCO) and local businesses, architecting real estate platforms, engineering e-commerce splits payment systems, and delivering technical training (C Programming, Algorithms). After relocating to the UK in 2015, delivered frontend engineering for Leeds-based agencies — building responsive e-commerce solutions for global fashion and retail brands and driving performance optimisation across client portfolios.
+
+Built the technical and leadership foundation across three domains:
+
+- **Web Development & Freelancing (2005–2015):** Delivered 40+ web projects across Greece and internationally — from local non-profits and bands to a Bitcoin job board for a client in California. Managed end-to-end client relationships, established professional billing structures (40/40/20 payment terms), and coordinated with distributed development teams. Platforms: WordPress, Drupal, custom HTML/CSS.
+- **Teaching & Mentorship (2006–2012):** Earned a Certified Training Professional (CTP) qualification and spent a year teaching ECDL to adult learners. Privately tutored a student in algorithmic logic, C, and hardware (Arduino/Raspberry Pi) — that student went on to earn a BSc and MSc in Manchester and now works as an engineer at Sophos.
+- **Community & Civic Technology (2008–2014):** Co-founded the Serres Linux Users Group, organised FOSSCOMM 2012, and managed the digital presence for UNESCO Serres, the local Natural History Museum, an EVS programme, and the MSG Panserraikos sports club. This civic technology portfolio predates and directly informs my later UK community work (GDG Leeds, IxDF Leeds, NUX).
+- **UK Agency Work (2015–2016):** Relocated to Leeds. Delivered frontend engineering for agencies — building responsive e-commerce for global fashion and retail brands (Vivienne Westwood) and driving performance optimisation.
 
 ## Education
 
@@ -134,7 +140,7 @@ Software Engineering Leader with <span class="stat">20+ years</span> in technolo
 **Institution**: IxDF - The Interaction Design Foundation — User Experience and Interaction Design (2017–2020)
 
 **Institution**: International University of Greece - Serres Campus  
-**Degree**: BSc Informatics Engineering (attended 2007–2012; did not graduate due to the Greek financial crisis)
+**Degree**: BSc Informatics Engineering (attended 2007–2012; strong grades in software engineering, programming, and databases; did not graduate due to the Greek economic crisis and systemic university barriers)
 
 ## Professional Credentials
 
@@ -142,7 +148,8 @@ Software Engineering Leader with <span class="stat">20+ years</span> in technolo
 **Team Topologies Distilled** · Team Topologies Academy, Oct 2023  
 **Mental Health First Aid Champion** · MHFA England & UK Health Security Agency, 2022–2023  
 **Professional Scrum Product Owner I (PSPO I)** · Scrum.org, Aug 2021  
-**Professional Scrum Master I (PSM I)** · Scrum.org, Jun 2019
+**Professional Scrum Master I (PSM I)** · Scrum.org, Jun 2019  
+**Estonia e-Residency** · Republic of Estonia, Dec 2015 — Approved as one of the first 2,000 global pilot participants.
 
 _Full credentials list — Scrum, UX, FinTech, analytics, cloud, accessibility, and more — available on the [Credentials](/credentials/) page._
 
