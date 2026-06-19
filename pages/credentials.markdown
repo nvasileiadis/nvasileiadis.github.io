@@ -61,7 +61,7 @@ From engineering to engineering leadership, I've delivered for organisations acr
 
 ## Notable Projects & Highlights
 
-**Global Product Launch Displays — Adidas** _(IMA-HOME, 2021)_
+**Global Product Launch Displays — Adidas** _(IMA-HOME, 2022)_
 Developed highly-optimised, custom web interfaces deployed to digital signage across international retail locations. Engineered synchronised countdown systems for high-profile product launches, ensuring robust continuous performance and precise global timezone coordination.
 
 **Royal Canin Global Design System** _(IMA-HOME, 2020-2022)_
