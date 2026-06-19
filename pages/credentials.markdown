@@ -59,12 +59,12 @@ From engineering to engineering leadership, I've delivered for organisations acr
 
 ---
 
-## Notable Projects
+## Notable Projects & Highlights
 
-**Global Product Launch Displays — Adidas** _(IMA-HOME)_
+**Global Product Launch Displays — Adidas** _(IMA-HOME, 2021)_
 Developed highly-optimised, custom web interfaces deployed to digital signage across international retail locations. Engineered synchronised countdown systems for high-profile product launches, ensuring robust continuous performance and precise global timezone coordination.
 
-**Royal Canin Global Design System** _(IMA-HOME)_
+**Royal Canin Global Design System** _(IMA-HOME, 2020-2022)_
 Engineered a comprehensive Design System for the global pet food brand, with a heavy focus on internationalisation. Implemented extensive UX and architectural improvements to cater for Right-to-Left (RTL) languages such as Arabic, as well as addressing the unique structural and typographic requirements of the Russian and Japanese markets.
 
 **Pulsar UX & UI Framework** _(Jadu, 2017–2019)_
@@ -73,7 +73,8 @@ Open-source user experience and interface framework powering the Jadu Continuum 
 **End-to-End CMS Feature Development** _(Jadu, 2017–2018)_
 Owned the full product lifecycle for the Jadu CMS — from user research through to production release. Conducted regular on-site visits to council and university offices including Wyre Council, Rotherham Council, Greater Manchester Combined Authority, City of York Council, and the University of Leeds. Interviewed employees and performed contextual inquiry sessions — observing real workflows and recording usability tests with Silverback. Distilled field research into actionable reports that directly shaped the company's feature roadmap. Designed and prototyped solutions, ran iterative usability testing cycles, and shipped validated features into the live product. One of three developers in the Leeds office building Pulsar, each independently responsible for a major product area — I owned the CMS, alongside colleagues covering Forms and CRM — operating with product-ownership scope that exceeded the UX Interface Developer title.
 
----
+**Running a Business — Freelance Operations & Estonia e-Residency** _(2005–2015)_
+By the time I applied for Estonia's e-Residency programme — approved as one of the first 2,000 participants in the pilot — I was already operating as a small business. The final years of my freelancing in Greece weren't just about writing code; they were about running complete commercial projects end to end. I'd take a brief, scope the work, price it, then coordinate a network of contractors — designers, translators — delivering a finished product while managing the budget across all of them. One project was a website for a snail farm: I commissioned the design, arranged multilingual translations to help the business reach international markets, and delivered a complete package — branding, content, and search visibility — not just a website. That experience gave me an instinct for how budgets flow, how vendor relationships work, and what it means to be accountable for an entire delivery — not just your piece of it. Estonia's e-Residency was the natural next step: formalising that operating model into a legitimate EU business structure. I didn't end up using it — I moved to the UK shortly after — but the commercial thinking behind it is something I carry into every leadership role.
 
 ## Full Credentials
 
@@ -239,7 +240,6 @@ Owned the full product lifecycle for the Jadu CMS — from user research through
 
 ### Historical Certificates
 
-- **Estonia e-Residency** · Republic of Estonia, Dec 2015 — Approved as one of the first 2,000 global pilot participants.
 - **Certified Training Professional** · ICDL Certification, 2006 — _Applied professionally: spent a year teaching ECDL to adult learners at a computer school in Serres, and later tutored privately in algorithmic logic, C, and hardware. A former student now works as an engineer at Sophos._
 - **ImageMaker** · ICDL Certification, 2006
 - **ECDL Expert** · ICDL Certification, 2003
@@ -258,7 +258,7 @@ Supported early-career bootcamp graduates entering the industry as software engi
 **Lead Organiser — Google Developer Group Leeds** _(2019–2020)_
 Revived an inactive GDG chapter from the ground up, assembling a volunteer team and running a series of technical conferences, workshops, and presentations.
 
-**IDF Local Leader — Interaction Design Foundation Leeds** _(2018–2020)_
+**IxDF Local Leader — Interaction Design Foundation Leeds** _(2018–2020)_
 Organised regular UX meetups and community networking sessions in Leeds.
 
 **Mentor — Sky Coding Club** _(Nov 2019)_

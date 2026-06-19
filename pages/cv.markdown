@@ -149,7 +149,6 @@ Built the technical and leadership foundation across three domains:
 **Mental Health First Aid Champion** · MHFA England & UK Health Security Agency, 2022–2023  
 **Professional Scrum Product Owner I (PSPO I)** · Scrum.org, Aug 2021  
 **Professional Scrum Master I (PSM I)** · Scrum.org, Jun 2019  
-**Estonia e-Residency** · Republic of Estonia, Dec 2015 — Approved as one of the first 2,000 global pilot participants.
 
 _Full credentials list — Scrum, UX, FinTech, analytics, cloud, accessibility, and more — available on the [Credentials](/credentials/) page._
 
