@@ -135,10 +135,6 @@ Built the technical and leadership foundation across three domains:
 
 ## Education
 
-**Institution**: freeCodeCamp — Computer Software Engineering
-
-**Institution**: IxDF - The Interaction Design Foundation — User Experience and Interaction Design (2017–2020)
-
 **Institution**: International University of Greece - Serres Campus  
 **Degree**: BSc Informatics Engineering (attended 2007–2012; strong grades in software engineering, programming, and databases; did not graduate due to the Greek economic crisis and systemic university barriers)
 
