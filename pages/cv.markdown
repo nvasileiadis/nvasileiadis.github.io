@@ -10,7 +10,7 @@ hide_title: true
 
 # Nikos Vasileiadis
 
-**Software Engineering Leader** · Leeds, England, United Kingdom · British Citizen  
+**Software Engineering Leader** · Leeds, United Kingdom · British Citizen  
 [vasileiadis.nikos@gmail.com](mailto:vasileiadis.nikos@gmail.com) · [linkedin.com/in/nvasileiadis](https://www.linkedin.com/in/nvasileiadis) · [nvasileiadis.github.io](https://nvasileiadis.github.io)<span class="pdf-only"> · 07729 021 996</span>
 
 <div class="no-pdf cv-download-bar">
@@ -27,17 +27,17 @@ hide_title: true
   </div>
 </div>
 
-## Top skills
+## Professional Summary
 
-- **Engineering Leadership & People Development**: Proven track record of building, mentoring, and retaining high-performing remote teams (<span class="stat">100% retention rate</span>) while driving <span class="stat">3 promotions</span> through evidence-based cases. Natural aptitude for understanding people, building trust, and creating the conditions for autonomous, high-quality delivery.
+Software Engineering Leader with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> of progressive leadership experience. Proven track record of building and retaining high-performing remote teams, navigating organisational design through complex restructurings, and architecting critical platform services. I treat engineering as a business lever—contributing to CapEx/OpEx planning and ensuring technical investments map directly to business outcomes. While my technical depth across frontend and platform architecture establishes credibility, my true strength lies in designing the conditions where engineers do their best work.
+
+## Core Competencies
+
+- **Engineering Leadership & People Development**: Proven track record of building, mentoring, and retaining high-performing remote teams (<span class="stat">100% retention rate</span>) while driving <span class="stat">3 promotions</span> through evidence-based cases. Demonstrated ability to understand people, build trust, and create the conditions for autonomous, high-quality delivery.
 - **Organisational Design & Change Management**: Experienced in navigating complex restructurings, building teams from scratch, and shaping team structures that align engineering capability with business outcomes. Have built the same team twice from zero.
 - **Platform & Infrastructure Strategy**: Architecting and managing critical platform services and dependencies with a focus on SLAs, SLIs, and operational excellence for <span class="stat">15+</span> engineering teams.
 - **Design Systems Leadership**: End-to-end experience building and managing Design Systems — from open-source implementation (Pulsar at Jadu) to leading a dedicated Design Systems team at scale, enabling consistent, high-velocity delivery across product and engineering.
 - **Commercial Engineering & Business Acumen**: Treating engineering as a business lever, not a cost centre. Active contributor to CapEx/OpEx planning, vendor ROI evaluation, and ensuring every technical investment maps to a business outcome.
-
-## About
-
-Software Engineering Leader with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> of progressive leadership experience. Proven track record of building and retaining high-performing remote teams, navigating organisational design through complex restructurings, and architecting critical platform services. I treat engineering as a business lever—contributing to CapEx/OpEx planning and ensuring technical investments map directly to business outcomes. While my technical depth across frontend and platform architecture establishes credibility, my true strength lies in designing the conditions where engineers do their best work.
 
 ## Experience
 
@@ -50,7 +50,7 @@ Software Engineering Leader with <span class="stat">20+ years</span> in technolo
 
 **Responsibilities:**
 
-- **Team Leadership & Retention:** Built and managed up to <span class="stat">8 engineers</span> across two teams with a <span class="stat">100% retention rate</span> — maintained through three company restructurings that progressively reduced headcount to a specialist core. Every reduction was organisational; zero attrition.
+- **Team Leadership & Retention:** Built and managed up to <span class="stat">8 engineers</span> across two teams with a <span class="stat">100% retention rate</span> — maintained through three company restructurings that progressively reduced headcount to a specialist core. Every reduction was organisational; zero voluntary attrition.
 - **Talent Development:** Drove <span class="stat">3 promotions</span> through evidence-based cases (Associate to Mid-level, Mid-level to Senior), advocating for talent recognition across organisational boundaries. Mentored engineers who subsequently moved into Engineering Manager roles both internally and externally.
 - **Org Design & Navigation:** During restructurings, took on unguided responsibility for scoping and executing team migrations — including the Content Capability team's moves between pillars — by independently mapping scope, chasing stakeholder alignment, and building consensus from scratch.
 - **Strategic Influence:** Challenged and reversed structural decisions that would have eliminated the Design Systems team, preserving the critical capability that enabled the 2025 company-wide rebrand.
@@ -84,7 +84,7 @@ Software Engineering Leader with <span class="stat">20+ years</span> in technolo
 **Location**: Leeds, England, United Kingdom  
 **Employment Type**: Full-time, Hybrid
 
-**Description**: Operated as a dual-threat technical leader for global brands (Adidas, MARS). Alongside architecting frontend solutions, I formally took on Scrum Master responsibilities to elevate the organization's delivery standards and project predictability.
+**Description**: Operated as a dual-role technical leader for global brands (Adidas, MARS). Alongside architecting frontend solutions, I formally took on Scrum Master responsibilities to elevate the organisation's delivery standards and project predictability.
 
 **Agile Transformation:** Introduced structured Agile/Scrum practices to an agency running entirely on ad-hoc, fire-driven delivery. Result: measurable sprint velocity, predictable project allocation, and regular client demos — improving delivery health and client confidence across the board.
 
@@ -101,7 +101,7 @@ Software Engineering Leader with <span class="stat">20+ years</span> in technolo
 
 **Description**: Maintained public-facing digital assets in a highly regulated FinTech environment while actively mentoring engineering teams to elevate code quality and UX standards.
 
-**Agile First Mover:** Introduced Agile and Scrum to LBS for the first time, shifting a high-bureaucracy, low-velocity organisation from ad-hoc output to sprint-based iterative delivery with measurable velocity. Acted as the primary driver for Agile adoption across the department throughout my tenure.
+**Agile Pioneer:** Introduced Agile and Scrum to LBS for the first time, shifting a high-bureaucracy, low-velocity organisation from ad-hoc output to sprint-based iterative delivery with measurable velocity. Acted as the primary driver for Agile adoption across the department throughout my tenure.
 
 **Leadership in Crisis — Digital Transformation (Interim Scrum Master, Jun–Oct 2019):** Formally appointed to stabilise delivery and lead the Digital Transformation programme — working alongside external consultants and cross-functional teams to move a firefighting culture into structured, iterative feature development with regular delivery cadences.
 
@@ -144,7 +144,7 @@ Built the technical and leadership foundation across three domains:
 **Team Topologies Distilled** · Team Topologies Academy, Oct 2023  
 **Mental Health First Aid Champion** · MHFA England & UK Health Security Agency, 2022–2023  
 **Professional Scrum Product Owner I (PSPO I)** · Scrum.org, Aug 2021  
-**Professional Scrum Master I (PSM I)** · Scrum.org, Jun 2019  
+**Professional Scrum Master I (PSM I)** · Scrum.org, Jun 2019
 
 _Full credentials list — Scrum, UX, FinTech, analytics, cloud, accessibility, and more — available on the [Credentials](/credentials/) page._
 
