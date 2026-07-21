@@ -239,8 +239,8 @@ $on-laptop: 800px !default;
   }
 }
 
-// Dutch-audience callout: subtle, low-key nudge for NL visitors.
-.dutch-callout {
+// Locale-specific callouts: subtle nudge for international visitors.
+.locale-callout {
   text-align: center;
   font-size: $small-font-size;
   color: $grey-color-dark;

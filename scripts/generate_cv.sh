@@ -28,5 +28,8 @@ generate_cv "pages/cv.markdown" "Nikos_Vasileiadis_CV.pdf" "Nikos_Vasileiadis_CV
 # Dutch-audience CV
 generate_cv "pages/cv-dutch.markdown" "Nikos_Vasileiadis_CV_Dutch.pdf" "Nikos_Vasileiadis_CV_Dutch.docx" "Dutch CV"
 
+# Irish-audience CV
+generate_cv "pages/cv-irish.markdown" "Nikos_Vasileiadis_CV_Irish.pdf" "Nikos_Vasileiadis_CV_Irish.docx" "Irish CV"
+
 echo ""
 echo "All CV files generated in assets/"

@@ -74,6 +74,10 @@ I've been mentoring engineers since before it was part of any job title — from
   </a>
 </div>
 
-<p class="dutch-callout" lang="nl">
+<p class="locale-callout" lang="nl">
   🇳🇱 <em>Ben je Nederlands?</em> Onze waarden komen overeen. <a href="/cv-dutch/">Bekijk mijn CV hier</a> — written for you.
+</p>
+
+<p class="locale-callout" lang="ga">
+  🇮🇪 <em>An Éireannach thú?</em> Your community is my kind of community. <a href="/cv-irish/">Have a look</a>.
 </p>
