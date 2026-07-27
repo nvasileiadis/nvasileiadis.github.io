@@ -33,7 +33,7 @@ sitemap:
 
 I started building websites as a teenager in northern Greece and turned a hobby into a 20-year career. After a decade of freelancing, teaching adults to use computers, and organising open-source conferences, I moved to Leeds in 2015 and found my way into engineering leadership — first through UX and Agile, then through platform teams and people management.
 
-I'm currently an Engineering Manager at Utility Warehouse (FTSE 250), where I run platform services for the company's main website and lead a specialist engineering team. What I've learned across those years is that the work I care most about is creating the conditions where people do their best work — through clarity, trust, and genuine investment in their growth.
+I'm currently an Engineering Manager at Utility Warehouse (FTSE 250), a UK multi-service provider of energy, broadband, mobile, and insurance — where I run platform services for the company's main website and lead a specialist engineering team. What I've learned across those years — working across financial services, regulated utilities, global retail, and public sector — is that the work I care most about is creating the conditions where people do their best work — through clarity, trust, and genuine investment in their growth.
 
 Greek (EU) citizen — full right to work in Ireland and across the EU. Based in Leeds, same timezone as Dublin. Open to remote roles with Irish organisations.
 
@@ -49,7 +49,7 @@ Greek (EU) citizen — full right to work in Ireland and across the EU. Based in
 
 ### Software Engineering Manager
 
-**Utility Warehouse** (Telecom Plus PLC · FTSE 250)  
+**Utility Warehouse** (Telecom Plus PLC · FTSE 250 — multi-service provider of energy, broadband, mobile & insurance)  
 Jul 2023 – Present · United Kingdom · Remote
 
 I manage the platform and content engineering team — the people responsible for uw.co.uk and the services that sit behind it. At peak we were <span class="stat">8 engineers</span> across two teams; after three rounds of company restructuring, we're now a specialist core of <span class="stat">2</span>. Everyone who wanted to stay, stayed. Nobody left by choice.
@@ -70,7 +70,7 @@ I manage the platform and content engineering team — the people responsible fo
 
 ### Lead Software Engineer
 
-**Utility Warehouse** (Telecom Plus PLC · FTSE 250)  
+**Utility Warehouse** (Telecom Plus PLC · FTSE 250 — multi-service provider of energy, broadband, mobile & insurance)  
 May 2022 – Jul 2023 · United Kingdom · Remote
 
 I joined as the founding engineer in a standalone team supporting marketing — no department, no established processes, no documentation. It was built to make use of my cross-functional experience in engineering, UX, and delivery.
@@ -94,7 +94,7 @@ Combined frontend architecture with Scrum Master responsibilities for global cli
 **Leeds Building Society** (5th largest UK building society · £31B+ assets)  
 Oct 2018 – Jan 2020 · Leeds, UK · Hybrid
 
-Maintained public-facing digital assets in a regulated financial services environment while mentoring teams on code quality and UX standards.
+Maintained public-facing digital assets for the UK's 5th largest building society — a regulated financial services environment — while mentoring teams on code quality and UX standards.
 
 - Introduced Agile and Scrum to the organisation for the first time — shifting from ad-hoc output to sprint-based delivery with measurable velocity. I was the primary driver for Agile adoption across the department throughout my time there.
 - Appointed as Interim Scrum Master (Jun–Oct 2019) to stabilise delivery during their Digital Transformation programme, working alongside external consultants and cross-functional teams.

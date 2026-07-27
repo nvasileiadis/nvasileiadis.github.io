@@ -31,7 +31,7 @@ sitemap:
 
 ## Summary
 
-Engineering Manager with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> in leadership. I build teams, maintain platforms, and focus on creating the right conditions for people to do good work. Currently managing platform and content services at Utility Warehouse (FTSE 250), a UK telecoms and utilities provider.
+Engineering Manager with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> in leadership, working across regulated industries — financial services, utilities, energy, and public sector technology. I build teams, maintain platforms, and focus on creating the right conditions for people to do good work. Currently managing platform and content services at Utility Warehouse (FTSE 250), a UK multi-service provider of energy, broadband, mobile and insurance.
 
 Based in Leeds, UK. Greek (EU) citizen — full right to work in the Netherlands and across the EU. Open to remote roles with Dutch and European organisations. The timezone overlap with CET is seamless.
 
@@ -47,7 +47,7 @@ Based in Leeds, UK. Greek (EU) citizen — full right to work in the Netherlands
 
 ### Software Engineering Manager
 
-**Utility Warehouse** (Telecom Plus PLC · FTSE 250)  
+**Utility Warehouse** (Telecom Plus PLC · FTSE 250 — multi-service provider of energy, broadband, mobile & insurance)  
 Jul 2023 – Present · United Kingdom · Remote
 
 - **Team & retention:** Managed up to <span class="stat">8 engineers</span> across two teams. Everyone who wanted to stay, stayed — <span class="stat">100% retention</span> through three restructurings that progressively reduced headcount to a specialist core. All reductions were organisational; zero voluntary attrition.
@@ -65,7 +65,7 @@ Jul 2023 – Present · United Kingdom · Remote
 
 ### Lead Software Engineer
 
-**Utility Warehouse** (Telecom Plus PLC · FTSE 250)  
+**Utility Warehouse** (Telecom Plus PLC · FTSE 250 — multi-service provider of energy, broadband, mobile & insurance)  
 May 2022 – Jul 2023 · United Kingdom · Remote
 
 Joined as the founding engineer in a standalone team supporting marketing — no department, no precedent, no documentation.
@@ -89,7 +89,7 @@ Combined frontend architecture with Scrum Master responsibilities for global cli
 **Leeds Building Society** (5th largest UK building society · £31B+ assets)  
 Oct 2018 – Jan 2020 · Leeds, UK · Hybrid
 
-Maintained public-facing digital assets in a regulated financial services environment while mentoring teams on code quality and UX standards.
+Maintained public-facing digital assets for the UK's 5th largest building society — a regulated financial services environment — while mentoring teams on code quality and UX standards.
 
 - Introduced Agile and Scrum to LBS for the first time — shifting from ad-hoc output to sprint-based delivery with measurable velocity.
 - Appointed as Interim Scrum Master (Jun–Oct 2019) to stabilise delivery during the Digital Transformation programme, working alongside external consultants and cross-functional teams.

@@ -31,7 +31,7 @@ _This page is an evidence appendix for those who want to go deeper. For a comple
 
 ## From Engineer to Engineering Leader
 
-The evidence is in the pattern. I've been leading from the front since before I had a title for it — from teaching adults to hold a mouse in a Greek computer school at age 18, to organising a 350-person national open-source conference at university, to running Sunday computing sessions for children through UNESCO. At every company, the same thing happened: I was hired as an engineer, and within months I was the one setting up processes, mentoring juniors, facilitating sprints, and bridging the gap between engineering and business.
+The evidence is in the pattern. I've been leading from the front since before I had a title for it — from teaching adults to hold a mouse in a Greek computer school at age 18, to organising a 350-person national open-source conference at university, to running Sunday computing sessions for children through UNESCO. Along the way, I've worked across financial services, regulated utilities, global retail, and public sector technology — each with its own constraints, compliance requirements, and stakeholder expectations. At every company, the same thing happened: I was hired as an engineer, and within months I was the one setting up processes, mentoring juniors, facilitating sprints, and bridging the gap between engineering and business.
 
 At **Jadu**, I was facilitating sprints while shipping features into an award-winning CMS. At **Leeds Building Society**, I introduced Agile to the entire organisation — its first structured delivery methodology. At **IMA-HOME**, I ran Scrum for global brand projects (Adidas, MARS, Royal Canin) while engineering their frontend systems. At **Utility Warehouse**, I was hired as a Senior Software Engineer — and within a year I was managing the team, building the backlog, setting up Scrum, and mentoring an Associate into a Mid-level engineer.
 
@@ -47,9 +47,11 @@ Over <span class="stat">100 articles</span> of documentation built from nothing.
 
 From engineering to engineering leadership, I've delivered for organisations across regulated industries, global brand agencies, and enterprise software. A selection of the most recognisable:
 
-**Global & Major Brands** Adidas · MARS · Royal Canin · Vivienne Westwood · Kärcher · Silverstone
+**Global Retail & FMCG** Adidas · MARS · Royal Canin · Vivienne Westwood · Kärcher · Silverstone
 
-**Regulated Industries** Leeds Building Society · Utility Warehouse
+**Financial Services** Leeds Building Society _(5th largest UK building society · £31B+ assets)_
+
+**Regulated Utilities & Energy** Utility Warehouse _(FTSE 250 · multi-service provider of energy, broadband, mobile & insurance)_
 
 **Public Sector & Education** Local Authorities (multiple) · Higher Education institutions · third-sector not-for-profit organisations _(via Jadu's award-winning CMS)_
 
@@ -265,7 +267,7 @@ Organised regular UX meetups and community networking sessions in Leeds.
 Inspired and assisted attendees learning HTML, CSS, and JavaScript.
 
 **3rd Place — KPMG's "30 Voices: The Next Generation"** _(Mar 2019)_
-Innovations competition for under-30s exploring how the financial sector will evolve by 2030. Our team's proposal leveraged AI, Blockchain, and Big Data for asset allocation via tokenisation of rights. _Associated with Leeds Building Society._
+National innovations competition exploring how the financial sector will evolve by 2030. Our team's proposal — AI-driven asset allocation via tokenisation of rights, using Blockchain and Big Data — placed 3rd nationally. Entered while working at Leeds Building Society, connecting sector domain knowledge with forward-looking financial technology thinking.
 
 **Guest Speaker — Northern User Experience** _(May 2018)_
 Delivered _"UX: A Developer's Perspective"_ at NUX Leeds. [Event details](https://nuxuk.org/2018/05/14/nux-leeds-tuesday-29th-may-ux-a-developers-perspective/)

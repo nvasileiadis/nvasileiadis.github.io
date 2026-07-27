@@ -3,7 +3,7 @@ layout: page
 title: Nikos Vasileiadis — Software Engineering Leader | UK
 nav_title: Nikos Vasileiadis — Software Engineering Leader
 permalink: /
-description: "Software engineering leader with 20+ years in technology — from building his first website at 15 and delivering 40+ web projects across Greece to leading platform teams at Utility Warehouse (FTSE 250). 9 years in leadership. 100% team retention. Self-taught, community-driven, and commercially minded. Based in Leeds, UK. British Citizen. Open to Senior Engineering Manager and Head of Engineering roles."
+description: "Software engineering leader with 20+ years in technology across regulated industries — financial services, utilities, energy, and public sector. 9 years in leadership. 100% team retention. Currently leading platform teams at Utility Warehouse (FTSE 250). Self-taught, community-driven, and commercially minded. Based in Leeds, UK. British Citizen. Open to Senior Engineering Manager and Head of Engineering roles."
 hide_title: true
 ---
 
@@ -33,13 +33,13 @@ hide_title: true
   </div>
 </div>
 
-I grew up in northern Greece and fell in love with the web as a teenager — building my first websites at 15, buying my first domain in 2005, and working on over 40 web projects before I ever left the country. After a decade of building my way up through freelancing, teaching, and community organising, I moved to the UK in 2015 and put down roots in Leeds. What I discovered across those twenty years is that my real strength isn't code — it's people. I build the conditions where engineering teams thrive — through structure, clarity, and a genuine understanding of what makes people do their best work.
+I grew up in northern Greece and fell in love with the web as a teenager — building my first websites at 15, buying my first domain in 2005, and working on over 40 web projects before I ever left the country. After a decade of building my way up through freelancing, teaching, and community organising, I moved to the UK in 2015 and put down roots in Leeds. What I discovered across those twenty years — working across financial services, regulated utilities, global retail, and public sector technology — is that my real strength isn't code. It's people. I build the conditions where engineering teams thrive — through structure, clarity, and a genuine understanding of what makes people do their best work.
 
 I've been mentoring engineers since before it was part of any job title — from teaching adults to use computers in Greek classrooms to developing engineers who've gone on to lead teams of their own.
 
 ## Currently
 
-**Software Engineering Manager at Utility Warehouse** (FTSE 250) — Leading a specialist team responsible for six platform services (Contentful CMS, GTM, Snowplow, Mixpanel, Optimizely, OneTrust) serving <span class="stat">15+</span> engineering teams and <span class="stat">8</span> content teams (<span class="stat">33</span> direct users across Marketing, Acquisition, Data Science, and more). Delivered UW's company-wide brand refresh across <span class="stat">522 pages</span> in two quarters (Oct 2025 – Apr 2026) — the critical-path work that unblocked every other team's rebranding effort. Built and preserved the Design Systems team that enabled it. Authored over <span class="stat">100 articles</span> of technical documentation, establishing the strongest documentation culture in the engineering org.
+**Software Engineering Manager at Utility Warehouse** (FTSE 250 · multi-service provider of energy, broadband, mobile & insurance) — Leading a specialist team responsible for six platform services (Contentful CMS, GTM, Snowplow, Mixpanel, Optimizely, OneTrust) serving <span class="stat">15+</span> engineering teams and <span class="stat">8</span> content teams (<span class="stat">33</span> direct users across Marketing, Acquisition, Data Science, and more). Delivered UW's company-wide brand refresh across <span class="stat">522 pages</span> in two quarters (Oct 2025 – Apr 2026) — the critical-path work that unblocked every other team's rebranding effort. Built and preserved the Design Systems team that enabled it. Authored over <span class="stat">100 articles</span> of technical documentation, establishing the strongest documentation culture in the engineering org.
 
 ## What I Do
 

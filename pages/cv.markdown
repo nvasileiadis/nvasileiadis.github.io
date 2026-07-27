@@ -29,7 +29,7 @@ hide_title: true
 
 ## Professional Summary
 
-Software Engineering Leader with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> of progressive leadership experience. Proven track record of building and retaining high-performing remote teams, navigating organisational design through complex restructurings, and architecting critical platform services. I treat engineering as a business lever—contributing to CapEx/OpEx planning and ensuring technical investments map directly to business outcomes. While my technical depth across frontend and platform architecture establishes credibility, my true strength lies in designing the conditions where engineers do their best work.
+Software Engineering Leader with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> of progressive leadership experience across regulated industries — financial services, utilities, energy, global retail, and public sector technology. Proven track record of building and retaining high-performing remote teams, navigating organisational design through complex restructurings, and architecting critical platform services. I treat engineering as a business lever—contributing to CapEx/OpEx planning and ensuring technical investments map directly to business outcomes. While my technical depth across frontend and platform architecture establishes credibility, my true strength lies in designing the conditions where engineers do their best work.
 
 ## Core Competencies
 
@@ -38,12 +38,13 @@ Software Engineering Leader with <span class="stat">20+ years</span> in technolo
 - **Platform & Infrastructure Strategy**: Architecting and managing critical platform services and dependencies with a focus on SLAs, SLIs, and operational excellence for <span class="stat">15+</span> engineering teams.
 - **Design Systems Leadership**: End-to-end experience building and managing Design Systems — from open-source implementation (Pulsar at Jadu) to leading a dedicated Design Systems team at scale, enabling consistent, high-velocity delivery across product and engineering.
 - **Commercial Engineering & Business Acumen**: Treating engineering as a business lever, not a cost centre. Active contributor to CapEx/OpEx planning, vendor ROI evaluation, and ensuring every technical investment maps to a business outcome.
+- **Regulated Industry Experience**: Proven delivery across multiple regulated sectors — financial services (Leeds Building Society), multi-service utilities including energy (Utility Warehouse), and public sector technology (Jadu / Local Authorities). Understanding of compliance-driven environments, data governance, and operating platforms where reliability has regulatory consequences.
 
 ## Experience
 
 ### Software Engineering Manager
 
-**Company**: Utility Warehouse (Telecom Plus PLC · FTSE 250)  
+**Company**: Utility Warehouse (Telecom Plus PLC · FTSE 250 — multi-service provider of energy, broadband, mobile & insurance)  
 **Dates**: Jul 2023 - Present  
 **Location**: United Kingdom · Remote  
 **Employment Type**: Full-time
@@ -66,7 +67,7 @@ Software Engineering Leader with <span class="stat">20+ years</span> in technolo
 
 ### Lead Software Engineer
 
-**Company**: Utility Warehouse (Telecom Plus PLC · FTSE 250)  
+**Company**: Utility Warehouse (Telecom Plus PLC · FTSE 250 — multi-service provider of energy, broadband, mobile & insurance)
 **Dates**: May 2022 - Jul 2023 (1 yr 3 mos)  
 **Location**: United Kingdom · Remote  
 **Employment Type**: Full-time
@@ -99,7 +100,7 @@ Software Engineering Leader with <span class="stat">20+ years</span> in technolo
 **Location**: Leeds, England, United Kingdom · Hybrid  
 **Employment Type**: Full-time
 
-**Description**: Maintained public-facing digital assets in a highly regulated FinTech environment while actively mentoring engineering teams to elevate code quality and UX standards.
+**Description**: Maintained public-facing digital assets for the UK's 5th largest building society — a highly regulated financial services environment — while actively mentoring engineering teams to elevate code quality and UX standards.
 
 **Agile Pioneer:** Introduced Agile and Scrum to LBS for the first time, shifting a high-bureaucracy, low-velocity organisation from ad-hoc output to sprint-based iterative delivery with measurable velocity. Acted as the primary driver for Agile adoption across the department throughout my tenure.
 
