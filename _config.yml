@@ -38,6 +38,23 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-last-modified-at
+  - jekyll-redirect-from
+  - jekyll-minifier
+
+# HTML/JS minification (CSS already compressed via Sass)
+jekyll-minifier:
+  preserve_php: false
+  remove_spaces_inside_tags: true
+  remove_multi_spaces: true
+  remove_comments: true
+  remove_intertag_spaces: false
+  remove_quotes: false          # keep quotes — safer for structured data / SEO tags
+  compress_css: false            # Sass already outputs compressed CSS
+  compress_javascript: true
+  simple_doctype: false
+  remove_script_attributes: false
+  remove_style_attributes: false
 
 # SEO / Social Sharing
 image: /assets/profile.jpeg
