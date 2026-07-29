@@ -9,7 +9,10 @@ hide_title: true
 
 <header class="hero-header" markdown="1">
 
-<img src="/assets/profile.jpeg" alt="Nikos Vasileiadis" class="profile-photo" width="120" height="120">
+<picture>
+  <source srcset="/assets/profile-240.webp" type="image/webp">
+  <img src="/assets/profile-240.jpeg" alt="Nikos Vasileiadis" class="profile-photo" width="120" height="120" fetchpriority="high">
+</picture>
 
 # Nikos Vasileiadis
 
