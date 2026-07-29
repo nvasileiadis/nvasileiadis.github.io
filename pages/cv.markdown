@@ -28,10 +28,14 @@ hide_title: true
 </div>
 
 ## Professional Summary
+{: .icon-user}
 
 Software Engineering Leader with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> of progressive leadership experience across regulated industries — financial services, utilities, energy, global retail, and public sector technology. Proven track record of building and retaining high-performing remote teams, navigating organisational design through complex restructurings, and architecting critical platform services. I treat engineering as a business lever—contributing to CapEx/OpEx planning and ensuring technical investments map directly to business outcomes. While my technical depth across frontend and platform architecture establishes credibility, my true strength lies in designing the conditions where engineers do their best work.
 
 ## Core Competencies
+{: .icon-grid}
+
+<div class="competency-list" markdown="1">
 
 - **Engineering Leadership & People Development**: Proven track record of building, mentoring, and retaining high-performing remote teams (<span class="stat">100% retention rate</span>) while driving <span class="stat">3 promotions</span> through evidence-based cases. Demonstrated ability to understand people, build trust, and create the conditions for autonomous, high-quality delivery.
 - **Organisational Design & Change Management**: Experienced in navigating complex restructurings, building teams from scratch, and shaping team structures that align engineering capability with business outcomes. Have built the same team twice from zero.
@@ -40,7 +44,12 @@ Software Engineering Leader with <span class="stat">20+ years</span> in technolo
 - **Commercial Engineering & Business Acumen**: Treating engineering as a business lever, not a cost centre. Active contributor to CapEx/OpEx planning, vendor ROI evaluation, and ensuring every technical investment maps to a business outcome.
 - **Regulated Industry Experience**: Proven delivery across multiple regulated sectors — financial services (Leeds Building Society), multi-service utilities including energy (Utility Warehouse), and public sector technology (Jadu / Local Authorities). Understanding of compliance-driven environments, data governance, and operating platforms where reliability has regulatory consequences.
 
+</div>
+
 ## Experience
+{: .icon-clock}
+
+<div class="career-timeline" markdown="1">
 
 ### Software Engineering Manager
 
@@ -134,12 +143,16 @@ Built the technical and leadership foundation across three domains:
 - **Community & Civic Technology (2008–2014):** Co-founded the Serres Linux Users Group, organised FOSSCOMM 2012, and managed the digital presence for UNESCO Serres, the local Natural History Museum, an EVS programme, and the MSG Panserraikos sports club. This civic technology portfolio predates and directly informs my later UK community work (GDG Leeds, IxDF Leeds, NUX).
 - **UK Agency Work (2015–2016):** Relocated to Leeds. Delivered frontend engineering for agencies — building responsive e-commerce for global fashion and retail brands (Vivienne Westwood) and driving performance optimisation.
 
+</div>
+
 ## Education
+{: .icon-book}
 
 **Institution**: International University of Greece - Serres Campus  
 **Degree**: BSc Informatics Engineering (attended 2007–2012; strong grades in software engineering, programming, and databases; did not graduate due to the Greek economic crisis and systemic university barriers)
 
 ## Professional Credentials
+{: .icon-shield}
 
 **AI Leader: Generative AI & Agentic AI for Leaders & Founders** · Udemy, Mar 2026  
 **Team Topologies Distilled** · Team Topologies Academy, Oct 2023  
@@ -150,6 +163,7 @@ Built the technical and leadership foundation across three domains:
 _Full credentials list — Scrum, UX, FinTech, analytics, cloud, accessibility, and more — available on the [Credentials](/credentials/) page._
 
 ## Community & Leadership
+{: .icon-users}
 
 **Mentor, WRK digital** _(Feb 2023–Present)_: Mentored engineers who progressed into Engineering Manager roles (both within UW and externally). Peer mentoring network spanning Engineering Managers, Heads of Engineering, VPs, and CTOs.
 

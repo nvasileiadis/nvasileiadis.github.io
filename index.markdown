@@ -38,13 +38,17 @@ hide_title: true
 
 I grew up in northern Greece and fell in love with the web as a teenager — building my first websites at 15, buying my first domain in 2005, and working on over 40 web projects before I ever left the country. After a decade of building my way up through freelancing, teaching, and community organising, I moved to the UK in 2015 and put down roots in Leeds. What I discovered across those twenty years — working across financial services, regulated utilities, global retail, and public sector technology — is that my real strength isn't code. It's people. I build the conditions where engineering teams thrive — through structure, clarity, and a genuine understanding of what makes people do their best work.
 
+<p class="pull-quote">My real strength isn't code. It's people.</p>
+
 I've been mentoring engineers since before it was part of any job title — from teaching adults to use computers in Greek classrooms to developing engineers who've gone on to lead teams of their own.
 
 ## Currently
+{: .icon-briefcase}
 
 **Software Engineering Manager at Utility Warehouse** (FTSE 250 · multi-service provider of energy, broadband, mobile & insurance) — Leading a specialist team responsible for six platform services (Contentful CMS, GTM, Snowplow, Mixpanel, Optimizely, OneTrust) serving <span class="stat">15+</span> engineering teams and <span class="stat">8</span> content teams (<span class="stat">33</span> direct users across Marketing, Acquisition, Data Science, and more). Delivered UW's company-wide brand refresh across <span class="stat">522 pages</span> in two quarters (Oct 2025 – Apr 2026) — the critical-path work that unblocked every other team's rebranding effort. Built and preserved the Design Systems team that enabled it. Authored over <span class="stat">100 articles</span> of technical documentation, establishing the strongest documentation culture in the engineering org.
 
 ## What I Do
+{: .icon-compass}
 
 <div class="leadership-card" markdown="1">
 **People & Performance**: I create environments where engineers and managers operate with clarity and autonomy. Through mentorship, process design, and deep understanding of individual motivation, I unlock the performance that's already there — acting as a multiplier, not a bottleneck.
@@ -63,6 +67,7 @@ I've been mentoring engineers since before it was part of any job title — from
 **Open to conversations about senior engineering leadership, organisational design, and people strategy.** [Let's connect →](mailto:vasileiadis.nikos@gmail.com)
 
 ## Explore
+{: .icon-explore}
 
 <div class="explore-grid">
   <a class="explore-card" href="/cv/">

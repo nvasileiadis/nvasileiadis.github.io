@@ -30,6 +30,7 @@ _This page is an evidence appendix for those who want to go deeper. For a comple
 <!-- markdownlint-enable MD033 -->
 
 ## From Engineer to Engineering Leader
+{: .icon-trending-up}
 
 The evidence is in the pattern. I've been leading from the front since before I had a title for it — from teaching adults to hold a mouse in a Greek computer school at age 18, to organising a 350-person national open-source conference at university, to running Sunday computing sessions for children through UNESCO. Along the way, I've worked across financial services, regulated utilities, global retail, and public sector technology — each with its own constraints, compliance requirements, and stakeholder expectations. At every company, the same thing happened: I was hired as an engineer, and within months I was the one setting up processes, mentoring juniors, facilitating sprints, and bridging the gap between engineering and business.
 
@@ -41,9 +42,12 @@ Over <span class="stat">100 articles</span> of documentation built from nothing.
 
 **<span class="stat">20+</span> years in technology. <span class="stat">9</span> years in leadership.** The engineering gave me the credibility. The people work gave me the purpose.
 
+<p class="pull-quote">The promotion to Engineering Manager didn't change what I did — it formalised what I'd always been doing.</p>
+
 ---
 
 ## Notable Brands & Clients
+{: .icon-globe}
 
 From engineering to engineering leadership, I've delivered for organisations across regulated industries, global brand agencies, and enterprise software. A selection of the most recognisable:
 
@@ -62,6 +66,7 @@ From engineering to engineering leadership, I've delivered for organisations acr
 ---
 
 ## Notable Projects & Highlights
+{: .icon-rocket}
 
 **Global Product Launch Displays — Adidas** _(IMA-HOME, 2022)_
 Developed highly-optimised, custom web interfaces deployed to digital signage across international retail locations. Engineered synchronised countdown systems for high-profile product launches, ensuring robust continuous performance and precise global timezone coordination.
@@ -79,6 +84,7 @@ Owned the full product lifecycle for the Jadu CMS — from user research through
 By the time I applied for Estonia's e-Residency programme — approved as one of the first 2,000 participants in the pilot — I was already operating as a small business. The final years of my freelancing in Greece weren't just about writing code; they were about running complete commercial projects end to end. I'd take a brief, scope the work, price it, then coordinate a network of contractors — designers, translators — delivering a finished product while managing the budget across all of them. One project was a website for a snail farm: I commissioned the design, arranged multilingual translations to help the business reach international markets, and delivered a complete package — branding, content, and search visibility — not just a website. That experience gave me an instinct for how budgets flow, how vendor relationships work, and what it means to be accountable for an entire delivery — not just your piece of it. Estonia's e-Residency was the natural next step: formalising that operating model into a legitimate EU business structure. I didn't end up using it — I moved to the UK shortly after — but the commercial thinking behind it is something I carry into every leadership role.
 
 ## Full Credentials
+{: .icon-file-text}
 
 ### Leadership & Management
 
@@ -250,6 +256,7 @@ By the time I applied for Estonia's e-Residency programme — approved as one of
 ---
 
 ## Public Service, Community & Recognition
+{: .icon-users}
 
 **Mentor — WRK digital** _(Feb 2023–Present)_
 Peer mentoring network with Engineering Managers, Heads of Engineering, VPs, and CTOs.
