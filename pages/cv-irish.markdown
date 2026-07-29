@@ -30,6 +30,7 @@ sitemap:
 </div>
 
 ## About Me
+{: .icon-user}
 
 I started building websites as a teenager in northern Greece and turned a hobby into a 20-year career. After a decade of freelancing, teaching adults to use computers, and organising open-source conferences, I moved to Leeds in 2015 and found my way into engineering leadership — first through UX and Agile, then through platform teams and people management.
 
@@ -38,14 +39,16 @@ I'm currently an Engineering Manager at Utility Warehouse (FTSE 250), a UK multi
 Greek (EU) citizen — full right to work in Ireland and across the EU. Based in Leeds, same timezone as Dublin. Open to remote roles with Irish organisations.
 
 ## What I'm About
+{: .icon-grid}
 
-- **People and teams** — keeping people, growing them, and getting out of their way. <span class="stat">100% retention</span> across three company restructurings. <span class="stat">3 promotions</span> I built the cases for.
+- **People and teams** — keeping people, growing them, and getting out of their way. <span class="stat">100% retention</span> across three company restructurings. <span class="stat">3 promotions</span> I built the cases for — backed by DORA data. Heartbeat surveys for team wellbeing. I measure what matters and act on it.
 - **Platform operations** — keeping critical services running and stakeholders supported across <span class="stat">15+</span> engineering teams.
 - **Design systems** — from co-building an open-source design system to leading enterprise-wide adoption across <span class="stat">20 teams</span>.
 - **Commercial sense** — CapEx/OpEx planning, vendor evaluation, and making sure engineering work connects to business outcomes.
 - **Documentation** — I inherited undocumented systems and built a culture of writing things down. Over <span class="stat">100 articles</span> and counting.
 
 ## Experience
+{: .icon-clock}
 
 ### Software Engineering Manager
 
@@ -57,6 +60,7 @@ I manage the platform and content engineering team — the people responsible fo
 **What the team and I have done:**
 
 - **Kept people and grew them.** Supported <span class="stat">3 promotions</span> (Associate → Mid, Mid → Senior) with evidence-based cases. Several people I mentored have since moved into Engineering Manager roles, both inside and outside UW. The <span class="stat">100% retention</span> wasn't luck — it was the result of giving people clarity, trust, and genuine career investment.
+- **Measured what mattered.** I started with manual team health tracking (TeamRetro) and custom DORA dashboards before the company rolled out DX. Now I use deployment frequency, lead time, change failure rate, and MTTR to understand delivery health — and that data directly feeds into promotion cases and bonus decisions. Alongside that, monthly Peakon Heartbeat surveys tell me how the team is actually doing — and I act on it. Performance isn't just throughput; it's whether people are in a position to sustain it.
 - **Navigated restructurings.** When the organisation restructured — three times — I took responsibility for working out where the team should sit: mapping scope, talking to stakeholders, and building consensus. It wasn't in my job description; it needed doing.
 - **Fought for what mattered.** When one restructuring would have dissolved the Design Systems team, I pushed back and made the case for keeping it. That team went on to enable the company-wide rebrand.
 - **Built a documentation culture from nothing.** We inherited a CMS that nobody had documented in years. I started by mapping what existed — we called it "Archaeology" — and built up from there. Over <span class="stat">100 articles</span> of process and technical documentation now, from architecture decisions to onboarding guides.
@@ -122,6 +126,7 @@ The foundation years — where the technical skills, the community instinct, and
 - **UK agency work (2015–2016):** Relocated to Leeds. Built responsive e-commerce for global brands (Vivienne Westwood) and focused on frontend performance.
 
 ## Community & Volunteering
+{: .icon-users}
 
 Community organising has been a constant throughout my career — from Greece to Leeds.
 
@@ -132,11 +137,13 @@ Community organising has been a constant throughout my career — from Greece to
 **Lead Organiser, Google Developers Group Leeds** _(Jan 2019–Mar 2020)_: Revived an inactive chapter and ran conferences, workshops, and meetups. The highlight was a one-day conference in November 2019 with UK and international speakers — entirely volunteer-powered.
 
 ## Education
+{: .icon-book}
 
 **International University of Greece — Serres Campus**  
 BSc Informatics Engineering (attended 2007–2012; strong grades in software engineering, programming, and databases; did not graduate due to the Greek economic crisis and systemic university barriers)
 
 ## Credentials
+{: .icon-shield}
 
 **AI Leader: Generative AI & Agentic AI for Leaders & Founders** · Udemy, Mar 2026  
 **Team Topologies Distilled** · Team Topologies Academy, Oct 2023  

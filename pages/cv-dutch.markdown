@@ -30,20 +30,23 @@ sitemap:
 </div>
 
 ## Summary
+{: .icon-user}
 
 Engineering Manager with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> in leadership, working across regulated industries — financial services, utilities, energy, and public sector technology. I build teams, maintain platforms, and focus on creating the right conditions for people to do good work. Currently managing platform and content services at Utility Warehouse (FTSE 250), a UK multi-service provider of energy, broadband, mobile and insurance.
 
 Based in Leeds, UK. Greek (EU) citizen — full right to work in the Netherlands and across the EU. Open to remote roles with Dutch and European organisations. The timezone overlap with CET is seamless.
 
 ## What I Bring
+{: .icon-grid}
 
-- **People & teams** — Building and retaining remote engineering teams. <span class="stat">100% retention</span> across three company restructurings. <span class="stat">3 promotions</span> supported through evidence-based cases.
+- **People & teams** — Building and retaining remote engineering teams. <span class="stat">100% retention</span> across three company restructurings. <span class="stat">3 promotions</span> supported through evidence-based cases informed by DORA metrics. Using DORA, team health tracking, and Heartbeat surveys to keep performance visible and sustainable.
 - **Organisational design** — Navigating restructurings, building teams from scratch, aligning team structures with what the business actually needs. Have built the same team twice from zero.
 - **Platform & infrastructure** — Running critical platform services with clear SLAs and operational discipline for <span class="stat">15+</span> dependent engineering teams.
 - **Design systems** — From co-creating an open-source design system (Pulsar) to leading enterprise-wide adoption across <span class="stat">20 teams</span>.
 - **Commercial awareness** — CapEx/OpEx planning, vendor evaluation, R&D tax credit documentation. Engineering decisions are business decisions.
 
 ## Experience
+{: .icon-clock}
 
 ### Software Engineering Manager
 
@@ -51,6 +54,7 @@ Based in Leeds, UK. Greek (EU) citizen — full right to work in the Netherlands
 Jul 2023 – Present · United Kingdom · Remote
 
 - **Team & retention:** Managed up to <span class="stat">8 engineers</span> across two teams. Everyone who wanted to stay, stayed — <span class="stat">100% retention</span> through three restructurings that progressively reduced headcount to a specialist core. All reductions were organisational; zero voluntary attrition.
+- **Measurement-led leadership:** Progressed from manual team health tracking (TeamRetro) and custom dashboards to the DX platform. Uses DORA metrics (deployment frequency, lead time, change failure rate, MTTR) to inform promotion cases and bonus decisions. Complements with monthly Peakon Heartbeat surveys — acting on engagement and wellbeing signals, not just collecting them.
 - **Growing people:** Supported <span class="stat">3 promotions</span> (Associate → Mid, Mid → Senior) with evidence-based cases. Several engineers I mentored have since moved into Engineering Manager roles, both inside and outside the company.
 - **Navigating restructurings:** When the organisation restructured, I took responsibility for scoping team migrations — mapping scope, aligning stakeholders, and building consensus for where the team should sit. Nobody asked me to do this; it needed doing.
 - **Preserving what mattered:** Advocated for keeping the Design Systems team when a restructuring would have dissolved it. That team later enabled the company-wide rebrand.
@@ -115,6 +119,7 @@ Oct 2005 – Dec 2016 (11 years)
 - **UK agency work (2015–2016):** Relocated to Leeds. Built responsive e-commerce for global brands (Vivienne Westwood) and focused on frontend performance.
 
 ## Community & Volunteering
+{: .icon-users}
 
 **Mentor, WRK digital** _(Feb 2023–Present)_: Mentoring engineers who have gone on to become Engineering Managers. Part of a peer network spanning EMs, Heads of Engineering, VPs, and CTOs.
 
@@ -123,11 +128,13 @@ Oct 2005 – Dec 2016 (11 years)
 **Lead Organiser, Google Developers Group Leeds** _(Jan 2019–Mar 2020)_: Revived an inactive chapter; organised conferences, workshops, and meetups.
 
 ## Education
+{: .icon-book}
 
 **International University of Greece — Serres Campus**  
 BSc Informatics Engineering (attended 2007–2012; strong grades in software engineering, programming, and databases; did not graduate due to the Greek economic crisis and systemic university barriers)
 
 ## Credentials
+{: .icon-shield}
 
 **AI Leader: Generative AI & Agentic AI for Leaders & Founders** · Udemy, Mar 2026  
 **Team Topologies Distilled** · Team Topologies Academy, Oct 2023  

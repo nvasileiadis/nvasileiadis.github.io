@@ -40,6 +40,8 @@ The promotion to Engineering Manager didn't change what I did — it formalised 
 
 Over <span class="stat">100 articles</span> of documentation built from nothing. <span class="stat">3 promotions</span> driven through evidence-based cases. Zero attrition across my teams. A Design Systems team saved from disbandment that went on to enable a company-wide rebrand across <span class="stat">522 pages</span>. I've built the same team twice — first as a standalone unit with no department (2022), then again when I formed a specialist CMS team from a larger restructuring (2025), retaining a high-trust, high-capability core and starting from scratch a second time.
 
+I've always measured what matters — starting with manual team health tracking via TeamRetro and custom DORA dashboards, and progressing to the DX platform when the organisation adopted it. These aren't passive dashboards: DORA data directly informs promotion cases and bonus decisions, and I use Peakon Heartbeat surveys every month to understand team engagement and wellbeing — then act on it. Engineering health alongside people health. That's the full picture of performance, and it's how the "evidence-based" promotion cases actually get built.
+
 **<span class="stat">20+</span> years in technology. <span class="stat">9</span> years in leadership.** The engineering gave me the credibility. The people work gave me the purpose.
 
 <p class="pull-quote">The promotion to Engineering Manager didn't change what I did — it formalised what I'd always been doing.</p>

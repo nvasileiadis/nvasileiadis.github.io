@@ -51,7 +51,7 @@ I've been mentoring engineers since before it was part of any job title — from
 {: .icon-compass}
 
 <div class="leadership-card" markdown="1">
-**People & Performance**: I create environments where engineers and managers operate with clarity and autonomy. Through mentorship, process design, and deep understanding of individual motivation, I unlock the performance that's already there — acting as a multiplier, not a bottleneck.
+**People & Performance**: I create environments where engineers and managers operate with clarity and autonomy. Through mentorship, process design, and deep understanding of individual motivation, I unlock the performance that's already there — acting as a multiplier, not a bottleneck. I measure what matters: DORA metrics for delivery health and Heartbeat surveys for team engagement — and I use that data where it counts, from promotion cases to workload decisions.
 </div>
 
 <div class="leadership-card" markdown="1">
