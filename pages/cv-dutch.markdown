@@ -29,15 +29,13 @@ sitemap:
   </div>
 </div>
 
-## Summary
-{: .icon-user}
+<h2 class="icon-user">Summary</h2>
 
 Engineering Manager with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> in leadership, working across regulated industries — financial services, utilities, energy, and public sector technology. I build teams, maintain platforms, and focus on creating the right conditions for people to do good work. Currently managing platform and content services at Utility Warehouse (FTSE 250), a UK multi-service provider of energy, broadband, mobile and insurance.
 
 Based in Leeds, UK. Greek (EU) citizen — full right to work in the Netherlands and across the EU. Open to remote roles with Dutch and European organisations. The timezone overlap with CET is seamless.
 
-## What I Bring
-{: .icon-grid}
+<h2 class="icon-grid">What I Bring</h2>
 
 - **People & teams** — Building and retaining remote engineering teams. <span class="stat">100% retention</span> across three company restructurings. <span class="stat">3 promotions</span> supported through evidence-based cases informed by DORA metrics. Using DORA, team health tracking, and Heartbeat surveys to keep performance visible and sustainable.
 - **Organisational design** — Navigating restructurings, building teams from scratch, aligning team structures with what the business actually needs. Have built the same team twice from zero.
@@ -45,8 +43,7 @@ Based in Leeds, UK. Greek (EU) citizen — full right to work in the Netherlands
 - **Design systems** — From co-creating an open-source design system (Pulsar) to leading enterprise-wide adoption across <span class="stat">20 teams</span>.
 - **Commercial awareness** — CapEx/OpEx planning, vendor evaluation, R&D tax credit documentation. Engineering decisions are business decisions.
 
-## Experience
-{: .icon-clock}
+<h2 class="icon-clock">Experience</h2>
 
 ### Software Engineering Manager
 
@@ -118,8 +115,7 @@ Oct 2005 – Dec 2016 (11 years)
 - **Community & civic technology (2008–2014):** Co-founded the Serres Linux Users Group, organised FOSSCOMM 2012, and managed digital presence for UNESCO Serres, the local Natural History Museum, and community organisations. This work directly shaped my later community involvement in the UK.
 - **UK agency work (2015–2016):** Relocated to Leeds. Built responsive e-commerce for global brands (Vivienne Westwood) and focused on frontend performance.
 
-## Community & Volunteering
-{: .icon-users}
+<h2 class="icon-users">Community & Volunteering</h2>
 
 **Mentor, WRK digital** _(Feb 2023–Present)_: Mentoring engineers who have gone on to become Engineering Managers. Part of a peer network spanning EMs, Heads of Engineering, VPs, and CTOs.
 
@@ -127,14 +123,12 @@ Oct 2005 – Dec 2016 (11 years)
 
 **Lead Organiser, Google Developers Group Leeds** _(Jan 2019–Mar 2020)_: Revived an inactive chapter; organised conferences, workshops, and meetups.
 
-## Education
-{: .icon-book}
+<h2 class="icon-book">Education</h2>
 
 **International University of Greece — Serres Campus**  
 BSc Informatics Engineering (attended 2007–2012; strong grades in software engineering, programming, and databases; did not graduate due to the Greek economic crisis and systemic university barriers)
 
-## Credentials
-{: .icon-shield}
+<h2 class="icon-shield">Credentials</h2>
 
 **AI Leader: Generative AI & Agentic AI for Leaders & Founders** · Udemy, Mar 2026  
 **Team Topologies Distilled** · Team Topologies Academy, Oct 2023  

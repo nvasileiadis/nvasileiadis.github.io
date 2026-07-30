@@ -27,13 +27,11 @@ hide_title: true
   </div>
 </div>
 
-## Professional Summary
-{: .icon-user}
+<h2 class="icon-user">Professional Summary</h2>
 
 Software Engineering Leader with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> of progressive leadership experience across regulated industries — financial services, utilities, energy, global retail, and public sector technology. Proven track record of building and retaining high-performing remote teams, navigating organisational design through complex restructurings, and architecting critical platform services. I treat engineering as a business lever—contributing to CapEx/OpEx planning and ensuring technical investments map directly to business outcomes. While my technical depth across frontend and platform architecture establishes credibility, my true strength lies in designing the conditions where engineers do their best work.
 
-## Core Competencies
-{: .icon-grid}
+<h2 class="icon-grid">Core Competencies</h2>
 
 <div class="competency-list" markdown="1">
 
@@ -46,8 +44,7 @@ Software Engineering Leader with <span class="stat">20+ years</span> in technolo
 
 </div>
 
-## Experience
-{: .icon-clock}
+<h2 class="icon-clock">Experience</h2>
 
 <div class="career-timeline" markdown="1">
 
@@ -146,14 +143,12 @@ Built the technical and leadership foundation across three domains:
 
 </div>
 
-## Education
-{: .icon-book}
+<h2 class="icon-book">Education</h2>
 
 **Institution**: International University of Greece - Serres Campus  
 **Degree**: BSc Informatics Engineering (attended 2007–2012; strong grades in software engineering, programming, and databases; did not graduate due to the Greek economic crisis and systemic university barriers)
 
-## Professional Credentials
-{: .icon-shield}
+<h2 class="icon-shield">Professional Credentials</h2>
 
 **AI Leader: Generative AI & Agentic AI for Leaders & Founders** · Udemy, Mar 2026  
 **Team Topologies Distilled** · Team Topologies Academy, Oct 2023  
@@ -163,8 +158,7 @@ Built the technical and leadership foundation across three domains:
 
 _Full credentials list — Scrum, UX, FinTech, analytics, cloud, accessibility, and more — available on the [Credentials](/credentials/) page._
 
-## Community & Leadership
-{: .icon-users}
+<h2 class="icon-users">Community & Leadership</h2>
 
 **Mentor, WRK digital** _(Feb 2023–Present)_: Mentored engineers who progressed into Engineering Manager roles (both within UW and externally). Peer mentoring network spanning Engineering Managers, Heads of Engineering, VPs, and CTOs.
 

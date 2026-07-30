@@ -29,8 +29,7 @@ sitemap:
   </div>
 </div>
 
-## About Me
-{: .icon-user}
+<h2 class="icon-user">About Me</h2>
 
 I started building websites as a teenager in northern Greece and turned a hobby into a 20-year career. After a decade of freelancing, teaching adults to use computers, and organising open-source conferences, I moved to Leeds in 2015 and found my way into engineering leadership — first through UX and Agile, then through platform teams and people management.
 
@@ -38,8 +37,7 @@ I'm currently an Engineering Manager at Utility Warehouse (FTSE 250), a UK multi
 
 Greek (EU) citizen — full right to work in Ireland and across the EU. Based in Leeds, same timezone as Dublin. Open to remote roles with Irish organisations.
 
-## What I'm About
-{: .icon-grid}
+<h2 class="icon-grid">What I'm About</h2>
 
 - **People and teams** — keeping people, growing them, and getting out of their way. <span class="stat">100% retention</span> across three company restructurings. <span class="stat">3 promotions</span> I built the cases for — backed by DORA data. Heartbeat surveys for team wellbeing. I measure what matters and act on it.
 - **Platform operations** — keeping critical services running and stakeholders supported across <span class="stat">15+</span> engineering teams.
@@ -47,8 +45,7 @@ Greek (EU) citizen — full right to work in Ireland and across the EU. Based in
 - **Commercial sense** — CapEx/OpEx planning, vendor evaluation, and making sure engineering work connects to business outcomes.
 - **Documentation** — I inherited undocumented systems and built a culture of writing things down. Over <span class="stat">100 articles</span> and counting.
 
-## Experience
-{: .icon-clock}
+<h2 class="icon-clock">Experience</h2>
 
 ### Software Engineering Manager
 
@@ -125,8 +122,7 @@ The foundation years — where the technical skills, the community instinct, and
 - **Community & civic technology (2008–2014):** Co-founded the Serres Linux Users Group, organised FOSSCOMM 2012 (a national volunteer-powered conference), and managed the digital presence for UNESCO Serres, the local Natural History Museum, and community organisations. This community work directly shaped everything I went on to do in Leeds — GDG, IxDF, NUX.
 - **UK agency work (2015–2016):** Relocated to Leeds. Built responsive e-commerce for global brands (Vivienne Westwood) and focused on frontend performance.
 
-## Community & Volunteering
-{: .icon-users}
+<h2 class="icon-users">Community & Volunteering</h2>
 
 Community organising has been a constant throughout my career — from Greece to Leeds.
 
@@ -136,14 +132,12 @@ Community organising has been a constant throughout my career — from Greece to
 
 **Lead Organiser, Google Developers Group Leeds** _(Jan 2019–Mar 2020)_: Revived an inactive chapter and ran conferences, workshops, and meetups. The highlight was a one-day conference in November 2019 with UK and international speakers — entirely volunteer-powered.
 
-## Education
-{: .icon-book}
+<h2 class="icon-book">Education</h2>
 
 **International University of Greece — Serres Campus**  
 BSc Informatics Engineering (attended 2007–2012; strong grades in software engineering, programming, and databases; did not graduate due to the Greek economic crisis and systemic university barriers)
 
-## Credentials
-{: .icon-shield}
+<h2 class="icon-shield">Credentials</h2>
 
 **AI Leader: Generative AI & Agentic AI for Leaders & Founders** · Udemy, Mar 2026  
 **Team Topologies Distilled** · Team Topologies Academy, Oct 2023  
