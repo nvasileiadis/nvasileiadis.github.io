@@ -608,13 +608,14 @@ $on-laptop: 800px !default;
     &::before {
       content: '';
       position: absolute;
-      left: -31px;
-      top: 6px;
-      width: 12px;
-      height: 12px;
+      left: -32px;
+      top: 8px;
+      width: 14px;
+      height: 14px;
       border-radius: 50%;
       background-color: $background-color;
       border: 3px solid $brand-color;
+      box-sizing: border-box;
       z-index: 1;
     }
   }
@@ -627,9 +628,10 @@ $on-laptop: 800px !default;
     }
 
     h3::before {
-      left: -25px;
-      width: 10px;
-      height: 10px;
+      left: -26px;
+      width: 12px;
+      height: 12px;
+      box-sizing: border-box;
     }
   }
 }
