@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Archeology: How to Inherit a System Nobody Documented"
-date: 2026-08-20 09:00:00 +0100
+date: 2026-08-21 11:45:00 +0100
 categories: leadership
 description: "I inherited a business-critical platform with no documentation, no SLA, and no one left who built it. Four years later my team is the most thoroughly documented in the organisation — 100+ articles, built from zero. Here's the method."
 ---
@@ -65,4 +65,4 @@ Start smaller than feels useful. One article: "What we know so far." Then the lo
 
 ---
 
-*This is part of an occasional series on engineering leadership under real-world pressure. The first post — [What 100% Team Retention Through Three Restructurings Actually Looks Like](/leadership/2026/07/30/what-100-percent-retention-actually-looks-like.html) — covers keeping a team's trust while the org chart moves. Find me on [LinkedIn](https://www.linkedin.com/in/nvasileiadis).*
+*This is part of an occasional series on engineering leadership under real-world pressure. The first post — [What 100% Team Retention Through Three Restructurings Actually Looks Like](/leadership/2026/07/31/what-100-percent-retention-actually-looks-like.html) — covers keeping a team's trust while the org chart moves. Find me on [LinkedIn](https://www.linkedin.com/in/nvasileiadis).*

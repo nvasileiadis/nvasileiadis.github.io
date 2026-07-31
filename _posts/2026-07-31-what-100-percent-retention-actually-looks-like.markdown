@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What 100% Team Retention Through Three Restructurings Actually Looks Like"
-date: 2026-07-30 09:00:00 +0100
+date: 2026-07-31 11:45:00 +0100
 categories: leadership
 description: "Three company restructurings in three years. Zero voluntary attrition. Not luck, and not a perk of calm times — a set of deliberate practices any engineering manager can copy. Here is what I actually did."
 ---
