@@ -3,7 +3,11 @@
 
   {%- include head.html -%}
 
-  <body>
+  {%- assign reading_layout = false -%}
+  {%- if page.layout == "post" or page.layout == "home" -%}
+    {%- assign reading_layout = true -%}
+  {%- endif -%}
+  <body{% if reading_layout %} class="layout-reading"{% endif %}>
 
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
