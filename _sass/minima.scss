@@ -240,6 +240,15 @@ $on-laptop: 800px !default;
 }
 
 // Locale-specific callouts: subtle nudge for international visitors.
+.locale-callout-intro {
+  text-align: center;
+  font-size: $small-font-size;
+  font-style: italic;
+  color: $grey-color-dark;
+  margin-top: $spacing-unit;
+  margin-bottom: 0;
+}
+
 .locale-callout {
   text-align: center;
   font-size: $small-font-size;
