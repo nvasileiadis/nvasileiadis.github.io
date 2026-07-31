@@ -6,6 +6,10 @@ on:
   push:
     branches: ["master"]
 
+  # Daily rebuild so future-dated posts publish automatically when their date arrives
+  schedule:
+    - cron: "30 8 * * *"
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 

@@ -34,6 +34,8 @@ author:
 
 # Build settings
 theme: minima
+timezone: Europe/London
+future: false # hold future-dated posts until a scheduled rebuild after their date
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -83,7 +85,7 @@ sass:
 header_pages:
   - pages/cv.markdown
   - pages/credentials.markdown
-  # blog is intentionally excluded from nav until first real post is published
+  - pages/blog.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
