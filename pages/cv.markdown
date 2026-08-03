@@ -151,7 +151,7 @@ Built the technical and leadership foundation across three domains:
 **Professional Scrum Product Owner I (PSPO I)** · Scrum.org, Aug 2021  
 **Professional Scrum Master I (PSM I)** · Scrum.org, Jun 2019
 
-_Full credentials list — Scrum, UX, FinTech, analytics, cloud, accessibility, and more — available on the [Credentials](/credentials/) page._
+_Full credentials list — Scrum, UX, FinTech, analytics, cloud, accessibility, and more — available on the [Credentials](https://nvasileiadis.github.io/credentials/) page._
 
 <h2 class="icon-users">Community & Leadership</h2>
 

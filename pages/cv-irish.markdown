@@ -145,4 +145,4 @@ BSc Informatics Engineering (attended 2007–2012; strong grades in software eng
 **Professional Scrum Product Owner I (PSPO I)** · Scrum.org, Aug 2021  
 **Professional Scrum Master I (PSM I)** · Scrum.org, Jun 2019
 
-_Full credentials list available on the [Credentials](/credentials/) page._
+_Full credentials list available on the [Credentials](https://nvasileiadis.github.io/credentials/) page._
