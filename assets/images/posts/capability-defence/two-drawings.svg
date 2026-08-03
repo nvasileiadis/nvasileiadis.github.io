@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 480" role="img" aria-labelledby="td-title td-desc">
+  <title id="td-title">The same decision, drawn twice: org chart versus dependency map</title>
+  <desc id="td-desc">Left, the plan as drawn: an org chart where the design systems box, outlined in dashed gold, is folded into the neighbouring team box — one less box, reads as housekeeping. Right, the same plan as dependencies: the design system as a green hub with edges radiating to twenty-plus consuming teams, and a dashed gold cut across the hub — delete this box, and every edge becomes duplicated, divergent work.</desc>
+  <defs>
+    <marker id="td-arrow-gold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#b8870b"/>
+    </marker>
+  </defs>
+  <style>
+    .h { font: 600 12.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: 1.5px; fill: #595959; }
+    .box { font: 400 13px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #3a3a3a; }
+    .hub { font: 600 13px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #ffffff; }
+    .gold { font: italic 400 12px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #8f6a08; }
+    .grey { font: italic 400 11.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #9a9a94; }
+  </style>
+
+  <line x1="440" y1="56" x2="440" y2="430" stroke="#d8d8d2" stroke-width="1.5" stroke-dasharray="6 5"/>
+
+  <!-- Left: the plan as drawn -->
+  <text x="230" y="64" text-anchor="middle" class="h">THE PLAN, AS DRAWN</text>
+  <rect x="155" y="95" width="150" height="40" rx="6" fill="#ffffff" stroke="#d8d8d2" stroke-width="1.5"/>
+  <text x="230" y="120" text-anchor="middle" class="box">the department</text>
+  <line x1="230" y1="135" x2="115" y2="195" stroke="#c9c9c2" stroke-width="1.5"/>
+  <line x1="230" y1="135" x2="240" y2="195" stroke="#c9c9c2" stroke-width="1.5"/>
+  <line x1="230" y1="135" x2="365" y2="195" stroke="#c9c9c2" stroke-width="1.5"/>
+  <rect x="62" y="195" width="105" height="44" rx="6" fill="#ffffff" stroke="#d8d8d2" stroke-width="1.5"/>
+  <text x="115" y="222" text-anchor="middle" class="box">team A</text>
+  <rect x="187" y="195" width="105" height="44" rx="6" fill="#ffffff" stroke="#d8d8d2" stroke-width="1.5"/>
+  <text x="240" y="222" text-anchor="middle" class="box">my team</text>
+  <rect x="312" y="195" width="105" height="44" rx="6" fill="#ffffff" stroke="#b8870b" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <text x="365" y="222" text-anchor="middle" class="box">design systems</text>
+  <path d="M 364,243 Q 305,290 248,243" fill="none" stroke="#b8870b" stroke-width="2" stroke-dasharray="5 4" marker-end="url(#td-arrow-gold)"/>
+  <text x="240" y="310" text-anchor="middle" class="gold">“one less box”</text>
+  <text x="240" y="332" text-anchor="middle" class="grey">reads as housekeeping</text>
+
+  <!-- Right: the same plan as dependencies -->
+  <text x="660" y="64" text-anchor="middle" class="h">THE SAME PLAN, AS DEPENDENCIES</text>
+  <text x="660" y="97" text-anchor="middle" class="grey">twenty-plus consuming teams</text>
+  <line x1="660" y1="248" x2="785" y2="248" stroke="#9a9a94" stroke-width="1.2"/>
+  <line x1="660" y1="248" x2="768" y2="185" stroke="#9a9a94" stroke-width="1.2"/>
+  <line x1="660" y1="248" x2="722" y2="140" stroke="#9a9a94" stroke-width="1.2"/>
+  <line x1="660" y1="248" x2="660" y2="123" stroke="#9a9a94" stroke-width="1.2"/>
+  <line x1="660" y1="248" x2="598" y2="140" stroke="#9a9a94" stroke-width="1.2"/>
+  <line x1="660" y1="248" x2="552" y2="185" stroke="#9a9a94" stroke-width="1.2"/>
+  <line x1="660" y1="248" x2="535" y2="248" stroke="#9a9a94" stroke-width="1.2"/>
+  <line x1="660" y1="248" x2="552" y2="310" stroke="#9a9a94" stroke-width="1.2"/>
+  <line x1="660" y1="248" x2="598" y2="356" stroke="#9a9a94" stroke-width="1.2"/>
+  <line x1="660" y1="248" x2="660" y2="373" stroke="#9a9a94" stroke-width="1.2"/>
+  <line x1="660" y1="248" x2="722" y2="356" stroke="#9a9a94" stroke-width="1.2"/>
+  <line x1="660" y1="248" x2="768" y2="310" stroke="#9a9a94" stroke-width="1.2"/>
+  <circle cx="785" cy="248" r="7" fill="#f3f4f0" stroke="#c9c9c2" stroke-width="1.5"/>
+  <circle cx="768" cy="185" r="7" fill="#f3f4f0" stroke="#c9c9c2" stroke-width="1.5"/>
+  <circle cx="722" cy="140" r="7" fill="#f3f4f0" stroke="#c9c9c2" stroke-width="1.5"/>
+  <circle cx="660" cy="123" r="7" fill="#f3f4f0" stroke="#c9c9c2" stroke-width="1.5"/>
+  <circle cx="598" cy="140" r="7" fill="#f3f4f0" stroke="#c9c9c2" stroke-width="1.5"/>
+  <circle cx="552" cy="185" r="7" fill="#f3f4f0" stroke="#c9c9c2" stroke-width="1.5"/>
+  <circle cx="535" cy="248" r="7" fill="#f3f4f0" stroke="#c9c9c2" stroke-width="1.5"/>
+  <circle cx="552" cy="310" r="7" fill="#f3f4f0" stroke="#c9c9c2" stroke-width="1.5"/>
+  <circle cx="598" cy="356" r="7" fill="#f3f4f0" stroke="#c9c9c2" stroke-width="1.5"/>
+  <circle cx="660" cy="373" r="7" fill="#f3f4f0" stroke="#c9c9c2" stroke-width="1.5"/>
+  <circle cx="722" cy="356" r="7" fill="#f3f4f0" stroke="#c9c9c2" stroke-width="1.5"/>
+  <circle cx="768" cy="310" r="7" fill="#f3f4f0" stroke="#c9c9c2" stroke-width="1.5"/>
+  <rect x="595" y="225" width="130" height="47" rx="8" fill="#1d6340"/>
+  <line x1="605" y1="222" x2="715" y2="276" stroke="#b8870b" stroke-width="2.5" stroke-dasharray="6 4"/>
+  <line x1="605" y1="276" x2="715" y2="222" stroke="#b8870b" stroke-width="2.5" stroke-dasharray="6 4"/>
+  <text x="660" y="254" text-anchor="middle" class="hub">design systems</text>
+  <text x="660" y="302" text-anchor="middle" class="gold">delete this box…</text>
+  <text x="660" y="412" text-anchor="middle" class="gold">…and every edge becomes duplicated, divergent work</text>
+</svg>

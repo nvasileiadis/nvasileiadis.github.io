@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 390" role="img" aria-labelledby="oa-title oa-desc">
+  <title id="oa-title">Anchor identity to ownership, not the org chart</title>
+  <desc id="oa-desc">Three successive organisational homes drawn as dashed boxes — reorg one: orphaned, no clear home; reorg two: a platforms department; reorg three: a customer-facing pillar — each tethered by a dashed line to the same solid green band below: the same team, the same ownership — architecture, RFCs, stakeholder relationships, the services end to end. The org chart changes every reorg; the anchor doesn't.</desc>
+  <defs>
+    <marker id="oa-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#9a9a94"/>
+    </marker>
+  </defs>
+  <style>
+    .side { font: 600 12px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: 1.5px; }
+    .sidesub { font: italic 400 11.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #9a9a94; }
+    .rt { font: 600 12.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: 1.5px; fill: #595959; }
+    .rs { font: italic 400 12px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #595959; }
+    .bt { font: 600 13.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: 1.5px; fill: #ffffff; }
+    .chip { font: 400 12px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #cfe0d6; }
+    .time { font: italic 400 12px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #595959; }
+  </style>
+
+  <!-- Side labels -->
+  <text x="75" y="110" text-anchor="middle" class="side" fill="#9a9a94">CHANGES</text>
+  <text x="75" y="128" text-anchor="middle" class="sidesub">every reorg</text>
+  <text x="75" y="290" text-anchor="middle" class="side" fill="#1d6340">DOESN'T</text>
+  <text x="75" y="308" text-anchor="middle" class="side" fill="#1d6340">CHANGE</text>
+
+  <text x="830" y="60" text-anchor="end" class="time">three years · three restructurings</text>
+
+  <!-- The three homes (impermanent) -->
+  <rect x="150" y="76" width="200" height="72" rx="8" fill="#ffffff" stroke="#b0b0aa" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <text x="250" y="104" text-anchor="middle" class="rt">REORG 1</text>
+  <text x="250" y="126" text-anchor="middle" class="rs">orphaned — no clear home</text>
+
+  <rect x="390" y="76" width="200" height="72" rx="8" fill="#ffffff" stroke="#b0b0aa" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <text x="490" y="104" text-anchor="middle" class="rt">REORG 2</text>
+  <text x="490" y="126" text-anchor="middle" class="rs">a platforms department</text>
+
+  <rect x="630" y="76" width="200" height="72" rx="8" fill="#ffffff" stroke="#b0b0aa" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <text x="730" y="104" text-anchor="middle" class="rt">REORG 3</text>
+  <text x="730" y="126" text-anchor="middle" class="rs">a customer-facing pillar</text>
+
+  <line x1="354" y1="112" x2="384" y2="112" stroke="#9a9a94" stroke-width="2" marker-end="url(#oa-arrow)"/>
+  <line x1="594" y1="112" x2="624" y2="112" stroke="#9a9a94" stroke-width="2" marker-end="url(#oa-arrow)"/>
+
+  <!-- Tethers: reporting lines, impermanent -->
+  <line x1="250" y1="148" x2="250" y2="246" stroke="#9a9a94" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <line x1="490" y1="148" x2="490" y2="246" stroke="#9a9a94" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <line x1="730" y1="148" x2="730" y2="246" stroke="#9a9a94" stroke-width="1.5" stroke-dasharray="5 4"/>
+
+  <!-- The anchor -->
+  <rect x="150" y="250" width="680" height="92" rx="8" fill="#1d6340"/>
+  <text x="490" y="284" text-anchor="middle" class="bt">THE SAME TEAM, THE SAME OWNERSHIP</text>
+  <rect x="220" y="298" width="98" height="26" rx="13" fill="none" stroke="#cfe0d6"/>
+  <text x="269" y="315" text-anchor="middle" class="chip">architecture</text>
+  <rect x="334" y="298" width="50" height="26" rx="13" fill="none" stroke="#cfe0d6"/>
+  <text x="359" y="315" text-anchor="middle" class="chip">RFCs</text>
+  <rect x="400" y="298" width="175" height="26" rx="13" fill="none" stroke="#cfe0d6"/>
+  <text x="487" y="315" text-anchor="middle" class="chip">stakeholder relationships</text>
+  <rect x="591" y="298" width="170" height="26" rx="13" fill="none" stroke="#cfe0d6"/>
+  <text x="676" y="315" text-anchor="middle" class="chip">the services, end to end</text>
+</svg>

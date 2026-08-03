@@ -68,6 +68,11 @@ Where the map revealed things we didn't know how to run, we upskilled deliberate
 
 Reporting lines changed three times. What didn't change: who owned what. Each engineer owned services end to end — the architecture decisions, the RFCs, the stakeholder relationships, the technical presentations to other teams. Their professional identity was anchored to their craft and their ownership, not to a box on an org chart.
 
+<figure>
+  <img src="/assets/images/posts/retention/ownership-anchor.svg" alt="Three successive organisational homes drawn as dashed boxes — reorg one: orphaned, no clear home; reorg two: a platforms department; reorg three: a customer-facing pillar — each tethered by a dashed line to the same solid band below: the same team, the same ownership — architecture, RFCs, stakeholder relationships, the services end to end. The org chart changes every reorg; the anchor doesn't." width="880" height="390" loading="lazy">
+  <figcaption>Three years, three reporting lines — and the one thing that never moved.</figcaption>
+</figure>
+
 You cannot promise people their org position, so anchor them to something you *can* protect. A team whose sense of worth lives in the reporting structure is destroyed by every reorg. A team whose sense of worth lives in what they've built barely notices the lines moving.
 
 ## What it cost

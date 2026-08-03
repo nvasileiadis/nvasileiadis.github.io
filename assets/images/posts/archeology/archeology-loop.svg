@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 540" role="img" aria-labelledby="loop-title loop-desc">
+  <title id="loop-title">The archeology loop: explore, write, link, repeat</title>
+  <desc id="loop-desc">A three-step cycle. Explore: dig a layer — code, configs, the people who touched it. Write: at the moment of confusion, with the write-up as the definition of done. Link: into the corpus — decisions, traps, and the why. The loop repeats, and the corpus in the centre grows by one article every pass.</desc>
+  <defs>
+    <marker id="loop-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#1d6340"/>
+    </marker>
+  </defs>
+  <style>
+    .t { font: 600 13.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: 1.5px; fill: #3a3a3a; }
+    .tw { font: 600 13.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: 1.5px; fill: #ffffff; }
+    .s { font: 400 12.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #595959; }
+    .sw { font: 400 12.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #cfe0d6; }
+    .g { font: 600 13px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #8f6a08; }
+    .gs { font: italic 400 12px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #8f6a08; }
+    .rep { font: italic 400 12.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #595959; }
+  </style>
+
+  <!-- Explore -->
+  <rect x="320" y="48" width="240" height="84" rx="8" fill="#ffffff" stroke="#d8d8d2" stroke-width="1.5"/>
+  <text x="440" y="80" text-anchor="middle" class="t">EXPLORE</text>
+  <text x="440" y="101" text-anchor="middle" class="s">dig a layer: code, configs,</text>
+  <text x="440" y="118" text-anchor="middle" class="s">the people who touched it</text>
+
+  <!-- Write (the load-bearing step) -->
+  <rect x="580" y="330" width="240" height="84" rx="8" fill="#1d6340"/>
+  <text x="700" y="362" text-anchor="middle" class="tw">WRITE</text>
+  <text x="700" y="383" text-anchor="middle" class="sw">at the moment of confusion;</text>
+  <text x="700" y="400" text-anchor="middle" class="sw">write-up = definition of done</text>
+
+  <!-- Link -->
+  <rect x="60" y="330" width="240" height="84" rx="8" fill="#ffffff" stroke="#d8d8d2" stroke-width="1.5"/>
+  <text x="180" y="362" text-anchor="middle" class="t">LINK</text>
+  <text x="180" y="383" text-anchor="middle" class="s">into the corpus: decisions,</text>
+  <text x="180" y="400" text-anchor="middle" class="s">traps, and the why</text>
+
+  <!-- The corpus (the treasure) -->
+  <rect x="398" y="288" width="90" height="13" rx="3" fill="#fbf3e0" stroke="#b8870b"/>
+  <rect x="392" y="277" width="90" height="13" rx="3" fill="#fbf3e0" stroke="#b8870b"/>
+  <rect x="400" y="266" width="90" height="13" rx="3" fill="#fbf3e0" stroke="#b8870b"/>
+  <rect x="395" y="255" width="90" height="13" rx="3" fill="#fbf3e0" stroke="#b8870b"/>
+  <text x="440" y="326" text-anchor="middle" class="g">the corpus</text>
+  <text x="440" y="344" text-anchor="middle" class="gs">every loop leaves an article behind</text>
+
+  <!-- Cycle arrows, clockwise -->
+  <path d="M 575,105 Q 720,140 706,318" fill="none" stroke="#1d6340" stroke-width="2.5" marker-end="url(#loop-arrow)"/>
+  <path d="M 620,428 Q 440,505 262,430" fill="none" stroke="#1d6340" stroke-width="2.5" marker-end="url(#loop-arrow)"/>
+  <path d="M 174,318 Q 160,140 305,105" fill="none" stroke="#1d6340" stroke-width="2.5" marker-end="url(#loop-arrow)"/>
+  <text x="440" y="500" text-anchor="middle" class="rep">repeat</text>
+</svg>

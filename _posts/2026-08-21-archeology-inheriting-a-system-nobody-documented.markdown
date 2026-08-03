@@ -32,6 +32,11 @@ Archeology, as we practised it, is a discovery loop with a writing obligation at
 
 **4. Make writing a first-class engineering activity.** This is the cultural piece, and it's where most documentation efforts die. If documentation is what engineers do when the "real work" is finished, you will have no documentation, because the real work is never finished. We put discovery-and-writing tasks on the board, estimated them, and counted them in delivery like any other work. What the team sees prioritised is what the team believes is valued.
 
+<figure>
+  <img src="/assets/images/posts/archeology/archeology-loop.svg" alt="A three-step cycle: explore (dig a layer — code, configs, the people who touched it), write (at the moment of confusion, with the write-up as the definition of done), and link (into the corpus — decisions, traps, and the why). The loop repeats, and the corpus in the centre grows by one article every pass." width="880" height="540" loading="lazy">
+  <figcaption>The method in one loop: explore, write at the moment of confusion, link into the corpus — repeat.</figcaption>
+</figure>
+
 ## What it bought us
 
 The compounding returns surprised even me:
@@ -50,6 +55,11 @@ That irony points at something bigger. A team's values and culture are mostly in
 In a high-trust culture, documentation is given willingly. Writing down what you know feels like contribution, because you're confident the knowledge won't be used to make you dispensable. As trust drops, the documentation thins with it: grudging, incomplete, written to satisfy a checkbox rather than to genuinely transfer understanding. And at zero trust it disappears entirely — not because people are lazy, but because self-protection has quietly become the higher value. *What I know is my security* is a perfectly rational position in a team where people fear for their place; it's just fatal for the team.
 
 So when you walk into a new team, read the wiki the way an archeologist reads a dig site. The content tells you about the system. The existence, tone, and completeness tell you about the culture that produced it. A rich corpus full of admitted mistakes and "here's the trap I fell into" is the artefact of a team that feels safe. You cannot fake that — or at least, you couldn't until recently.
+
+<figure>
+  <img src="/assets/images/posts/archeology/trust-barometer.svg" alt="Documentation stacks growing along an axis of team trust: at zero trust a single dashed empty outline (what I know is my security — nothing gets written); at low trust a thin stack (grudging, incomplete, written for the checkbox); at high trust a tall stack given willingly, including gold sheets — the confessions. Beside them, separated by a dashed divider, an AI-generated stack just as tall, drawn in dashed outline: tall and complete, but no longer a signal." width="880" height="470" loading="lazy">
+  <figcaption>The trust barometer: documentation richness tracks team trust — and an AI-generated corpus breaks the signal.</figcaption>
+</figure>
 
 ## The AI wrinkle
 
