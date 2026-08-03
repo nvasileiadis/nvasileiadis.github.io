@@ -77,7 +77,7 @@ defaults:
       image: /assets/social-card.jpg
 
 # Analytics
-# google_tag_manager is injected at build time via GitHub Actions secret GTM_CONTAINER_ID
+# Umami Cloud (cookieless — no consent banner required); script tag lives in _includes/head-custom.html
 
 # Sass configuration
 sass:
