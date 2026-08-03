@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 360" role="img" aria-labelledby="pt2-title pt2-desc">
+  <title id="pt2-title">The deadline's price tag: paid in scope, openly</title>
+  <desc id="pt2-desc">Two panels. Kept lit: platform BAU for fifteen-plus dependent teams; availability, one production incident all year; other teams' launch dates; on-call cover. Switched off, deliberately and in writing: experimentation, dark for two quarters; every off-path feature request; the improvement backlog.</desc>
+  <style>
+    .ht { font: 600 13px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: 1.5px; fill: #ffffff; }
+    .row { font: 400 13px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #3a3a3a; }
+    .rowd { font: 400 13px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #595959; }
+    .foot { font: italic 400 11.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #8f6a08; }
+  </style>
+
+  <!-- Kept lit -->
+  <rect x="60" y="40" width="360" height="250" rx="10" fill="#ffffff" stroke="#1d6340" stroke-width="1.5"/>
+  <rect x="60" y="40" width="360" height="46" rx="10" fill="#1d6340"/>
+  <rect x="60" y="70" width="360" height="16" fill="#1d6340"/>
+  <text x="240" y="69" text-anchor="middle" class="ht">KEPT LIT</text>
+  <circle cx="92" cy="119" r="4" fill="#1d6340"/>
+  <text x="110" y="124" class="row">platform BAU — 15+ dependent teams</text>
+  <circle cx="92" cy="161" r="4" fill="#1d6340"/>
+  <text x="110" y="166" class="row">availability — one incident all year</text>
+  <circle cx="92" cy="203" r="4" fill="#1d6340"/>
+  <text x="110" y="208" class="row">every other team's launch dates</text>
+  <circle cx="92" cy="245" r="4" fill="#1d6340"/>
+  <text x="110" y="250" class="row">on-call cover</text>
+
+  <!-- Switched off -->
+  <rect x="460" y="40" width="360" height="250" rx="10" fill="#ffffff" stroke="#b8870b" stroke-width="1.5" stroke-dasharray="6 4"/>
+  <rect x="460" y="40" width="360" height="46" rx="10" fill="#8f6a08"/>
+  <rect x="460" y="70" width="360" height="16" fill="#8f6a08"/>
+  <text x="640" y="69" text-anchor="middle" class="ht">SWITCHED OFF — IN WRITING</text>
+  <line x1="486" y1="119" x2="498" y2="119" stroke="#b8870b" stroke-width="2.5" stroke-dasharray="4 3"/>
+  <text x="510" y="124" class="rowd">experimentation — dark for two quarters</text>
+  <line x1="486" y1="161" x2="498" y2="161" stroke="#b8870b" stroke-width="2.5" stroke-dasharray="4 3"/>
+  <text x="510" y="166" class="rowd">every off-path feature request</text>
+  <line x1="486" y1="203" x2="498" y2="203" stroke="#b8870b" stroke-width="2.5" stroke-dasharray="4 3"/>
+  <text x="510" y="208" class="rowd">the improvement backlog</text>
+  <line x1="486" y1="245" x2="498" y2="245" stroke="#b8870b" stroke-width="2.5" stroke-dasharray="4 3"/>
+  <text x="510" y="250" class="rowd">the price list — agreed, not discovered</text>
+
+  <text x="440" y="330" text-anchor="middle" class="foot">a deadline without a published price tag is a lie someone on your team will pay for</text>
+</svg>

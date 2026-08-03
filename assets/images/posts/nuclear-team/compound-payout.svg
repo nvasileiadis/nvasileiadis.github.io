@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 430" role="img" aria-labelledby="cp-title cp-desc">
+  <title id="cp-title">Three investments, one payout</title>
+  <desc id="cp-desc">Three long-term investments — people stayed (years of retained context), knowledge survived (the written corpus), structure held (the defended design system) — converge into a single event: the rebrand. 522 pages, two quarters, every launch unblocked, one incident.</desc>
+  <defs>
+    <marker id="cp-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#1d6340"/>
+    </marker>
+  </defs>
+  <style>
+    .t { font: 600 13px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: 1.5px; fill: #1d6340; }
+    .s { font: italic 400 12px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #595959; }
+    .et { font: 600 15px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: 1.5px; fill: #ffffff; }
+    .es { font: 400 12.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #cfe0d6; }
+    .ann { font: italic 400 12px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #9a9a94; }
+  </style>
+
+  <text x="185" y="42" text-anchor="middle" class="ann">invested over years</text>
+  <text x="695" y="112" text-anchor="middle" class="ann">paid out in one programme</text>
+
+  <!-- The investments -->
+  <rect x="60" y="60" width="250" height="80" rx="8" fill="#ffffff" stroke="#1d6340" stroke-width="1.5"/>
+  <text x="185" y="94" text-anchor="middle" class="t">PEOPLE STAYED</text>
+  <text x="185" y="118" text-anchor="middle" class="s">years of retained context</text>
+
+  <rect x="60" y="175" width="250" height="80" rx="8" fill="#ffffff" stroke="#1d6340" stroke-width="1.5"/>
+  <text x="185" y="209" text-anchor="middle" class="t">KNOWLEDGE SURVIVED</text>
+  <text x="185" y="233" text-anchor="middle" class="s">the written corpus</text>
+
+  <rect x="60" y="290" width="250" height="80" rx="8" fill="#ffffff" stroke="#1d6340" stroke-width="1.5"/>
+  <text x="185" y="324" text-anchor="middle" class="t">STRUCTURE HELD</text>
+  <text x="185" y="348" text-anchor="middle" class="s">the defended design system</text>
+
+  <!-- Convergence -->
+  <path d="M 315,100 Q 460,110 545,190" fill="none" stroke="#1d6340" stroke-width="2.5" marker-end="url(#cp-arrow)"/>
+  <path d="M 315,215 Q 430,215 542,225" fill="none" stroke="#1d6340" stroke-width="2.5" marker-end="url(#cp-arrow)"/>
+  <path d="M 315,330 Q 460,320 545,260" fill="none" stroke="#1d6340" stroke-width="2.5" marker-end="url(#cp-arrow)"/>
+
+  <!-- The payout -->
+  <rect x="560" y="130" width="270" height="185" rx="10" fill="#1d6340"/>
+  <text x="695" y="176" text-anchor="middle" class="et">THE REBRAND</text>
+  <text x="695" y="210" text-anchor="middle" class="es">522 pages · two quarters</text>
+  <text x="695" y="237" text-anchor="middle" class="es">every launch unblocked</text>
+  <text x="695" y="264" text-anchor="middle" class="es">one incident all year</text>
+  <text x="695" y="291" text-anchor="middle" class="es">a team of three</text>
+</svg>
