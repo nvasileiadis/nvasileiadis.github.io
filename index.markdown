@@ -84,10 +84,10 @@ I've been mentoring engineers since before it was part of any job title — from
 
 <p class="locale-callout-intro">If you're reading from the Netherlands or Ireland — these are for you:</p>
 
-<p class="locale-callout" lang="nl">
-  🇳🇱 <em>Ben je Nederlands?</em> Onze waarden komen overeen. <a href="/cv-dutch/">Bekijk mijn CV hier</a> — written for you.
+<p class="locale-callout">
+  🇳🇱 <span lang="nl"><em>Ben je Nederlands?</em> Onze waarden komen overeen. <a href="/cv-dutch/">Bekijk mijn CV hier</a></span> — written for you.
 </p>
 
-<p class="locale-callout" lang="ga">
-  🇮🇪 <em>An Éireannach thú?</em> Your community is my kind of community. <a href="/cv-irish/">Have a look</a>.
+<p class="locale-callout">
+  🇮🇪 <em lang="ga">An Éireannach thú?</em> Your community is my kind of community. <a href="/cv-irish/">Have a look</a>.
 </p>
