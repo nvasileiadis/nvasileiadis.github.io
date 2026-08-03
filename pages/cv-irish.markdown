@@ -6,8 +6,6 @@ permalink: /cv-irish/
 description: "CV of Nikos Vasileiadis — Software Engineering Manager with 20+ years in technology. Based in Leeds, UK (same timezone as Ireland). Greek and British citizen with full EU right to work. Open to remote roles with Irish organisations. People-focused, community-driven engineering leader."
 css: ".no-pdf { display: none !important; }"
 hide_title: true
-sitemap:
-  priority: 0.7
 ---
 
 # Nikos Vasileiadis
@@ -128,7 +126,7 @@ Community organising has been a constant throughout my career — from Greece to
 
 **Mentor, WRK digital** _(Feb 2023–Present)_: Mentoring engineers who have gone on to become Engineering Managers. Part of a peer network that spans EMs, Heads of Engineering, VPs, and CTOs.
 
-**Mentor, School of Code** _(Aug–Jan 2024)_: Supported people making their first steps into the industry.
+**Mentor, School of Code** _(Aug 2023–Jan 2024)_: Supported people making their first steps into the industry.
 
 **Lead Organiser, Google Developers Group Leeds** _(Jan 2019–Mar 2020)_: Revived an inactive chapter and ran conferences, workshops, and meetups. The highlight was a one-day conference in November 2019 with UK and international speakers — entirely volunteer-powered.
 

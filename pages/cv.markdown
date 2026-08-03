@@ -157,6 +157,6 @@ _Full credentials list — Scrum, UX, FinTech, analytics, cloud, accessibility, 
 
 **Mentor, WRK digital** _(Feb 2023–Present)_: Mentored engineers who progressed into Engineering Manager roles (both within UW and externally). Peer mentoring network spanning Engineering Managers, Heads of Engineering, VPs, and CTOs.
 
-**Mentor, School of Code** _(Aug–Jan 2024)_: Supported early-career engineers entering the industry.
+**Mentor, School of Code** _(Aug 2023–Jan 2024)_: Supported early-career engineers entering the industry.
 
 **Lead Organiser, Google Developers Group Leeds** _(Jan 2019–Mar 2020)_: Revived an inactive GDG chapter; organised conferences, workshops, and technical meetups.

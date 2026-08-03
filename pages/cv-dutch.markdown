@@ -6,8 +6,6 @@ permalink: /cv-dutch/
 description: "CV of Nikos Vasileiadis — Software Engineering Manager with 20+ years in technology. Based in Leeds, UK. Open to remote roles with Dutch organisations. People-focused, pragmatic, and collaborative. Engineering Manager at Utility Warehouse (FTSE 250)."
 css: ".no-pdf { display: none !important; }"
 hide_title: true
-sitemap:
-  priority: 0.7
 ---
 
 # Nikos Vasileiadis
@@ -119,7 +117,7 @@ Oct 2005 – Dec 2016 (11 years)
 
 **Mentor, WRK digital** _(Feb 2023–Present)_: Mentoring engineers who have gone on to become Engineering Managers. Part of a peer network spanning EMs, Heads of Engineering, VPs, and CTOs.
 
-**Mentor, School of Code** _(Aug–Jan 2024)_: Supported people entering the industry through their first engineering roles.
+**Mentor, School of Code** _(Aug 2023–Jan 2024)_: Supported people entering the industry through their first engineering roles.
 
 **Lead Organiser, Google Developers Group Leeds** _(Jan 2019–Mar 2020)_: Revived an inactive chapter; organised conferences, workshops, and meetups.
 
