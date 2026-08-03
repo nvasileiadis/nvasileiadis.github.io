@@ -16,6 +16,11 @@ $text-color: #111 !default;
 $background-color: #f8f9f6 !default;
 $brand-color: #1d6340 !default;
 $accent-color: #b8870b !default;
+// Text-safe variant of the gold accent: #b8870b only reaches ~3:1 against the
+// page background, so any accent used as text (or behind white text) must use
+// this darker shade to meet WCAG AA (4.5:1). Keep the brighter gold for
+// decorative rules and borders only.
+$accent-color-text: #8f6a08 !default;
 
 $grey-color: #595959 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
@@ -48,6 +53,25 @@ $on-laptop: 800px !default;
 
 // Import partials.
 @import "minima/base", "minima/layout", "minima/syntax-highlighting";
+
+// Skip link: hidden until focused, then drops in below the top edge.
+.skip-link {
+  position: absolute;
+  top: -100px;
+  left: $spacing-unit / 2;
+  z-index: 10;
+  padding: 8px 16px;
+  background-color: $brand-color;
+  color: #ffffff;
+  border-radius: 0 0 4px 4px;
+  font-weight: 500;
+
+  &:focus {
+    top: 0;
+    color: #ffffff;
+    text-decoration: none;
+  }
+}
 
 // Utility: hide elements that should only appear in generated PDF/DOCX files.
 // The .no-pdf class hides elements from PDF (via md-to-pdf CSS frontmatter).
@@ -112,7 +136,7 @@ $on-laptop: 800px !default;
 
 // Stat highlight: draws the eye to key metrics in experience bullets.
 .stat {
-  color: $accent-color;
+  color: $accent-color-text;
   font-weight: 600;
 }
 
@@ -168,9 +192,9 @@ $on-laptop: 800px !default;
 }
 
 .badge-organiser {
-  background-color: $accent-color;
+  background-color: $accent-color-text;
   color: #ffffff;
-  border: 1px solid darken($accent-color, 10%);
+  border: 1px solid darken($accent-color-text, 10%);
 }
 
 .badge-speaker {
@@ -266,7 +290,7 @@ $on-laptop: 800px !default;
     text-underline-offset: 2px;
 
     &:hover {
-      color: $accent-color;
+      color: $accent-color-text;
     }
   }
 }

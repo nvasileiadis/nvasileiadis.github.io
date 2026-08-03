@@ -20,6 +20,7 @@
 
 title: Nikos Vasileiadis — Software Engineering Leader
 email: vasileiadis.nikos@gmail.com
+locale: en_GB
 description: >- # this means to ignore newlines until "baseurl:"
   Strategic software engineering leader with 20+ years of experience in platform architecture, commercial engineering, and building high-performing teams. Open to executive leadership opportunities.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -31,6 +32,13 @@ author:
   email: vasileiadis.nikos@gmail.com
   linkedin: nvasileiadis
   github: nvasileiadis
+
+# jekyll-seo-tag: emits sameAs links in the JSON-LD, tying the site to these profiles
+social:
+  name: Nikos Vasileiadis
+  links:
+    - https://www.linkedin.com/in/nvasileiadis
+    - https://github.com/nvasileiadis
 
 # Build settings
 theme: minima
@@ -59,13 +67,14 @@ jekyll-minifier:
   remove_style_attributes: false
 
 # SEO / Social Sharing
-image: /assets/profile.jpeg
+# 1200x630 card (1.91:1) — square headshots get cropped by LinkedIn/Slack previews
+image: /assets/social-card.jpg
 
 defaults:
   - scope:
       path: ""
     values:
-      image: /assets/profile.jpeg
+      image: /assets/social-card.jpg
 
 # Analytics
 # google_tag_manager is injected at build time via GitHub Actions secret GTM_CONTAINER_ID

@@ -9,6 +9,8 @@
   {%- endif -%}
   <body{% if reading_layout %} class="layout-reading"{% endif %}>
 
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -16,7 +18,7 @@
 
     {%- include header.html -%}
 
-    <main class="page-content" aria-label="Content">
+    <main id="main-content" class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
       </div>

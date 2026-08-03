@@ -60,6 +60,26 @@
     border-radius: 5px;
     text-align: right;
 
+    // Keep the checkbox focusable for keyboard users: visually hidden rather
+    // than display: none (which would take it out of the tab order). On
+    // desktop the menu is always visible, so the default display: none stands.
+    .nav-trigger {
+      display: block;
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      margin: -1px;
+      padding: 0;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      border: 0;
+    }
+
+    .nav-trigger:focus-visible ~ label[for="nav-trigger"] {
+      outline: 2px solid $brand-color;
+      outline-offset: 2px;
+    }
+
     label[for="nav-trigger"] {
       display: block;
       float: right;
