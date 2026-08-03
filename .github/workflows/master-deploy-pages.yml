@@ -1,5 +1,7 @@
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: "[Master] Deploy Jekyll with GitHub Pages dependencies preinstalled"
+# Builds with the repo's own Gemfile (not actions/jekyll-build-pages, which only
+# runs GitHub's whitelisted plugins and silently skips jekyll-minifier and
+# jekyll-last-modified-at), then deploys to GitHub Pages.
+name: "[Master] Build and Deploy Jekyll site to GitHub Pages"
 
 on:
   # Runs on pushes targeting the default branch
@@ -7,10 +9,10 @@ on:
     branches: ["master"]
 
   # Daily rebuild so future-dated posts publish automatically when their date arrives.
-  # Must run after the 11:45 local time posts are dated with, in every season.
+  # GitHub Actions cron is always UTC: 11:50 UTC = 11:50 GMT / 12:50 BST, so it lands
+  # after the 11:45 local time posts are dated with, in every season.
   schedule:
     - cron: "50 11 * * *"
-      timezone: "Europe/London"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -34,20 +36,34 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # Full history so jekyll-last-modified-at can read real per-file commit dates
+          fetch-depth: 0
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          # Ruby version comes from .ruby-version
+          bundler-cache: true
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
       - name: Inject GTM config from secret
         run: |
-          echo "google_tag_manager: ${GTM_CONTAINER_ID}" >> _config.yml
+          echo "google_tag_manager: ${GTM_CONTAINER_ID}" > _config_secrets.yml
         env:
           GTM_CONTAINER_ID: ${{ secrets.GTM_CONTAINER_ID }}
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
+
+      - name: Build site
+        run: bundle exec jekyll build --config _config.yml,_config_secrets.yml
+        env:
+          JEKYLL_ENV: production
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
 
   # Deployment job
   deploy:
