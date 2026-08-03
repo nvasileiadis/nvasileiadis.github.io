@@ -94,6 +94,24 @@ $on-laptop: 800px !default;
   }
 }
 
+// Post figures: diagrams/illustrations inside blog posts get breathing room
+// and a centred, muted caption.
+.post-content figure {
+  margin: $spacing-unit 0;
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  figcaption {
+    margin-top: 8px;
+    text-align: center;
+    font-style: italic;
+    color: $grey-color;
+  }
+}
+
 // Hero header: controlled top section for the homepage.
 .hero-header {
   margin-bottom: $spacing-unit / 2;

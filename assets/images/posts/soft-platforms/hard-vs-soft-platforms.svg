@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 510" role="img" aria-labelledby="hvs-title hvs-desc">
+  <title id="hvs-title">Direction of impact: hard platforms face inward, soft platforms face outward</title>
+  <desc id="hvs-desc">Hard platforms and soft platforms both sit beneath product teams. Hard platforms point inward, improving how engineers build. Soft platforms point outward, directly shaping what customers, partners, and the business experience. Hard platforms are usually already given a platform home; soft platforms are usually trapped inside a product vertical.</desc>
+  <defs>
+    <marker id="hvs-arrow-g" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#1d6340"/>
+    </marker>
+    <marker id="hvs-arrow-n" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#6a6a64"/>
+    </marker>
+  </defs>
+  <style>
+    .cap { font: 600 14px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: 2px; fill: #8f6a08; }
+    .team { font: 400 14px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #3a3a3a; }
+    .ht { font: 600 13.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: 1.5px; fill: #3a3a3a; }
+    .hs { font: 400 13px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #595959; }
+    .st { font: 600 13.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: 1.5px; fill: #ffffff; }
+    .ss { font: 400 13px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #cfe0d6; }
+    .lblg { font: italic 400 12.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #1d6340; }
+    .lbln { font: italic 400 12.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #595959; }
+    .foot { font: italic 400 12.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+
+  <!-- The outside world -->
+  <rect x="60" y="36" width="760" height="60" rx="8" fill="#fbf3e0" stroke="#b8870b" stroke-width="1.5"/>
+  <text x="440" y="72" text-anchor="middle" class="cap">CUSTOMERS · PARTNERS · THE BUSINESS</text>
+
+  <!-- Product teams -->
+  <rect x="60" y="170" width="210" height="58" rx="6" fill="#ffffff" stroke="#d8d8d2" stroke-width="1.5"/>
+  <text x="165" y="204" text-anchor="middle" class="team">Product team</text>
+  <rect x="295" y="170" width="210" height="58" rx="6" fill="#ffffff" stroke="#d8d8d2" stroke-width="1.5"/>
+  <text x="400" y="204" text-anchor="middle" class="team">Product team</text>
+  <rect x="530" y="170" width="210" height="58" rx="6" fill="#ffffff" stroke="#d8d8d2" stroke-width="1.5"/>
+  <text x="635" y="204" text-anchor="middle" class="team">Product team</text>
+
+  <!-- Hard platforms: inward -->
+  <line x1="180" y1="320" x2="180" y2="238" stroke="#6a6a64" stroke-width="2.5" marker-end="url(#hvs-arrow-n)"/>
+  <text x="196" y="282" class="lbln">improves how engineers build</text>
+  <rect x="60" y="320" width="340" height="96" rx="8" fill="#f3f4f0" stroke="#9a9a94" stroke-width="1.5"/>
+  <text x="230" y="362" text-anchor="middle" class="ht">HARD PLATFORMS</text>
+  <text x="230" y="388" text-anchor="middle" class="hs">cloud · CI/CD · internal tooling</text>
+
+  <!-- Soft platforms: outward -->
+  <line x1="560" y1="320" x2="560" y2="238" stroke="#1d6340" stroke-width="2.5" marker-end="url(#hvs-arrow-g)"/>
+  <line x1="785" y1="320" x2="785" y2="106" stroke="#1d6340" stroke-width="2.5" marker-end="url(#hvs-arrow-g)"/>
+  <text x="770" y="272" text-anchor="end" class="lblg">directly shapes what customers,</text>
+  <text x="770" y="290" text-anchor="end" class="lblg">partners and the business experience</text>
+  <rect x="470" y="320" width="350" height="96" rx="8" fill="#1d6340"/>
+  <text x="645" y="362" text-anchor="middle" class="st">SOFT PLATFORMS</text>
+  <text x="645" y="388" text-anchor="middle" class="ss">content · design systems · analytics · consent</text>
+
+  <!-- The asymmetry -->
+  <text x="230" y="452" text-anchor="middle" class="foot" fill="#595959">usually already given a platform home</text>
+  <text x="645" y="452" text-anchor="middle" class="foot" fill="#8f6a08">usually trapped inside a product vertical</text>
+</svg>

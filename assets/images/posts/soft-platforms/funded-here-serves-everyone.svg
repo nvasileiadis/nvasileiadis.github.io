@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 470" role="img" aria-labelledby="fhse-title fhse-desc">
+  <title id="fhse-title">The structural mismatch: funded in one vertical, consumed by all of them</title>
+  <desc id="fhse-desc">Three product-vertical departments drawn as columns, each containing product teams. The platform team sits inside Product Vertical B, which funds and measures it, but its services flow into a horizontal band consumed by every vertical and fifteen-plus teams beyond.</desc>
+  <defs>
+    <marker id="fhse-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#1d6340"/>
+    </marker>
+  </defs>
+  <style>
+    .h { font: 600 12.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: 1.5px; fill: #595959; }
+    .sub { font: italic 500 11.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #8f6a08; }
+    .team { font: 400 14px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #3a3a3a; }
+    .plat { font: 600 15px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #ffffff; }
+    .plats { font: 400 12.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #cfe0d6; }
+    .band { font: 600 13.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #1d6340; }
+    .dots { font: 600 16px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #b0b0aa; }
+  </style>
+
+  <!-- Vertical A -->
+  <rect x="60" y="40" width="240" height="290" rx="8" fill="#ffffff" stroke="#d8d8d2" stroke-width="1.5"/>
+  <text x="180" y="70" text-anchor="middle" class="h">PRODUCT VERTICAL A</text>
+  <line x1="76" y1="90" x2="284" y2="90" stroke="#e4e4de" stroke-width="1.5"/>
+  <rect x="80" y="104" width="200" height="38" rx="5" fill="#f3f4f0" stroke="#dcdcd4"/>
+  <text x="180" y="128" text-anchor="middle" class="team">Product team</text>
+  <rect x="80" y="150" width="200" height="38" rx="5" fill="#f3f4f0" stroke="#dcdcd4"/>
+  <text x="180" y="174" text-anchor="middle" class="team">Product team</text>
+  <rect x="80" y="196" width="200" height="38" rx="5" fill="#f3f4f0" stroke="#dcdcd4"/>
+  <text x="180" y="220" text-anchor="middle" class="team">Product team</text>
+  <text x="180" y="290" text-anchor="middle" class="dots">⋯</text>
+
+  <!-- Vertical B -->
+  <rect x="320" y="40" width="240" height="290" rx="8" fill="#ffffff" stroke="#d8d8d2" stroke-width="1.5"/>
+  <text x="440" y="64" text-anchor="middle" class="h">PRODUCT VERTICAL B</text>
+  <text x="440" y="81" text-anchor="middle" class="sub">funds &amp; measures the platform team</text>
+  <line x1="336" y1="90" x2="544" y2="90" stroke="#e4e4de" stroke-width="1.5"/>
+  <rect x="340" y="104" width="200" height="38" rx="5" fill="#f3f4f0" stroke="#dcdcd4"/>
+  <text x="440" y="128" text-anchor="middle" class="team">Product team</text>
+  <rect x="340" y="150" width="200" height="38" rx="5" fill="#f3f4f0" stroke="#dcdcd4"/>
+  <text x="440" y="174" text-anchor="middle" class="team">Product team</text>
+  <rect x="340" y="224" width="200" height="74" rx="6" fill="#1d6340"/>
+  <text x="440" y="254" text-anchor="middle" class="plat">The platform team</text>
+  <text x="440" y="276" text-anchor="middle" class="plats">six shared services</text>
+
+  <!-- Vertical C -->
+  <rect x="580" y="40" width="240" height="290" rx="8" fill="#ffffff" stroke="#d8d8d2" stroke-width="1.5"/>
+  <text x="700" y="70" text-anchor="middle" class="h">PRODUCT VERTICAL C</text>
+  <line x1="596" y1="90" x2="804" y2="90" stroke="#e4e4de" stroke-width="1.5"/>
+  <rect x="600" y="104" width="200" height="38" rx="5" fill="#f3f4f0" stroke="#dcdcd4"/>
+  <text x="700" y="128" text-anchor="middle" class="team">Product team</text>
+  <rect x="600" y="150" width="200" height="38" rx="5" fill="#f3f4f0" stroke="#dcdcd4"/>
+  <text x="700" y="174" text-anchor="middle" class="team">Product team</text>
+  <rect x="600" y="196" width="200" height="38" rx="5" fill="#f3f4f0" stroke="#dcdcd4"/>
+  <text x="700" y="220" text-anchor="middle" class="team">Product team</text>
+  <text x="700" y="290" text-anchor="middle" class="dots">⋯</text>
+
+  <!-- Team feeds the horizontal band -->
+  <line x1="440" y1="298" x2="440" y2="372" stroke="#1d6340" stroke-width="3" marker-end="url(#fhse-arrow)"/>
+
+  <!-- Services flow back up into every vertical -->
+  <line x1="180" y1="380" x2="180" y2="342" stroke="#1d6340" stroke-width="2.5" marker-end="url(#fhse-arrow)"/>
+  <line x1="700" y1="380" x2="700" y2="342" stroke="#1d6340" stroke-width="2.5" marker-end="url(#fhse-arrow)"/>
+
+  <!-- Horizontal services band -->
+  <rect x="60" y="380" width="760" height="46" rx="6" fill="#eaf1ec" stroke="#1d6340" stroke-width="1.5"/>
+  <text x="440" y="408" text-anchor="middle" class="band">Platform services — consumed by every vertical, and fifteen-plus teams beyond</text>
+  <line x1="58" y1="403" x2="32" y2="403" stroke="#1d6340" stroke-width="2.5" marker-end="url(#fhse-arrow)"/>
+  <line x1="822" y1="403" x2="848" y2="403" stroke="#1d6340" stroke-width="2.5" marker-end="url(#fhse-arrow)"/>
+</svg>
