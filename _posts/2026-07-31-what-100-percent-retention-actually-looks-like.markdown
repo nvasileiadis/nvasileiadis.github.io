@@ -10,7 +10,7 @@ Restructurings are when people leave. Every engineering leader knows the pattern
 
 Over the last three years, my team went through three company restructurings. Nobody resigned. Not during the announcements, not during the uncertainty in between, not after the dust settled. In my entire time as an engineering manager, no one has ever chosen to leave my team.
 
-Before I explain what I actually did, let me pre-empt the fair challenge — because if I were reading this, I'd raise it too.
+Before I explain what I actually did, let me pre-empt the fair challenge — because if I was reading this, I'd raise it too.
 
 ## "100% retention? But your team got smaller."
 
@@ -77,11 +77,11 @@ You cannot promise people their org position, so anchor them to something you *c
 
 ## What it cost
 
-Honesty requires this section. Being the shock absorber has a price, and the manager pays it. The year of quadrupled scope meant absorbing product management and on-call alongside engineering management. The promotion cases fought across organisational boundaries consumed real political capital — as did one structural decision I challenged upward and got reversed: a plan to dissolve the Design Systems team and absorb it into mine. I made the case with diagrams, because a well-drawn picture wins arguments that a complaint never will. The postscript arrived nearly two years later: the preserved team's work underpinned a substantial R&D tax-credit claim, and the capability I spent political capital defending went on to enable the company-wide rebrand. Sometimes the return on holding your ground takes years to show up on anyone's books — hold it anyway. And holding a steady drumbeat of calm, honest communication while uncertain myself was a discipline, not a mood. I'd make the same trades again — but if you're an EM planning to do this, plan your own recovery too. You can't hold ground for others while running on empty indefinitely.
+Honesty requires this section. Being the shock absorber has a price, and the manager pays it. The year of quadrupled scope meant absorbing product management and on-call alongside engineering management. The promotion cases fought across organisational boundaries consumed real political capital — as did one structural decision I challenged upward and got reversed: a plan to dissolve the Design Systems team and absorb it into my other team. I made the case with diagrams, because a well-drawn picture wins arguments that a complaint never will. The postscript arrived nearly two years later: the preserved team's work underpinned a substantial R&D tax-credit claim, and the capability I spent political capital defending went on to enable the company-wide rebrand. Sometimes the return on holding your ground takes years to show up on anyone's books — hold it anyway. And holding a steady drumbeat of calm, honest communication while uncertain myself was a discipline, not a mood. I'd make the same trades again — but if you're an EM planning to do this, plan your own recovery too. You can't hold ground for others while running on empty indefinitely.
 
 ## The business case, for the sceptics
 
-If the human argument doesn't move your leadership, the financial one should. Replacing an experienced engineer typically costs six to nine months of salary once you account for recruitment, ramp-up, and lost momentum — before you price in the institutional knowledge that walks out the door. Three restructurings with normal post-reorg attrition would have cost my organisation several hundred thousand pounds in replacement costs alone.
+If the human argument doesn't move your leadership, the financial one should. Replacing an experienced engineer typically costs six to nine months of salary once you account for recruitment, onboarding, and lost momentum — before you price in the institutional knowledge that walks out the door. Three restructurings with normal post-reorg attrition would have cost the organisation several hundred thousand pounds in replacement costs alone.
 
 Instead, the retained core — smaller, but intact and deeply experienced — went on to deliver the company's largest recent digital programme: a full rebrand of a 522-page estate, on the critical path for every other team's launch, shipped in two quarters. That's what retention buys you. Not comfort. Capability, exactly when it's needed most.
 

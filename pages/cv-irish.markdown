@@ -40,7 +40,7 @@ Greek (EU) citizen — full right to work in Ireland and across the EU. Based in
 - **People and teams** — keeping people, growing them, and getting out of their way. <span class="stat">100% retention</span> across three company restructurings. <span class="stat">3 promotions</span> I built the cases for — backed by DORA data. Heartbeat surveys for team wellbeing. I measure what matters and act on it.
 - **Platform operations** — keeping critical services running and stakeholders supported across <span class="stat">15+</span> engineering teams.
 - **Design systems** — from co-building an open-source design system to leading enterprise-wide adoption across <span class="stat">20 teams</span>.
-- **Commercial sense** — CapEx/OpEx planning, vendor evaluation, and making sure engineering work connects to business outcomes.
+- **Commercial sense** — a £200k+ annual vendor portfolio across six platform services, CapEx/OpEx planning, vendor evaluation, and making sure engineering work connects to business outcomes.
 - **Documentation** — I inherited undocumented systems and built a culture of writing things down. Over <span class="stat">100 articles</span> and counting.
 
 <h2 class="icon-clock">Experience</h2>
@@ -50,21 +50,21 @@ Greek (EU) citizen — full right to work in Ireland and across the EU. Based in
 **Utility Warehouse** (Telecom Plus PLC · FTSE 250 — multi-service provider of energy, broadband, mobile & insurance)  
 Jul 2023 – Present · United Kingdom · Remote
 
-I manage the platform and content engineering team — the people responsible for uw.co.uk and the services that sit behind it. At peak we were <span class="stat">8 engineers</span> across two teams; after three rounds of company restructuring, we're now a specialist core of <span class="stat">2</span>. Everyone who wanted to stay, stayed. Nobody left by choice.
+I manage the platform and content engineering team — the people responsible for uw.co.uk and the services that sit behind it. At peak I had <span class="stat">8 technical reports across three teams</span> with separate backlogs — web, mobile, and design systems. Six were direct reports; the other two were a Design Systems Lead and a Staff Engineer whose day-to-day management and 1:1s I held on a dotted line. A Product Manager alongside. Three rounds of company restructuring later — Platforms, Customer Experience, Partner — we're a specialist core of <span class="stat">2</span>. Everyone who wanted to stay, stayed. Nobody left by choice.
 
 **What the team and I have done:**
 
 - **Kept people and grew them.** Supported <span class="stat">3 promotions</span> (Associate → Mid, Mid → Senior) with evidence-based cases. Several people I mentored have since moved into Engineering Manager roles, both inside and outside UW. The <span class="stat">100% retention</span> wasn't luck — it was the result of giving people clarity, trust, and genuine career investment.
 - **Measured what mattered.** I started with manual team health tracking (TeamRetro) and custom DORA dashboards before the company rolled out DX. Now I use deployment frequency, lead time, change failure rate, and MTTR to understand delivery health — and that data directly feeds into promotion cases and bonus decisions. Alongside that, monthly Peakon Heartbeat surveys tell me how the team is actually doing — and I act on it. Performance isn't just throughput; it's whether people are in a position to sustain it.
-- **Navigated restructurings.** When the organisation restructured — three times — I took responsibility for working out where the team should sit: mapping scope, talking to stakeholders, and building consensus. It wasn't in my job description; it needed doing.
+- **Navigated restructurings.** When the organisation restructured — three times — I took responsibility for working out where the team should sit: mapping scope, talking to stakeholders, and building consensus. It wasn't in my job description; it needed doing. When the Customer Experience move brought mobile work into our remit, I negotiated to bring in a Senior Engineer who already had the expertise, rather than take on the backlog unprepared.
 - **Fought for what mattered.** When one restructuring would have dissolved the Design Systems team, I pushed back and made the case for keeping it. That team went on to enable the company-wide rebrand.
 - **Built a documentation culture from nothing.** We inherited a CMS that nobody had documented in years. I started by mapping what existed — we called it "Archaeology" — and built up from there. Over <span class="stat">100 articles</span> of process and technical documentation now, from architecture decisions to onboarding guides.
 - **Upskilled the team.** When we needed Kubernetes knowledge, I learned it first, trained the team, and documented it. I encouraged engineers to present at cross-team forums, own RFCs, and share what they knew — so they could operate independently across the full stack.
-- **Hired well.** Involved in hiring <span class="stat">3</span> external engineers and bringing in <span class="stat">4</span> through internal transfers — from candidate assessment through to onboarding.
+- **Hired well.** Involved in hiring <span class="stat">2</span> external engineers and bringing in <span class="stat">4</span> through internal transfers — from candidate assessment through to onboarding.
 - **Delivered a company-wide rebrand (Oct 2025 – Apr 2026).** The team shipped the brand refresh across <span class="stat">522 pages</span> of the uw.co.uk estate — the main website, the partner portal, the customer account system. We were the critical path: nobody else's rebrand work could go live until ours shipped. We wrote automated migration scripts that saved content editors hundreds of hours of manual work.
 - **Kept the platform running.** uw.co.uk operated against a <span class="stat">99.99% SLO</span> with a single incident this year — resolved within hours, zero downtime otherwise — and <span class="stat">&lt;3s</span> page loads on critical pages. The estate includes <span class="stat">522 pages</span>, <span class="stat">3,157 media assets</span>, <span class="stat">1,090 shortlinks</span>, and <span class="stat">218 redirects</span>. We support <span class="stat">8</span> content teams (<span class="stat">33</span> users) and <span class="stat">15+</span> engineering teams who depend on the platform. I'm responsible for six platform services — Contentful CMS, Google Tag Manager, Snowplow, Mixpanel, Optimizely, and OneTrust — monitored through Kubernetes, Sentry, Prometheus, Pingdom, and Cloudflare.
 - **Led Design System adoption.** The Hearth Design System reached <span class="stat">20</span> engineering and product teams (15 full, 5 partial). Consolidating components at that level removed thousands of hours of duplicated engineering effort across the organisation. I also helped with R&D tax credit claims by translating the technical work into documentation that external advisors could audit.
-- **Replaced the CMS.** The old CMS had no SLA, no SSO, and a dead tech stack. I ran a <span class="stat">2-month</span> evaluation across <span class="stat">10 vendors</span>, shortlisted to 3, and we went with Contentful. The migration was zero-disruption; three marketing teams (<span class="stat">~18 people</span>) gained content scheduling, structured models, and no more duplicated content.
+- **Replaced the CMS.** The old CMS had no SLA, no SSO, and a dead tech stack. I ran a <span class="stat">2-month</span> evaluation across <span class="stat">10 vendors</span>, shortlisted to 3, and we went with Contentful — a six-figure annual enterprise contract; most vendors simply couldn't offer enterprise-grade SLAs and support. The migration was zero-disruption; three marketing teams (<span class="stat">~18 people</span>) gained content scheduling, structured models, and no more duplicated content.
 - **Kept going with a small team.** When restructurings reduced us to <span class="stat">2 engineers</span>, I absorbed Product Manager and on-call responsibilities alongside my management role. We continued to deliver across <span class="stat">6 platform services</span> without breaching the platform SLO, with full accountability for the uw.co.uk estate.
 
 ### Lead Software Engineer
@@ -74,7 +74,7 @@ May 2022 – Jul 2023 · United Kingdom · Remote
 
 I joined as the founding engineer in a standalone team supporting marketing — no department, no established processes, no documentation. It was built to make use of my cross-functional experience in engineering, UX, and delivery.
 
-- Grew the team from <span class="stat">3 to 6+</span> through hiring and internal transfers. The team survived <span class="stat">three</span> company-wide restructurings — each time under a different name (Marketing Capability → Content Capability → CMS Team), but always delivering.
+- We started as three — me, a Product Manager, and an Associate Engineer — and stayed that way for a full year before we grew. I line-managed that engineer from May 2022: there was no Head of Engineering in post and my own manager left a lot to me, so the people responsibility was mine <span class="stat">14 months</span> before the title arrived. Two external hires in May 2023 took us to <span class="stat">five</span>, and the founding Associate was promoted to Software Engineer a month after that. Renamed Content Capability in Nov 2022, moved into Platforms in May 2023 — the first of three reorganisations the team would outlast.
 - Set up a Scrum environment from scratch — structured backlog, predictable delivery, filling Product Manager gaps when needed. Mapped the legacy CMS through systematic discovery and wrote the team's foundational documentation.
 - Led the vendor evaluation that resulted in UW adopting Contentful as its enterprise CMS.
 
@@ -113,11 +113,11 @@ Designed UIs and developed features for an award-winning CMS used by UK Local Au
 
 Oct 2005 – Dec 2016 (11 years)
 
-The foundation years — where the technical skills, the community instinct, and the career itself all started.
+The foundation years. Provincial northern Greece — Xanthi, where I grew up; Serres, where I studied: no tech industry to join and, after 2010, barely an economy. I built the career anyway — client by client — and led long before anyone gave me a title for it.
 
 - **Web development & freelancing (2005–2015):** Delivered 40+ web projects across Greece and internationally — from local non-profits and bands to a Bitcoin job board for a client in California. Managed end-to-end client relationships, set up proper billing structures (40/40/20 payment terms), and coordinated with distributed teams. Started at 15 with my first website; bought my first domain in 2005.
 - **Teaching & mentorship (2006–2012):** Earned a Certified Training Professional qualification and spent a year teaching ECDL to adult learners. Privately tutored a student in programming and hardware — that student went on to earn a BSc and MSc in Manchester and now works as an engineer at Sophos. One of my proudest outcomes.
-- **Community & civic technology (2008–2014):** Co-founded the Serres Linux Users Group, organised FOSSCOMM 2012 (a national volunteer-powered conference), and managed the digital presence for UNESCO Serres, the local Natural History Museum, and community organisations. This community work directly shaped everything I went on to do in Leeds — GDG, IxDF, NUX.
+- **Community & civic technology (2008–2014):** Co-founded the Serres Linux Users Group, organised FOSSCOMM 2012 (a 350-person national volunteer-powered conference), and managed the digital presence for UNESCO Serres, the local Natural History Museum, and community organisations. This community work directly shaped everything I went on to do in Leeds — GDG, IxDF, NUX.
 - **UK agency work (2015–2016):** Relocated to Leeds. Built responsive e-commerce for global brands (Vivienne Westwood) and focused on frontend performance.
 
 <h2 class="icon-users">Community & Volunteering</h2>
@@ -133,7 +133,7 @@ Community organising has been a constant throughout my career — from Greece to
 <h2 class="icon-book">Education</h2>
 
 **International University of Greece — Serres Campus**  
-BSc Informatics Engineering (attended 2007–2012; strong grades in software engineering, programming, and databases; did not complete due to the Greek economic crisis)
+BSc Informatics Engineering (2007–2012) — strong grades in software engineering, programming, and databases. Left without the certificate when the Greek economic crisis hit; the freelance business I was already running became the career.
 
 <h2 class="icon-shield">Credentials</h2>
 

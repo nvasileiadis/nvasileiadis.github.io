@@ -3,7 +3,7 @@ layout: page
 title: Credentials — Nikos Vasileiadis | Clients & Community
 nav_title: Credentials
 permalink: /credentials/
-description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology and 9 years in leadership. Based in Leeds, UK. Includes 45 certificates and 60+ completed courses across leadership, UX, analytics, cloud, and FinTech."
+description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology, 9 years in leadership, 4 in direct line management. Based in Leeds, UK. Includes 45 certificates and 60+ completed courses across leadership, UX, analytics, cloud, and FinTech."
 ---
 
 _This page is an evidence appendix for those who want to go deeper. For a complete summary of my professional experience, see my [CV](/cv/). It maps the journey from engineer to engineering leader — the brands and organisations I've worked with, the credentials I've earned across engineering and leadership, my community contributions, and notable recognition._
@@ -12,7 +12,7 @@ _This page is an evidence appendix for those who want to go deeper. For a comple
 <div class="metrics-grid">
   <div class="metric-card">
     <span class="metric-number">20+</span>
-    <span class="metric-label">Years in Technology<br><small style="font-size: 0.8em; opacity: 0.8;">20+ Engineering · 9 Leadership<br>Leading since 2017</small></span>
+    <span class="metric-label">Years in Technology<br><small style="font-size: 0.8em; opacity: 0.8;">20+ Engineering · 9 Leadership · 4 Line Management<br>Leading since 2017</small></span>
   </div>
   <div class="metric-card">
     <span class="metric-number">45</span>
@@ -32,9 +32,9 @@ _This page is an evidence appendix for those who want to go deeper. For a comple
 ## From Engineer to Engineering Leader
 {: .icon-trending-up}
 
-The evidence is in the pattern. I've been leading from the front since before I had a title for it — from teaching adults to hold a mouse in a Greek computer school at age 18, to organising a 350-person national open-source conference at university, to running Sunday computing sessions for children through UNESCO. Along the way, I've worked across financial services, regulated utilities, global retail, and public sector technology — each with its own constraints, compliance requirements, and stakeholder expectations. At every company, the same thing happened: I was hired as an engineer, and within months I was the one setting up processes, mentoring juniors, facilitating sprints, and bridging the gap between engineering and business.
+The evidence is in the pattern: everywhere I've been, I built the thing that wasn't there. I've been leading from the front since before I had a title for it — from teaching adults to hold a mouse in a Greek computer school at age 18, to organising a 350-person national open-source conference at university, to running Sunday computing sessions for children through UNESCO. Along the way, I've worked across financial services, regulated utilities, global retail, and public sector technology — each with its own constraints, compliance requirements, and stakeholder expectations. At every company, the same thing happened: I was hired as an engineer, and within months I was the one setting up processes, mentoring juniors, facilitating sprints, and bridging the gap between engineering and business.
 
-At **Jadu**, I was facilitating sprints while shipping features into an award-winning CMS. At **Leeds Building Society**, I introduced Agile to the entire organisation — its first structured delivery methodology. At **IMA-HOME**, I ran Scrum for global brand projects (Adidas, MARS, Royal Canin) while engineering their frontend systems. At **Utility Warehouse**, I was hired as a Senior Software Engineer — and within a year I was managing the team, building the backlog, setting up Scrum, and mentoring an Associate into a Mid-level engineer.
+At **Jadu**, I was facilitating sprints while shipping features into an award-winning CMS. At **Leeds Building Society**, I introduced Agile to the entire organisation — its first structured delivery methodology. At **IMA-HOME**, I ran Scrum for global brand projects (Adidas, MARS, Royal Canin) while engineering their frontend systems. At **Utility Warehouse**, I joined as Lead Software Engineer to build a standalone team from zero — bringing Agile, UX, and product practice alongside the engineering — and within a year I was managing it, building the backlog, setting up Scrum, and mentoring an Associate into a Mid-level engineer.
 
 The promotion to Engineering Manager didn't change what I did — it formalised what I'd always been doing. What changed was my understanding of where I create the most value. It's not in the code. It's in the conditions I create for others to do their best work.
 
@@ -42,7 +42,16 @@ Over <span class="stat">100 articles</span> of documentation built from nothing.
 
 I've always measured what matters — starting with manual team health tracking via TeamRetro and custom DORA dashboards, and progressing to the DX platform when the organisation adopted it. These aren't passive dashboards: DORA data directly informs promotion cases and bonus decisions, and I use Peakon Heartbeat surveys every month to understand team engagement and wellbeing — then act on it. Engineering health alongside people health. That's the full picture of performance, and it's how the "evidence-based" promotion cases actually get built.
 
-**<span class="stat">20+</span> years in technology. <span class="stat">9</span> years in leadership.** The engineering gave me the credibility. The people work gave me the purpose.
+Decomposed, the leadership claim looks like this — every layer dated, every layer evidenced:
+
+| Leadership layer | Since | Years | Evidence |
+|---|---|---|---|
+| **Community** | 2008 | 18 | Founded the Serres Linux Users Group · FOSSCOMM 2012, a 350-person national conference · UNESCO e-culture · GDG Leeds revival |
+| **Delivery** | 2017 | 9 | Scrum Master at Jadu (rotating), Leeds Building Society (the organisation's first Agile; interim SM through a crisis programme), IMA-HOME (Adidas, MARS) · end-to-end feature ownership at Jadu |
+| **People** | 2022 | 4 | Line management from day one at Utility Warehouse — no Head of Engineering in post; the title followed 14 months later · 6 direct reports at peak |
+| **Multi-team** | 2024 | 2 | 3 teams, 3 backlogs · 8 technical reports, including a Design Systems Lead and a Staff Engineer on dotted line |
+
+**<span class="stat">20+</span> years in technology. <span class="stat">9</span> years in leadership, <span class="stat">4</span> of them line-managing engineers.** The engineering gave me the credibility. The people work gave me the purpose.
 
 <p class="pull-quote">The promotion to Engineering Manager didn't change what I did — it formalised what I'd always been doing.</p>
 
