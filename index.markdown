@@ -80,6 +80,11 @@ I've been mentoring engineers since before it was part of any job title — from
     <span>Credentials, community contributions, and career journey</span>
     <span class="explore-arrow">→</span>
   </a>
+  <a class="explore-card" href="/mentoring/">
+    <strong>Mentoring</strong>
+    <span>Free peer-learning mentoring for current and future engineering managers</span>
+    <span class="explore-arrow">→</span>
+  </a>
 </div>
 
 <p class="locale-callout-intro">If you're reading from the Netherlands or Ireland — these are for you:</p>
