@@ -6,7 +6,7 @@ permalink: /mentoring/
 description: "Free peer-learning mentoring for engineers stepping into management and engineering managers who want to grow — by Nikos Vasileiadis, Software Engineering Leader based in Leeds, UK. Two positions, opened deliberately."
 ---
 
-I've been mentoring people since before it was part of any job title — from teaching adults their first computer skills in Greece, to developing engineers who've gone on to lead teams of their own. It's the part of leadership I'd do even if nobody was watching.
+I've been mentoring people since before it was part of any job title — from teaching adults their first computer skills in Greece, to developing engineers who've gone on to lead teams of their own. The earliest of them was a school student I tutored in programming while I was still at university myself; today, he's an engineering manager. It's the part of leadership I'd do even if nobody was watching.
 
 ## Who this is for
 {: .icon-compass}
