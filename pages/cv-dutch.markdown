@@ -4,7 +4,19 @@ title: CV — Nikos Vasileiadis | Software Engineering Manager | Open to Dutch R
 nav_title: CV (Dutch)
 permalink: /cv-dutch/
 description: "CV of Nikos Vasileiadis — Software Engineering Manager with 20+ years in technology. Based in Leeds, UK. Open to remote roles with Dutch organisations. People-focused, pragmatic, and collaborative. Engineering Manager at Utility Warehouse (FTSE 250)."
-css: ".no-pdf { display: none !important; }"
+pdf_options:
+  format: a4
+  margin: 13mm 15mm
+css: |-
+  .no-pdf { display: none !important; }
+  .markdown-body { font-size: 10.5pt; line-height: 1.4; }
+  .markdown-body h1 { font-size: 20pt; margin: 0 0 2pt; padding: 0; border: none; }
+  .markdown-body h2 { font-size: 13pt; margin: 12pt 0 5pt; padding-bottom: 2pt; }
+  .markdown-body h3 { font-size: 11.5pt; margin: 10pt 0 3pt; }
+  .markdown-body p, .markdown-body ul, .markdown-body ol { margin: 0 0 6pt; }
+  .markdown-body ul { padding-left: 16pt; }
+  .markdown-body li { margin-bottom: 3pt; }
+  .markdown-body li + li { margin-top: 2pt; }
 hide_title: true
 ---
 
@@ -35,7 +47,7 @@ Based in Leeds, UK. Greek (EU) citizen — full right to work in the Netherlands
 
 <h2 class="icon-grid">What I Bring</h2>
 
-- **People & teams** — Building and retaining remote engineering teams. <span class="stat">100% retention</span> across three company restructurings. <span class="stat">3 promotions</span> supported through evidence-based cases informed by DORA metrics. Using DORA, team health tracking, and Heartbeat surveys to keep performance visible and sustainable.
+- **People & teams** — Building and retaining remote engineering teams; measurement-led via DORA metrics, team health tracking, and Heartbeat surveys to keep performance visible and sustainable.
 - **Organisational design** — Navigating restructurings, building teams from scratch, aligning team structures with what the business actually needs. Have built the same team twice from zero.
 - **Platform & infrastructure** — Running critical platform services with clear SLAs and operational discipline for <span class="stat">15+</span> dependent engineering teams.
 - **Design systems** — From co-creating an open-source design system (Pulsar) to leading enterprise-wide adoption across <span class="stat">20 teams</span>.
@@ -48,19 +60,22 @@ Based in Leeds, UK. Greek (EU) citizen — full right to work in the Netherlands
 **Utility Warehouse** (Telecom Plus PLC · FTSE 250 — multi-service provider of energy, broadband, mobile & insurance)  
 Jul 2023 – Present · United Kingdom · Remote
 
-- **Team & retention:** Grew to <span class="stat">8 technical reports across three teams</span> with separate backlogs — web/CMS/tracking, mobile, and design systems. Six direct reports, plus a Design Systems Lead and a Staff Engineer whose day-to-day management and 1:1s I held on a dotted line, alongside a Product Manager. Everyone who wanted to stay, stayed — <span class="stat">100% retention</span> through three reorganisations that moved the team across three departments in <span class="stat">25 months</span>: Platforms (May 2023), Customer Experience (Jul 2024), Partner (Jun 2025), the last reducing it to a specialist core. All reductions were organisational; zero voluntary attrition.
-- **Measurement-led leadership:** Progressed from manual team health tracking (TeamRetro) and custom dashboards to the DX platform. Uses DORA metrics (deployment frequency, lead time, change failure rate, MTTR) to inform promotion cases and bonus decisions. Complements with monthly Peakon Heartbeat surveys — acting on engagement and wellbeing signals, not just collecting them.
-- **Growing people:** Supported <span class="stat">3 promotions</span> (Associate → Mid, Mid → Senior) with evidence-based cases. Several engineers I mentored have since moved into Engineering Manager roles, both inside and outside the company.
-- **Navigating restructurings:** When the organisation restructured, I took responsibility for scoping team migrations — mapping scope, aligning stakeholders, and building consensus for where the team should sit. Nobody asked me to do this; it needed doing. When the Customer Experience move added a mobile backlog, I negotiated the transfer in of a Senior Engineer with mobile expertise, so the team's capability matched its new remit.
-- **Preserving what mattered:** Advocated for keeping the Design Systems team when a restructuring would have dissolved it. That team later enabled the company-wide rebrand.
-- **Documentation culture:** Wrote over <span class="stat">100 articles</span> of technical documentation — process guides, architecture decisions, onboarding materials. The team inherited an undocumented legacy CMS; we mapped everything systematically and built a documentation practice from scratch.
-- **Technical upskilling:** When the team needed Kubernetes knowledge, I learned it first, then trained the team and documented it. Encouraged engineers to own RFCs, present at cross-team forums, and share knowledge — so they could operate independently across the full stack.
-- **Hiring:** Involved in hiring <span class="stat">2</span> external engineers and facilitating <span class="stat">4</span> internal transfers — candidate assessment, interviews, and onboarding.
-- **Rebranding programme (Oct 2025 – Apr 2026):** The team delivered UW's brand refresh across <span class="stat">522 pages</span> of the uw.co.uk estate — the primary digital entry point for customers and partners. Our work was the critical path: other teams' rebranding couldn't go live until we shipped. We wrote automated migration scripts that saved content editors hundreds of manual hours.
-- **Platform reliability:** uw.co.uk operated against a <span class="stat">99.99% SLO</span> — a single incident in the current year, resolved within hours, zero downtime otherwise — with <span class="stat">&lt;3s</span> page load on critical pages. The estate: <span class="stat">522 pages</span>, <span class="stat">3,157 media assets</span>, <span class="stat">1,090 shortlinks</span>, <span class="stat">218 redirects</span>. Supporting <span class="stat">8</span> content teams (<span class="stat">33</span> users) and <span class="stat">15+</span> engineering teams as platform dependencies. Responsible for six platform services: Contentful CMS, Google Tag Manager, Snowplow, Mixpanel, Optimizely, OneTrust — monitored via Kubernetes, Sentry, Prometheus, Pingdom, and Cloudflare.
-- **Design Systems (Hearth):** The Hearth Design System reached <span class="stat">20</span> engineering and product teams (15 full adoption, 5 partial). Consolidating components at the design system level removed thousands of hours of duplicated work across the organisation. Contributed to R&D tax credit claims by translating the technical work into audit-ready documentation.
-- **CMS migration (Apostrophe → Contentful):** Replaced a legacy CMS that had no SLA, no SSO, and a dead tech stack. Ran a <span class="stat">2-month</span> evaluation across <span class="stat">10 vendors</span>, shortlisted to 3, selected Contentful — a six-figure annual enterprise contract, chosen for enterprise-grade SLAs and support. Executed a zero-disruption migration; three marketing teams (<span class="stat">~18 people</span>) gained structured content models, scheduling, and eliminated duplication.
+- **Team & retention:** Grew to <span class="stat">8 technical reports across three teams</span> with separate backlogs — web/CMS/tracking, mobile, and design systems — alongside a Product Manager. Everyone who wanted to stay, stayed — <span class="stat">100% retention</span> through three reorganisations across three departments in <span class="stat">25 months</span>; all reductions were organisational, zero voluntary attrition. Involved in hiring <span class="stat">2</span> external engineers and <span class="stat">4</span> internal transfers.
+- **Growing people, measurably:** Supported <span class="stat">3 promotions</span> (Associate → Mid, Mid → Senior) with evidence-based cases informed by DORA metrics and monthly Peakon Heartbeat surveys — acting on the signals, not just collecting them. Several engineers I mentored have since moved into Engineering Manager roles, both inside and outside the company.
+- **Navigating restructurings:** Took responsibility for scoping team migrations — mapping scope, aligning stakeholders, and building consensus for where the team should sit. Nobody asked me to do this; it needed doing. Negotiated the transfer in of a Senior Engineer with mobile expertise when a mobile backlog was added, and advocated successfully for keeping the Design Systems team when a restructuring would have dissolved it — the team that later enabled the company-wide rebrand.
+- **Documentation & upskilling:** Wrote over <span class="stat">100 articles</span> of technical documentation for a team that inherited an undocumented legacy CMS. When the team needed Kubernetes knowledge, I learned it first, then trained the team and documented it. Engineers own RFCs and present at cross-team forums.
+- **Rebranding programme (Oct 2025 – Apr 2026):** The team delivered UW's brand refresh across <span class="stat">522 pages</span> of the uw.co.uk estate — the critical path: other teams' rebranding couldn't go live until we shipped. Automated migration scripts saved content editors hundreds of manual hours.
+- **Platform reliability:** uw.co.uk operated against a <span class="stat">99.99% SLO</span> — a single incident in the current year, resolved within hours — with <span class="stat">&lt;3s</span> page load on critical pages. The estate: <span class="stat">522 pages</span>, <span class="stat">3,157 media assets</span>, <span class="stat">1,090 shortlinks</span>, <span class="stat">218 redirects</span>. Supporting <span class="stat">8</span> content teams (<span class="stat">33</span> users) and <span class="stat">15+</span> engineering teams across six platform services: Contentful CMS, Google Tag Manager, Snowplow, Mixpanel, Optimizely, OneTrust.
+- **Design Systems (Hearth):** The Hearth Design System reached <span class="stat">20</span> engineering and product teams (15 full adoption, 5 partial), removing thousands of hours of duplicated work across the organisation. Contributed to R&D tax credit claims with audit-ready documentation.
+- **CMS migration (Apostrophe → Contentful):** Replaced a legacy CMS that had no SLA, no SSO, and a dead tech stack. A <span class="stat">2-month</span> evaluation across <span class="stat">10 vendors</span> led to Contentful — a six-figure annual enterprise contract, chosen for enterprise-grade SLAs and support. Zero-disruption migration; three marketing teams (<span class="stat">~18 people</span>) gained structured content models and scheduling.
 - **Working with constraints (2025–present):** After restructurings reduced the team to <span class="stat">2 engineers</span>, I absorbed Product Manager and on-call responsibilities alongside my management role. The team continued to deliver across <span class="stat">6 platform services</span> without breaching the platform SLO, with full accountability for the uw.co.uk estate.
+
+<div class="no-pdf" markdown="1">
+
+- **Team composition & reorg timeline:** Six direct reports, plus a Design Systems Lead and a Staff Engineer whose day-to-day management and 1:1s I held on a dotted line. The reorganisations: Platforms (May 2023), Customer Experience (Jul 2024), Partner (Jun 2025) — the last reducing the team to a specialist core.
+- **Measurement journey:** Progressed from manual team health tracking (TeamRetro) and custom dashboards to the DX platform — deployment frequency, lead time, change failure rate, and MTTR feeding promotion cases and bonus decisions. Platform services monitored via Kubernetes, Sentry, Prometheus, Pingdom, and Cloudflare.
+
+</div>
 
 ### Lead Software Engineer
 
