@@ -913,6 +913,12 @@ body.layout-reading {
 }
 
 // Print stylesheet: clean output for recruiters hitting Cmd+P.
+// Typography mirrors the generated CV PDFs (10.5pt body, 13mm/15mm page
+// margins) so a printed page lands in the same ~3-page envelope.
+@page {
+  margin: 13mm 15mm;
+}
+
 @media print {
   .site-header,
   .site-footer,
@@ -924,16 +930,70 @@ body.layout-reading {
 
   .page-content {
     background-image: none !important;
-    padding-top: 0;
+    padding: 0 !important;
   }
 
+  .post {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+  }
+
+  // A trailing margin on the last block can spill an empty extra page when
+  // content runs to the bottom edge of the final page.
+  .post-content > :last-child {
+    margin-bottom: 0 !important;
+  }
+
+  // The base theme's body{display:flex;min-height:100vh} stretches the page
+  // box in paged media and can spill an empty trailing page when content ends
+  // near a page boundary.
   body {
     background-color: #fff;
-    font-size: 12pt;
+    font-size: 10.5pt;
+    line-height: 1.35;
+    display: block;
+    min-height: 0;
   }
 
   .wrapper {
     max-width: 100%;
+    padding: 0;
+  }
+
+  .reading-panel {
+    padding: 0 !important;
+    border: none !important;
+  }
+
+  .post-content {
+    font-size: 10.5pt;
+    line-height: 1.35;
+
+    p,
+    ul,
+    ol {
+      margin-bottom: 4pt;
+    }
+
+    li {
+      margin-bottom: 2pt;
+      line-height: 1.35;
+    }
+
+    h1 {
+      font-size: 20pt;
+      margin: 0 0 2pt;
+    }
+
+    h2 {
+      font-size: 13pt;
+      margin: 10pt 0 4pt;
+    }
+
+    h3 {
+      font-size: 11.5pt;
+      margin: 8pt 0 3pt;
+    }
   }
 
   a {
@@ -960,7 +1020,9 @@ body.layout-reading {
     page-break-after: avoid;
   }
 
-  ul, ol, .leadership-card {
+  // Individual bullets stay intact, but long lists (the CV runs 8+ bullets
+  // per role) must be allowed to break across pages.
+  li, .leadership-card {
     page-break-inside: avoid;
   }
 

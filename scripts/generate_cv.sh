@@ -53,7 +53,12 @@ generate_cv() {
 
   echo "Generating ${label} DOCX via pandoc (requires pandoc installed: brew install pandoc)..."
   if command -v pandoc &> /dev/null; then
-      pandoc "${docx_source}" -o "assets/${docx_name}"
+      # cv_reference.docx keeps the DOCX at the same ~3 pages as the PDF: 10.5pt
+      # body, 13pt/11.5pt near-black headings, A4 with 13/15mm margins. Rebuild
+      # it from pandoc's default (pandoc -o ref.docx --print-default-data-file
+      # reference.docx) and re-apply those style/sectPr tweaks if pandoc's
+      # defaults ever change shape.
+      pandoc "${docx_source}" -o "assets/${docx_name}" --reference-doc=scripts/cv_reference.docx
       echo "${label} files successfully generated in assets/"
   else
       echo "Warning: Pandoc is not installed. To generate the DOCX file, please install pandoc: 'brew install pandoc'"
