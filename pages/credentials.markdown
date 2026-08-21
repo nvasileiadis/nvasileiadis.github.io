@@ -108,7 +108,7 @@ By the time I applied for Estonia's e-Residency programme — approved as one of
 - **UX Management: Strategy and Tactics** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/P9R4Q1vlB), Aug 2018
 - **PMP® Exam Prep - Introduction to Project Management & The PMP® Exam** · Pluralsight, Jul 2016
 - **Agile Fundamentals** · Pluralsight, Jul 2016
-- **IS110x: Innovation and IT Management** · Indian Institute of Management Bangalore, Sep 2015
+- **IS110x: Innovation and IT Management** · [Indian Institute of Management Bangalore](https://verify.edx.org/cert/33af0580103947cd9770a5e027083acc), Sep 2015
 
 ### AI Strategy & Implementation
 
@@ -140,7 +140,7 @@ By the time I applied for Estonia's e-Residency programme — approved as one of
 - **Introduction to Testing in Java** · Pluralsight, Jul 2016
 - **JavaScript Build Automation With Gulp.js** · Pluralsight, Jul 2016
 - **Web Application Architectures** · University of New Mexico, May 2015
-- **CS169.1x: Software as a Service** · UC Berkeley, Jun 2014
+- **CS169.1x: Software as a Service** · [UC Berkeley](https://verify.edx.org/cert/046267d999a042af8676d3f9dd9a47e8), Jun 2014
 - **Ruby on Rails Tutorial** · [Michael Hartl](https://www.railstutorial.org/), 2014
 
 <!-- markdownlint-disable MD033 -->
