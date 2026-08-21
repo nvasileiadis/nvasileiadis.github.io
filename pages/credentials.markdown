@@ -350,9 +350,9 @@ Led technical infrastructure for regional science and technology initiatives. Co
 
 ### Competitions & Coding Challenges
 
-- **Code in the Dark 2016** · Leeds, UK
-- **Code in the Dark 2017** · Leeds, UK
 - **Code in the Dark 2018** · Leeds, UK
+- **Code in the Dark 2017** · Leeds, UK
+- **Code in the Dark 2016** · Leeds, UK
 
 ### Publications
 
