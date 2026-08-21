@@ -85,6 +85,9 @@ Developed highly-optimised, custom web interfaces deployed to digital signage ac
 **Royal Canin Global Design System** _(IMA-HOME, 2020-2022)_
 Engineered a comprehensive Design System for the global pet food brand, with a heavy focus on internationalisation. Implemented extensive UX and architectural improvements to cater for Right-to-Left (RTL) languages such as Arabic, as well as addressing the unique structural and typographic requirements of the Russian and Japanese markets.
 
+**Scrum Master Certification Coaching** _(IMA-HOME, 2021)_
+Coached my immediate team of four — my line manager, two senior software engineers, and a QA engineer — to scrum.org Professional Scrum Master certification. Ran group sessions followed by individual coaching, supplementing the official preparation materials with practice questions sourced from the wider Scrum community. All four passed and hold the certification. Separately mentored a developer-turned-project-manager onto the Agile career path — sharing the same materials and making the case for the move; he went on to earn scrum.org certifications well beyond PSM and now works as an Agile Leader.
+
 **Pulsar UX & UI Framework** _(Jadu, 2017–2019)_
 Open-source user experience and interface framework powering the Jadu Continuum Platform, used by Local Authorities, Higher Education institutions, and third-sector organisations across the UK. [View on GitHub](https://jadu.github.io/pulsar/)
 
