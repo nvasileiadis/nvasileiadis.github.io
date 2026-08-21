@@ -99,8 +99,6 @@ By the time I applied for Estonia's e-Residency programme — approved as one of
 
 ### Leadership & Management
 
-- **Project Management: The Basics for Success** · University of California, Irvine (Coursera), Jul 2025
-- **Work Smarter, Not Harder: Time Management for Personal & Professional Productivity** · University of California, Irvine (Coursera), Jul 2025
 - **Team Topologies Distilled** · [Team Topologies Academy Corporate](https://academy.corp.teamtopologies.com/certificates/2zliafscx5), Oct 2023 — _Applied to identify platform team anti-patterns, redesign team interaction modes, and propose organisational structures aligned with cognitive load theory._
 - **Mental Health First Aid (MHFA) Champion** · MHFA England, Feb 2023
 - **COVID-19: Psychological First Aid** · [UK Health Security Agency](https://www.futurelearn.com/certificates/3eldrps), Dec 2022
@@ -110,6 +108,8 @@ By the time I applied for Estonia's e-Residency programme — approved as one of
 - **UX Management: Strategy and Tactics** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/P9R4Q1vlB), Aug 2018
 - **PMP® Exam Prep - Introduction to Project Management & The PMP® Exam** · Pluralsight, Jul 2016
 - **Agile Fundamentals** · Pluralsight, Jul 2016
+- **Project Management: The Basics for Success** · University of California, Irvine (Coursera), 2016
+- **Work Smarter, Not Harder: Time Management for Personal & Professional Productivity** · University of California, Irvine (Coursera), 2016
 - **IS110x: Innovation and IT Management** · [Indian Institute of Management Bangalore](https://verify.edx.org/cert/33af0580103947cd9770a5e027083acc), Sep 2015
 
 ### AI Strategy & Implementation
