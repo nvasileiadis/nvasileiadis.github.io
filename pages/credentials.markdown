@@ -3,7 +3,7 @@ layout: page
 title: Credentials — Nikos Vasileiadis | Clients & Community
 nav_title: Credentials
 permalink: /credentials/
-description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology, 9 years in leadership, 4 in direct line management. Based in Leeds, UK. Includes 49 certificates and 60+ completed courses across leadership, UX, analytics, cloud, and FinTech."
+description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology, 9 years in leadership, 4 in direct line management. Based in Leeds, UK. Includes 49 certificates and 62 completed courses across leadership, UX, analytics, cloud, and FinTech."
 ---
 
 _This page is an evidence appendix for those who want to go deeper. For a complete summary of my professional experience, see my [CV](/cv/). It maps the journey from engineer to engineering leader — the brands and organisations I've worked with, the credentials I've earned across engineering and leadership, my community contributions, and notable recognition._
@@ -16,7 +16,7 @@ _This page is an evidence appendix for those who want to go deeper. For a comple
   </div>
   <div class="metric-card">
     <span class="metric-number">49</span>
-    <span class="metric-label">Certificates<br><small style="font-size: 0.8em; opacity: 0.8;">+ 60 completed courses</small></span>
+    <span class="metric-label">Certificates<br><small style="font-size: 0.8em; opacity: 0.8;">+ 62 completed courses</small></span>
   </div>
   <div class="metric-card">
     <span class="metric-number">18</span>
@@ -99,6 +99,8 @@ By the time I applied for Estonia's e-Residency programme — approved as one of
 
 ### Leadership & Management
 
+- **Project Management: The Basics for Success** · University of California, Irvine (Coursera), Jul 2025
+- **Work Smarter, Not Harder: Time Management for Personal & Professional Productivity** · University of California, Irvine (Coursera), Jul 2025
 - **Team Topologies Distilled** · [Team Topologies Academy Corporate](https://academy.corp.teamtopologies.com/certificates/2zliafscx5), Oct 2023 — _Applied to identify platform team anti-patterns, redesign team interaction modes, and propose organisational structures aligned with cognitive load theory._
 - **Mental Health First Aid (MHFA) Champion** · MHFA England, Feb 2023
 - **COVID-19: Psychological First Aid** · [UK Health Security Agency](https://www.futurelearn.com/certificates/3eldrps), Dec 2022
@@ -121,7 +123,7 @@ By the time I applied for Estonia's e-Residency programme — approved as one of
 - **Budgeting for Non-Financial Managers** · AAT Essentials, Jun 2026
 - **Finance for Non-Financial Managers** · AAT Essentials, Feb 2026
 - **Business Metrics & Growth** · Limitless Concepts, 2023 — P&L, Cash Flow, CAC, LTV, MRR/ARR, NPV, Cap Tables
-- **FinTech Law and Policy** · Coursera, 2019
+- **FinTech Law and Policy** · Duke University (Coursera), 2019
 - **DFIN-511: Introduction to Digital Currencies** · [University of Nicosia](/assets/images/credentials/unic-dfin511-digital-currencies.pdf), Dec 2016
 
 ### Technology & Architecture
