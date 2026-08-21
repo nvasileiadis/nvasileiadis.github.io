@@ -221,6 +221,12 @@ $on-laptop: 800px !default;
   border: 1px solid darken($brand-color, 10%);
 }
 
+.badge-contestant {
+  background-color: #ffffff;
+  color: $brand-color;
+  border: 1px solid $brand-color;
+}
+
 // Explore cards: 2-column navigation grid on the homepage.
 .explore-grid {
   display: grid;
