@@ -19,7 +19,7 @@ _This page is an evidence appendix for those who want to go deeper. For a comple
     <span class="metric-label">Certificates<br><small style="font-size: 0.8em; opacity: 0.8;">+ 62 completed courses</small></span>
   </div>
   <div class="metric-card">
-    <span class="metric-number">18</span>
+    <span class="metric-number">21</span>
     <span class="metric-label">Notable Brands</span>
   </div>
   <div class="metric-card">
