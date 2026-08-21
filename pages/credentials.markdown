@@ -70,9 +70,9 @@ From engineering to engineering leadership, I've delivered for organisations acr
 
 **Public Sector & Education** Local Authorities (multiple) · Higher Education institutions · third-sector not-for-profit organisations _(via Jadu's award-winning CMS)_
 
-**Agency Clients** Lloyd's Register · CACI · EQVVS · G-Type · Bowcliffe Hall · Leeds Rhinos
+**Agency Clients** Lloyd's Register · CACI · EQVVS · G-Type · Bowcliffe Hall · Leeds Rhinos · Millennium Support
 
-**Non-Profits & Community** UNESCO · Open Source Ecology · IEEE · Serres Linux Users Group
+**Non-Profits & Community** UNESCO · Candlelighters · Open Source Ecology · IEEE · Serres Linux Users Group
 
 ---
 
