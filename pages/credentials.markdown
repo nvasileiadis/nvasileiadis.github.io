@@ -100,7 +100,7 @@ By the time I applied for Estonia's e-Residency programme — approved as one of
 ### Leadership & Management
 
 - **Team Topologies Distilled** · [Team Topologies Academy Corporate](https://academy.corp.teamtopologies.com/certificates/2zliafscx5), Oct 2023 — _Applied to identify platform team anti-patterns, redesign team interaction modes, and propose organisational structures aligned with cognitive load theory._
-- **Mental Health First Aid (MHFA) Champion** · MHFA England, Feb 2023
+- **Mental Health First Aid (MHFA) Champion** · [MHFA England](/assets/images/credentials/mhfa-england-champion.pdf), Feb 2023
 - **COVID-19: Psychological First Aid** · [UK Health Security Agency](https://www.futurelearn.com/certificates/3eldrps), Dec 2022
 - **Professional Scrum Product Owner I (PSPO I)** · [Scrum.org](https://www.scrum.org/certificates/694360), Aug 2021
 - **Professional Scrum Master I (PSM I)** · [Scrum.org](https://www.scrum.org/certificates/419796), Jun 2019
