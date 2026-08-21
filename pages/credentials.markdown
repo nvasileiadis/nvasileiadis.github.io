@@ -102,9 +102,9 @@ By the time I applied for Estonia's e-Residency programme — approved as one of
 - **Team Topologies Distilled** · [Team Topologies Academy Corporate](https://academy.corp.teamtopologies.com/certificates/2zliafscx5), Oct 2023 — _Applied to identify platform team anti-patterns, redesign team interaction modes, and propose organisational structures aligned with cognitive load theory._
 - **Mental Health First Aid (MHFA) Champion** · MHFA England, Feb 2023
 - **COVID-19: Psychological First Aid** · [UK Health Security Agency](https://www.futurelearn.com/certificates/3eldrps), Dec 2022
-- **Professional Scrum Product Owner I (PSPO I)** · [Scrum.org](https://www.scrum.org/user/391877), Aug 2021
-- **Professional Scrum Master I (PSM I)** · [Scrum.org](https://www.scrum.org/user/391877), Jun 2019
-- **Professional Scrum Developer I (PSD I)** · [Scrum.org](https://www.scrum.org/user/391877), Dec 2018
+- **Professional Scrum Product Owner I (PSPO I)** · [Scrum.org](https://www.scrum.org/certificates/694360), Aug 2021
+- **Professional Scrum Master I (PSM I)** · [Scrum.org](https://www.scrum.org/certificates/419796), Jun 2019
+- **Professional Scrum Developer I (PSD I)** · [Scrum.org](https://www.scrum.org/certificates/371864), Dec 2018
 - **UX Management: Strategy and Tactics** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/P9R4Q1vlB), Aug 2018
 - **PMP® Exam Prep - Introduction to Project Management & The PMP® Exam** · Pluralsight, Jul 2016
 - **Agile Fundamentals** · Pluralsight, Jul 2016
@@ -113,7 +113,7 @@ By the time I applied for Estonia's e-Residency programme — approved as one of
 ### AI Strategy & Implementation
 
 - **AI Leader: Generative AI & Agentic AI for Leaders & Founders** · [Udemy](https://www.udemy.com/certificate/UC-30b444af-cf5d-47ba-b721-dba86062e4aa/), Mar 2026
-- **How to Design Experiences for AI** · [IxDF Master Class](https://ixdf.org/members/nikolaos-vasileiadis/certificate/masterclass/mcc_b9ef0a7c3de24d6495b8d0f23fe974a8), Sep 2019
+- **How to Design Experiences for AI** · [IxDF Master Class](https://ixdf.org/members/nikolaos-vasileiadis/certificate/masterclass/mcc_b9ef0a7c3de24d6495b8d0f23fe974a8), Jun 2022
 
 ### Business & Finance
 
@@ -122,11 +122,11 @@ By the time I applied for Estonia's e-Residency programme — approved as one of
 - **Finance for Non-Financial Managers** · AAT Essentials, Feb 2026
 - **Business Metrics & Growth** · Limitless Concepts, 2023 — P&L, Cash Flow, CAC, LTV, MRR/ARR, NPV, Cap Tables
 - **FinTech Law and Policy** · Coursera, 2019
-- **DFIN-511: Introduction to Digital Currencies** · University of Nicosia, Dec 2016
+- **DFIN-511: Introduction to Digital Currencies** · [University of Nicosia](/assets/images/credentials/unic-dfin511-digital-currencies.pdf), Dec 2016
 
 ### Technology & Architecture
 
-- **Prometheus Alerting and Monitoring** · Udemy, Apr 2026
+- **Prometheus Alerting and Monitoring** · [Udemy](https://www.udemy.com/certificate/UC-c47ee910-8dfa-4f31-acf0-7656932cae8d/), Apr 2026
 - **JavaScript Algorithms and Data Structures** · [freeCodeCamp](https://www.freecodecamp.org/certification/nvasileiadis/javascript-algorithms-and-data-structures), Oct 2019
 - **IBM Blockchain Foundation Developer** · [IBM](https://courses.cognitiveclass.ai/certificates/45bee3a01f564a7dbaaf2e175d904044), Feb 2019
 - **IBM Blockchain Essentials** · IBM, Jan 2019
@@ -135,11 +135,11 @@ By the time I applied for Estonia's e-Residency programme — approved as one of
 - **JavaScript Promises** · Udacity, 2017
 - **Intro to Progressive Web Apps** · Udacity, 2017
 - **JavaScript Testing** · Udacity, 2017
-- **ES6 for Everyone** · Wes Bos, Jan 2017
-- **React for Beginners** · Wes Bos, Nov 2016
+- **ES6 for Everyone** · [Wes Bos](/assets/images/credentials/wesbos-es6-for-everyone.png), Jan 2017
+- **React for Beginners** · [Wes Bos](/assets/images/credentials/wesbos-react-for-beginners.png), Nov 2016
 - **Introduction to Testing in Java** · Pluralsight, Jul 2016
 - **JavaScript Build Automation With Gulp.js** · Pluralsight, Jul 2016
-- **Web Application Architectures** · University of New Mexico, May 2015
+- **Web Application Architectures** · [University of New Mexico](/assets/images/credentials/coursera-web-application-architectures.pdf), May 2015
 - **CS169.1x: Software as a Service** · [UC Berkeley](https://verify.edx.org/cert/046267d999a042af8676d3f9dd9a47e8), Jun 2014
 - **Ruby on Rails Tutorial** · [Michael Hartl](https://www.railstutorial.org/), 2014
 
@@ -224,14 +224,14 @@ By the time I applied for Estonia's e-Residency programme — approved as one of
 ### Analytics & Digital Marketing
 
 - **Google Tag Manager Fundamentals** · Google, Feb 2019
-- **Google Analytics for Power Users** · Google, Dec 2018
-- **Getting Started With Google Analytics 360** · Google, Dec 2018
+- **Google Analytics for Power Users** · [Google](/assets/images/credentials/google-analytics-power-users.pdf), Dec 2018
+- **Getting Started With Google Analytics 360** · [Google](/assets/images/credentials/google-analytics-360.pdf), Dec 2018
 - **Google Analytics Individual Qualification** · Google, Nov 2018
 - **Advanced Google Analytics** · Google, Nov 2018
-- **Google Analytics for Beginners** · Google, Nov 2018
-- **Digital Sales** · Google, Dec 2017
-- **Mobile Sites** · Google, Dec 2017
-- **The Online Marketing Fundamentals** · Google, Sep 2016
+- **Google Analytics for Beginners** · [Google](/assets/images/credentials/google-analytics-beginners.pdf), Nov 2018
+- **Digital Sales** · [Google](/assets/images/credentials/google-digital-sales.pdf), Dec 2017
+- **Mobile Sites** · [Google](/assets/images/credentials/google-mobile-sites.pdf), Dec 2017
+- **The Online Marketing Fundamentals** · [Google](/assets/images/credentials/google-online-marketing-fundamentals.pdf), Sep 2016
 
 ### UX, Accessibility & Design
 
