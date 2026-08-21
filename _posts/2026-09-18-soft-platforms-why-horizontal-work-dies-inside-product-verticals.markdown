@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Soft Platforms: Why Horizontal Work Dies Inside Product Verticals"
-date: 2026-09-18 11:45:00 +0100
+date: 2026-09-18 10:00:00 +0000
 categories: leadership
 description: "Content platforms, design systems, analytics tooling — work that serves the whole company reliably looks like underperformance when it's funded and measured inside one product vertical. Here's why the structure fails, and how to run a platform team without waiting for the reorg."
 ---

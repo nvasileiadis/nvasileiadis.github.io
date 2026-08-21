@@ -9,10 +9,11 @@ on:
     branches: ["master"]
 
   # Daily rebuild so future-dated posts publish automatically when their date arrives.
-  # GitHub Actions cron is always UTC: 11:50 UTC = 11:50 GMT / 12:50 BST, so it lands
-  # after the 11:45 local time posts are dated with, in every season.
+  # Posts are dated 10:00 +0000, i.e. a fixed UTC instant, which is what GitHub Actions
+  # cron speaks natively — so one run at 10:05 UTC covers every season with no DST hack.
+  # (Local clock time therefore drifts: 11:00 BST in summer, 10:00 GMT in winter.)
   schedule:
-    - cron: "50 11 * * *"
+    - cron: "5 10 * * *"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:

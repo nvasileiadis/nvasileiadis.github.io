@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Archeology: How to Inherit a System Nobody Documented"
-date: 2026-08-21 11:45:00 +0100
+date: 2026-08-21 10:00:00 +0000
 categories: leadership
 description: "I inherited a business-critical platform with no documentation, no SLA, and no one left who built it. Four years later my team is the most thoroughly documented in the organisation — 100+ articles, built from zero. Here's the method."
 ---

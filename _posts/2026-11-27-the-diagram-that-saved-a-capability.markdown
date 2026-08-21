@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Diagram That Saved a Capability (and Paid Off Two Years Later)"
-date: 2026-11-27 11:45:00 +0000
+date: 2026-11-27 10:00:00 +0000
 categories: leadership
 description: "A restructuring plan would have dissolved our design system team — and grown mine. I argued against my own reinforcement, with diagrams instead of complaints, and the return took two years to appear on anyone's books. On political capital, blast radius, and why a well-drawn picture wins arguments."
 ---
