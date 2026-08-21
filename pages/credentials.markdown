@@ -64,7 +64,7 @@ From engineering to engineering leadership, I've delivered for organisations acr
 
 **Global Retail & FMCG** Adidas · MARS · Royal Canin · Vivienne Westwood · Kärcher · Silverstone
 
-**Financial Services** Leeds Building Society _(5th largest UK building society · £31B+ assets)_
+**Financial Services** Leeds Building Society _(5th largest UK building society · £31B+ assets)_ · Zopa _(now Zopa Bank)_
 
 **Regulated Utilities & Energy** Utility Warehouse _(FTSE 250 · multi-service provider of energy, broadband, mobile & insurance)_
 
