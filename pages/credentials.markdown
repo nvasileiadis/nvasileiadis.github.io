@@ -130,7 +130,7 @@ By the time I applied for Estonia's e-Residency programme — approved as one of
 - **JavaScript Algorithms and Data Structures** · [freeCodeCamp](https://www.freecodecamp.org/certification/nvasileiadis/javascript-algorithms-and-data-structures), Oct 2019
 - **IBM Blockchain Foundation Developer** · [IBM](https://courses.cognitiveclass.ai/certificates/45bee3a01f564a7dbaaf2e175d904044), Feb 2019
 - **IBM Blockchain Essentials** · IBM, Jan 2019
-- **Magento Certified Front End Developer** · Adobe Commerce, Jun 2018
+- **Magento Certified Front End Developer** · [Adobe Commerce](/assets/images/credentials/magento.jpg), Jun 2018
 - **Website Performance Optimization** · Udacity, 2017
 - **JavaScript Promises** · Udacity, 2017
 - **Intro to Progressive Web Apps** · Udacity, 2017
