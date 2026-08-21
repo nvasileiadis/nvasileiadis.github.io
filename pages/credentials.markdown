@@ -3,7 +3,7 @@ layout: page
 title: Credentials — Nikos Vasileiadis | Clients & Community
 nav_title: Credentials
 permalink: /credentials/
-description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology, 9 years in leadership, 4 in direct line management. Based in Leeds, UK. Includes 45 certificates and 60+ completed courses across leadership, UX, analytics, cloud, and FinTech."
+description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology, 9 years in leadership, 4 in direct line management. Based in Leeds, UK. Includes 49 certificates and 60+ completed courses across leadership, UX, analytics, cloud, and FinTech."
 ---
 
 _This page is an evidence appendix for those who want to go deeper. For a complete summary of my professional experience, see my [CV](/cv/). It maps the journey from engineer to engineering leader — the brands and organisations I've worked with, the credentials I've earned across engineering and leadership, my community contributions, and notable recognition._
@@ -15,7 +15,7 @@ _This page is an evidence appendix for those who want to go deeper. For a comple
     <span class="metric-label">Years in Technology<br><small style="font-size: 0.8em; opacity: 0.8;">20+ Engineering · 9 Leadership · 4 Line Management<br>Leading since 2017</small></span>
   </div>
   <div class="metric-card">
-    <span class="metric-number">45</span>
+    <span class="metric-number">49</span>
     <span class="metric-label">Certificates<br><small style="font-size: 0.8em; opacity: 0.8;">+ 60 completed courses</small></span>
   </div>
   <div class="metric-card">
@@ -99,20 +99,21 @@ By the time I applied for Estonia's e-Residency programme — approved as one of
 
 ### Leadership & Management
 
-- **Team Topologies Distilled** · Team Topologies Academy Corporate, Oct 2023 — _Applied to identify platform team anti-patterns, redesign team interaction modes, and propose organisational structures aligned with cognitive load theory._
+- **Team Topologies Distilled** · [Team Topologies Academy Corporate](https://academy.corp.teamtopologies.com/certificates/2zliafscx5), Oct 2023 — _Applied to identify platform team anti-patterns, redesign team interaction modes, and propose organisational structures aligned with cognitive load theory._
 - **Mental Health First Aid (MHFA) Champion** · MHFA England, Feb 2023
-- **COVID-19: Psychological First Aid** · UK Health Security Agency, Dec 2022
+- **COVID-19: Psychological First Aid** · [UK Health Security Agency](https://www.futurelearn.com/certificates/3eldrps), Dec 2022
 - **Professional Scrum Product Owner I (PSPO I)** · [Scrum.org](https://www.scrum.org/user/391877), Aug 2021
 - **Professional Scrum Master I (PSM I)** · [Scrum.org](https://www.scrum.org/user/391877), Jun 2019
 - **Professional Scrum Developer I (PSD I)** · [Scrum.org](https://www.scrum.org/user/391877), Dec 2018
-- **UX Management: Strategy and Tactics** · IxDF, Aug 2018
+- **UX Management: Strategy and Tactics** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/P9R4Q1vlB), Aug 2018
 - **PMP® Exam Prep - Introduction to Project Management & The PMP® Exam** · Pluralsight, Jul 2016
 - **Agile Fundamentals** · Pluralsight, Jul 2016
 - **IS110x: Innovation and IT Management** · Indian Institute of Management Bangalore, Sep 2015
 
 ### AI Strategy & Implementation
 
-- **AI Leader: Generative AI & Agentic AI for Leaders & Founders** · Udemy, Mar 2026
+- **AI Leader: Generative AI & Agentic AI for Leaders & Founders** · [Udemy](https://www.udemy.com/certificate/UC-30b444af-cf5d-47ba-b721-dba86062e4aa/), Mar 2026
+- **How to Design Experiences for AI** · [IxDF Master Class](https://ixdf.org/members/nikolaos-vasileiadis/certificate/masterclass/mcc_b9ef0a7c3de24d6495b8d0f23fe974a8), Sep 2019
 
 ### Business & Finance
 
@@ -126,8 +127,8 @@ By the time I applied for Estonia's e-Residency programme — approved as one of
 ### Technology & Architecture
 
 - **Prometheus Alerting and Monitoring** · Udemy, Apr 2026
-- **JavaScript Algorithms and Data Structures** · freeCodeCamp, Oct 2019
-- **IBM Blockchain Foundation Developer** · IBM, Feb 2019
+- **JavaScript Algorithms and Data Structures** · [freeCodeCamp](https://www.freecodecamp.org/certification/nvasileiadis/javascript-algorithms-and-data-structures), Oct 2019
+- **IBM Blockchain Foundation Developer** · [IBM](https://courses.cognitiveclass.ai/certificates/45bee3a01f564a7dbaaf2e175d904044), Feb 2019
 - **IBM Blockchain Essentials** · IBM, Jan 2019
 - **Magento Certified Front End Developer** · Adobe Commerce, Jun 2018
 - **Website Performance Optimization** · Udacity, 2017
@@ -234,25 +235,34 @@ By the time I applied for Estonia's e-Residency programme — approved as one of
 
 ### UX, Accessibility & Design
 
-- **Accessibility: How to Design for All** · IxDF, Sep 2018
-- **Conducting Usability Testing** · IxDF, Jun 2018
-- **Information Visualization** · IxDF, Jun 2018
-- **Gamification - Creating Addictive User Experiences** · IxDF, Mar 2018
-- **How to Design for Augmented and Virtual Reality** · IxDF, Mar 2018
+- **Accessibility: How to Design for All** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/Pd35f4fgM), Sep 2018
+- **Conducting Usability Testing** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/P3PThrDks), Jun 2018
+- **Information Visualization** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/P17MF05jH), Jun 2018
+- **Gamification - How to Create Engaging User Experiences** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/NN0djCskZ), Mar 2018
+- **How to Design for Augmented and Virtual Reality** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/NRdqmhGK8), Mar 2018
 - **Web Accessibility** · Udacity, 2017
-- **Web Design for Usability** · IxDF, Aug 2017
-- **Quality Web Communication** · IxDF, Aug 2017
-- **User Research — Methods and Best Practices** · IxDF, Jul 2017
-- **Mobile User Experience (UX) Design** · IxDF, Jun 2017
+- **Web Design for Usability** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/Nj3K2b2r4), Aug 2017
+- **Quality Web Communication** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/NjqCSxK8X), Aug 2017
+- **User Research — Methods and Best Practices** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/NgTK1n2Hj), Jul 2017
+- **Mobile User Experience (UX) Design** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/N97Q8NH2c), Jun 2017
 
 <!-- markdownlint-disable MD033 -->
 <details class="credential-group" markdown="1">
 <summary>IxDF — Foundations & Career <span class="credential-count">4 courses</span></summary>
 
-- Design Thinking: The Beginner's Guide
-- Becoming a UX Designer from scratch
-- Get Your First Job as a UX or Interaction Designer
-- How to Become a Freelance Designer
+- [Design Thinking: The Beginner's Guide](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/N5LXdj1nV)
+- [Become a UX Designer from Scratch](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/N7mVw6Nxr)
+- [Get Your First Job as a UX or Interaction Designer](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/NhgK8XrHJ)
+- [How to Become a Freelance Designer](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/NgTK9hJcG)
+
+</details>
+
+<details class="credential-group" markdown="1">
+<summary>IxDF — Master Classes <span class="credential-count">3 certificates</span></summary>
+
+- [Disruptive Design: Is your UX Future-Proof?](https://ixdf.org/members/nikolaos-vasileiadis/certificate/masterclass/mcc_4f4ef43fb1994c678a38cf119dae3a5b)
+- [Design with Data: A Guide to A/B Testing](https://ixdf.org/members/nikolaos-vasileiadis/certificate/masterclass/mcc_242f5c61fb6f4823992db63408d24f6b)
+- [Going from UX to Service Design](https://ixdf.org/members/nikolaos-vasileiadis/certificate/masterclass/mcc_293cf56ac8294b36ab9490ccd3d36c27)
 
 </details>
 <!-- markdownlint-enable MD033 -->
