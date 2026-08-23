@@ -484,19 +484,28 @@ $on-laptop: 800px !default;
       display: none;
     }
 
+    // Disclosure chevron: sized and coloured to read as an interactive
+    // affordance, not decoration — a faint marker makes the row look like a
+    // static highlight instead of something that expands.
     &::before {
       content: "▸";
       display: inline-block;
-      margin-right: 8px;
-      font-size: 0.85em;
+      margin-right: 10px;
+      font-size: 1.15em;
+      line-height: 1;
       transition: transform 0.2s ease;
       flex-shrink: 0;
-      color: lighten($brand-color, 20%);
+      color: $brand-color;
     }
 
     &:hover {
       color: $text-color;
       background-color: lighten($brand-color, 63%);
+    }
+
+    &:focus-visible {
+      outline: 2px solid $brand-color;
+      outline-offset: -2px;
     }
   }
 
@@ -516,6 +525,53 @@ $on-laptop: 800px !default;
       font-size: $small-font-size * 0.95;
       color: $grey-color-dark;
       padding: 2px 0;
+    }
+  }
+}
+
+// Project accordions: a more prominent variant of .credential-group used in
+// the Notable Projects section. Full-size bold titles with an org/date badge
+// on the right; body copy sits inside the panel below a divider.
+.project-group {
+  summary {
+    padding: 12px 16px;
+    font-size: $base-font-size;
+    flex-wrap: wrap;
+    gap: 2px 10px;
+  }
+
+  .project-title {
+    font-weight: 600;
+    color: $text-color;
+    flex: 1;
+    min-width: 60%;
+  }
+
+  .project-meta {
+    font-size: 0.75em;
+    font-weight: 500;
+    color: $grey-color;
+    background-color: lighten($brand-color, 60%);
+    padding: 2px 9px;
+    border-radius: 9px;
+    letter-spacing: 0.3px;
+    white-space: nowrap;
+    flex-shrink: 0;
+    margin-left: auto;
+  }
+
+  > p {
+    margin: 0;
+    padding: 10px 16px 0;
+    font-size: $small-font-size;
+    color: $grey-color-dark;
+
+    &:first-of-type {
+      border-top: 1px solid lighten($brand-color, 52%);
+    }
+
+    &:last-of-type {
+      padding-bottom: 14px;
     }
   }
 }

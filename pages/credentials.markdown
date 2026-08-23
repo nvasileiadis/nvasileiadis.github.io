@@ -62,44 +62,72 @@ Decomposed, the leadership claim looks like this — every layer dated, every la
 
 From engineering to engineering leadership, I've delivered for global consumer brands, regulated financial services and utilities, public-sector institutions, and the third sector. A selection of the most recognisable:
 
-**Global Consumer Brands** Adidas · MARS · Royal Canin · Vivienne Westwood · Kärcher
+**Global Consumer Brands:** Adidas · MARS · Royal Canin · Vivienne Westwood · Kärcher
 
-**Financial Services** Leeds Building Society _(5th largest UK building society · £31B+ assets)_ · Zopa _(now Zopa Bank)_
+**Financial Services:** Leeds Building Society _(5th largest UK building society · £31B+ assets)_ · Zopa _(now Zopa Bank)_
 
-**Regulated Utilities & Energy** Utility Warehouse _(FTSE 250 · multi-service provider of energy, broadband, mobile & insurance)_
+**Regulated Utilities & Energy:** Utility Warehouse _(FTSE 250 · multi-service provider of energy, broadband, mobile & insurance)_
 
-**Engineering & Professional Services** Lloyd's Register _(engineering standards & assurance)_ · CACI
+**Engineering & Professional Services:** Lloyd's Register _(engineering standards & assurance)_ · CACI
 
-**Sport & Leisure** Silverstone · Leeds Rhinos · Bowcliffe Hall
+**Sport & Leisure:** Silverstone · Leeds Rhinos · Bowcliffe Hall
 
-**Public Sector & Education** Greater Manchester Combined Authority · University of Leeds · and further Local Authorities _(via Jadu's award-winning CMS)_
+**Public Sector & Education:** Greater Manchester Combined Authority · University of Leeds · and further Local Authorities _(via Jadu's award-winning CMS)_
 
-**Health & Social Care** Millennium Support _(adult social care provider)_
+**Health & Social Care:** Millennium Support _(adult social care provider)_
 
-**Non-Profits & Community** UNESCO · Candlelighters · Open Source Ecology · IEEE · Serres Linux Users Group
+**Non-Profits & Community:** UNESCO · Candlelighters · Open Source Ecology · IEEE · Serres Linux Users Group
 
 ---
 
 ## Notable Projects & Highlights
 {: .icon-rocket}
 
-**Global Product Launch Displays — Adidas** _(IMA-HOME, 2022)_
-Developed highly-optimised, custom web interfaces deployed to digital signage across international retail locations. Engineered synchronised countdown systems for high-profile product launches, ensuring robust continuous performance and precise global timezone coordination.
+_A selection of work that shows the pattern in practice. Design Systems are a recurring thread — from Pulsar at Jadu, to Royal Canin's global system at IMA-HOME, to the Design Systems team I later managed at Utility Warehouse. Expand any entry for the detail._
 
-**Royal Canin Global Design System** _(IMA-HOME, 2020-2022)_
-Engineered a comprehensive Design System for the global pet food brand, with a heavy focus on internationalisation. Implemented extensive UX and architectural improvements to cater for Right-to-Left (RTL) languages such as Arabic, as well as addressing the unique structural and typographic requirements of the Russian and Japanese markets.
+<!-- markdownlint-disable MD033 -->
+<details class="credential-group project-group" markdown="1">
+<summary><span class="project-title">Global Product Launch Displays — Adidas</span> <span class="project-meta">IMA-HOME · 2022</span></summary>
 
-**Scrum Master Certification Coaching** _(IMA-HOME, 2020–2021)_
-Coached my immediate team of five — my line manager, a principal engineer, a lead engineer, and two QA specialists — to scrum.org Professional Scrum Master certification. Ran group sessions followed by individual coaching, supplementing the official preparation materials with practice questions sourced from the wider Scrum community. All five passed and hold the certification. Separately mentored a developer-turned-project-manager onto the Agile career path — sharing the same materials and making the case for the move. Within a year of certifying he had moved into a full-time Scrum Master role; he has since earned eight scrum.org certifications and now works as an Agile Delivery Lead in financial services.
+Built highly-optimised custom web interfaces for digital signage across international retail locations, with synchronised countdown systems for high-profile product launches — engineered for robust continuous operation and precise global timezone coordination.
 
-**Pulsar UX & UI Framework** _(Jadu, 2017–2019)_
-Open-source user experience and interface framework powering the Jadu Continuum Platform, used by Local Authorities, Higher Education institutions, and third-sector organisations across the UK. [View on GitHub](https://jadu.github.io/pulsar/)
+</details>
 
-**End-to-End CMS Feature Development** _(Jadu, 2017–2018)_
-Owned the full product lifecycle for the Jadu CMS — from user research through to production release. Conducted regular on-site visits to council and university offices including Wyre Council, Rotherham Council, Greater Manchester Combined Authority, City of York Council, and the University of Leeds. Interviewed employees and performed contextual inquiry sessions — observing real workflows and recording usability tests with Silverback. Distilled field research into actionable reports that directly shaped the company's feature roadmap. Designed and prototyped solutions, ran iterative usability testing cycles, and shipped validated features into the live product. One of three developers in the Leeds office building Pulsar, each independently responsible for a major product area — I owned the CMS, alongside colleagues covering Forms and CRM — operating with product-ownership scope that exceeded the UX Interface Developer title.
+<details class="credential-group project-group" markdown="1">
+<summary><span class="project-title">Royal Canin Global Design System</span> <span class="project-meta">IMA-HOME · 2020–2022</span></summary>
 
-**Running a Business — Freelance Operations & Estonia e-Residency** _(2005–2015)_
-By the time I applied for Estonia's e-Residency programme — approved as one of the first 2,000 participants in the pilot — I was already operating as a small business. The final years of my freelancing in Greece weren't just about writing code; they were about running complete commercial projects end to end. I'd take a brief, scope the work, price it, then coordinate a network of contractors — designers, translators — delivering a finished product while managing the budget across all of them. One project was a website for a snail farm: I commissioned the design, arranged multilingual translations to help the business reach international markets, and delivered a complete package — branding, content, and search visibility — not just a website. That experience gave me an instinct for how budgets flow, how vendor relationships work, and what it means to be accountable for an entire delivery — not just your piece of it. Estonia's e-Residency was the natural next step: formalising that operating model into a legitimate EU business structure. I didn't end up using it — I moved to the UK shortly after — but the commercial thinking behind it is something I carry into every leadership role.
+Engineered a comprehensive Design System for the global pet food brand, with a heavy focus on internationalisation — extensive UX and architectural work to support Right-to-Left (RTL) languages such as Arabic, alongside the distinct structural and typographic requirements of the Russian and Japanese markets.
+
+</details>
+
+<details class="credential-group project-group" markdown="1">
+<summary><span class="project-title">Scrum Master Certification Coaching</span> <span class="project-meta">IMA-HOME · 2020–2021</span></summary>
+
+Coached my immediate team of five — my line manager, a principal engineer, a lead engineer, and two QA specialists — to scrum.org Professional Scrum Master certification, through group sessions followed by individual coaching. All five passed and hold the certification. Separately mentored a developer-turned-project-manager onto the Agile career path: within a year of certifying he had moved into a full-time Scrum Master role, and he now works as an Agile Delivery Lead in financial services with eight scrum.org certifications.
+
+</details>
+
+<details class="credential-group project-group" markdown="1">
+<summary><span class="project-title">Pulsar Design System</span> <span class="project-meta">Jadu · 2017–2018</span></summary>
+
+My first professional Design System: co-created and maintained Pulsar, Jadu's open-source UX and Interface Design System powering the Jadu Continuum Platform — used by Local Authorities, the University of Leeds, and third-sector organisations across the UK. [View on GitHub](https://jadu.github.io/pulsar/)
+
+</details>
+
+<details class="credential-group project-group" markdown="1">
+<summary><span class="project-title">End-to-End CMS Feature Development</span> <span class="project-meta">Jadu · 2017–2018</span></summary>
+
+Owned the full product lifecycle for the Jadu CMS — from user research through to production release. Conducted on-site contextual inquiry at councils and universities — including Wyre Council, Rotherham Council, City of York Council, Greater Manchester Combined Authority, and the University of Leeds — recording usability tests and distilling the field research into reports that directly shaped the company's feature roadmap. Designed and prototyped solutions, ran iterative usability testing cycles, and shipped validated features into the live product. One of three developers in the Leeds office building Pulsar, each independently responsible for a major product area — I owned the CMS, alongside colleagues covering Forms and CRM — a product-ownership scope beyond the UX Interface Developer title.
+
+</details>
+
+<details class="credential-group project-group" markdown="1">
+<summary><span class="project-title">Running a Business — Freelance Operations &amp; Estonia e-Residency</span> <span class="project-meta">Freelance · 2005–2015</span></summary>
+
+The final years of my freelancing in Greece were about running complete commercial projects, not just writing code: taking a brief, scoping and pricing the work, then coordinating a network of contractors — designers, translators — to deliver a finished product while managing the budget across all of them. Estonia's e-Residency was the natural next step — approved as one of the first 2,000 participants in the pilot, formalising that operating model into a legitimate EU business structure. I moved to the UK shortly after and never used it, but the commercial instinct it built — how budgets flow, how vendor relationships work, what it means to be accountable for an entire delivery — carries into every leadership role since.
+
+</details>
+<!-- markdownlint-enable MD033 -->
 
 ## Full Credentials
 {: .icon-file-text}
