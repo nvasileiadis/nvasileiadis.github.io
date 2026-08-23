@@ -72,7 +72,7 @@ From engineering to engineering leadership, I've delivered for global consumer b
 
 **Sport & Leisure** Silverstone · Leeds Rhinos · Bowcliffe Hall
 
-**Public Sector & Education** Greater Manchester Combined Authority · University of Leeds · and further Local Authorities & Higher Education institutions _(via Jadu's award-winning CMS)_
+**Public Sector & Education** Greater Manchester Combined Authority · University of Leeds · and further Local Authorities _(via Jadu's award-winning CMS)_
 
 **Health & Social Care** Millennium Support _(adult social care provider)_
 
