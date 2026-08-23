@@ -85,6 +85,11 @@ I've been mentoring engineers since before it was part of any job title — from
     <span>Free peer-learning mentoring for current and future engineering managers</span>
     <span class="explore-arrow">→</span>
   </a>
+  <a class="explore-card explore-card--future" href="mailto:vasileiadis.nikos@gmail.com?subject=Consulting%20interest" data-umami-event="consulting-interest">
+    <strong>Consulting <span class="future-chip">TBC</span></strong>
+    <span>Advisory on engineering leadership and organisational design. Not open yet — but if this would interest you, <span class="future-cta">message me</span>.</span>
+    <span class="explore-arrow">→</span>
+  </a>
 </div>
 
 <p class="locale-callout-intro">If you're reading from the Netherlands or Ireland — these are for you:</p>

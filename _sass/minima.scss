@@ -287,6 +287,40 @@ $on-laptop: 800px !default;
   }
 }
 
+// Inactive/future variant: dashed placeholder for a practice that isn't
+// open yet. Un-fades on hover; flips to a normal card when it goes live.
+.explore-card--future {
+  background-color: #f7f7f5;
+  border: 1px dashed $brand-color;
+  border-radius: 4px;
+  opacity: 0.85;
+  transition: opacity 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+
+  .future-chip {
+    display: inline-block;
+    margin-left: 6px;
+    padding: 1px 8px;
+    font-size: $small-font-size * 0.8;
+    font-weight: normal;
+    font-style: italic;
+    color: $brand-color;
+    border: 1px dashed lighten($brand-color, 30%);
+    border-radius: 10px;
+    vertical-align: middle;
+  }
+
+  .future-cta {
+    color: $brand-color;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  &:hover, &:focus {
+    opacity: 1;
+    border-color: $accent-color;
+  }
+}
+
 // Locale-specific callouts: subtle nudge for international visitors.
 .locale-callout-intro {
   text-align: center;
