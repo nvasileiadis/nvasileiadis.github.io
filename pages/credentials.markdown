@@ -398,3 +398,5 @@ Technical article on bridging design thinking with frontend engineering.
 
 **[W3C HTML Validation for Twig Generated Pages](https://medium.com/pulsar/w3c-html-validation-for-twig-generated-pages-42cc625e7db0)** · Medium, Oct 2017
 Technical guide on implementing HTML validation within Twig templating workflows.
+
+_These articles date from my hands-on engineering years. My current writing — on engineering leadership, team building, and delivery — lives on the [Blog](/blog/)._
