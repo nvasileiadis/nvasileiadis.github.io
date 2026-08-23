@@ -76,7 +76,7 @@ From engineering to engineering leadership, I've delivered for global consumer b
 
 **Health & Social Care:** Millennium Support _(adult social care provider)_
 
-**Non-Profits & Community:** UNESCO · Candlelighters · Open Source Ecology · IEEE · Serres Linux Users Group
+**Non-Profits & Community:** UNESCO · Candlelighters · Open Source Ecology · IEEE · Serres Linux Users Group (SerLUG)
 
 ---
 
