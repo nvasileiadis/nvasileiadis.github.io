@@ -60,17 +60,21 @@ Decomposed, the leadership claim looks like this — every layer dated, every la
 ## Notable Brands & Clients
 {: .icon-globe}
 
-From engineering to engineering leadership, I've delivered for organisations across regulated industries, global brand agencies, and enterprise software. A selection of the most recognisable:
+From engineering to engineering leadership, I've delivered for global consumer brands, regulated financial services and utilities, public-sector institutions, and the third sector. A selection of the most recognisable:
 
-**Global Retail & FMCG** Adidas · MARS · Royal Canin · Vivienne Westwood · Kärcher · Silverstone
+**Global Consumer Brands** Adidas · MARS · Royal Canin · Vivienne Westwood · Kärcher
 
 **Financial Services** Leeds Building Society _(5th largest UK building society · £31B+ assets)_ · Zopa _(now Zopa Bank)_
 
 **Regulated Utilities & Energy** Utility Warehouse _(FTSE 250 · multi-service provider of energy, broadband, mobile & insurance)_
 
-**Public Sector & Education** Local Authorities (multiple) · Higher Education institutions · third-sector not-for-profit organisations _(via Jadu's award-winning CMS)_
+**Engineering & Professional Services** Lloyd's Register _(engineering standards & assurance)_ · CACI
 
-**Agency Clients** Lloyd's Register · CACI · EQVVS · G-Type · Bowcliffe Hall · Leeds Rhinos · Millennium Support
+**Sport & Leisure** Silverstone · Leeds Rhinos · Bowcliffe Hall
+
+**Public Sector & Education** Greater Manchester Combined Authority · University of Leeds · and further Local Authorities & Higher Education institutions _(via Jadu's award-winning CMS)_
+
+**Health & Social Care** Millennium Support _(adult social care provider)_
 
 **Non-Profits & Community** UNESCO · Candlelighters · Open Source Ecology · IEEE · Serres Linux Users Group
 

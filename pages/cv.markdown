@@ -107,7 +107,7 @@ Dual-role technical leader for global brands (Adidas, MARS) — architecting fro
 - **Agile Transformation:** Introduced structured Agile/Scrum practices to an agency running entirely on ad-hoc, fire-driven delivery — measurable sprint velocity, predictable project allocation, and regular client demos.
 - **Global Design Systems (Royal Canin / MARS):** Architected the frontend for Royal Canin's global web presence — a single design system serving <span class="stat">30+ countries</span> including Japan and Saudi Arabia, with RTL and vertical reading direction support; served traffic in the millions.
 
-**Projects**: Adidas, MARS, Gregg Wallace, Leeds Rhinos, Royal Canin, Zopa _(now Zopa Bank)_
+**Projects**: Adidas, MARS, Leeds Rhinos, Royal Canin, Zopa _(now Zopa Bank)_
 
 ### Senior Digital Developer & Scrum Master
 
