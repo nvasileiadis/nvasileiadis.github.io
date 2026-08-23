@@ -27,6 +27,18 @@
   &:visited {
     color: $grey-color-dark;
   }
+
+  // On small screens the nav toggle is absolutely positioned in the top-right
+  // corner, so the single-line title would run behind it. Stack the role part
+  // on its own line; the short first line stays clear of the toggle.
+  @include media-query($on-palm) {
+    padding: 10px 0;
+    line-height: 1.3;
+
+    .site-title-role {
+      display: block;
+    }
+  }
 }
 
 .site-nav {
