@@ -323,7 +323,7 @@ Peer mentoring network with Engineering Managers, Heads of Engineering, VPs, and
 Supported early-career bootcamp graduates entering the industry as software engineers.
 
 **Lead Organiser — Google Developer Group Leeds** _(2019–2020)_
-Revived an inactive GDG chapter from the ground up, assembling a volunteer team and running a series of technical conferences, workshops, and presentations.
+Revived an inactive [GDG chapter](https://gdg-leeds.github.io/) from the ground up, assembling a volunteer team and running a series of technical conferences, workshops, and presentations.
 
 **IxDF Local Leader — Interaction Design Foundation Leeds** _(2018–2020)_
 Organised regular UX meetups and community networking sessions in Leeds.
