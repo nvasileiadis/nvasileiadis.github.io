@@ -316,7 +316,7 @@ The final years of my freelancing in Greece were about running complete commerci
 ## Public Service, Community & Recognition
 {: .icon-users}
 
-**Mentor — WRK digital** _(Feb 2023–Present)_
+**Mentor — [WRK digital](https://wrkdigital.co.uk/)** _(Feb 2023–Present)_
 Peer mentoring network with Engineering Managers, Heads of Engineering, VPs, and CTOs.
 
 **Mentor — School of Code** _(Aug 2023–Jan 2024)_
