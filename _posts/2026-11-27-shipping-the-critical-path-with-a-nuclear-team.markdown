@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Shipping the Critical Path With a Nuclear Team"
-date: 2026-12-18 10:00:00 +0000
+date: 2026-11-27 07:00:00 +0000
 categories: leadership
 description: "A company-wide rebrand, 522 pages, every product team's launch gated behind ours — and a team of three. On why context density beats headcount on hard deadlines, and the operating rules that keep a tiny team from melting down while it ships."
 ---
@@ -16,7 +16,7 @@ Let me pre-empt the fair objection, because it's the right one to raise: "three 
 
 Nothing about that team was assembled for the rebrand. It was compounded, over years, by decisions that had nothing to do with rebranding.
 
-The people had stayed — [through three restructurings](/leadership/2026/07/31/what-100-percent-retention-actually-looks-like.html) — so the context was already in the room: nobody needed onboarding onto a platform they had run for years. The knowledge had survived — the [archeology corpus](/leadership/2026/08/21/archeology-inheriting-a-system-nobody-documented.html) meant nothing gated on any one person's memory, and questions from fifteen-plus dependent teams could be answered with a link instead of a meeting. And the structure had held — the design system [defended two years earlier](/leadership/2026/11/27/the-diagram-that-saved-a-capability.html) meant that rebranding was propagating one source of truth, not renegotiating the brand with every screen that renders it.
+The people had stayed — [through three restructurings](/leadership/2026/07/31/what-100-percent-retention-actually-looks-like.html) — so the context was already in the room: nobody needed onboarding onto a platform they had run for years. The knowledge had survived — the [archeology corpus](/leadership/2026/08/21/archeology-inheriting-a-system-nobody-documented.html) meant nothing gated on any one person's memory, and questions from fifteen-plus dependent teams could be answered with a link instead of a meeting. And the structure had held — the design system [defended two years earlier](/leadership/2026/10/23/the-diagram-that-saved-a-capability.html) meant that rebranding was propagating one source of truth, not renegotiating the brand with every screen that renders it.
 
 None of those investments were made with a rebrand in mind. The rebrand is simply the day they all paid out at once. Which is the first, uncomfortable lesson for anyone hoping to copy this ending without its beginning: **you cannot hire a nuclear team into existence.** Density is compound interest on people who stayed, knowledge that survived, and structure that held. If those accounts are empty when the hard deadline lands, no operating rule in the second half of this post will save you.
 
@@ -56,4 +56,4 @@ You don't get a nuclear team by hiring one. You compound one — people who stay
 
 ---
 
-*This is part of an occasional series on engineering leadership under real-world pressure. Earlier posts: [What 100% Team Retention Through Three Restructurings Actually Looks Like](/leadership/2026/07/31/what-100-percent-retention-actually-looks-like.html), [Archeology: How to Inherit a System Nobody Documented](/leadership/2026/08/21/archeology-inheriting-a-system-nobody-documented.html), [Soft Platforms: Why Horizontal Work Dies Inside Product Verticals](/leadership/2026/08/28/soft-platforms-why-horizontal-work-dies-inside-product-verticals.html), and [The Diagram That Saved a Capability](/leadership/2026/11/27/the-diagram-that-saved-a-capability.html). Find me on [LinkedIn](https://www.linkedin.com/in/nvasileiadis).*
+*This is part of an occasional series on engineering leadership under real-world pressure. Earlier posts: [What 100% Team Retention Through Three Restructurings Actually Looks Like](/leadership/2026/07/31/what-100-percent-retention-actually-looks-like.html), [Archeology: How to Inherit a System Nobody Documented](/leadership/2026/08/21/archeology-inheriting-a-system-nobody-documented.html), [Soft Platforms: Why Horizontal Work Dies Inside Product Verticals](/leadership/2026/08/28/soft-platforms-why-horizontal-work-dies-inside-product-verticals.html), and [The Diagram That Saved a Capability](/leadership/2026/10/23/the-diagram-that-saved-a-capability.html). Find me on [LinkedIn](https://www.linkedin.com/in/nvasileiadis).*
