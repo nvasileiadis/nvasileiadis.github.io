@@ -25,6 +25,7 @@ layout: default
         {%- elsif site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
+        <span class="post-readmore" aria-hidden="true">Read the post <span class="post-readmore-arrow">&rarr;</span></span>
       </li>
       {%- endfor -%}
     </ul>

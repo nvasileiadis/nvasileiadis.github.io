@@ -954,6 +954,7 @@ body.layout-reading {
     list-style: none;
 
     > li {
+      position: relative;
       margin-bottom: 0;
       padding: $spacing-unit * 0.9 0;
       border-bottom: 1px solid $grey-color-light;
@@ -964,6 +965,18 @@ body.layout-reading {
 
       h3 {
         margin: 0.2em 0 0;
+      }
+
+      &:hover .post-link {
+        color: $brand-color;
+      }
+
+      &:hover .post-readmore {
+        text-decoration: underline;
+      }
+
+      &:hover .post-readmore-arrow {
+        transform: translateX(3px);
       }
     }
   }
@@ -978,6 +991,26 @@ body.layout-reading {
     &:hover {
       color: $brand-color;
     }
+
+    // Stretched link: the whole list item is the click target,
+    // while the accessible name stays the post title.
+    &::after {
+      content: "";
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+    }
+
+    &:focus-visible {
+      outline: none;
+
+      &::after {
+        outline: 2px solid $brand-color;
+        outline-offset: -2px;
+      }
+    }
   }
 
   .post-description {
@@ -985,6 +1018,20 @@ body.layout-reading {
     color: $grey-color;
     font-size: $base-font-size * 0.95;
     line-height: 1.55;
+  }
+
+  .post-readmore {
+    display: inline-block;
+    margin-top: 0.55em;
+    color: $brand-color;
+    font-size: $small-font-size;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+  }
+
+  .post-readmore-arrow {
+    display: inline-block;
+    transition: transform 0.15s ease;
   }
 
   @include media-query($on-palm) {
