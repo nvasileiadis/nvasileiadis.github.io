@@ -132,7 +132,7 @@ The final years of my freelancing in Greece were about running complete commerci
 ## Full Credentials
 {: .icon-file-text}
 
-### Leadership & Management
+### Leadership & Management (12)
 
 - **Team Topologies Distilled** · [Team Topologies Academy Corporate](https://academy.corp.teamtopologies.com/certificates/2zliafscx5), Oct 2023 — _Applied to identify platform team anti-patterns, redesign team interaction modes, and propose organisational structures aligned with cognitive load theory._
 - **Mental Health First Aid (MHFA) Champion** · [MHFA England](/assets/images/credentials/mhfa-england-champion.pdf), Feb 2023
@@ -147,12 +147,12 @@ The final years of my freelancing in Greece were about running complete commerci
 - **Work Smarter, Not Harder: Time Management for Personal & Professional Productivity** · University of California, Irvine (Coursera), 2016
 - **IS110x: Innovation and IT Management** · [Indian Institute of Management Bangalore](https://verify.edx.org/cert/33af0580103947cd9770a5e027083acc), Sep 2015
 
-### AI Strategy & Implementation
+### AI Strategy & Implementation (2)
 
 - **AI Leader: Generative AI & Agentic AI for Leaders & Founders** · [Udemy](https://www.udemy.com/certificate/UC-30b444af-cf5d-47ba-b721-dba86062e4aa/), Mar 2026
 - **How to Design Experiences for AI** · [IxDF Master Class](https://ixdf.org/members/nikolaos-vasileiadis/certificate/masterclass/mcc_b9ef0a7c3de24d6495b8d0f23fe974a8), Jun 2022
 
-### Business & Finance
+### Business & Finance (6)
 
 - **CapEx Planning** · AAT Essentials, Jun 2026
 - **Budgeting for Non-Financial Managers** · AAT Essentials, Jun 2026
@@ -161,7 +161,7 @@ The final years of my freelancing in Greece were about running complete commerci
 - **FinTech Law and Policy** · Duke University (Coursera), 2019
 - **DFIN-511: Introduction to Digital Currencies** · [University of Nicosia](/assets/images/credentials/unic-dfin511-digital-currencies.pdf), Dec 2016
 
-### Technology & Architecture
+### Technology & Architecture (62)
 
 - **Prometheus Alerting and Monitoring** · [Udemy](https://www.udemy.com/certificate/UC-c47ee910-8dfa-4f31-acf0-7656932cae8d/), Apr 2026
 - **JavaScript Algorithms and Data Structures** · [freeCodeCamp](https://www.freecodecamp.org/certification/nvasileiadis/javascript-algorithms-and-data-structures), Oct 2019
@@ -258,7 +258,7 @@ The final years of my freelancing in Greece were about running complete commerci
 </details>
 <!-- markdownlint-enable MD033 -->
 
-### Analytics & Digital Marketing
+### Analytics & Digital Marketing (9)
 
 - **Google Tag Manager Fundamentals** · Google, Feb 2019
 - **Google Analytics for Power Users** · [Google](/assets/images/credentials/google-analytics-power-users.pdf), Dec 2018
@@ -270,7 +270,7 @@ The final years of my freelancing in Greece were about running complete commerci
 - **Mobile Sites** · [Google](/assets/images/credentials/google-mobile-sites.pdf), Dec 2017
 - **The Online Marketing Fundamentals** · [Google](/assets/images/credentials/google-online-marketing-fundamentals.pdf), Sep 2016
 
-### UX, Accessibility & Design
+### UX, Accessibility & Design (17)
 
 - **Accessibility: How to Design for All** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/Pd35f4fgM), Sep 2018
 - **Conducting Usability Testing** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/P3PThrDks), Jun 2018
@@ -304,7 +304,7 @@ The final years of my freelancing in Greece were about running complete commerci
 </details>
 <!-- markdownlint-enable MD033 -->
 
-### Historical Certificates
+### Historical Certificates (4)
 
 - **Certified Training Professional** · ICDL Certification, 2006 — _Applied professionally: spent a year teaching ECDL to adult learners at a computer school in Serres, and later tutored privately in algorithmic logic, C, and hardware. A former student now works as an engineer at Sophos._
 - **ImageMaker** · ICDL Certification, 2006
@@ -355,7 +355,7 @@ Founded and ran the local Linux community in Serres, Greece — organising prese
 **Web Developer & SysAdmin — IEEE** _(Oct 2010–Dec 2011)_
 Led technical infrastructure for regional science and technology initiatives. Configured and maintained Debian-based web hosting services (ISPConfig) and managed the customization of a Drupal ecosystem.
 
-### Conferences & Speaking
+### Conferences (26) & Speaking (3)
 
 - **LDX3 2026** · London, UK — Engineering leadership conference. Workshops with CTOs, peer networking with Heads of Engineering and VPs.
 - **WRK digital Tech Leaders Summit 2025** · Leeds, UK
@@ -385,13 +385,13 @@ Led technical infrastructure for regional science and technology initiatives. Co
 - **FOSSCOMM 2010** · Thessaloniki, Greece
 - **FOSSCOMM 2009** · Larissa, Greece
 
-### Competitions & Coding Challenges
+### Competitions & Coding Challenges (3)
 
 - **Code in the Dark 2018** · Leeds, UK
 - **Code in the Dark 2017** · Leeds, UK <span class="badge badge-contestant">Contestant</span>
 - **Code in the Dark 2016** · Leeds, UK <span class="badge badge-contestant">Contestant</span>
 
-### Publications
+### Publications (2)
 
 **[Designing User Interfaces as a Developer](https://medium.com/pulsar/designing-user-interfaces-as-a-developer-22799b6e58a)** · Medium, Oct 2017
 Technical article on bridging design thinking with frontend engineering.
