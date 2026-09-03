@@ -75,7 +75,7 @@ From engineering to engineering leadership, I've delivered for global consumer b
 ## Notable Projects & Highlights
 {: .icon-rocket}
 
-_A selection of work that shows the pattern in practice — people and organisational outcomes first, then flagship delivery. Design Systems are a recurring thread: Pulsar at Jadu, Royal Canin's global system at IMA-HOME, and the Design Systems team I later managed at Utility Warehouse. Expand any entry for the detail._
+_A selection of work that shows the pattern in practice — people and organisational outcomes first, then flagship delivery. Design Systems are a recurring thread: Pulsar at Jadu, Royal Canin's global system at IMA-HOME, and the Design Systems team I later managed at Utility Warehouse. Early UK agency work (2015–2016) — responsive e-commerce and frontend performance across fashion, property, and leisure clients — is represented in the brand lists above, not as standalone entries here. Expand any entry for the detail._
 
 <!-- markdownlint-disable MD033 -->
 <details class="credential-group project-group" markdown="1">
@@ -124,20 +124,6 @@ The final years of my freelancing in Greece were about running complete commerci
 <summary><span class="project-title">Real Greece — Translators Team &amp; Delivery Ownership</span> <span class="project-meta">Real Greece S.A. · 2014–2015</span></summary>
 
 Pre-UK management evidence: helped take over a real-estate aggregator project from previous developers, mapped a new architecture for third-party API interconnection, and managed a translators team to deliver on time and on budget — commercial ownership before any engineering-manager title.
-
-</details>
-
-<details class="credential-group project-group" markdown="1">
-<summary><span class="project-title">Silverstone — Page-Load Performance</span> <span class="project-meta">Agency · ~2016</span></summary>
-
-Performance receipt from early UK agency work: brought the Silverstone (Formula 1 circuit) site from roughly 10+ second loads down to around 2.5 seconds (approximate — decade-old recollection). The concrete case behind the CV's "driving performance optimisation" line.
-
-</details>
-
-<details class="credential-group project-group" markdown="1">
-<summary><span class="project-title">Vivienne Westwood — Black Friday Traffic</span> <span class="project-meta">Creode · 2015</span></summary>
-
-Responsive e-commerce work on the Vivienne Westwood product experience. On Black Friday 2015 the site processed millions in sales by mid-morning — hedged as recollection, not a documented figure; phrased as the site I worked on, not a solo claim.
 
 </details>
 <!-- markdownlint-enable MD033 -->
