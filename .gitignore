@@ -1,4 +1,5 @@
 _site
+.agents/
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
