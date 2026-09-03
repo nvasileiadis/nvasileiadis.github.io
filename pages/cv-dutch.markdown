@@ -41,17 +41,17 @@ hide_title: true
 
 <h2 class="icon-user">Summary</h2>
 
-Engineering Manager with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> in leadership — <span class="stat">4</span> of them line-managing engineers — working across regulated industries — financial services, utilities, energy, and public sector technology. I build teams, maintain platforms, and focus on creating the right conditions for people to do good work. Currently managing platform and content services at Utility Warehouse (FTSE 250), a UK multi-service provider of energy, broadband, mobile and insurance.
+Engineering Manager with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> in leadership — <span class="stat">4</span> of them line-managing engineers — working across regulated industries — financial services, utilities, energy, and public sector technology. I build teams, maintain platforms, and focus on creating the right conditions for people to do good work. Introduced structured delivery in three resistant environments (financial services, a global brand agency, and a greenfield platform team). Currently managing platform and content services at Utility Warehouse (FTSE 250), a UK multi-service provider of energy, broadband, mobile and insurance.
 
 Based in Leeds, UK. Greek (EU) citizen — full right to work in the Netherlands and across the EU. Open to remote roles with Dutch and European organisations. The timezone overlap with CET is seamless.
 
 <h2 class="icon-grid">What I Bring</h2>
 
-- **People & teams** — Building and retaining remote engineering teams; measurement-led via DORA metrics, team health tracking, and Heartbeat surveys to keep performance visible and sustainable.
-- **Organisational design** — Navigating restructurings, building teams from scratch, aligning team structures with what the business actually needs. Have built the same team twice from zero.
+- **People & teams** — Building and retaining remote engineering teams; measurement-led via DORA metrics, team health tracking, and Heartbeat surveys; reorg communication on a cadence — including empty updates when there's nothing new.
+- **Organisational design** — Navigating restructurings, building teams from scratch, aligning team structures with what the business actually needs. Have built the same team twice from zero; staff complementary pairs, not just headcount.
 - **Platform & infrastructure** — Running critical platform services with clear SLAs and operational discipline for <span class="stat">15+</span> dependent engineering teams.
 - **Design systems** — From co-creating an open-source design system (Pulsar) to leading enterprise-wide adoption across <span class="stat">20 teams</span>.
-- **Commercial awareness** — a £200k+ annual vendor portfolio across six platform services, CapEx/OpEx planning, vendor evaluation, R&D tax credit documentation. Engineering decisions are business decisions.
+- **Commercial awareness** — a £200k+ annual vendor portfolio across six platform services, CapEx/OpEx planning, vendor evaluation, R&D tax credit documentation; commercial literacy from sitting with compliance, marketing, data, and IT.
 
 <h2 class="icon-clock">Experience</h2>
 
@@ -61,8 +61,8 @@ Based in Leeds, UK. Greek (EU) citizen — full right to work in the Netherlands
 Jul 2023 – Present · United Kingdom · Remote
 
 - **Team & retention:** Grew to <span class="stat">8 technical reports across three teams</span> with separate backlogs — web/CMS/tracking, mobile, and design systems — alongside a Product Manager. Everyone who wanted to stay, stayed — <span class="stat">100% retention</span> through three reorganisations across three departments in <span class="stat">25 months</span>; all reductions were organisational, zero voluntary attrition. Involved in hiring <span class="stat">2</span> external engineers and <span class="stat">4</span> internal transfers.
-- **Growing people, measurably:** Supported <span class="stat">3 promotions</span> (Associate → Mid, Mid → Senior) with evidence-based cases informed by DORA metrics and monthly Peakon Heartbeat surveys — acting on the signals, not just collecting them. Several engineers I mentored have since moved into Engineering Manager roles, both inside and outside the company.
-- **Navigating restructurings:** Took responsibility for scoping team migrations — mapping scope, aligning stakeholders, and building consensus for where the team should sit. Nobody asked me to do this; it needed doing. Negotiated the transfer in of a Senior Engineer with mobile expertise when a mobile backlog was added, and advocated successfully for keeping the Design Systems team when a restructuring would have dissolved it — the team that later enabled the company-wide rebrand.
+- **Growing people, measurably:** Supported <span class="stat">3 promotions</span> (Associate → Mid, Mid → Senior) with evidence-based cases informed by DORA metrics and monthly Peakon Heartbeat surveys — acting on the signals, not just collecting them. Developed talent other teams had passed over. Several engineers I mentored have since moved into Engineering Manager roles, both inside and outside the company.
+- **Navigating restructurings:** Took responsibility for scoping team migrations — mapping scope, aligning stakeholders, and building consensus for where the team should sit. Nobody asked me to do this; it needed doing. Negotiated skill inbound — a Senior Engineer with mobile expertise — when a mobile backlog was added, rather than stretching the existing team thin; advocated successfully for keeping the Design Systems team when a restructuring would have dissolved it — the team that later enabled the company-wide rebrand.
 - **Documentation & upskilling:** Wrote over <span class="stat">100 articles</span> of technical documentation for a team that inherited an undocumented legacy CMS. When the team needed Kubernetes knowledge, I learned it first, then trained the team and documented it. Engineers own RFCs and present at cross-team forums.
 - **Rebranding programme (Oct 2025 – Apr 2026):** The team delivered UW's brand refresh across <span class="stat">522 pages</span> of the uw.co.uk estate — the critical path: other teams' rebranding couldn't go live until we shipped. Automated migration scripts saved content editors hundreds of manual hours.
 - **Platform reliability:** uw.co.uk operated against a <span class="stat">99.99% SLO</span> — a single incident in the current year, resolved within hours — with <span class="stat">&lt;3s</span> page load on critical pages. The estate: <span class="stat">522 pages</span>, <span class="stat">3,157 media assets</span>, <span class="stat">1,090 shortlinks</span>, <span class="stat">218 redirects</span>. Supporting <span class="stat">8</span> content teams (<span class="stat">33</span> users) and <span class="stat">15+</span> engineering teams across six platform services: Contentful CMS, Google Tag Manager, Snowplow, Mixpanel, Optimizely, OneTrust.
@@ -105,8 +105,7 @@ Oct 2018 – Jan 2020 · Leeds, UK · Hybrid
 
 Maintained public-facing digital assets for the UK's 5th largest building society — a regulated financial services environment — while mentoring teams on code quality and UX standards.
 
-- Introduced Agile and Scrum to LBS for the first time — shifting from ad-hoc output to sprint-based delivery with measurable velocity.
-- Appointed as Interim Scrum Master (Jun–Oct 2019) to stabilise delivery during the Digital Transformation programme, working alongside external consultants and cross-functional teams.
+- Introduced Agile and Scrum to LBS for the first time — voluntary ways-of-working forums that grew championing into a parallel Scrum Master role, then a formal Interim SM appointment (Jun–Oct 2019) to stabilise Digital Transformation alongside external consultants.
 
 ### UX Interface Developer & Scrum Master
 
@@ -126,7 +125,7 @@ Oct 2005 – Dec 2016 (11 years)
 Provincial northern Greece — Xanthi, where I grew up; Serres, where I studied: no tech industry and, after 2010, barely an economy. I built the career anyway, and led long before I had a title for it.
 
 - **Web development & freelancing (2005–2015):** Delivered 40+ web projects across Greece and internationally — from local non-profits to a Bitcoin job board for a client in California. Managed client relationships, billing (40/40/20 payment terms), and coordinated with distributed teams.
-- **Teaching & mentorship (2006–2012):** Earned a Certified Training Professional qualification. Taught ECDL to adult learners for a year. Privately tutored a student in programming and hardware — that student went on to earn a BSc and MSc in Manchester and now works at Sophos.
+- **Teaching & mentorship (2006–2012):** Earned a Certified Training Professional qualification. Taught ECDL to adult learners for a year. Privately tutored a student in programming and hardware — that student went on to earn a BSc and MSc in Manchester and is now an Engineering Manager.
 - **Community & civic technology (2008–2014):** Co-founded the Serres Linux Users Group, organised FOSSCOMM 2012 (a 350-person national open-source conference), and managed digital presence for UNESCO Serres, the local Natural History Museum, and community organisations. This work directly shaped my later community involvement in the UK.
 - **UK agency work (2015–2016):** Relocated to Leeds. Built responsive e-commerce for global brands (Vivienne Westwood) and focused on frontend performance.
 

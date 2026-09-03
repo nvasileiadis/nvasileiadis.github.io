@@ -6,25 +6,25 @@ permalink: /credentials/
 description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology, 9 years in leadership, 4 in direct line management. Based in Leeds, UK. Includes 49 certificates and 62 completed courses across leadership, UX, analytics, cloud, and FinTech."
 ---
 
-_This page is an evidence appendix for those who want to go deeper. For a complete summary of my professional experience, see my [CV](/cv/). It maps the journey from engineer to engineering leader — the brands and organisations I've worked with, the credentials I've earned across engineering and leadership, my community contributions, and notable recognition._
+_This page is an evidence appendix for those who want to go deeper. For a complete summary of my professional experience, see my [CV](/cv/). It maps scope and outcomes first — brands, projects, and community leadership — then the credentials that verify the craft behind them._
 
 <!-- markdownlint-disable MD033 -->
 <div class="metrics-grid">
   <div class="metric-card">
-    <span class="metric-number">20+</span>
-    <span class="metric-label">Years in Technology<br><small style="font-size: 0.8em; opacity: 0.8;">20+ Engineering · 9 Leadership · 4 Line Management<br>Leading since 2017</small></span>
-  </div>
-  <div class="metric-card">
-    <span class="metric-number">49</span>
-    <span class="metric-label">Certificates<br><small style="font-size: 0.8em; opacity: 0.8;">+ 62 completed courses</small></span>
+    <span class="metric-number">9</span>
+    <span class="metric-label">Years Leading<br><small style="font-size: 0.8em; opacity: 0.8;">4 line-managing · Multi-team since 2024<br>20+ years in technology</small></span>
   </div>
   <div class="metric-card">
     <span class="metric-number">21</span>
-    <span class="metric-label">Notable Brands</span>
+    <span class="metric-label">Notable Brands<br><small style="font-size: 0.8em; opacity: 0.8;">FTSE 250 · Global retail · Regulated FS</small></span>
+  </div>
+  <div class="metric-card">
+    <span class="metric-number">0</span>
+    <span class="metric-label">Voluntary Attrition<br><small style="font-size: 0.8em; opacity: 0.8;">3 promotions · Team rebuilt twice<br>Design Systems team retained</small></span>
   </div>
   <div class="metric-card">
     <span class="metric-number">17</span>
-    <span class="metric-label">Comm. Roles & Talks</span>
+    <span class="metric-label">Comm. Roles & Talks<br><small style="font-size: 0.8em; opacity: 0.8;">GDG · FOSSCOMM · WRK mentoring</small></span>
   </div>
 </div>
 <!-- markdownlint-enable MD033 -->
@@ -32,17 +32,9 @@ _This page is an evidence appendix for those who want to go deeper. For a comple
 ## From Engineer to Engineering Leader
 {: .icon-trending-up}
 
-The evidence is in the pattern: everywhere I've been, I built the thing that wasn't there. I've been leading from the front since before I had a title for it — from teaching adults to hold a mouse in a Greek computer school at age 18, to organising a 350-person national open-source conference at university, to running Sunday computing sessions for children through UNESCO. Along the way, I've worked across financial services, regulated utilities, global retail, and public sector technology — each with its own constraints, compliance requirements, and stakeholder expectations. At every company, the same thing happened: I was hired as an engineer, and within months I was the one setting up processes, mentoring juniors, facilitating sprints, and bridging the gap between engineering and business.
+Everywhere I've been, I built the thing that wasn't there — hired as an engineer, then the one setting up process, mentoring juniors, and bridging engineering and business. At **Leeds Building Society**, I introduced the organisation's first Agile. At **IMA-HOME**, I ran Scrum for global brand work while shipping frontend systems. At **Utility Warehouse**, I built a standalone team from zero and was managing it within a year.
 
-At **Jadu**, I was facilitating sprints while shipping features into an award-winning CMS. At **Leeds Building Society**, I introduced Agile to the entire organisation — its first structured delivery methodology. At **IMA-HOME**, I ran Scrum for global brand projects (Adidas, MARS, Royal Canin) while engineering their frontend systems. At **Utility Warehouse**, I joined as Lead Software Engineer to build a standalone team from zero — bringing Agile, UX, and product practice alongside the engineering — and within a year I was managing it, building the backlog, setting up Scrum, and mentoring an Associate into a Mid-level engineer.
-
-The promotion to Engineering Manager didn't change what I did — it formalised what I'd always been doing. What changed was my understanding of where I create the most value. It's not in the code. It's in the conditions I create for others to do their best work.
-
-Over <span class="stat">100 articles</span> of documentation built from nothing. <span class="stat">3 promotions</span> driven through evidence-based cases. Zero attrition across my teams. A Design Systems team saved from disbandment that went on to enable a company-wide rebrand across <span class="stat">522 pages</span>. I've built the same team twice — first as a standalone unit with no department (2022), then again when I formed a specialist CMS team from a larger restructuring (2025), retaining a high-trust, high-capability core and starting from scratch a second time.
-
-I've always measured what matters — starting with manual team health tracking via TeamRetro and custom DORA dashboards, and progressing to the DX platform when the organisation adopted it. These aren't passive dashboards: DORA data directly informs promotion cases and bonus decisions, and I use Peakon Heartbeat surveys every month to understand team engagement and wellbeing — then act on it. Engineering health alongside people health. That's the full picture of performance, and it's how the "evidence-based" promotion cases actually get built.
-
-Decomposed, the leadership claim looks like this — every layer dated, every layer evidenced:
+The promotion to Engineering Manager formalised what I'd already been doing. The value isn't in the code — it's in the conditions I create for others to do their best work.
 
 | Leadership layer | Since | Years | Evidence                                                                                                                                                                                        |
 | ---------------- | ----- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -83,13 +75,13 @@ From engineering to engineering leadership, I've delivered for global consumer b
 ## Notable Projects & Highlights
 {: .icon-rocket}
 
-_A selection of work that shows the pattern in practice. Design Systems are a recurring thread — from Pulsar at Jadu, to Royal Canin's global system at IMA-HOME, to the Design Systems team I later managed at Utility Warehouse. Expand any entry for the detail._
+_A selection of work that shows the pattern in practice — people and organisational outcomes first, then flagship delivery. Design Systems are a recurring thread: Pulsar at Jadu, Royal Canin's global system at IMA-HOME, and the Design Systems team I later managed at Utility Warehouse. Expand any entry for the detail._
 
 <!-- markdownlint-disable MD033 -->
 <details class="credential-group project-group" markdown="1">
-<summary><span class="project-title">Global Product Launch Displays — Adidas</span> <span class="project-meta">IMA-HOME · 2022</span></summary>
+<summary><span class="project-title">Scrum Master Certification Coaching</span> <span class="project-meta">IMA-HOME · 2021</span></summary>
 
-Built highly-optimised custom web interfaces for digital signage across international retail locations, with synchronised countdown systems for high-profile product launches — engineered for robust continuous operation and precise global timezone coordination.
+Coached my immediate team of five — my line manager, a principal engineer, a lead engineer, and two QA specialists — to scrum.org Professional Scrum Master certification, through group sessions followed by individual coaching. All five passed and hold the certification. (A separate 2020 career-path mentoring outcome is under Mentoring.)
 
 </details>
 
@@ -101,16 +93,16 @@ Engineered a comprehensive Design System for the global pet food brand, with a h
 </details>
 
 <details class="credential-group project-group" markdown="1">
-<summary><span class="project-title">Scrum Master Certification Coaching</span> <span class="project-meta">IMA-HOME · 2020–2021</span></summary>
+<summary><span class="project-title">Pulsar Design System</span> <span class="project-meta">Jadu · 2017–2018</span></summary>
 
-Coached my immediate team of five — my line manager, a principal engineer, a lead engineer, and two QA specialists — to scrum.org Professional Scrum Master certification, through group sessions followed by individual coaching. All five passed and hold the certification. Separately mentored a developer-turned-project-manager onto the Agile career path: within a year of certifying he had moved into a full-time Scrum Master role, and he now works as an Agile Delivery Lead in financial services with eight scrum.org certifications.
+My first professional Design System: co-created and maintained Pulsar, Jadu's open-source UX and Interface Design System powering the Jadu Continuum Platform — used by Local Authorities, the University of Leeds, and third-sector organisations across the UK. [View on GitHub](https://jadu.github.io/pulsar/)
 
 </details>
 
 <details class="credential-group project-group" markdown="1">
-<summary><span class="project-title">Pulsar Design System</span> <span class="project-meta">Jadu · 2017–2018</span></summary>
+<summary><span class="project-title">Global Product Launch Displays — Adidas</span> <span class="project-meta">IMA-HOME · 2022</span></summary>
 
-My first professional Design System: co-created and maintained Pulsar, Jadu's open-source UX and Interface Design System powering the Jadu Continuum Platform — used by Local Authorities, the University of Leeds, and third-sector organisations across the UK. [View on GitHub](https://jadu.github.io/pulsar/)
+Built highly-optimised custom web interfaces for digital signage across international retail locations, with synchronised countdown systems for high-profile product launches — engineered for robust continuous operation and precise global timezone coordination.
 
 </details>
 
@@ -127,10 +119,111 @@ Owned the full product lifecycle for the Jadu CMS — from user research through
 The final years of my freelancing in Greece were about running complete commercial projects, not just writing code: taking a brief, scoping and pricing the work, then coordinating a network of contractors — designers, translators — to deliver a finished product while managing the budget across all of them. Estonia's e-Residency was the natural next step — approved as one of the first 2,000 participants in the pilot, formalising that operating model into a legitimate EU business structure. I moved to the UK shortly after and never used it, but the commercial instinct it built — how budgets flow, how vendor relationships work, what it means to be accountable for an entire delivery — carries into every leadership role since.
 
 </details>
+
+<details class="credential-group project-group" markdown="1">
+<summary><span class="project-title">Real Greece — Translators Team &amp; Delivery Ownership</span> <span class="project-meta">Real Greece S.A. · 2014–2015</span></summary>
+
+Pre-UK management evidence: helped take over a real-estate aggregator project from previous developers, mapped a new architecture for third-party API interconnection, and managed a translators team to deliver on time and on budget — commercial ownership before any engineering-manager title.
+
+</details>
+
+<details class="credential-group project-group" markdown="1">
+<summary><span class="project-title">Silverstone — Page-Load Performance</span> <span class="project-meta">Agency · ~2016</span></summary>
+
+Performance receipt from early UK agency work: brought the Silverstone (Formula 1 circuit) site from roughly 10+ second loads down to around 2.5 seconds (approximate — decade-old recollection). The concrete case behind the CV's "driving performance optimisation" line.
+
+</details>
+
+<details class="credential-group project-group" markdown="1">
+<summary><span class="project-title">Vivienne Westwood — Black Friday Traffic</span> <span class="project-meta">Creode · 2015</span></summary>
+
+Responsive e-commerce work on the Vivienne Westwood product experience. On Black Friday 2015 the site processed millions in sales by mid-morning — hedged as recollection, not a documented figure; phrased as the site I worked on, not a solo claim.
+
+</details>
 <!-- markdownlint-enable MD033 -->
+
+---
+
+## Community & Engagement
+{: .icon-users}
+
+**Lead Organiser — Google Developer Group Leeds** _(2019–2020)_
+Revived an inactive [GDG chapter](https://gdg-leeds.github.io/) from the ground up, assembling a volunteer team and running a series of technical conferences, workshops, and presentations.
+
+**Organising Committee — FOSSCOMM 2012** _(Dec 2011–May 2012)_
+Nationwide Greek Free and Open Source Software conference (350 attendees). Managed budget, sponsorships, venue, and technical teams.
+
+**Founder — Serres Linux Users Group** _(2008–2012)_
+Founded and ran the local Linux community in Serres, Greece — organising presentations, install-fests, Sunday computing classes for adults and children (in partnership with UNESCO), and maintaining the group's web infrastructure. This community work generated a civic technology portfolio including the UNESCO Serres website, local municipality sites, the Natural History Museum, and a local radio station.
+
+**IxDF Local Leader — Interaction Design Foundation Leeds** _(2018–2020)_
+Organised regular UX meetups and community networking sessions in Leeds.
+
+**3rd Place — KPMG's "30 Voices: The Next Generation"** _(Mar 2019)_
+National innovations competition exploring how the financial sector will evolve by 2030. Our team's proposal — AI-driven asset allocation via tokenisation of rights, using Blockchain and Big Data — placed 3rd nationally. Entered while working at Leeds Building Society, connecting sector domain knowledge with forward-looking financial technology thinking.
+
+**E-Culture Manager — UNESCO** _(Aug 2011–Sep 2012)_
+Web developer and event organiser for UNESCO's digital culture initiatives.
+
+**Community Manager — Open Source Ecology Greece** _(Jan 2012–Jan 2014)_
+Pioneered IoT (Arduino/Raspberry Pi) integration for ecological living (originally as OSAEC) before merging efforts to lead the Greek chapter of OSE. Acted as a global liaison, contributed to web operations, and evangelised open-source technology through public lectures, fieldwork, and an appearance on Greek National Television.
+
+**Web Developer & SysAdmin — IEEE** _(Oct 2010–Dec 2011)_
+Led technical infrastructure for regional science and technology initiatives. Configured and maintained Debian-based web hosting services (ISPConfig) and managed the customization of a Drupal ecosystem.
+
+**Private — Greek Army** _(Nov 2012–Aug 2013)_
+Conscripted and trained to serve as a soldier in an armoured brigade communications support unit. Helped digitise processes in the 1st Office. Improved schedule and leave management. Set up network cabling. Stock ordering and food provisioning for the kitchens.
+
+### Mentoring (6)
+
+**Mentor — [WRK digital](https://wrkdigital.co.uk/)** _(Feb 2023–Present)_
+Peer mentoring network with Engineering Managers, Heads of Engineering, VPs, and CTOs.
+
+**Mentor — School of Code** _(Aug 2023–Jan 2024)_
+Supported early-career bootcamp graduates entering the industry as software engineers.
+
+**Mentor — Agile career path** _(IMA-HOME · 2020)_
+Guided a developer-turned-project-manager onto the Agile career path — helping him see Scrum Mastery as a role in its own right, not a side skill. He certified, moved into a full-time Scrum Master role within a year, and is now an Agile Delivery Lead in financial services with eight scrum.org certifications.
+
+**Mentor — Sky Coding Club** _(Nov 2019)_
+Inspired and assisted attendees learning HTML, CSS, and JavaScript.
+
+**Mentor — Xanthi tech community** _(2013–Present)_
+Met a university engineering student through local tech presentations in Xanthi, Greece; invited attendees to pair-code on a digital *Wizard* card-game prototype, and he was the one who stuck. Later that year I advised him on Web Developer and Software Engineer career paths — and we kept a years-long conversation going on stacks, salaries, and opportunities. He went on to become a Senior Software Engineer and tech author — a second university-era mentoring arc that compounded into a strong career.
+
+**Mentor & Tutor — Private tutoring** _(Sep 2011–Jun 2012)_
+Tutored a young learner privately in algorithmic logic, C, and hardware. He went on into software engineering and is now an Engineering Manager — a long arc from first foundations to people leadership.
+
+### Meetups & Speaking (4)
+
+**Speaker — GDG DevFest 2019** _(Nov 2019)_
+Presented _"Design Systems"_ at GDG DevFest Leeds.
+
+**Speaker — Northern User Experience** _(May 2018)_
+Delivered _"UX: A Developer's Perspective"_ at NUX Leeds. [Event details](https://nuxuk.org/2018/05/14/nux-leeds-tuesday-29th-may-ux-a-developers-perspective/)
+
+**Speaker — Xanthi Local Tech Meetup** _(2013–2014)_
+Presented on Arduino & Raspberry Pi, Linux, and Introduction to Cryptography at a grassroots tech community meetup in Xanthi, Greece.
+
+**Speaker — FOSSCOMM 2012** _(May 2012)_
+Presented _"Open Source Ecology"_ at FOSSCOMM, Serres, Greece.
+
+### Publications (2)
+
+**[Designing User Interfaces as a Developer](https://medium.com/pulsar/designing-user-interfaces-as-a-developer-22799b6e58a)** · Medium, Oct 2017
+Technical article on bridging design thinking with frontend engineering.
+
+**[W3C HTML Validation for Twig Generated Pages](https://medium.com/pulsar/w3c-html-validation-for-twig-generated-pages-42cc625e7db0)** · Medium, Oct 2017
+Technical guide on implementing HTML validation within Twig templating workflows.
+
+_These articles date from my hands-on engineering years. My current writing — on engineering leadership, team building, and delivery — lives on the [Blog](/blog/)._
+
+---
 
 ## Full Credentials
 {: .icon-file-text}
+
+_Verification appendix — leadership and commercial credentials first; deeper technical and historical lists are collapsed._
 
 ### Leadership & Management (12)
 
@@ -147,11 +240,6 @@ The final years of my freelancing in Greece were about running complete commerci
 - **Work Smarter, Not Harder: Time Management for Personal & Professional Productivity** · University of California, Irvine (Coursera), 2016
 - **IS110x: Innovation and IT Management** · [Indian Institute of Management Bangalore](https://verify.edx.org/cert/33af0580103947cd9770a5e027083acc), Sep 2015
 
-### AI Strategy & Implementation (2)
-
-- **AI Leader: Generative AI & Agentic AI for Leaders & Founders** · [Udemy](https://www.udemy.com/certificate/UC-30b444af-cf5d-47ba-b721-dba86062e4aa/), Mar 2026
-- **How to Design Experiences for AI** · [IxDF Master Class](https://ixdf.org/members/nikolaos-vasileiadis/certificate/masterclass/mcc_b9ef0a7c3de24d6495b8d0f23fe974a8), Jun 2022
-
 ### Business & Finance (6)
 
 - **CapEx Planning** · AAT Essentials, Jun 2026
@@ -160,6 +248,57 @@ The final years of my freelancing in Greece were about running complete commerci
 - **Business Metrics & Growth** · Limitless Concepts, 2023 — P&L, Cash Flow, CAC, LTV, MRR/ARR, NPV, Cap Tables
 - **FinTech Law and Policy** · Duke University (Coursera), 2019
 - **DFIN-511: Introduction to Digital Currencies** · [University of Nicosia](/assets/images/credentials/unic-dfin511-digital-currencies.pdf), Dec 2016
+
+### AI Strategy & Implementation (2)
+
+- **AI Leader: Generative AI & Agentic AI for Leaders & Founders** · [Udemy](https://www.udemy.com/certificate/UC-30b444af-cf5d-47ba-b721-dba86062e4aa/), Mar 2026
+- **How to Design Experiences for AI** · [IxDF Master Class](https://ixdf.org/members/nikolaos-vasileiadis/certificate/masterclass/mcc_b9ef0a7c3de24d6495b8d0f23fe974a8), Jun 2022
+
+### UX, Accessibility & Design (17)
+
+- **Accessibility: How to Design for All** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/Pd35f4fgM), Sep 2018
+- **Conducting Usability Testing** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/P3PThrDks), Jun 2018
+- **Information Visualization** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/P17MF05jH), Jun 2018
+- **Gamification - How to Create Engaging User Experiences** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/NN0djCskZ), Mar 2018
+- **How to Design for Augmented and Virtual Reality** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/NRdqmhGK8), Mar 2018
+- **Web Accessibility** · Udacity, 2017
+- **Web Design for Usability** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/Nj3K2b2r4), Aug 2017
+- **Quality Web Communication** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/NjqCSxK8X), Aug 2017
+- **User Research — Methods and Best Practices** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/NgTK1n2Hj), Jul 2017
+- **Mobile User Experience (UX) Design** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/N97Q8NH2c), Jun 2017
+
+<!-- markdownlint-disable MD033 -->
+<details class="credential-group" markdown="1">
+<summary>IxDF — Foundations & Career <span class="credential-count">4 courses</span></summary>
+
+- [Design Thinking: The Beginner's Guide](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/N5LXdj1nV)
+- [Become a UX Designer from Scratch](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/N7mVw6Nxr)
+- [Get Your First Job as a UX or Interaction Designer](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/NhgK8XrHJ)
+- [How to Become a Freelance Designer](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/NgTK9hJcG)
+
+</details>
+
+<details class="credential-group" markdown="1">
+<summary>IxDF — Master Classes <span class="credential-count">3 certificates</span></summary>
+
+- [Disruptive Design: Is your UX Future-Proof?](https://ixdf.org/members/nikolaos-vasileiadis/certificate/masterclass/mcc_4f4ef43fb1994c678a38cf119dae3a5b)
+- [Design with Data: A Guide to A/B Testing](https://ixdf.org/members/nikolaos-vasileiadis/certificate/masterclass/mcc_242f5c61fb6f4823992db63408d24f6b)
+- [Going from UX to Service Design](https://ixdf.org/members/nikolaos-vasileiadis/certificate/masterclass/mcc_293cf56ac8294b36ab9490ccd3d36c27)
+
+</details>
+<!-- markdownlint-enable MD033 -->
+
+### Analytics & Digital Marketing (9)
+
+- **Google Tag Manager Fundamentals** · Google, Feb 2019
+- **Google Analytics for Power Users** · [Google](/assets/images/credentials/google-analytics-power-users.pdf), Dec 2018
+- **Getting Started With Google Analytics 360** · [Google](/assets/images/credentials/google-analytics-360.pdf), Dec 2018
+- **Google Analytics Individual Qualification** · Google, Nov 2018
+- **Advanced Google Analytics** · Google, Nov 2018
+- **Google Analytics for Beginners** · [Google](/assets/images/credentials/google-analytics-beginners.pdf), Nov 2018
+- **Digital Sales** · [Google](/assets/images/credentials/google-digital-sales.pdf), Dec 2017
+- **Mobile Sites** · [Google](/assets/images/credentials/google-mobile-sites.pdf), Dec 2017
+- **The Online Marketing Fundamentals** · [Google](/assets/images/credentials/google-online-marketing-fundamentals.pdf), Sep 2016
 
 ### Technology & Architecture (62)
 
@@ -258,117 +397,11 @@ The final years of my freelancing in Greece were about running complete commerci
 </details>
 <!-- markdownlint-enable MD033 -->
 
-### Analytics & Digital Marketing (9)
-
-- **Google Tag Manager Fundamentals** · Google, Feb 2019
-- **Google Analytics for Power Users** · [Google](/assets/images/credentials/google-analytics-power-users.pdf), Dec 2018
-- **Getting Started With Google Analytics 360** · [Google](/assets/images/credentials/google-analytics-360.pdf), Dec 2018
-- **Google Analytics Individual Qualification** · Google, Nov 2018
-- **Advanced Google Analytics** · Google, Nov 2018
-- **Google Analytics for Beginners** · [Google](/assets/images/credentials/google-analytics-beginners.pdf), Nov 2018
-- **Digital Sales** · [Google](/assets/images/credentials/google-digital-sales.pdf), Dec 2017
-- **Mobile Sites** · [Google](/assets/images/credentials/google-mobile-sites.pdf), Dec 2017
-- **The Online Marketing Fundamentals** · [Google](/assets/images/credentials/google-online-marketing-fundamentals.pdf), Sep 2016
-
-### UX, Accessibility & Design (17)
-
-- **Accessibility: How to Design for All** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/Pd35f4fgM), Sep 2018
-- **Conducting Usability Testing** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/P3PThrDks), Jun 2018
-- **Information Visualization** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/P17MF05jH), Jun 2018
-- **Gamification - How to Create Engaging User Experiences** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/NN0djCskZ), Mar 2018
-- **How to Design for Augmented and Virtual Reality** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/NRdqmhGK8), Mar 2018
-- **Web Accessibility** · Udacity, 2017
-- **Web Design for Usability** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/Nj3K2b2r4), Aug 2017
-- **Quality Web Communication** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/NjqCSxK8X), Aug 2017
-- **User Research — Methods and Best Practices** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/NgTK1n2Hj), Jul 2017
-- **Mobile User Experience (UX) Design** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/N97Q8NH2c), Jun 2017
+### Conferences, Competitions & Historical
 
 <!-- markdownlint-disable MD033 -->
 <details class="credential-group" markdown="1">
-<summary>IxDF — Foundations & Career <span class="credential-count">4 courses</span></summary>
-
-- [Design Thinking: The Beginner's Guide](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/N5LXdj1nV)
-- [Become a UX Designer from Scratch](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/N7mVw6Nxr)
-- [Get Your First Job as a UX or Interaction Designer](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/NhgK8XrHJ)
-- [How to Become a Freelance Designer](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/NgTK9hJcG)
-
-</details>
-
-<details class="credential-group" markdown="1">
-<summary>IxDF — Master Classes <span class="credential-count">3 certificates</span></summary>
-
-- [Disruptive Design: Is your UX Future-Proof?](https://ixdf.org/members/nikolaos-vasileiadis/certificate/masterclass/mcc_4f4ef43fb1994c678a38cf119dae3a5b)
-- [Design with Data: A Guide to A/B Testing](https://ixdf.org/members/nikolaos-vasileiadis/certificate/masterclass/mcc_242f5c61fb6f4823992db63408d24f6b)
-- [Going from UX to Service Design](https://ixdf.org/members/nikolaos-vasileiadis/certificate/masterclass/mcc_293cf56ac8294b36ab9490ccd3d36c27)
-
-</details>
-<!-- markdownlint-enable MD033 -->
-
-### Historical Certificates (4)
-
-- **Certified Training Professional** · ICDL Certification, 2006 — _Applied professionally: spent a year teaching ECDL to adult learners at a computer school in Serres, and later tutored privately in algorithmic logic, C, and hardware. A former student now works as an engineer at Sophos._
-- **ImageMaker** · ICDL Certification, 2006
-- **ECDL Expert** · ICDL Certification, 2003
-- **ECDL (Original)** · ICDL Certification, 2001
-
----
-
-## Community & Engagement
-{: .icon-users}
-
-**Lead Organiser — Google Developer Group Leeds** _(2019–2020)_
-Revived an inactive [GDG chapter](https://gdg-leeds.github.io/) from the ground up, assembling a volunteer team and running a series of technical conferences, workshops, and presentations.
-
-**IxDF Local Leader — Interaction Design Foundation Leeds** _(2018–2020)_
-Organised regular UX meetups and community networking sessions in Leeds.
-
-**3rd Place — KPMG's "30 Voices: The Next Generation"** _(Mar 2019)_
-National innovations competition exploring how the financial sector will evolve by 2030. Our team's proposal — AI-driven asset allocation via tokenisation of rights, using Blockchain and Big Data — placed 3rd nationally. Entered while working at Leeds Building Society, connecting sector domain knowledge with forward-looking financial technology thinking.
-
-**Community Manager — Open Source Ecology Greece** _(Jan 2012–Jan 2014)_
-Pioneered IoT (Arduino/Raspberry Pi) integration for ecological living (originally as OSAEC) before merging efforts to lead the Greek chapter of OSE. Acted as a global liaison, contributed to web operations, and evangelised open-source technology through public lectures, fieldwork, and an appearance on Greek National Television.
-
-**Private — Greek Army** _(Nov 2012–Aug 2013)_
-Conscripted and trained to serve as a soldier in an armoured brigade communications support unit. Helped digitise processes in the 1st Office. Improved schedule and leave management. Set up network cabling. Stock ordering and food provisioning for the kitchens.
-
-**E-Culture Manager — UNESCO** _(Aug 2011–Sep 2012)_
-Web developer and event organiser for UNESCO's digital culture initiatives.
-
-**Organising Committee — FOSSCOMM 2012** _(Dec 2011–May 2012)_
-Nationwide Greek Free and Open Source Software conference (350 attendees). Managed budget, sponsorships, venue, and technical teams.
-
-**Founder — Serres Linux Users Group** _(2008–2012)_
-Founded and ran the local Linux community in Serres, Greece — organising presentations, install-fests, Sunday computing classes for adults and children (in partnership with UNESCO), and maintaining the group's web infrastructure. This community work generated a civic technology portfolio including the UNESCO Serres website, local municipality sites, the Natural History Museum, and a local radio station.
-
-**Web Developer & SysAdmin — IEEE** _(Oct 2010–Dec 2011)_
-Led technical infrastructure for regional science and technology initiatives. Configured and maintained Debian-based web hosting services (ISPConfig) and managed the customization of a Drupal ecosystem.
-
-### Mentoring (3)
-
-**Mentor — [WRK digital](https://wrkdigital.co.uk/)** _(Feb 2023–Present)_
-Peer mentoring network with Engineering Managers, Heads of Engineering, VPs, and CTOs.
-
-**Mentor — School of Code** _(Aug 2023–Jan 2024)_
-Supported early-career bootcamp graduates entering the industry as software engineers.
-
-**Mentor — Sky Coding Club** _(Nov 2019)_
-Inspired and assisted attendees learning HTML, CSS, and JavaScript.
-
-### Meetups & Speaking (4)
-
-**Speaker — GDG DevFest 2019** _(Nov 2019)_
-Presented _"Design Systems"_ at GDG DevFest Leeds.
-
-**Speaker — Northern User Experience** _(May 2018)_
-Delivered _"UX: A Developer's Perspective"_ at NUX Leeds. [Event details](https://nuxuk.org/2018/05/14/nux-leeds-tuesday-29th-may-ux-a-developers-perspective/)
-
-**Speaker — Xanthi Local Tech Meetup** _(2013–2014)_
-Presented on Arduino & Raspberry Pi, Linux, and Introduction to Cryptography at a grassroots tech community meetup in Xanthi, Greece.
-
-**Speaker — FOSSCOMM 2012** _(May 2012)_
-Presented _"Open Source Ecology"_ at FOSSCOMM, Serres, Greece.
-
-### Conferences (25)
+<summary>Conferences attended <span class="credential-count">25</span></summary>
 
 - **LDX3 2026** · London, UK — Engineering leadership conference. Workshops with CTOs, peer networking with Heads of Engineering and VPs.
 - **WRK digital Tech Leaders Summit 2025** · Leeds, UK
@@ -397,18 +430,24 @@ Presented _"Open Source Ecology"_ at FOSSCOMM, Serres, Greece.
 - **FOSSCOMM 2010** · Thessaloniki, Greece
 - **FOSSCOMM 2009** · Larissa, Greece
 
-### Competitions & Coding Challenges (3)
+</details>
+
+<details class="credential-group" markdown="1">
+<summary>Competitions & coding challenges <span class="credential-count">3</span></summary>
 
 - **Code in the Dark 2018** · Leeds, UK
 - **Code in the Dark 2017** · Leeds, UK <span class="badge badge-contestant">Contestant</span>
 - **Code in the Dark 2016** · Leeds, UK <span class="badge badge-contestant">Contestant</span>
 
-### Publications (2)
+</details>
 
-**[Designing User Interfaces as a Developer](https://medium.com/pulsar/designing-user-interfaces-as-a-developer-22799b6e58a)** · Medium, Oct 2017
-Technical article on bridging design thinking with frontend engineering.
+<details class="credential-group" markdown="1">
+<summary>Historical certificates <span class="credential-count">4</span></summary>
 
-**[W3C HTML Validation for Twig Generated Pages](https://medium.com/pulsar/w3c-html-validation-for-twig-generated-pages-42cc625e7db0)** · Medium, Oct 2017
-Technical guide on implementing HTML validation within Twig templating workflows.
+- **Certified Training Professional** · ICDL Certification, 2006 — _Applied professionally: a year teaching ECDL to adult learners at a computer school in Serres, plus private tutoring in algorithmic logic, C, and hardware (see Mentoring)._
+- **ImageMaker** · ICDL Certification, 2006
+- **ECDL Expert** · ICDL Certification, 2003
+- **ECDL (Original)** · ICDL Certification, 2001
 
-_These articles date from my hands-on engineering years. My current writing — on engineering leadership, team building, and delivery — lives on the [Blog](/blog/)._
+</details>
+<!-- markdownlint-enable MD033 -->

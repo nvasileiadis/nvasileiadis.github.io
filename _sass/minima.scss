@@ -210,9 +210,9 @@ $on-laptop: 800px !default;
 }
 
 .badge-organiser {
-  background-color: $accent-color-text;
-  color: #ffffff;
-  border: 1px solid darken($accent-color-text, 10%);
+  background-color: #ffffff;
+  color: $brand-color;
+  border: 1px solid $brand-color;
 }
 
 .badge-speaker {
