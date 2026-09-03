@@ -30,6 +30,7 @@ _This page is an evidence appendix for those who want to go deeper. For a comple
 <!-- markdownlint-enable MD033 -->
 
 ## From Engineer to Engineering Leader
+
 {: .icon-trending-up}
 
 The evidence is in the pattern: everywhere I've been, I built the thing that wasn't there. I've been leading from the front since before I had a title for it — from teaching adults to hold a mouse in a Greek computer school at age 18, to organising a 350-person national open-source conference at university, to running Sunday computing sessions for children through UNESCO. Along the way, I've worked across financial services, regulated utilities, global retail, and public sector technology — each with its own constraints, compliance requirements, and stakeholder expectations. At every company, the same thing happened: I was hired as an engineer, and within months I was the one setting up processes, mentoring juniors, facilitating sprints, and bridging the gap between engineering and business.
@@ -44,12 +45,12 @@ I've always measured what matters — starting with manual team health tracking 
 
 Decomposed, the leadership claim looks like this — every layer dated, every layer evidenced:
 
-| Leadership layer | Since | Years | Evidence |
-|---|---|---|---|
-| **Community** | 2008 | 18 | Founded the Serres Linux Users Group · FOSSCOMM 2012, a 350-person national conference · UNESCO e-culture · GDG Leeds revival |
-| **Delivery** | 2017 | 9 | Scrum Master at Jadu (rotating), Leeds Building Society (the organisation's first Agile; interim SM through a crisis programme), IMA-HOME (Adidas, MARS) · end-to-end feature ownership at Jadu |
-| **People** | 2022 | 4 | Line management from day one at Utility Warehouse — no Head of Engineering in post; the title followed 14 months later · 6 direct reports at peak |
-| **Multi-team** | 2024 | 2 | 3 teams, 3 backlogs · 8 technical reports, including a Design Systems Lead and a Staff Engineer on dotted line |
+| Leadership layer | Since | Years | Evidence                                                                                                                                                                                        |
+| ---------------- | ----- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Community**    | 2008  | 18    | Founded the Serres Linux Users Group · FOSSCOMM 2012, a 350-person national conference · UNESCO e-culture · GDG Leeds revival                                                                   |
+| **Delivery**     | 2017  | 9     | Scrum Master at Jadu (rotating), Leeds Building Society (the organisation's first Agile; interim SM through a crisis programme), IMA-HOME (Adidas, MARS) · end-to-end feature ownership at Jadu |
+| **People**       | 2022  | 4     | Line management from day one at Utility Warehouse — no Head of Engineering in post; the title followed 14 months later · 6 direct reports at peak                                               |
+| **Multi-team**   | 2024  | 2     | 3 teams, 3 backlogs · 8 technical reports, including a Design Systems Lead and a Staff Engineer on dotted line                                                                                  |
 
 **<span class="stat">20+</span> years in technology. <span class="stat">9</span> years in leadership, <span class="stat">4</span> of them line-managing engineers.** The engineering gave me the credibility. The people work gave me the purpose.
 
@@ -58,6 +59,7 @@ Decomposed, the leadership claim looks like this — every layer dated, every la
 ---
 
 ## Notable Brands & Clients
+
 {: .icon-globe}
 
 From engineering to engineering leadership, I've delivered for global consumer brands, regulated financial services and utilities, public-sector institutions, and the third sector. A selection of the most recognisable:
@@ -81,6 +83,7 @@ From engineering to engineering leadership, I've delivered for global consumer b
 ---
 
 ## Notable Projects & Highlights
+
 {: .icon-rocket}
 
 _A selection of work that shows the pattern in practice. Design Systems are a recurring thread — from Pulsar at Jadu, to Royal Canin's global system at IMA-HOME, to the Design Systems team I later managed at Utility Warehouse. Expand any entry for the detail._
@@ -130,6 +133,7 @@ The final years of my freelancing in Greece were about running complete commerci
 <!-- markdownlint-enable MD033 -->
 
 ## Full Credentials
+
 {: .icon-file-text}
 
 ### Leadership & Management (12)
@@ -314,13 +318,8 @@ The final years of my freelancing in Greece were about running complete commerci
 ---
 
 ## Public Service, Community & Recognition
+
 {: .icon-users}
-
-**Mentor — [WRK digital](https://wrkdigital.co.uk/)** _(Feb 2023–Present)_
-Peer mentoring network with Engineering Managers, Heads of Engineering, VPs, and CTOs.
-
-**Mentor — School of Code** _(Aug 2023–Jan 2024)_
-Supported early-career bootcamp graduates entering the industry as software engineers.
 
 **Lead Organiser — Google Developer Group Leeds** _(2019–2020)_
 Revived an inactive [GDG chapter](https://gdg-leeds.github.io/) from the ground up, assembling a volunteer team and running a series of technical conferences, workshops, and presentations.
@@ -328,14 +327,8 @@ Revived an inactive [GDG chapter](https://gdg-leeds.github.io/) from the ground 
 **IxDF Local Leader — Interaction Design Foundation Leeds** _(2018–2020)_
 Organised regular UX meetups and community networking sessions in Leeds.
 
-**Mentor — Sky Coding Club** _(Nov 2019)_
-Inspired and assisted attendees learning HTML, CSS, and JavaScript.
-
 **3rd Place — KPMG's "30 Voices: The Next Generation"** _(Mar 2019)_
 National innovations competition exploring how the financial sector will evolve by 2030. Our team's proposal — AI-driven asset allocation via tokenisation of rights, using Blockchain and Big Data — placed 3rd nationally. Entered while working at Leeds Building Society, connecting sector domain knowledge with forward-looking financial technology thinking.
-
-**Guest Speaker — Northern User Experience** _(May 2018)_
-Delivered _"UX: A Developer's Perspective"_ at NUX Leeds. [Event details](https://nuxuk.org/2018/05/14/nux-leeds-tuesday-29th-may-ux-a-developers-perspective/)
 
 **Community Manager — Open Source Ecology Greece** _(Jan 2012–Jan 2014)_
 Pioneered IoT (Arduino/Raspberry Pi) integration for ecological living (originally as OSAEC) before merging efforts to lead the Greek chapter of OSE. Acted as a global liaison, contributed to web operations, and evangelised open-source technology through public lectures, fieldwork, and an appearance on Greek National Television.
@@ -355,7 +348,32 @@ Founded and ran the local Linux community in Serres, Greece — organising prese
 **Web Developer & SysAdmin — IEEE** _(Oct 2010–Dec 2011)_
 Led technical infrastructure for regional science and technology initiatives. Configured and maintained Debian-based web hosting services (ISPConfig) and managed the customization of a Drupal ecosystem.
 
-### Conferences (26) & Speaking (3)
+### Mentoring (3)
+
+**Mentor — [WRK digital](https://wrkdigital.co.uk/)** _(Feb 2023–Present)_
+Peer mentoring network with Engineering Managers, Heads of Engineering, VPs, and CTOs.
+
+**Mentor — School of Code** _(Aug 2023–Jan 2024)_
+Supported early-career bootcamp graduates entering the industry as software engineers.
+
+**Mentor — Sky Coding Club** _(Nov 2019)_
+Inspired and assisted attendees learning HTML, CSS, and JavaScript.
+
+### Meetups & Speaking (4)
+
+**Speaker — GDG DevFest 2019** _(Nov 2019)_
+Presented _"Design Systems"_ at GDG DevFest Leeds.
+
+**Speaker — Northern User Experience** _(May 2018)_
+Delivered _"UX: A Developer's Perspective"_ at NUX Leeds. [Event details](https://nuxuk.org/2018/05/14/nux-leeds-tuesday-29th-may-ux-a-developers-perspective/)
+
+**Speaker — Xanthi Local Tech Meetup** _(2013–2014)_
+Presented on Arduino & Raspberry Pi, Linux, and Introduction to Cryptography at a grassroots tech community meetup in Xanthi, Greece.
+
+**Speaker — FOSSCOMM 2012** _(May 2012)_
+Presented _"Open Source Ecology"_ at FOSSCOMM, Serres, Greece.
+
+### Conferences (25)
 
 - **LDX3 2026** · London, UK — Engineering leadership conference. Workshops with CTOs, peer networking with Heads of Engineering and VPs.
 - **WRK digital Tech Leaders Summit 2025** · Leeds, UK
@@ -363,7 +381,7 @@ Led technical infrastructure for regional science and technology initiatives. Co
 - **Next.js Conf 2021** · Online
 - **Next.js Conf 2020** · Online
 - **WordSesh 2020** · Online
-- **GDG DevFest 2019** · Leeds, UK <span class="badge badge-organiser">Organiser</span> <span class="badge badge-speaker">Speaker</span>: Design Systems
+- **GDG DevFest 2019** · Leeds, UK <span class="badge badge-organiser">Organiser</span>
 - **AI Tech North 2019** · Leeds, UK
 - **Canvas Conference 2018** · Birmingham, UK
 - **UX London 2018** · London, UK
@@ -377,9 +395,8 @@ Led technical infrastructure for regional science and technology initiatives. Co
 - **DEVit Web Conference 2015** · Thessaloniki, Greece
 - **WordCamp Europe 2014** · Sofia, Bulgaria
 - **GDG Thessaloniki 2014** · Thessaloniki, Greece
-- **Local Tech Community Presentations** · Xanthi, Greece <span class="badge badge-speaker">Speaker</span>:Arduino & Raspberry Pi, Linux, Introduction to Cryptography (2013–2014)
 - **openSUSE Conference 2013** · Thessaloniki, Greece
-- **FOSSCOMM 2012** · Serres, Greece <span class="badge badge-organiser">Organiser</span> <span class="badge badge-speaker">Speaker</span>: Open Source Ecology
+- **FOSSCOMM 2012** · Serres, Greece <span class="badge badge-organiser">Organiser</span>
 - **TEDxTEISER 2011** · Serres, Greece <span class="badge badge-organiser">Organiser</span>
 - **WordCamp Greece 2011** · Thessaloniki, Greece
 - **FOSSCOMM 2010** · Thessaloniki, Greece
