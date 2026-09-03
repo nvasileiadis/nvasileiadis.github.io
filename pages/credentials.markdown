@@ -30,7 +30,6 @@ _This page is an evidence appendix for those who want to go deeper. For a comple
 <!-- markdownlint-enable MD033 -->
 
 ## From Engineer to Engineering Leader
-
 {: .icon-trending-up}
 
 The evidence is in the pattern: everywhere I've been, I built the thing that wasn't there. I've been leading from the front since before I had a title for it — from teaching adults to hold a mouse in a Greek computer school at age 18, to organising a 350-person national open-source conference at university, to running Sunday computing sessions for children through UNESCO. Along the way, I've worked across financial services, regulated utilities, global retail, and public sector technology — each with its own constraints, compliance requirements, and stakeholder expectations. At every company, the same thing happened: I was hired as an engineer, and within months I was the one setting up processes, mentoring juniors, facilitating sprints, and bridging the gap between engineering and business.
@@ -59,7 +58,6 @@ Decomposed, the leadership claim looks like this — every layer dated, every la
 ---
 
 ## Notable Brands & Clients
-
 {: .icon-globe}
 
 From engineering to engineering leadership, I've delivered for global consumer brands, regulated financial services and utilities, public-sector institutions, and the third sector. A selection of the most recognisable:
@@ -83,7 +81,6 @@ From engineering to engineering leadership, I've delivered for global consumer b
 ---
 
 ## Notable Projects & Highlights
-
 {: .icon-rocket}
 
 _A selection of work that shows the pattern in practice. Design Systems are a recurring thread — from Pulsar at Jadu, to Royal Canin's global system at IMA-HOME, to the Design Systems team I later managed at Utility Warehouse. Expand any entry for the detail._
@@ -133,7 +130,6 @@ The final years of my freelancing in Greece were about running complete commerci
 <!-- markdownlint-enable MD033 -->
 
 ## Full Credentials
-
 {: .icon-file-text}
 
 ### Leadership & Management (12)
@@ -318,7 +314,6 @@ The final years of my freelancing in Greece were about running complete commerci
 ---
 
 ## Public Service, Community & Recognition
-
 {: .icon-users}
 
 **Lead Organiser — Google Developer Group Leeds** _(2019–2020)_
