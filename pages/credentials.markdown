@@ -180,7 +180,7 @@ Met a university engineering student through local tech presentations in Xanthi,
 **Mentor & Tutor — Private tutoring** _(Sep 2011–Jun 2012)_
 Tutored a young learner privately in algorithmic logic, C, and hardware. He went on into software engineering and is now an Engineering Manager — a long arc from first foundations to people leadership.
 
-### Meetups & Speaking (4)
+### Meetups & Public Speaking (4)
 
 **Speaker — GDG DevFest 2019** _(Nov 2019)_
 Presented _"Design Systems"_ at GDG DevFest Leeds.
