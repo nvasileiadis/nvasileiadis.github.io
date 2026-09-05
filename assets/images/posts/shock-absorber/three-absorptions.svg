@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 390" role="img" aria-labelledby="sa-title sa-desc">
+  <title id="sa-title">Three absorptions the team never invoices</title>
+  <desc id="sa-desc">Three columns of invisible managerial load. Left: workload absorption  EM, PM, and on-call stacked on one person. Centre: threat knowledge  dissolution plans and political spends the defended team never hears. Right: composition labour  pairing and ownership maps the team experiences only as good fit.</desc>
+  <style>
+    .ht { font: 600 12px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: 1.2px; fill: #ffffff; }
+    .row { font: 400 12.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #3a3a3a; }
+    .sub { font: 400 11.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #595959; }
+    .foot { font: italic 400 11.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #8f6a08; }
+  </style>
+
+  <!-- Workload -->
+  <rect x="40" y="36" width="250" height="290" rx="10" fill="#ffffff" stroke="#1d6340" stroke-width="1.5"/>
+  <rect x="40" y="36" width="250" height="44" rx="10" fill="#1d6340"/>
+  <rect x="40" y="64" width="250" height="16" fill="#1d6340"/>
+  <text x="165" y="64" text-anchor="middle" class="ht">WORKLOAD</text>
+  <text x="60" y="112" class="row">engineering management</text>
+  <text x="60" y="138" class="row">+ product management</text>
+  <text x="60" y="164" class="row">+ on-call rotation</text>
+  <text x="60" y="210" class="sub">Visible as heroics.</text>
+  <text x="60" y="232" class="sub">Invisible as three jobs</text>
+  <text x="60" y="254" class="sub">wearing one title.</text>
+  <text x="60" y="292" class="sub">The team feels coverage.</text>
+
+  <!-- Threat knowledge -->
+  <rect x="315" y="36" width="250" height="290" rx="10" fill="#ffffff" stroke="#1d6340" stroke-width="1.5"/>
+  <rect x="315" y="36" width="250" height="44" rx="10" fill="#1d6340"/>
+  <rect x="315" y="64" width="250" height="16" fill="#1d6340"/>
+  <text x="440" y="64" text-anchor="middle" class="ht">THREAT KNOWLEDGE</text>
+  <text x="335" y="112" class="row">dissolution plans</text>
+  <text x="335" y="138" class="row">political capital spent</text>
+  <text x="335" y="164" class="row">near-misses averted</text>
+  <text x="335" y="210" class="sub">A defended team never</text>
+  <text x="335" y="232" class="sub">knows it was defended.</text>
+  <text x="335" y="254" class="sub">That is the point.</text>
+  <text x="335" y="292" class="sub">The team feels steadiness.</text>
+
+  <!-- Composition -->
+  <rect x="590" y="36" width="250" height="290" rx="10" fill="#ffffff" stroke="#1d6340" stroke-width="1.5"/>
+  <rect x="590" y="36" width="250" height="44" rx="10" fill="#1d6340"/>
+  <rect x="590" y="64" width="250" height="16" fill="#1d6340"/>
+  <text x="715" y="64" text-anchor="middle" class="ht">COMPOSITION</text>
+  <text x="610" y="112" class="row">thinker / doer pairs</text>
+  <text x="610" y="138" class="row">ownership appetite map</text>
+  <text x="610" y="164" class="row">workstream staffing</text>
+  <text x="610" y="210" class="sub">Done before anyone</text>
+  <text x="610" y="232" class="sub">is assigned to anything.</text>
+  <text x="610" y="254" class="sub">Never on a dashboard.</text>
+  <text x="610" y="292" class="sub">The team feels fit.</text>
+
+  <text x="440" y="360" text-anchor="middle" class="foot">three absorptions  one bill the manager pays alone</text>
+</svg>
