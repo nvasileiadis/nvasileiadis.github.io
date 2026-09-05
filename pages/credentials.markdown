@@ -23,7 +23,7 @@ _This page is an evidence appendix for those who want to go deeper. For a comple
     <span class="metric-label">Team Retention<br><small style="font-size: 0.8em; opacity: 0.8;">Zero voluntary attrition · 3 promotions<br>Team rebuilt twice · Design Systems retained</small></span>
   </div>
   <div class="metric-card">
-    <span class="metric-number">17</span>
+    <span class="metric-number">21</span>
     <span class="metric-label">Comm. Roles & Talks<br><small style="font-size: 0.8em; opacity: 0.8;">GDG · FOSSCOMM · WRK mentoring</small></span>
   </div>
 </div>
@@ -145,6 +145,9 @@ Founded and ran the local Linux community in Serres, Greece — organising prese
 **IxDF Local Leader — Interaction Design Foundation Leeds** _(2018–2020)_
 Organised regular UX meetups and community networking sessions in Leeds.
 
+**Organiser — Xanthi tech community** _(Nov–Dec 2013)_
+Created and ran a grassroots series of four open technology sessions in Xanthi, Greece — Linux, Tor and online privacy, Arduino open hardware, and ecological open-source technologies. The same organiser pattern as SerLUG, in a new city — and the series that seeded a years-long mentoring arc (see Mentoring).
+
 **3rd Place — KPMG's "30 Voices: The Next Generation"** _(Mar 2019)_
 National innovations competition exploring how the financial sector will evolve by 2030. Our team's proposal — AI-driven asset allocation via tokenisation of rights, using Blockchain and Big Data — placed 3rd nationally. Entered while working at Leeds Building Society, connecting sector domain knowledge with forward-looking financial technology thinking.
 
@@ -182,7 +185,7 @@ Met a university engineering student through local tech presentations in Xanthi,
 **Mentor & Tutor — Private tutoring** _(Sep 2011–Jun 2012)_
 Tutored a young learner privately in algorithmic logic, C, and hardware. He went on into software engineering and is now an Engineering Manager — a long arc from first foundations to people leadership.
 
-### Public Speaking (4)
+### Public Speaking (7)
 
 **Speaker — GDG DevFest 2019** _(Nov 2019)_
 Presented _"Design Systems"_ at GDG DevFest Leeds.
@@ -190,8 +193,14 @@ Presented _"Design Systems"_ at GDG DevFest Leeds.
 **Speaker — Northern User Experience** _(May 2018)_
 Delivered _"UX: A Developer's Perspective"_ at NUX Leeds. [Event details](https://nuxuk.org/2018/05/14/nux-leeds-tuesday-29th-may-ux-a-developers-perspective/)
 
-**Speaker — Xanthi Local Tech Meetup** _(2013–2014)_
-Presented on Arduino & Raspberry Pi, Linux, and Introduction to Cryptography at a grassroots tech community meetup in Xanthi, Greece.
+**Speaker — Xanthi tech community sessions** _(Nov–Dec 2013 · 4 talks)_
+Four talks from the grassroots series I ran in Xanthi, Greece (organiser role under Community & Engagement):
+
+- _"Ecological Open Source Technologies"_ — Dec 2013, as community manager of Open Source Ecology Greece
+- _"Arduino: Open Source Hardware"_ — Dec 2013, with a documentary screening
+- _"The Tor Network, Cryptography and Privacy on the Internet"_ — Nov 2013
+- _"Introduction to the Linux Operating System"_ — Nov 2013
+
 
 **Speaker — FOSSCOMM 2012** _(May 2012)_
 Presented _"Open Source Ecology"_ at FOSSCOMM, Serres, Greece.
