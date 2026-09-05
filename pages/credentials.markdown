@@ -145,7 +145,7 @@ Founded and ran the local Linux community in Serres, Greece — organising prese
 **IxDF Local Leader — Interaction Design Foundation Leeds** _(2018–2020)_
 Organised regular UX meetups and community networking sessions in Leeds.
 
-**Organiser — Xanthi tech community** _(Nov–Dec 2013)_
+**Organiser — Xanthi Tech Community** _(Nov–Dec 2013)_
 Created and ran a grassroots series of four open technology sessions in Xanthi, Greece — Linux, Tor and online privacy, Arduino open hardware, and ecological open-source technologies. The same organiser pattern as SerLUG, in a new city — and the series that seeded a years-long mentoring arc (see Mentoring).
 
 **3rd Place — KPMG's "30 Voices: The Next Generation"** _(Mar 2019)_
@@ -179,7 +179,7 @@ Guided a developer-turned-project-manager onto the Agile career path — helping
 **Mentor — Sky Coding Club** _(Nov 2019)_
 Inspired and assisted attendees learning HTML, CSS, and JavaScript.
 
-**Mentor — Xanthi tech community** _(2013–Present)_
+**Mentor — Xanthi Tech Community** _(2013–Present)_
 Met a university engineering student through local tech presentations in Xanthi, Greece; invited attendees to pair-code on a digital *Wizard* card-game prototype, and he was the one who stuck. Later that year I advised him on Web Developer and Software Engineer career paths — and we kept a years-long conversation going on stacks, salaries, and opportunities. He went on to become a Senior Software Engineer and tech author — a second university-era mentoring arc that compounded into a strong career.
 
 **Mentor & Tutor — Private tutoring** _(Sep 2011–Jun 2012)_
@@ -191,13 +191,12 @@ Tutored a young learner privately in algorithmic logic, C, and hardware. He went
 Presented _"Design Systems"_ at GDG DevFest Leeds.
 
 **Speaker — Northern User Experience** _(May 2018)_
-Delivered _"UX: A Developer's Perspective"_ at NUX Leeds. [Event details](https://nuxuk.org/2018/05/14/nux-leeds-tuesday-29th-may-ux-a-developers-perspective/)
+Presented _"UX: A Developer's Perspective"_ at NUX Leeds. [Event details](https://nuxuk.org/2018/05/14/nux-leeds-tuesday-29th-may-ux-a-developers-perspective/)
 
-**Speaker — Xanthi tech community sessions** _(Nov–Dec 2013 · 4 talks)_
-Four talks from the grassroots series I ran in Xanthi, Greece (organiser role under Community & Engagement):
+**Speaker — Xanthi Tech Community** _(Nov–Dec 2013 · 4 talks)_
 
-- _"Ecological Open Source Technologies"_ — Dec 2013, as community manager of Open Source Ecology Greece
-- _"Arduino: Open Source Hardware"_ — Dec 2013, with a documentary screening
+- _"Ecological Open Source Technologies"_ — Dec 2013
+- _"Arduino: Open Source Hardware"_ — Dec 2013
 - _"The Tor Network, Cryptography and Privacy on the Internet"_ — Nov 2013
 - _"Introduction to the Linux Operating System"_ — Nov 2013
 
