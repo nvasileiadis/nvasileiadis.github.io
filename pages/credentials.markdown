@@ -3,7 +3,7 @@ layout: page
 title: Credentials — Nikos Vasileiadis | Clients & Community
 nav_title: Credentials
 permalink: /credentials/
-description: "Evidence appendix for Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology, 9 years in leadership, 4 line-managing engineers. Based in Leeds, UK. Notable brands across FTSE 250, global retail, and regulated financial services; community leadership, mentoring outcomes, and talks — backed by 49 certificates and 62 completed courses across leadership, finance, AI, UX, analytics, and technology."
+description: "Evidence appendix for Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology, 9 years in leadership, 4 line-managing engineers. Based in Leeds, UK. Notable brands across FTSE 250, global retail, and regulated financial services; community leadership, mentoring outcomes, and talks — backed by 49 certificates and 62 completed courses across AI, leadership, finance, UX, analytics, and technology."
 ---
 
 _This page is an evidence appendix for those who want to go deeper. For a complete summary of my professional experience, see my [CV](/cv/). Here, scope and outcomes come first — brands, projects, and community leadership — then the credentials that verify the craft behind them._
