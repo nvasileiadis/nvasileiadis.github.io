@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Shipping the Critical Path With a Nuclear Team"
-date: 2026-09-25 10:00:00 +0000
+date: 2026-09-18 10:00:00 +0000
 categories: leadership
 description: "A company-wide rebrand, 522 pages, every product team's launch gated behind ours — and a team of three. On why context density beats headcount on hard deadlines, and the operating rules that keep a tiny team from melting down while it ships."
 ---
@@ -46,7 +46,7 @@ Density makes the deadline possible. The operating rules are what got us to it �
 
 ## What it cost
 
-The honesty section, as ever. Slack went to zero for six months, and zero slack is a people cost no matter how openly you price the scope — the price tag kept the costs *chosen*, it didn't make them free. On-call remained a one-person rotation through the busiest period the platform has ever had. The capability we switched off took real effort to switch back on afterwards; deferred work doesn't wait patiently, it compounds quietly. And the residual load — holding the containment while also being inside it — landed where it always lands: on the manager. That bill, and how to plan for it instead of being surprised by it, is written up in [What It Costs to Be the Shock Absorber](/leadership/2026/09/18/what-it-costs-to-be-the-shock-absorber.html).
+The honesty section, as ever. Slack went to zero for six months, and zero slack is a people cost no matter how openly you price the scope — the price tag kept the costs *chosen*, it didn't make them free. On-call remained a one-person rotation through the busiest period the platform has ever had. The capability we switched off took real effort to switch back on afterwards; deferred work doesn't wait patiently, it compounds quietly. And the residual load — holding the containment while also being inside it — landed where it always lands: on the manager. That bill, and how to plan for it instead of being surprised by it, gets its own accounting in the next post in this series: *What It Costs to Be the Shock Absorber*.
 
 ## Retention's ROI, cashed
 
@@ -56,4 +56,4 @@ You don't get a nuclear team by hiring one. You compound one — people who stay
 
 ---
 
-*This is part of an occasional series on engineering leadership under real-world pressure. Earlier posts: [What 100% Team Retention Through Three Restructurings Actually Looks Like](/leadership/2026/07/31/what-100-percent-retention-actually-looks-like.html), [Archeology: How to Inherit a System Nobody Documented](/leadership/2026/08/21/archeology-inheriting-a-system-nobody-documented.html), [Soft Platforms: Why Horizontal Work Dies Inside Product Verticals](/leadership/2026/08/28/soft-platforms-why-horizontal-work-dies-inside-product-verticals.html), [The Diagram That Saved a Capability](/leadership/2026/09/11/the-diagram-that-saved-a-capability.html), and [What It Costs to Be the Shock Absorber](/leadership/2026/09/18/what-it-costs-to-be-the-shock-absorber.html). Find me on [LinkedIn](https://www.linkedin.com/in/nvasileiadis).*
+*This is part of an occasional series on engineering leadership under real-world pressure. Earlier posts: [What 100% Team Retention Through Three Restructurings Actually Looks Like](/leadership/2026/07/31/what-100-percent-retention-actually-looks-like.html), [Archeology: How to Inherit a System Nobody Documented](/leadership/2026/08/21/archeology-inheriting-a-system-nobody-documented.html), [Ten Vendors, One Contract](/leadership/2026/08/24/ten-vendors-one-contract-vendor-evaluation-as-engineering-leadership.html), [Soft Platforms: Why Horizontal Work Dies Inside Product Verticals](/leadership/2026/08/28/soft-platforms-why-horizontal-work-dies-inside-product-verticals.html), and [The Diagram That Saved a Capability](/leadership/2026/09/11/the-diagram-that-saved-a-capability.html). Find me on [LinkedIn](https://www.linkedin.com/in/nvasileiadis).*

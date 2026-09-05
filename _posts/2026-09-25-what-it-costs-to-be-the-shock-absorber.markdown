@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "What It Costs to Be the Shock Absorber"
-date: 2026-09-18 10:00:00 +0000
+date: 2026-09-25 10:00:00 +0000
 categories: leadership
 description: "Holding ground for a team has a price the manager pays — in workload, in threat knowledge the team never hears, and in composition work nobody sees. Plan recovery, or the practice is unsustainable theatre."
 ---
 
-In [the retention post](/leadership/2026/07/31/what-100-percent-retention-actually-looks-like.html) I spent one paragraph on the bill: being the shock absorber has a price, and the manager pays it. I deferred the same accounting again when writing about shipping a hard deadline with a tiny team — containment held, the work shipped, and the residual load "landed where it always lands." This is that post. Not the heroics. The accounting.
+In [the retention post](/leadership/2026/07/31/what-100-percent-retention-actually-looks-like.html) I spent one paragraph on the bill: being the shock absorber has a price, and the manager pays it. I deferred the same accounting again when writing about [shipping a hard deadline with a tiny team](/leadership/2026/09/18/shipping-the-critical-path-with-a-nuclear-team.html) — containment held, the work shipped, and the residual load "landed where it always lands." This is that post. Not the heroics. The accounting.
 
 The year my scope roughly quadrupled, I was still engineering manager — and also product manager, and also on the on-call rota, and also the person holding the political fights that kept the team from being dismantled or redirected into work it wasn't built for. The team shipped. Voluntary attrition stayed at zero. From outside, that reads as resilience. From inside my calendar, it reads as three jobs wearing one title.
 
@@ -47,7 +47,7 @@ Watch for communication blockage the way you watch for incident severity. Worklo
 
 Practices, not vibes — the same standard as the rest of this series.
 
-**1. Put an end date on every absorption.** The player-coach rule applies to PM cover and on-call too: temporary, named, with the management work it displaces written down rather than silently dropped. An absorption without an end date is a reorg of your job that nobody approved.
+**1. Put an end date on every absorption.** The [player-coach rule](/leadership/2026/09/18/shipping-the-critical-path-with-a-nuclear-team.html) applies to PM cover and on-call too: temporary, named, with the management work it displaces written down rather than silently dropped. An absorption without an end date is a reorg of your job that nobody approved.
 
 **2. Price it upward in the organisation's language.** "I'm covering product management this quarter" is a complaint. "Critical-path delivery continues if we freeze X and accept Y risk on Z" is a decision record. Leaders can answer the second. They discount the first. The same move that [won the design-systems argument with diagrams](/leadership/2026/09/11/the-diagram-that-saved-a-capability.html) works on your own capacity: draw the trade, don't narrate the fatigue.
 
@@ -71,4 +71,4 @@ Plan the absorption. Publish the price. Schedule the recovery. Watch the convers
 
 ---
 
-*This is part of an occasional series on engineering leadership under real-world pressure — the sustainability post the earlier pieces deferred. Earlier posts: [What 100% Team Retention Through Three Restructurings Actually Looks Like](/leadership/2026/07/31/what-100-percent-retention-actually-looks-like.html), [Archeology: How to Inherit a System Nobody Documented](/leadership/2026/08/21/archeology-inheriting-a-system-nobody-documented.html), [Ten Vendors, One Contract](/leadership/2026/08/24/ten-vendors-one-contract-vendor-evaluation-as-engineering-leadership.html), [Soft Platforms](/leadership/2026/08/28/soft-platforms-why-horizontal-work-dies-inside-product-verticals.html), and [The Diagram That Saved a Capability](/leadership/2026/09/11/the-diagram-that-saved-a-capability.html). Find me on [LinkedIn](https://www.linkedin.com/in/nvasileiadis).*
+*This is part of an occasional series on engineering leadership under real-world pressure — the sustainability post the earlier pieces deferred. Earlier posts: [What 100% Team Retention Through Three Restructurings Actually Looks Like](/leadership/2026/07/31/what-100-percent-retention-actually-looks-like.html), [Archeology: How to Inherit a System Nobody Documented](/leadership/2026/08/21/archeology-inheriting-a-system-nobody-documented.html), [Ten Vendors, One Contract](/leadership/2026/08/24/ten-vendors-one-contract-vendor-evaluation-as-engineering-leadership.html), [Soft Platforms](/leadership/2026/08/28/soft-platforms-why-horizontal-work-dies-inside-product-verticals.html), [The Diagram That Saved a Capability](/leadership/2026/09/11/the-diagram-that-saved-a-capability.html), and [Shipping the Critical Path With a Nuclear Team](/leadership/2026/09/18/shipping-the-critical-path-with-a-nuclear-team.html). Find me on [LinkedIn](https://www.linkedin.com/in/nvasileiadis).*
