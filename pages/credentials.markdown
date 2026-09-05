@@ -3,10 +3,10 @@ layout: page
 title: Credentials — Nikos Vasileiadis | Clients & Community
 nav_title: Credentials
 permalink: /credentials/
-description: "Full credentials, notable brand clients, community contributions, and career recognition for Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology, 9 years in leadership, 4 in direct line management. Based in Leeds, UK. Includes 49 certificates and 62 completed courses across leadership, UX, analytics, cloud, and FinTech."
+description: "Evidence appendix for Nikos Vasileiadis — Software Engineering Leader with 20+ years in technology, 9 years in leadership, 4 line-managing engineers. Based in Leeds, UK. Notable brands across FTSE 250, global retail, and regulated financial services; community leadership, mentoring outcomes, and talks — backed by 49 certificates and 62 completed courses across leadership, finance, AI, UX, analytics, and technology."
 ---
 
-_This page is an evidence appendix for those who want to go deeper. For a complete summary of my professional experience, see my [CV](/cv/). It maps scope and outcomes first — brands, projects, and community leadership — then the credentials that verify the craft behind them._
+_This page is an evidence appendix for those who want to go deeper. For a complete summary of my professional experience, see my [CV](/cv/). Here, scope and outcomes come first — brands, projects, and community leadership — then the credentials that verify the craft behind them._
 
 <!-- markdownlint-disable MD033 -->
 <div class="metrics-grid">
@@ -19,8 +19,8 @@ _This page is an evidence appendix for those who want to go deeper. For a comple
     <span class="metric-label">Notable Brands<br><small style="font-size: 0.8em; opacity: 0.8;">FTSE 250 · Global retail · Regulated FS</small></span>
   </div>
   <div class="metric-card">
-    <span class="metric-number">0</span>
-    <span class="metric-label">Voluntary Attrition<br><small style="font-size: 0.8em; opacity: 0.8;">3 promotions · Team rebuilt twice<br>Design Systems team retained</small></span>
+    <span class="metric-number">100%</span>
+    <span class="metric-label">Team Retention<br><small style="font-size: 0.8em; opacity: 0.8;">Zero voluntary attrition · 3 promotions<br>Team rebuilt twice · Design Systems retained</small></span>
   </div>
   <div class="metric-card">
     <span class="metric-number">17</span>
@@ -162,6 +162,8 @@ Conscripted and trained to serve as a soldier in an armoured brigade communicati
 
 ### Mentoring (6)
 
+_Mentoring is an ongoing practice, not a history — I keep free positions open for engineers stepping into management and Engineering Managers who want to grow. See [Mentoring](/mentoring/) for how it works._
+
 **Mentor — [WRK digital](https://wrkdigital.co.uk/)** _(Feb 2023–Present)_
 Peer mentoring network with Engineering Managers, Heads of Engineering, VPs, and CTOs.
 
@@ -180,7 +182,7 @@ Met a university engineering student through local tech presentations in Xanthi,
 **Mentor & Tutor — Private tutoring** _(Sep 2011–Jun 2012)_
 Tutored a young learner privately in algorithmic logic, C, and hardware. He went on into software engineering and is now an Engineering Manager — a long arc from first foundations to people leadership.
 
-### Meetups & Public Speaking (4)
+### Public Speaking (4)
 
 **Speaker — GDG DevFest 2019** _(Nov 2019)_
 Presented _"Design Systems"_ at GDG DevFest Leeds.
@@ -209,7 +211,14 @@ _These articles date from my hands-on engineering years. My current writing — 
 ## Full Credentials
 {: .icon-file-text}
 
-_Verification appendix — leadership and commercial credentials first; deeper technical and historical lists are collapsed._
+_Verification appendix — AI, leadership, and commercial credentials first; deeper technical and historical lists are collapsed._
+
+### AI Strategy & Implementation (2)
+
+_Applied, not just studied — since mid-2026 I've been leading my team's adoption of AI-assisted engineering (Claude Code) within Utility Warehouse's company-wide programme, and I'm part of its AI committee and AI champions network._
+
+- **AI Leader: Generative AI & Agentic AI for Leaders & Founders** · [Udemy](https://www.udemy.com/certificate/UC-30b444af-cf5d-47ba-b721-dba86062e4aa/), Mar 2026
+- **How to Design Experiences for AI** · [IxDF Master Class](https://ixdf.org/members/nikolaos-vasileiadis/certificate/masterclass/mcc_b9ef0a7c3de24d6495b8d0f23fe974a8), Jun 2022
 
 ### Leadership & Management (12)
 
@@ -234,11 +243,6 @@ _Verification appendix — leadership and commercial credentials first; deeper t
 - **Business Metrics & Growth** · Limitless Concepts, 2023 — P&L, Cash Flow, CAC, LTV, MRR/ARR, NPV, Cap Tables
 - **FinTech Law and Policy** · Duke University (Coursera), 2019
 - **DFIN-511: Introduction to Digital Currencies** · [University of Nicosia](/assets/images/credentials/unic-dfin511-digital-currencies.pdf), Dec 2016
-
-### AI Strategy & Implementation (2)
-
-- **AI Leader: Generative AI & Agentic AI for Leaders & Founders** · [Udemy](https://www.udemy.com/certificate/UC-30b444af-cf5d-47ba-b721-dba86062e4aa/), Mar 2026
-- **How to Design Experiences for AI** · [IxDF Master Class](https://ixdf.org/members/nikolaos-vasileiadis/certificate/masterclass/mcc_b9ef0a7c3de24d6495b8d0f23fe974a8), Jun 2022
 
 ### UX, Accessibility & Design (17)
 
@@ -387,7 +391,7 @@ _Verification appendix — leadership and commercial credentials first; deeper t
 
 <!-- markdownlint-disable MD033 -->
 <details class="credential-group" markdown="1">
-<summary>Conferences attended <span class="credential-count">25</span></summary>
+<summary>Conferences attended <span class="credential-count">26</span></summary>
 
 - **LDX3 2026** · London, UK — Engineering leadership conference. Workshops with CTOs, peer networking with Heads of Engineering and VPs.
 - **WRK digital Tech Leaders Summit 2025** · Leeds, UK
