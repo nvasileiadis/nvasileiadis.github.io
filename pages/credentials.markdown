@@ -75,7 +75,7 @@ From engineering to engineering leadership, I've delivered for global consumer b
 ## Notable Projects & Highlights
 {: .icon-rocket}
 
-_A selection of work that shows the pattern in practice — people and organisational outcomes first, then flagship delivery. Design Systems are a recurring thread: Pulsar at Jadu, Royal Canin's global system at IMA-HOME, and the Design Systems team I later managed at Utility Warehouse. Early UK agency work (2015–2016) — responsive e-commerce and frontend performance across fashion, property, and leisure clients — is represented in the brand lists above, not as standalone entries here. Expand any entry for the detail._
+_A selection of work that shows the pattern in practice — people and organisational outcomes first, then flagship delivery. Design Systems are a recurring thread: Pulsar at Jadu, Royal Canin's global system at IMA-HOME, and the Design Systems team I later managed at Utility Warehouse. Early UK agency work (2015-2016) — responsive e-commerce and frontend performance across fashion, property, and leisure clients — is represented in the brand lists above, not as standalone entries here. Expand any entry for the detail._
 
 <!-- markdownlint-disable MD033 -->
 <details class="credential-group project-group" markdown="1">
@@ -86,14 +86,14 @@ Coached my immediate team of five — my line manager, a principal engineer, a l
 </details>
 
 <details class="credential-group project-group" markdown="1">
-<summary><span class="project-title">Royal Canin Global Design System</span> <span class="project-meta">IMA-HOME · 2020–2022</span></summary>
+<summary><span class="project-title">Royal Canin Global Design System</span> <span class="project-meta">IMA-HOME · 2020-2022</span></summary>
 
 Engineered a comprehensive Design System for the global pet food brand, with a heavy focus on internationalisation — extensive UX and architectural work to support Right-to-Left (RTL) languages such as Arabic, alongside the distinct structural and typographic requirements of the Russian and Japanese markets.
 
 </details>
 
 <details class="credential-group project-group" markdown="1">
-<summary><span class="project-title">Pulsar Design System</span> <span class="project-meta">Jadu · 2017–2018</span></summary>
+<summary><span class="project-title">Pulsar Design System</span> <span class="project-meta">Jadu · 2017-2018</span></summary>
 
 My first professional Design System: co-created and maintained Pulsar, Jadu's open-source UX and Interface Design System powering the Jadu Continuum Platform — used by Local Authorities, the University of Leeds, and third-sector organisations across the UK. [View on GitHub](https://jadu.github.io/pulsar/)
 
@@ -107,21 +107,21 @@ Built highly-optimised custom web interfaces for digital signage across internat
 </details>
 
 <details class="credential-group project-group" markdown="1">
-<summary><span class="project-title">End-to-End CMS Feature Development</span> <span class="project-meta">Jadu · 2017–2018</span></summary>
+<summary><span class="project-title">End-to-End CMS Feature Development</span> <span class="project-meta">Jadu · 2017-2018</span></summary>
 
 Owned the full product lifecycle for the Jadu CMS — from user research through to production release. Conducted on-site contextual inquiry at councils and universities — including Wyre Council, Rotherham Council, City of York Council, Greater Manchester Combined Authority, and the University of Leeds — recording usability tests and distilling the field research into reports that directly shaped the company's feature roadmap. Designed and prototyped solutions, ran iterative usability testing cycles, and shipped validated features into the live product. One of three developers in the Leeds office building Pulsar, each independently responsible for a major product area — I owned the CMS, alongside colleagues covering Forms and CRM — a product-ownership scope beyond the UX Interface Developer title.
 
 </details>
 
 <details class="credential-group project-group" markdown="1">
-<summary><span class="project-title">Running a Business — Freelance Operations &amp; Estonia e-Residency</span> <span class="project-meta">Freelance · 2005–2015</span></summary>
+<summary><span class="project-title">Running a Business — Freelance Operations &amp; Estonia e-Residency</span> <span class="project-meta">Freelance · 2005-2015</span></summary>
 
 The final years of my freelancing in Greece were about running complete commercial projects, not just writing code: taking a brief, scoping and pricing the work, then coordinating a network of contractors — designers, translators — to deliver a finished product while managing the budget across all of them. Estonia's e-Residency was the natural next step — approved as one of the first 2,000 participants in the pilot, formalising that operating model into a legitimate EU business structure. I moved to the UK shortly after and never used it, but the commercial instinct it built — how budgets flow, how vendor relationships work, what it means to be accountable for an entire delivery — carries into every leadership role since.
 
 </details>
 
 <details class="credential-group project-group" markdown="1">
-<summary><span class="project-title">Real Greece — Translators Team &amp; Delivery Ownership</span> <span class="project-meta">Real Greece S.A. · 2014–2015</span></summary>
+<summary><span class="project-title">Real Greece — Translators Team &amp; Delivery Ownership</span> <span class="project-meta">Real Greece S.A. · 2014-2015</span></summary>
 
 Pre-UK management evidence: helped take over a real-estate aggregator project from previous developers, mapped a new architecture for third-party API interconnection, and managed a translators team to deliver on time and on budget — commercial ownership before any engineering-manager title.
 
@@ -133,44 +133,44 @@ Pre-UK management evidence: helped take over a real-estate aggregator project fr
 ## Community & Engagement
 {: .icon-users}
 
-**Lead Organiser — Google Developer Group Leeds** _(2019–2020)_
+**Lead Organiser — Google Developer Group Leeds** _(2019-2020)_
 Revived an inactive [GDG chapter](https://gdg-leeds.github.io/) from the ground up, assembling a volunteer team and running a series of technical conferences, workshops, and presentations.
 
-**Organising Committee — FOSSCOMM 2012** _(Dec 2011–May 2012)_
+**Organising Committee — FOSSCOMM 2012** _(Dec 2011-May 2012)_
 Nationwide Greek Free and Open Source Software conference (350 attendees). Managed budget, sponsorships, venue, and technical teams.
 
-**Founder — Serres Linux Users Group** _(2008–2012)_
+**Founder — Serres Linux Users Group** _(2008-2012)_
 Founded and ran the local Linux community in Serres, Greece — organising presentations, install-fests, Sunday computing classes for adults and children (in partnership with UNESCO), and maintaining the group's web infrastructure. This community work generated a civic technology portfolio including the UNESCO Serres website, local municipality sites, the Natural History Museum, and a local radio station.
 
-**IxDF Local Leader — Interaction Design Foundation Leeds** _(2018–2020)_
+**IxDF Local Leader — Interaction Design Foundation Leeds** _(2018-2020)_
 Organised regular UX meetups and community networking sessions in Leeds.
 
-**Organiser — Xanthi Tech Community** _(Nov–Dec 2013)_
+**Organiser — Xanthi Tech Community** _(Nov-Dec 2013)_
 Created and ran a grassroots series of four open technology sessions in Xanthi, Greece — Linux, Tor and online privacy, Arduino open hardware, and ecological open-source technologies. The same organiser pattern as SerLUG, in a new city — and the series that seeded a years-long mentoring arc (see Mentoring).
 
 **3rd Place — KPMG's "30 Voices: The Next Generation"** _(Mar 2019)_
 National innovations competition exploring how the financial sector will evolve by 2030. Our team's proposal — AI-driven asset allocation via tokenisation of rights, using Blockchain and Big Data — placed 3rd nationally. Entered while working at Leeds Building Society, connecting sector domain knowledge with forward-looking financial technology thinking.
 
-**E-Culture Manager — UNESCO** _(Aug 2011–Sep 2012)_
+**E-Culture Manager — UNESCO** _(Aug 2011-Sep 2012)_
 Web developer and event organiser for UNESCO's digital culture initiatives.
 
-**Community Manager — Open Source Ecology Greece** _(Jan 2012–Jan 2014)_
+**Community Manager — Open Source Ecology Greece** _(Jan 2012-Jan 2014)_
 Pioneered IoT (Arduino/Raspberry Pi) integration for ecological living (originally as OSAEC) before merging efforts to lead the Greek chapter of OSE. Acted as a global liaison, contributed to web operations, and evangelised open-source technology through public lectures, fieldwork, and an appearance on Greek National Television.
 
-**Web Developer & SysAdmin — IEEE** _(Oct 2010–Dec 2011)_
+**Web Developer & SysAdmin — IEEE** _(Oct 2010-Dec 2011)_
 Led technical infrastructure for regional science and technology initiatives. Configured and maintained Debian-based web hosting services (ISPConfig) and managed the customization of a Drupal ecosystem.
 
-**Private — Greek Army** _(Nov 2012–Aug 2013)_
+**Private — Greek Army** _(Nov 2012-Aug 2013)_
 Conscripted and trained to serve as a soldier in an armoured brigade communications support unit. Helped digitise processes in the 1st Office. Improved schedule and leave management. Set up network cabling. Stock ordering and food provisioning for the kitchens.
 
 ### Mentoring (6)
 
 _Mentoring is an ongoing practice, not a history — I keep free positions open for engineers stepping into management and Engineering Managers who want to grow. See [Mentoring](/mentoring/) for how it works._
 
-**Mentor — [WRK digital](https://wrkdigital.co.uk/)** _(Feb 2023–Present)_
+**Mentor — [WRK digital](https://wrkdigital.co.uk/)** _(Feb 2023-Present)_
 Peer mentoring network with Engineering Managers, Heads of Engineering, VPs, and CTOs.
 
-**Mentor — School of Code** _(Aug 2023–Jan 2024)_
+**Mentor — School of Code** _(Aug 2023-Jan 2024)_
 Supported early-career bootcamp graduates entering the industry as software engineers.
 
 **Mentor — Agile career path** _(IMA-HOME · 2020)_
@@ -179,10 +179,10 @@ Guided a developer-turned-project-manager onto the Agile career path — helping
 **Mentor — Sky Coding Club** _(Nov 2019)_
 Inspired and assisted attendees learning HTML, CSS, and JavaScript.
 
-**Mentor — Xanthi Tech Community** _(2013–Present)_
+**Mentor — Xanthi Tech Community** _(2013-Present)_
 Met a university engineering student through local tech presentations in Xanthi, Greece; invited attendees to pair-code on a digital *Wizard* card-game prototype, and he was the one who stuck. Later that year I advised him on Web Developer and Software Engineer career paths — and we kept a years-long conversation going on stacks, salaries, and opportunities. He went on to become a Senior Software Engineer and tech author — a second university-era mentoring arc that compounded into a strong career.
 
-**Mentor & Tutor — Private tutoring** _(Sep 2011–Jun 2012)_
+**Mentor & Tutor — Private tutoring** _(Sep 2011-Jun 2012)_
 Tutored a young learner privately in algorithmic logic, C, and hardware. He went on into software engineering and is now an Engineering Manager — a long arc from first foundations to people leadership.
 
 ### Public Speaking (7)
@@ -193,7 +193,7 @@ Presented _"Design Systems"_ at GDG DevFest Leeds.
 **Speaker — Northern User Experience** _(May 2018)_
 Presented _"UX: A Developer's Perspective"_ at NUX Leeds. [Event details](https://nuxuk.org/2018/05/14/nux-leeds-tuesday-29th-may-ux-a-developers-perspective/)
 
-**Speaker — Xanthi Tech Community** _(Nov–Dec 2013 · 4 talks)_
+**Speaker — Xanthi Tech Community** _(Nov-Dec 2013 · 4 talks)_
 
 - _"Ecological Open Source Technologies"_ — Dec 2013
 - _"Arduino: Open Source Hardware"_ — Dec 2013

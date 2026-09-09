@@ -63,16 +63,16 @@ Software Engineering Leader with <span class="stat">20+ years</span> in technolo
 ### Software Engineering Manager
 
 **Utility Warehouse** (Telecom Plus PLC · FTSE 250 — multi-service provider of energy, broadband, mobile & insurance)  
-Jul 2023 – Present · United Kingdom · Remote
+Jul 2023 - Present · United Kingdom · Remote
 
 - **Team Leadership, Retention & Development:** Grew to <span class="stat">8 technical reports across three teams</span> with separate backlogs — web/CMS/tracking, mobile, and design systems — alongside a Product Manager. Sustained <span class="stat">100% retention</span> through three reorganisations that moved the team across three departments in <span class="stat">25 months</span>; every reduction was organisational, zero voluntary attrition. Drove <span class="stat">3 promotions</span> through evidence-based cases informed by DORA metrics and Peakon Heartbeat surveys; developed talent other teams had passed over; mentored engineers who moved into Engineering Manager roles both internally and externally.
 - **Org Design & Strategic Influence:** Took unguided responsibility for scoping and executing team migrations between pillars during restructurings — mapping scope, chasing stakeholder alignment, and building consensus from scratch. Negotiated skill inbound — a Senior Engineer with mobile expertise — when a mobile backlog entered the team's remit, rather than stretching the existing team thin; challenged and reversed structural decisions that would have eliminated the Design Systems team — preserving the capability that enabled the 2025 company-wide rebrand.
-- **Rebranding Programme (Oct 2025 – Apr 2026; <span class="stat">522 pages</span>):** Delivered UW's company-wide brand refresh across the full uw.co.uk estate — the primary digital entry point for customers and partners, and the critical path: no other team's rebranding work could go live until the main website shipped. Authored automated migration scripts that saved content editors hundreds of manual hours.
+- **Rebranding Programme (Oct 2025 - Apr 2026; <span class="stat">522 pages</span>):** Delivered UW's company-wide brand refresh across the full uw.co.uk estate — the primary digital entry point for customers and partners, and the critical path: no other team's rebranding work could go live until the main website shipped. Authored automated migration scripts that saved content editors hundreds of manual hours.
 - **Platform Reliability & Analytics Ownership:** Operated uw.co.uk against a <span class="stat">99.99% SLO</span> — a single incident in the current year, resolved within hours — with <span class="stat">&lt;3s</span> page loads on critical-path pages. Managing an estate of <span class="stat">522 pages</span>, <span class="stat">3,157 media assets</span>, and <span class="stat">1,300+</span> shortlinks and redirects; supporting <span class="stat">8</span> content teams (<span class="stat">33</span> users) and <span class="stat">15+</span> engineering teams across <span class="stat">six platform services</span> — Contentful, Google Tag Manager, Snowplow, Mixpanel, Optimizely, and OneTrust.
 - **Design Systems (Hearth) — <span class="stat">20 teams</span>:** Led company-wide adoption (15 full, 5 partial), eliminating thousands of hours of duplicated engineering effort — savings at rebrand scale reaching into the hundreds of thousands — and contributed to R&D tax credit claims with audit-ready documentation for external advisors.
 - **CMS Transformation (Apostrophe → Contentful):** Led the end-to-end replacement of an effectively abandoned legacy CMS (no SLA, no SSO, dead tech stack) — a rigorous <span class="stat">2-month</span> evaluation across <span class="stat">10 vendors</span> led to Contentful, a six-figure annual enterprise contract, followed by a zero-disruption dual-serve migration; three marketing teams (<span class="stat">~18 people</span>) gained scheduling and structured content models. The in-house delivery platform the team built (Next.js / React / TypeScript) runs its own GraphQL API over Contentful's content APIs — request bundling, query optimisation, and on-demand content revalidation, a layer above what the vendor provides.
 - **Documentation & Upskilling:** Authored over <span class="stat">100 articles</span> of technical documentation — the most thoroughly documented team at UW — and closed capability gaps (e.g. Kubernetes) through self-directed learning before training the team.
-- **Adaptability Under Constraints (2025–Present):** After restructurings reduced the team to <span class="stat">2 engineers</span>, absorbed Product Manager and on-call responsibilities alongside Engineering Management — sustaining delivery across <span class="stat">6 platform services</span> with full accountability for the uw.co.uk estate, without losing an engineer or breaching the platform SLO.
+- **Adaptability Under Constraints (2025-Present):** After restructurings reduced the team to <span class="stat">2 engineers</span>, absorbed Product Manager and on-call responsibilities alongside Engineering Management — sustaining delivery across <span class="stat">6 platform services</span> with full accountability for the uw.co.uk estate, without losing an engineer or breaching the platform SLO.
 
 <div class="no-pdf" markdown="1">
 
@@ -85,7 +85,7 @@ Jul 2023 – Present · United Kingdom · Remote
 ### Lead Software Engineer
 
 **Utility Warehouse**  
-May 2022 – Jul 2023 (1 yr 3 mos) · United Kingdom · Remote
+May 2022 - Jul 2023 (1 yr 3 mos) · United Kingdom · Remote
 
 - **Team Building from Zero:** Joined as the founding engineer in a standalone team supporting marketing — no department, no processes, no documentation. Started as three — myself, a Product Manager, and an Associate Engineer — and delivered for a full year with a single engineer, whom I line-managed from May 2022: people responsibility <span class="stat">14 months</span> before the title caught up. Grew the team to <span class="stat">five</span> in May 2023 and promoted the founding Associate a month later — a promotion case I prepared and drove while still Lead.
 - **Engineering Rigour from Scratch:** Established a fully operational Scrum environment — structured backlog, measurable velocity, predictable delivery — filling Product Manager gaps when needed, and authored the foundational documentation that grew into the team's <span class="stat">100+</span> article library.
@@ -100,7 +100,7 @@ _For the first year I reported directly to a VP of Engineering — no Head of En
 ### Senior Full Stack Developer & Scrum Master
 
 **IMA-HOME**  
-Jan 2020 – Apr 2022 (2 yrs 4 mos) · Leeds, UK · Hybrid
+Jan 2020 - Apr 2022 (2 yrs 4 mos) · Leeds, UK · Hybrid
 
 Dual-role technical leader for global brands (Adidas, MARS) — architecting frontend solutions while formally holding Scrum Master responsibilities to raise the organisation's delivery standards.
 
@@ -112,16 +112,16 @@ Dual-role technical leader for global brands (Adidas, MARS) — architecting fro
 ### Senior Digital Developer & Scrum Master
 
 **Leeds Building Society** (5th largest UK building society · £31B+ assets)  
-Oct 2018 – Jan 2020 (1 yr 4 mos) · Leeds, UK · Hybrid
+Oct 2018 - Jan 2020 (1 yr 4 mos) · Leeds, UK · Hybrid
 
 Maintained public-facing digital assets for the UK's 5th largest building society — a highly regulated financial services environment — while mentoring teams on code quality and UX standards.
 
-- **Agile Pioneer:** Introduced Agile and Scrum to LBS for the first time — voluntary ways-of-working forums (off-site, cross-functional) that grew championing into a parallel Scrum Master role, then a formal Interim SM appointment (Jun–Oct 2019) to stabilise Digital Transformation alongside external consultants.
+- **Agile Pioneer:** Introduced Agile and Scrum to LBS for the first time — voluntary ways-of-working forums (off-site, cross-functional) that grew championing into a parallel Scrum Master role, then a formal Interim SM appointment (Jun-Oct 2019) to stabilise Digital Transformation alongside external consultants.
 
 ### UX Interface Developer & Scrum Master
 
 **Jadu**  
-Jan 2017 – Oct 2018 (1 yr 10 mos) · Leeds, UK · Hybrid
+Jan 2017 - Oct 2018 (1 yr 10 mos) · Leeds, UK · Hybrid
 
 Designed UIs and developed features for an award-winning CMS used by Local Authorities, Higher Education, and third-sector organisations — with UX, accessibility, and W3C standards as non-negotiables.
 
@@ -133,14 +133,14 @@ Designed UIs and developed features for an award-winning CMS used by Local Autho
 
 ### Early Career, Teaching & Consulting
 
-Oct 2005 – Dec 2016 (11 years)
+Oct 2005 - Dec 2016 (11 years)
 
 Provincial northern Greece — Xanthi, where I grew up; Serres, where I studied: no tech industry to join and, after 2010, barely an economy. I built the career anyway — client by client — and led long before anyone gave me a title for it:
 
-- **Web Development & Freelancing (2005–2015):** Delivered 40+ web projects across Greece and internationally — from local non-profits and bands to a Bitcoin job board for a client in California — managing end-to-end client relationships, professional billing structures, and distributed development teams.
-- **Community & Civic Technology (2008–2014):** Co-founded the Serres Linux Users Group, organised FOSSCOMM 2012 (a 350-person national open-source conference), and managed the digital presence for UNESCO Serres and other civic organisations — a portfolio that predates and directly informs my later UK community work (GDG Leeds, IxDF Leeds, NUX).
-- **Teaching & Mentorship (2006–2012):** Earned a Certified Training Professional (CTP) qualification and spent a year teaching ECDL to adult learners. Privately tutored a student in algorithmic logic, C, and hardware — that student went on into software engineering and is now an Engineering Manager.
-- **UK Agency Work (2015–2016):** Relocated to Leeds — frontend engineering for agencies, building responsive e-commerce for global fashion brands (Vivienne Westwood) and driving performance optimisation.
+- **Web Development & Freelancing (2005-2015):** Delivered 40+ web projects across Greece and internationally — from local non-profits and bands to a Bitcoin job board for a client in California — managing end-to-end client relationships, professional billing structures, and distributed development teams.
+- **Community & Civic Technology (2008-2014):** Co-founded the Serres Linux Users Group, organised FOSSCOMM 2012 (a 350-person national open-source conference), and managed the digital presence for UNESCO Serres and other civic organisations — a portfolio that predates and directly informs my later UK community work (GDG Leeds, IxDF Leeds, NUX).
+- **Teaching & Mentorship (2006-2012):** Earned a Certified Training Professional (CTP) qualification and spent a year teaching ECDL to adult learners. Privately tutored a student in algorithmic logic, C, and hardware — that student went on into software engineering and is now an Engineering Manager.
+- **UK Agency Work (2015-2016):** Relocated to Leeds — frontend engineering for agencies, building responsive e-commerce for global fashion brands (Vivienne Westwood) and driving performance optimisation.
 
 <div class="no-pdf" markdown="1">
 
@@ -153,13 +153,13 @@ _The fuller story: billing ran on 40/40/20 payment terms, with WordPress, Drupal
 <h2 class="icon-book">Education</h2>
 
 **Institution**: International University of Greece - Serres Campus  
-**Degree**: BSc Informatics Engineering (2007–2012) — strong grades in software engineering, programming, and databases. Left without the certificate when the Greek economic crisis hit; the freelance business I was already running became the career.
+**Degree**: BSc Informatics Engineering (2007-2012) — strong grades in software engineering, programming, and databases. Left without the certificate when the Greek economic crisis hit; the freelance business I was already running became the career.
 
 <h2 class="icon-shield">Professional Credentials</h2>
 
 **AI Leader: Generative AI & Agentic AI for Leaders & Founders** · Udemy, Mar 2026  
 **Team Topologies Distilled** · Team Topologies Academy, Oct 2023  
-**Mental Health First Aid Champion** · MHFA England & UK Health Security Agency, 2022–2023  
+**Mental Health First Aid Champion** · MHFA England & UK Health Security Agency, 2022-2023  
 **Professional Scrum Product Owner I (PSPO I)** · Scrum.org, Aug 2021  
 **Professional Scrum Master I (PSM I)** · Scrum.org, Jun 2019
 
@@ -167,8 +167,8 @@ _Full credentials list — Scrum, UX, FinTech, analytics, cloud, accessibility, 
 
 <h2 class="icon-users">Community & Leadership</h2>
 
-**Mentor, WRK digital** _(Feb 2023–Present)_: Mentored engineers who progressed into Engineering Manager roles (both within UW and externally). Peer mentoring network spanning Engineering Managers, Heads of Engineering, VPs, and CTOs.
+**Mentor, WRK digital** _(Feb 2023-Present)_: Mentored engineers who progressed into Engineering Manager roles (both within UW and externally). Peer mentoring network spanning Engineering Managers, Heads of Engineering, VPs, and CTOs.
 
-**Mentor, School of Code** _(Aug 2023–Jan 2024)_: Supported early-career engineers entering the industry.
+**Mentor, School of Code** _(Aug 2023-Jan 2024)_: Supported early-career engineers entering the industry.
 
-**Lead Organiser, Google Developers Group Leeds** _(Jan 2019–Mar 2020)_: Revived an inactive GDG chapter; organised conferences, workshops, and technical meetups.
+**Lead Organiser, Google Developers Group Leeds** _(Jan 2019-Mar 2020)_: Revived an inactive GDG chapter; organised conferences, workshops, and technical meetups.

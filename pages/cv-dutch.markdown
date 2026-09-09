@@ -58,17 +58,17 @@ Based in Leeds, UK. Greek (EU) citizen — full right to work in the Netherlands
 ### Software Engineering Manager
 
 **Utility Warehouse** (Telecom Plus PLC · FTSE 250 — multi-service provider of energy, broadband, mobile & insurance)  
-Jul 2023 – Present · United Kingdom · Remote
+Jul 2023 - Present · United Kingdom · Remote
 
 - **Team & retention:** Grew to <span class="stat">8 technical reports across three teams</span> with separate backlogs — web/CMS/tracking, mobile, and design systems — alongside a Product Manager. Everyone who wanted to stay, stayed — <span class="stat">100% retention</span> through three reorganisations across three departments in <span class="stat">25 months</span>; all reductions were organisational, zero voluntary attrition. Involved in hiring <span class="stat">2</span> external engineers and <span class="stat">4</span> internal transfers.
 - **Growing people, measurably:** Supported <span class="stat">3 promotions</span> (Associate → Mid, Mid → Senior) with evidence-based cases informed by DORA metrics and monthly Peakon Heartbeat surveys — acting on the signals, not just collecting them. Developed talent other teams had passed over. Several engineers I mentored have since moved into Engineering Manager roles, both inside and outside the company.
 - **Navigating restructurings:** Took responsibility for scoping team migrations — mapping scope, aligning stakeholders, and building consensus for where the team should sit. Nobody asked me to do this; it needed doing. Negotiated skill inbound — a Senior Engineer with mobile expertise — when a mobile backlog was added, rather than stretching the existing team thin; advocated successfully for keeping the Design Systems team when a restructuring would have dissolved it — the team that later enabled the company-wide rebrand.
 - **Documentation & upskilling:** Wrote over <span class="stat">100 articles</span> of technical documentation for a team that inherited an undocumented legacy CMS. When the team needed Kubernetes knowledge, I learned it first, then trained the team and documented it. Engineers own RFCs and present at cross-team forums.
-- **Rebranding programme (Oct 2025 – Apr 2026):** The team delivered UW's brand refresh across <span class="stat">522 pages</span> of the uw.co.uk estate — the critical path: other teams' rebranding couldn't go live until we shipped. Automated migration scripts saved content editors hundreds of manual hours.
+- **Rebranding programme (Oct 2025 - Apr 2026):** The team delivered UW's brand refresh across <span class="stat">522 pages</span> of the uw.co.uk estate — the critical path: other teams' rebranding couldn't go live until we shipped. Automated migration scripts saved content editors hundreds of manual hours.
 - **Platform reliability:** uw.co.uk operated against a <span class="stat">99.99% SLO</span> — a single incident in the current year, resolved within hours — with <span class="stat">&lt;3s</span> page load on critical pages. The estate: <span class="stat">522 pages</span>, <span class="stat">3,157 media assets</span>, <span class="stat">1,090 shortlinks</span>, <span class="stat">218 redirects</span>. Supporting <span class="stat">8</span> content teams (<span class="stat">33</span> users) and <span class="stat">15+</span> engineering teams across six platform services: Contentful CMS, Google Tag Manager, Snowplow, Mixpanel, Optimizely, OneTrust.
 - **Design Systems (Hearth):** The Hearth Design System reached <span class="stat">20</span> engineering and product teams (15 full adoption, 5 partial), removing thousands of hours of duplicated work across the organisation. Contributed to R&D tax credit claims with audit-ready documentation.
 - **CMS migration (Apostrophe → Contentful):** Replaced a legacy CMS that had no SLA, no SSO, and a dead tech stack. A <span class="stat">2-month</span> evaluation across <span class="stat">10 vendors</span> led to Contentful — a six-figure annual enterprise contract, chosen for enterprise-grade SLAs and support. Zero-disruption migration; three marketing teams (<span class="stat">~18 people</span>) gained structured content models and scheduling. The in-house delivery platform (Next.js / React / TypeScript) runs its own GraphQL API over Contentful's content APIs — request bundling, query optimisation, and on-demand content revalidation, a layer above what the vendor provides.
-- **Working with constraints (2025–present):** After restructurings reduced the team to <span class="stat">2 engineers</span>, I absorbed Product Manager and on-call responsibilities alongside my management role. The team continued to deliver across <span class="stat">6 platform services</span> without breaching the platform SLO, with full accountability for the uw.co.uk estate.
+- **Working with constraints (2025-present):** After restructurings reduced the team to <span class="stat">2 engineers</span>, I absorbed Product Manager and on-call responsibilities alongside my management role. The team continued to deliver across <span class="stat">6 platform services</span> without breaching the platform SLO, with full accountability for the uw.co.uk estate.
 
 <div class="no-pdf" markdown="1">
 
@@ -80,7 +80,7 @@ Jul 2023 – Present · United Kingdom · Remote
 ### Lead Software Engineer
 
 **Utility Warehouse** (Telecom Plus PLC · FTSE 250 — multi-service provider of energy, broadband, mobile & insurance)  
-May 2022 – Jul 2023 · United Kingdom · Remote
+May 2022 - Jul 2023 · United Kingdom · Remote
 
 Joined as the founding engineer in a standalone team supporting marketing — no department, no precedent, no documentation.
 
@@ -91,7 +91,7 @@ Joined as the founding engineer in a standalone team supporting marketing — no
 ### Senior Full Stack Developer & Scrum Master
 
 **IMA-HOME**  
-Jan 2020 – Apr 2022 · Leeds, UK · Hybrid
+Jan 2020 - Apr 2022 · Leeds, UK · Hybrid
 
 Combined frontend architecture with Scrum Master responsibilities for global clients (Adidas, MARS).
 
@@ -101,16 +101,16 @@ Combined frontend architecture with Scrum Master responsibilities for global cli
 ### Senior Digital Developer & Scrum Master
 
 **Leeds Building Society** (5th largest UK building society · £31B+ assets)  
-Oct 2018 – Jan 2020 · Leeds, UK · Hybrid
+Oct 2018 - Jan 2020 · Leeds, UK · Hybrid
 
 Maintained public-facing digital assets for the UK's 5th largest building society — a regulated financial services environment — while mentoring teams on code quality and UX standards.
 
-- Introduced Agile and Scrum to LBS for the first time — voluntary ways-of-working forums that grew championing into a parallel Scrum Master role, then a formal Interim SM appointment (Jun–Oct 2019) to stabilise Digital Transformation alongside external consultants.
+- Introduced Agile and Scrum to LBS for the first time — voluntary ways-of-working forums that grew championing into a parallel Scrum Master role, then a formal Interim SM appointment (Jun-Oct 2019) to stabilise Digital Transformation alongside external consultants.
 
 ### UX Interface Developer & Scrum Master
 
 **Jadu**  
-Jan 2017 – Oct 2018 · Leeds, UK · Hybrid
+Jan 2017 - Oct 2018 · Leeds, UK · Hybrid
 
 Designed UIs and developed features for an award-winning CMS used by UK Local Authorities, universities, and third-sector organisations. Strict focus on accessibility and W3C standards.
 
@@ -120,33 +120,33 @@ Designed UIs and developed features for an award-winning CMS used by UK Local Au
 
 ### Early Career, Teaching & Community
 
-Oct 2005 – Dec 2016 (11 years)
+Oct 2005 - Dec 2016 (11 years)
 
 Provincial northern Greece — Xanthi, where I grew up; Serres, where I studied: no tech industry and, after 2010, barely an economy. I built the career anyway, and led long before I had a title for it.
 
-- **Web development & freelancing (2005–2015):** Delivered 40+ web projects across Greece and internationally — from local non-profits to a Bitcoin job board for a client in California. Managed client relationships, billing (40/40/20 payment terms), and coordinated with distributed teams.
-- **Teaching & mentorship (2006–2012):** Earned a Certified Training Professional qualification. Taught ECDL to adult learners for a year. Privately tutored a student in programming and hardware — that student went on to earn a BSc and MSc in Manchester and is now an Engineering Manager.
-- **Community & civic technology (2008–2014):** Co-founded the Serres Linux Users Group, organised FOSSCOMM 2012 (a 350-person national open-source conference), and managed digital presence for UNESCO Serres, the local Natural History Museum, and community organisations. This work directly shaped my later community involvement in the UK.
-- **UK agency work (2015–2016):** Relocated to Leeds. Built responsive e-commerce for global brands (Vivienne Westwood) and focused on frontend performance.
+- **Web development & freelancing (2005-2015):** Delivered 40+ web projects across Greece and internationally — from local non-profits to a Bitcoin job board for a client in California. Managed client relationships, billing (40/40/20 payment terms), and coordinated with distributed teams.
+- **Teaching & mentorship (2006-2012):** Earned a Certified Training Professional qualification. Taught ECDL to adult learners for a year. Privately tutored a student in programming and hardware — that student went on to earn a BSc and MSc in Manchester and is now an Engineering Manager.
+- **Community & civic technology (2008-2014):** Co-founded the Serres Linux Users Group, organised FOSSCOMM 2012 (a 350-person national open-source conference), and managed digital presence for UNESCO Serres, the local Natural History Museum, and community organisations. This work directly shaped my later community involvement in the UK.
+- **UK agency work (2015-2016):** Relocated to Leeds. Built responsive e-commerce for global brands (Vivienne Westwood) and focused on frontend performance.
 
 <h2 class="icon-users">Community & Volunteering</h2>
 
-**Mentor, WRK digital** _(Feb 2023–Present)_: Mentoring engineers who have gone on to become Engineering Managers. Part of a peer network spanning EMs, Heads of Engineering, VPs, and CTOs.
+**Mentor, WRK digital** _(Feb 2023-Present)_: Mentoring engineers who have gone on to become Engineering Managers. Part of a peer network spanning EMs, Heads of Engineering, VPs, and CTOs.
 
-**Mentor, School of Code** _(Aug 2023–Jan 2024)_: Supported people entering the industry through their first engineering roles.
+**Mentor, School of Code** _(Aug 2023-Jan 2024)_: Supported people entering the industry through their first engineering roles.
 
-**Lead Organiser, Google Developers Group Leeds** _(Jan 2019–Mar 2020)_: Revived an inactive chapter; organised conferences, workshops, and meetups.
+**Lead Organiser, Google Developers Group Leeds** _(Jan 2019-Mar 2020)_: Revived an inactive chapter; organised conferences, workshops, and meetups.
 
 <h2 class="icon-book">Education</h2>
 
 **International University of Greece — Serres Campus**  
-BSc Informatics Engineering (2007–2012) — strong grades in software engineering, programming, and databases. Left without the certificate when the Greek economic crisis hit; the freelance business I was already running became the career.
+BSc Informatics Engineering (2007-2012) — strong grades in software engineering, programming, and databases. Left without the certificate when the Greek economic crisis hit; the freelance business I was already running became the career.
 
 <h2 class="icon-shield">Credentials</h2>
 
 **AI Leader: Generative AI & Agentic AI for Leaders & Founders** · Udemy, Mar 2026  
 **Team Topologies Distilled** · Team Topologies Academy, Oct 2023  
-**Mental Health First Aid Champion** · MHFA England & UK Health Security Agency, 2022–2023  
+**Mental Health First Aid Champion** · MHFA England & UK Health Security Agency, 2022-2023  
 **Professional Scrum Product Owner I (PSPO I)** · Scrum.org, Aug 2021  
 **Professional Scrum Master I (PSM I)** · Scrum.org, Jun 2019
 
