@@ -62,7 +62,7 @@
 
   <!-- Horizontal services band -->
   <rect x="60" y="380" width="760" height="46" rx="6" fill="#eaf1ec" stroke="#1d6340" stroke-width="1.5"/>
-  <text x="440" y="408" text-anchor="middle" class="band">Platform services — consumed by every vertical, and fifteen-plus teams beyond</text>
+  <text x="440" y="408" text-anchor="middle" class="band">Platform services - consumed by every vertical, and fifteen-plus teams beyond</text>
   <line x1="58" y1="403" x2="32" y2="403" stroke="#1d6340" stroke-width="2.5" marker-end="url(#fhse-arrow)"/>
   <line x1="822" y1="403" x2="848" y2="403" stroke="#1d6340" stroke-width="2.5" marker-end="url(#fhse-arrow)"/>
 </svg>

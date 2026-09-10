@@ -22,7 +22,7 @@ title: Nikos Vasileiadis / Software Engineering Leader
 email: vasileiadis.nikos@gmail.com
 locale: en_GB
 description: >- # this means to ignore newlines until "baseurl:"
-  Software engineering leader with 20+ years in technology and 9 in leadership. I build the thing that isn't there — teams, platforms, documentation cultures, whole capabilities. Open to Senior Engineering Manager and Head of Engineering roles — UK, and remote with Dutch or Irish organisations.
+  Software engineering leader with 20+ years in technology and 9 in leadership. I build the thing that isn't there - teams, platforms, documentation cultures, whole capabilities. Open to Senior Engineering Manager and Head of Engineering roles - UK, and remote with Dutch or Irish organisations.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nvasileiadis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: nvasileiadis
@@ -59,7 +59,7 @@ jekyll-minifier:
   remove_multi_spaces: true
   remove_comments: true
   remove_intertag_spaces: false
-  remove_quotes: false          # keep quotes — safer for structured data / SEO tags
+  remove_quotes: false          # keep quotes - safer for structured data / SEO tags
   compress_css: false            # Sass already outputs compressed CSS
   compress_javascript: true
   simple_doctype: false
@@ -67,7 +67,7 @@ jekyll-minifier:
   remove_style_attributes: false
 
 # SEO / Social Sharing
-# 1200x630 card (1.91:1) — square headshots get cropped by LinkedIn/Slack previews
+# 1200x630 card (1.91:1) - square headshots get cropped by LinkedIn/Slack previews
 image: /assets/social-card.jpg
 
 defaults:
@@ -77,7 +77,7 @@ defaults:
       image: /assets/social-card.jpg
 
 # Analytics
-# Umami Cloud (cookieless — no consent banner required); script tag lives in _includes/head-custom.html
+# Umami Cloud (cookieless - no consent banner required); script tag lives in _includes/head-custom.html
 
 # Sass configuration
 sass:

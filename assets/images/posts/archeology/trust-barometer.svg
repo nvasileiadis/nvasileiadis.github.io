@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 470" role="img" aria-labelledby="tb-title tb-desc">
-  <title id="tb-title">The trust barometer: documentation richness tracks team trust — and the AI wrinkle</title>
-  <desc id="tb-desc">Documentation stacks grow along an axis of team trust. At zero trust, a single dashed empty outline: what I know is my security, nothing gets written. At low trust, a thin stack: grudging, incomplete, written for the checkbox. At high trust, a tall stack given willingly, including gold sheets — the confessions: mistakes admitted, traps named. Separated by a dashed divider, an AI-generated stack just as tall as the high-trust one, drawn in dashed outline: tall and complete, but no longer a signal of trust.</desc>
+  <title id="tb-title">The trust barometer: documentation richness tracks team trust - and the AI wrinkle</title>
+  <desc id="tb-desc">Documentation stacks grow along an axis of team trust. At zero trust, a single dashed empty outline: what I know is my security, nothing gets written. At low trust, a thin stack: grudging, incomplete, written for the checkbox. At high trust, a tall stack given willingly, including gold sheets - the confessions: mistakes admitted, traps named. Separated by a dashed divider, an AI-generated stack just as tall as the high-trust one, drawn in dashed outline: tall and complete, but no longer a signal of trust.</desc>
   <style>
     .lvl { font: 600 12px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: 1.5px; fill: #595959; }
     .d { font: italic 400 12px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #595959; }
@@ -17,14 +17,14 @@
   <rect x="70" y="322" width="120" height="16" rx="3" fill="none" stroke="#b0b0aa" stroke-width="1.5" stroke-dasharray="4 3"/>
   <text x="130" y="378" text-anchor="middle" class="lvl">ZERO TRUST</text>
   <text x="130" y="398" text-anchor="middle" class="d">“what I know is my security”</text>
-  <text x="130" y="414" text-anchor="middle" class="d">— nothing gets written</text>
+  <text x="130" y="414" text-anchor="middle" class="d">- nothing gets written</text>
 
   <!-- Low trust -->
   <rect x="275" y="322" width="120" height="16" rx="3" fill="#f3f4f0" stroke="#c9c9c2" stroke-width="1.5"/>
   <rect x="272" y="311" width="120" height="16" rx="3" fill="#f3f4f0" stroke="#c9c9c2" stroke-width="1.5"/>
   <rect x="277" y="300" width="120" height="16" rx="3" fill="#f3f4f0" stroke="#c9c9c2" stroke-width="1.5"/>
   <text x="335" y="378" text-anchor="middle" class="lvl">LOW TRUST</text>
-  <text x="335" y="398" text-anchor="middle" class="d">grudging, incomplete —</text>
+  <text x="335" y="398" text-anchor="middle" class="d">grudging, incomplete -</text>
   <text x="335" y="414" text-anchor="middle" class="d">written for the checkbox</text>
 
   <!-- High trust -->
@@ -37,7 +37,7 @@
   <rect x="471" y="256" width="120" height="16" rx="3" fill="#eaf1ec" stroke="#1d6340" stroke-width="1.5"/>
   <rect x="470" y="245" width="120" height="16" rx="3" fill="#eaf1ec" stroke="#1d6340" stroke-width="1.5"/>
   <text x="530" y="378" text-anchor="middle" class="lvl">HIGH TRUST</text>
-  <text x="530" y="398" text-anchor="middle" class="d">given willingly — mistakes</text>
+  <text x="530" y="398" text-anchor="middle" class="d">given willingly - mistakes</text>
   <text x="530" y="414" text-anchor="middle" class="d">admitted, traps named</text>
   <text x="530" y="434" text-anchor="middle" class="gold">(gold sheets: the confessions)</text>
 
@@ -56,6 +56,6 @@
   <rect x="711" y="256" width="120" height="16" rx="3" fill="#ffffff" stroke="#9a9a94" stroke-width="1.5" stroke-dasharray="4 3"/>
   <rect x="710" y="245" width="120" height="16" rx="3" fill="#ffffff" stroke="#9a9a94" stroke-width="1.5" stroke-dasharray="4 3"/>
   <text x="770" y="378" text-anchor="middle" class="lvl">AI-GENERATED</text>
-  <text x="770" y="398" text-anchor="middle" class="d">tall and complete —</text>
+  <text x="770" y="398" text-anchor="middle" class="d">tall and complete -</text>
   <text x="770" y="414" text-anchor="middle" class="d">no longer a signal</text>
 </svg>

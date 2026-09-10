@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 480" role="img" aria-labelledby="td-title td-desc">
   <title id="td-title">The same decision, drawn twice: org chart versus dependency map</title>
-  <desc id="td-desc">Left, the plan as drawn: an org chart where the design systems box, outlined in dashed gold, is folded into the neighbouring team box — one less box, reads as housekeeping. Right, the same plan as dependencies: the design system as a green hub with edges radiating to twenty-plus consuming teams, and a dashed gold cut across the hub — delete this box, and every edge becomes duplicated, divergent work.</desc>
+  <desc id="td-desc">Left, the plan as drawn: an org chart where the design systems box, outlined in dashed gold, is folded into the neighbouring team box - one less box, reads as housekeeping. Right, the same plan as dependencies: the design system as a green hub with edges radiating to twenty-plus consuming teams, and a dashed gold cut across the hub - delete this box, and every edge becomes duplicated, divergent work.</desc>
   <defs>
     <marker id="td-arrow-gold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
       <path d="M0,0 L10,5 L0,10 z" fill="#b8870b"/>

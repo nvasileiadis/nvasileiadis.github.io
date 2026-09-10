@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 390" role="img" aria-labelledby="sa-title sa-desc">
   <title id="sa-title">Three absorptions the team never invoices</title>
-  <desc id="sa-desc">Three columns of invisible managerial load. Left: workload absorption — EM, PM, and on-call stacked on one person. Centre: threat knowledge — dissolution plans and political spends the defended team never hears. Right: composition labour — pairing and ownership maps the team experiences only as good fit.</desc>
+  <desc id="sa-desc">Three columns of invisible managerial load. Left: workload absorption - EM, PM, and on-call stacked on one person. Centre: threat knowledge - dissolution plans and political spends the defended team never hears. Right: composition labour - pairing and ownership maps the team experiences only as good fit.</desc>
   <style>
     .ht { font: 600 12px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: 1.2px; fill: #ffffff; }
     .row { font: 400 12.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #3a3a3a; }
@@ -47,5 +47,5 @@
   <text x="610" y="254" class="sub">Never on a dashboard.</text>
   <text x="610" y="292" class="sub">The team feels fit.</text>
 
-  <text x="440" y="360" text-anchor="middle" class="foot">three absorptions — one bill the manager pays alone</text>
+  <text x="440" y="360" text-anchor="middle" class="foot">three absorptions - one bill the manager pays alone</text>
 </svg>

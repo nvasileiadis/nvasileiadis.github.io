@@ -13,7 +13,7 @@ trap cleanup EXIT
 # The CV markdown is written for Jekyll, whose kramdown renderer understands the
 # icon classes on the section headings and the web-only download bar. Neither
 # md-to-pdf (marked) nor pandoc does, so they are normalised to plain markdown
-# before conversion — otherwise the classes surface as visible text in the PDF
+# before conversion - otherwise the classes surface as visible text in the PDF
 # and the headings lose their Heading2 style in the DOCX.
 prepare_source() {
   local source="$1"

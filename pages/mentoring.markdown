@@ -1,23 +1,23 @@
 ---
 layout: page
-title: Mentoring — Nikos Vasileiadis | Engineering Leadership
+title: Mentoring - Nikos Vasileiadis | Engineering Leadership
 nav_title: Mentoring
 permalink: /mentoring/
-description: "Free peer-learning mentoring for engineers stepping into management and engineering managers who want to grow — by Nikos Vasileiadis, Software Engineering Leader based in Leeds, UK. Two positions, opened deliberately."
+description: "Free peer-learning mentoring for engineers stepping into management and engineering managers who want to grow - by Nikos Vasileiadis, Software Engineering Leader based in Leeds, UK. Two positions, opened deliberately."
 ---
 
-I've been mentoring people since before it was part of any job title — from teaching adults their first computer skills in Greece, to developing engineers who've gone on to lead teams of their own. The earliest of them was a school student I tutored in programming while I was still at university myself; today, he's an engineering manager. It's the part of leadership I'd do even if nobody was watching.
+I've been mentoring people since before it was part of any job title - from teaching adults their first computer skills in Greece, to developing engineers who've gone on to lead teams of their own. The earliest of them was a school student I tutored in programming while I was still at university myself; today, he's an engineering manager. It's the part of leadership I'd do even if nobody was watching.
 
 ## Who this is for
 {: .icon-compass}
 
 I mentor people who are serious about the people side of engineering:
 
-- **Engineers considering the move into management** — you're weighing the transition, or you've just made it and the ground feels unfamiliar.
-- **Engineering Managers who want to grow** — you're in the role and want to sharpen your practice: team health, delivery, difficult conversations, organisational design.
-- **Peers** — leaders at a similar stage to mine who want structured peer learning. Some of the best conversations I've had are with people who could just as easily be mentoring me.
+- **Engineers considering the move into management** - you're weighing the transition, or you've just made it and the ground feels unfamiliar.
+- **Engineering Managers who want to grow** - you're in the role and want to sharpen your practice: team health, delivery, difficult conversations, organisational design.
+- **Peers** - leaders at a similar stage to mine who want structured peer learning. Some of the best conversations I've had are with people who could just as easily be mentoring me.
 
-If you're looking for interview prep, CV reviews, referral pipeline or to hire your engineers — unfortunately that's not what this is for.
+If you're looking for interview prep, CV reviews, referral pipeline or to hire your engineers - unfortunately that's not what this is for.
 
 ## How it works
 {: .icon-briefcase}
@@ -41,7 +41,7 @@ When a position opens, I'll state the availability here and you can simply email
 
 **Both positions are currently unavailable.**
 
-Want to hear when a position opens? [Email me](mailto:vasileiadis.nikos@gmail.com?subject=Mentoring%20—%20keep%20me%20posted) with a couple of lines about who you are and what you'd want from mentoring, and I'll let you know when availability comes up.
+Want to hear when a position opens? [Email me](mailto:vasileiadis.nikos@gmail.com?subject=Mentoring%20-%20keep%20me%20posted) with a couple of lines about who you are and what you'd want from mentoring, and I'll let you know when availability comes up.
 
 ## What I ask of you
 

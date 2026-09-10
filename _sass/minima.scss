@@ -458,7 +458,7 @@ $on-laptop: 800px !default;
   }
 }
 
-// Primary: filled brand-green button (PDF — the recruiter's default)
+// Primary: filled brand-green button (PDF - the recruiter's default)
 .cv-download-btn--primary {
   background-color: $brand-color;
   color: #ffffff;
@@ -475,7 +475,7 @@ $on-laptop: 800px !default;
   }
 }
 
-// Secondary: outlined button (DOCX — secondary option)
+// Secondary: outlined button (DOCX - secondary option)
 .cv-download-btn--secondary {
   background-color: #ffffff;
   color: $brand-color;
@@ -493,7 +493,7 @@ $on-laptop: 800px !default;
 }
 
 // Credential groups: collapsible <details> elements for progressive disclosure.
-// Quieter sibling of the leadership-card — same palette, reduced intensity.
+// Quieter sibling of the leadership-card - same palette, reduced intensity.
 .credential-group {
   margin-top: $spacing-unit / 4;
   margin-bottom: $spacing-unit / 4;
@@ -519,7 +519,7 @@ $on-laptop: 800px !default;
     }
 
     // Disclosure chevron: sized and coloured to read as an interactive
-    // affordance, not decoration — a faint marker makes the row look like a
+    // affordance, not decoration - a faint marker makes the row look like a
     // static highlight instead of something that expands.
     &::before {
       content: "▸";
@@ -850,7 +850,7 @@ $on-laptop: 800px !default;
 }
 
 // ---------------------------------------------------------------------------
-// Blog reading surface — posts and /blog/ only (body.layout-reading).
+// Blog reading surface - posts and /blog/ only (body.layout-reading).
 // Keeps the site grid as atmosphere around a white reading panel.
 // ---------------------------------------------------------------------------
 body.layout-reading {
