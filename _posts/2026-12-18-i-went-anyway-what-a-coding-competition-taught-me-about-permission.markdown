@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I Went Anyway: What a Coding Competition Taught Me About Permission"
+image: /assets/social-cards/i-went-anyway.jpg
 date: 2026-12-18 07:00:00 +0000
 categories: leadership
 description: "I pitched a community event to my employer and got laughed out of the room. A year later they sent their own developers - and found me already there, wearing a different company's name. A story about permission, portable reputation, and the cheapest yes in engineering leadership."

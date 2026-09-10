@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "What It Costs to Be the Shock Absorber"
+image: /assets/social-cards/shock-absorber.jpg
 date: 2026-09-25 10:00:00 +0000
 categories: leadership
 description: "Holding ground for a team has a price the manager pays - in workload, in threat knowledge the team never hears, and in composition work nobody sees. Plan recovery, or the practice is unsustainable theatre."

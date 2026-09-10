@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Shipping the Critical Path With a Nuclear Team"
+image: /assets/social-cards/nuclear-team.jpg
 date: 2026-09-18 10:00:00 +0000
 categories: leadership
 description: "A company-wide rebrand, 522 pages, every product team's launch gated behind ours - and a team of three. On why context density beats headcount on hard deadlines, and the operating rules that keep a tiny team from melting down while it ships."

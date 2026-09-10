@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ten Vendors, One Contract: Vendor Evaluation as Engineering Leadership"
+image: /assets/social-cards/ten-vendors.jpg
 date: 2026-08-24 10:00:00 +0000
 categories: leadership
 description: "Choosing enterprise software looks like a spreadsheet exercise. It's organisational design under uncertainty - a practitioner's method from a ten-vendor evaluation: criteria before demos, decision records that outlive the contract, and borrowing negotiating weight you don't have."
