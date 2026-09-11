@@ -2,6 +2,13 @@
 layout: default
 ---
 
+{%- assign paginator = page.paginator -%}
+{%- if paginator -%}
+  {%- assign listed_posts = paginator.posts -%}
+{%- else -%}
+  {%- assign listed_posts = site.posts -%}
+{%- endif -%}
+
 <div class="home reading-panel">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.nav_title | default: page.title | escape }}</h1>
@@ -9,9 +16,9 @@ layout: default
 
   {{ content }}
 
-  {%- if site.posts.size > 0 -%}
+  {%- if listed_posts.size > 0 -%}
     <ul class="post-list">
-      {%- for post in site.posts -%}
+      {%- for post in listed_posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -29,6 +36,41 @@ layout: default
       </li>
       {%- endfor -%}
     </ul>
+  {%- endif -%}
+
+  {%- if paginator and paginator.total_pages > 1 -%}
+    <nav class="post-pagination" aria-label="Blog pages">
+      {%- if paginator.previous_page -%}
+        <a class="post-pagination-link" rel="prev" href="{{ paginator.previous_page_path | relative_url }}">
+          <span aria-hidden="true">&larr;</span> Newer posts
+        </a>
+      {%- else -%}
+        <span class="post-pagination-link is-disabled" aria-hidden="true"><span>&larr;</span> Newer posts</span>
+      {%- endif -%}
+
+      <ol class="post-pagination-numbers">
+        {%- for entry in paginator.page_paths -%}
+          {%- assign num = forloop.index -%}
+          <li>
+            {%- if num == paginator.page -%}
+              <span class="post-pagination-number is-current" aria-current="page">{{ num }}</span>
+            {%- else -%}
+              <a class="post-pagination-number" href="{{ entry | relative_url }}" aria-label="Page {{ num }}">{{ num }}</a>
+            {%- endif -%}
+          </li>
+        {%- endfor -%}
+      </ol>
+
+      <span class="post-pagination-status">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+      {%- if paginator.next_page -%}
+        <a class="post-pagination-link" rel="next" href="{{ paginator.next_page_path | relative_url }}">
+          Older posts <span aria-hidden="true">&rarr;</span>
+        </a>
+      {%- else -%}
+        <span class="post-pagination-link is-disabled" aria-hidden="true">Older posts <span>&rarr;</span></span>
+      {%- endif -%}
+    </nav>
   {%- endif -%}
 
 </div>

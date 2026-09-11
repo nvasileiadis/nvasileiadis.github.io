@@ -22,6 +22,23 @@ bundle exec jekyll build
 
 This command generates the static files in the `_site` directory.
 
+## Blog pagination
+
+`/blog/` lists four posts per page. Pagination is handled by
+`_plugins/paginate_pages.rb`, a small generator with no gem dependency - page 1
+stays at `/blog/`, pages 2..n are generated at `/blog/page/2/` and so on.
+
+Change the page size (or paginate another listing page) from front matter:
+
+```yaml
+paginate: 4
+paginate_path: /blog/page/:num/
+paginate_title: "Blog (page :num) - Nikos Vasileiadis | Engineering Leadership"
+```
+
+Generated pages stay indexable but are kept out of `sitemap.xml`, since every
+post they link to is already listed there under its own URL.
+
 ## Generating PDF and DOCX formatting for CV
 
 To automatically generate the PDF and DOCX versions of the CV from the `cv.markdown` file, use the provided generation script:

@@ -1034,12 +1034,94 @@ body.layout-reading {
     transition: transform 0.15s ease;
   }
 
+  // Archive pagination. Three slots - newer / numbers / older - so the number
+  // strip stays centred even when one of the arrows is absent.
+  .post-pagination {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: $spacing-unit * 0.4;
+    margin-top: $spacing-unit * 1.1;
+    font-size: $small-font-size;
+  }
+
+  .post-pagination-link {
+    color: $brand-color;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    text-decoration: none;
+    white-space: nowrap;
+
+    &:hover {
+      text-decoration: underline;
+    }
+
+    // Kept in the flow rather than removed, so the numbers do not shift
+    // between the first, middle and last page.
+    &.is-disabled {
+      color: $grey-color-light;
+      pointer-events: none;
+    }
+  }
+
+  .post-pagination-numbers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.2em;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    > li {
+      margin: 0;
+    }
+  }
+
+  .post-pagination-number {
+    display: block;
+    min-width: 2em;
+    padding: 0.3em 0.4em;
+    border-radius: 2px;
+    color: $grey-color;
+    line-height: 1.2;
+    text-align: center;
+    text-decoration: none;
+
+    &:hover {
+      color: $brand-color;
+      background-color: rgba(29, 99, 64, 0.07);
+    }
+
+    &.is-current {
+      color: #ffffff;
+      background-color: $brand-color;
+      font-weight: 600;
+    }
+  }
+
+  // Swapped in for the number strip on small screens - see the palm block.
+  .post-pagination-status {
+    display: none;
+    color: $grey-color;
+  }
+
   @include media-query($on-palm) {
     .reading-panel {
       padding: $spacing-unit $spacing-unit * 0.75;
       border-radius: 0;
       border-left: none;
       border-right: none;
+    }
+
+    // A growing archive would eventually overflow a phone, so trade the
+    // numbers for a plain position indicator.
+    .post-pagination-numbers {
+      display: none;
+    }
+
+    .post-pagination-status {
+      display: block;
     }
 
     .page-content > .wrapper {
