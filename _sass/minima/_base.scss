@@ -115,9 +115,12 @@ a {
   color: $brand-color;
   text-decoration: none;
 
-  &:visited {
-    color: darken($brand-color, 15%);
-  }
+  // No global :visited override. darken($brand-color, 15%) compiled to
+  // #0c281a, which sits at 1.11:1 against body text - visited links went
+  // invisible - and it leaked past .post-link and .explore-card, both of which
+  // set their colour with a single class and so lose to a:visited. Prose links
+  // get their own visited shade in minima.scss; everywhere else visited and
+  // unvisited links are intentionally identical.
 
   &:hover {
     color: $text-color;

@@ -21,6 +21,12 @@ $accent-color: #b8870b !default;
 // this darker shade to meet WCAG AA (4.5:1). Keep the brighter gold for
 // decorative rules and borders only.
 $accent-color-text: #8f6a08 !default;
+// Visited state for links in running prose. The brand green has to be lifted
+// and desaturated rather than darkened: a darker green closes on the body text
+// colour instead of separating from it. This shade holds 4.9:1 against the page
+// background (WCAG AA) and 3.3:1 against the prose text colour (#1a1a1a), so a
+// visited link still reads as a link in the middle of a sentence.
+$prose-link-visited: #3b785a !default;
 
 $grey-color: #595959 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
@@ -850,6 +856,51 @@ $on-laptop: 800px !default;
 }
 
 // ---------------------------------------------------------------------------
+// Prose links
+// ---------------------------------------------------------------------------
+// Colour alone cannot carry a link in running text here: $brand-color reaches
+// only 2.4:1 against the prose text colour, short of the 3:1 WCAG 1.4.1 asks
+// for when nothing but colour separates a link from the sentence around it.
+// So in-copy links are underlined, which also gives them a visible hit area
+// on touch - an unmarked link is an untappable one.
+//
+// Scope: every component link inside a .post-content / .home wrapper carries a
+// class (.explore-card, .cv-download-btn, .error-link, .post-link,
+// .post-pagination-*), while markdown-authored prose links never do.
+// :not([class]) is that dividing line - give an anchor a class to opt it out.
+.post-content,
+.home {
+  a:not([class]) {
+    color: $brand-color;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-skip-ink: auto;
+    text-underline-offset: 0.16em;
+    transition: color 0.15s ease;
+
+    &:visited {
+      color: $prose-link-visited;
+    }
+
+    // The global a:hover turns links the colour of body text, which is exactly
+    // backwards for an in-copy link. Go to the text-safe gold instead and
+    // thicken the rule, so the cue strengthens on hover rather than dissolving.
+    &:hover {
+      color: $accent-color-text;
+      text-decoration-thickness: 2px;
+    }
+
+    &:focus-visible {
+      outline: 2px solid $accent-color-text;
+      outline-offset: 3px;
+      border-radius: 2px;
+      text-decoration-thickness: 2px;
+    }
+  }
+}
+
+
+// ---------------------------------------------------------------------------
 // Blog reading surface - posts and /blog/ only (body.layout-reading).
 // Keeps the site grid as atmosphere around a white reading panel.
 // ---------------------------------------------------------------------------
@@ -938,12 +989,26 @@ body.layout-reading {
     border-top: 1px solid $grey-color-light;
     font-size: $small-font-size;
 
+    // A standalone back-link, not inline prose, so it gets a real hit area
+    // rather than the bare height of 14px text.
     a {
-      color: $grey-color;
-      text-decoration: none;
+      display: inline-block;
+      padding: 10px 2px;
+      margin: -10px -2px;
+      color: $brand-color;
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 0.16em;
 
       &:hover {
-        color: $brand-color;
+        color: $accent-color-text;
+        text-decoration-thickness: 2px;
+      }
+
+      &:focus-visible {
+        outline: 2px solid $accent-color-text;
+        outline-offset: 0;
+        border-radius: 2px;
       }
     }
   }
