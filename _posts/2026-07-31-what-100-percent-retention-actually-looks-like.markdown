@@ -29,7 +29,7 @@ To make the practices concrete, you need the shape of what we went through.
 
 **The third was the brutal one.** We were moved under a customer-facing pillar and our scope roughly quadrupled overnight - services and systems that had been abandoned before my tenure, some of which hadn't worked in years, suddenly became ours, while the work we were actually specialists in was pushed down the priority list (at one point the plan was for us to retrain as mobile engineers). My entire brief for this new scope was, and I am not exaggerating, a screenshot of a Miro board. On top of that, I was given the Design Systems team as a second team to run. It's one thing to be handed a title; it's another to discover the title quietly contains five more services. That year was the hardest of my career.
 
-When the dust finally settled, we landed where we are now: a specialist core - two senior engineers and me - running six platform services for the whole organisation. There's no product manager, partly because I repositioned us as a *soft platform*: infrastructure that other teams build on, planned and prioritised with the team directly. We survived. Everyone still has their job, and everyone chose to keep it.
+When the dust finally settled, we landed where we would stay for well over a year: a specialist core - two senior engineers and me - running six platform services for the whole organisation. There was no product manager, partly because I repositioned us as a *soft platform*: infrastructure that other teams build on, planned and prioritised with the team directly. We survived. Everyone still has their job, and everyone chose to keep it.
 
 Here's what I actually did across those three years.
 

@@ -60,6 +60,12 @@ Practices, not vibes - the same standard as the rest of this series.
 
 **6. Choose the next role for structure, not just altitude.** The shock-absorber pattern follows under-resourcing more reliably than it follows title. Before you take the bigger job, ask who permanently owns the operational detail, the product capacity, and the on-call - and whether "you, temporarily" is still the answer. A higher seat with the same three-job collapse is the same bill with a better job title on the invoice.
 
+## Postscript: what a priced ask actually buys
+
+This series has a rule about postscripts - log them, out loud - so here is the one available at the time of writing, with its uncertainty left in. In the months after the rebrand, the organisation moved, partially. Product cover was put in place for a defined period: borrowed, not hired. Senior engineering capacity is being restored, partly through someone who already knows the estate - a transfer, not a hire, and transfers can be transferred again. There is no new headcount. None of it is the structural fix the [soft platforms post](/leadership/2026/08/28/soft-platforms-why-horizontal-work-dies-inside-product-verticals.html) argued for; the team is still smaller than its scope deserves, and that case stays open.
+
+I'm logging it anyway, because the shape of the answer is the lesson. A priced ask rarely buys a permanent yes. What it usually buys is a provisional one - borrowed capacity with an end date attached, which is exactly the currency this post says every absorption should be denominated in. Take the provisional yes, write down its end date, and keep the invoice open for the rest. Whether this one holds is a matter for a later postscript.
+
 ## Hold the ground - and the instrument
 
 This series started with people staying through three restructurings. The sustainability question underneath every retention practice is the same: someone held the ground - and paid for it in currencies the dashboard never shows.
