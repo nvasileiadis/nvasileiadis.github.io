@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 390" role="img" aria-labelledby="sa-title sa-desc">
   <title id="sa-title">Three absorptions the team never invoices</title>
-  <desc id="sa-desc">Three columns of invisible managerial load. Left: workload absorption - EM, PM, and on-call stacked on one person. Centre: threat knowledge - dissolution plans and political spends the defended team never hears. Right: composition labour - pairing and ownership maps the team experiences only as good fit.</desc>
+  <desc id="sa-desc">Three columns of invisible managerial load. Left: workload absorption - EM, PM, and on-call stacked on one person. Centre: threat knowledge - reorg proposals and political spends the defended team never hears. Right: composition labour - pairing and ownership maps the team experiences only as good fit.</desc>
   <style>
     .ht { font: 600 12px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: 1.2px; fill: #ffffff; }
     .row { font: 400 12.5px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #3a3a3a; }
@@ -26,7 +26,7 @@
   <rect x="315" y="36" width="250" height="44" rx="10" fill="#1d6340"/>
   <rect x="315" y="64" width="250" height="16" fill="#1d6340"/>
   <text x="440" y="64" text-anchor="middle" class="ht">THREAT KNOWLEDGE</text>
-  <text x="335" y="112" class="row">Dissolution plans</text>
+  <text x="335" y="112" class="row">Reorg proposals</text>
   <text x="335" y="138" class="row">Political capital spent</text>
   <text x="335" y="164" class="row">Near-misses averted</text>
   <text x="335" y="210" class="sub">A defended team never</text>

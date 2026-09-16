@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 270" role="img" aria-labelledby="pt-title pt-desc">
   <title id="pt-title">Returns on structure: real, late, and unattributed</title>
-  <desc id="pt-desc">A timeline. Day zero: the argument - political capital spent, nothing to show. A long quiet stretch labelled invisible on every ledger. At eighteen months, the rebrand ships: every surface on one source of truth. At around two years, the tax-credit postscript: substantial, and finally on the books.</desc>
+  <desc id="pt-desc">A timeline. Day zero: the argument - political capital spent, nothing to show. A long quiet stretch labelled invisible on every ledger. At eighteen months, the rebrand ships: every surface on one source of truth. At around two years, the financial postscript: substantial, and finally on the books.</desc>
   <defs>
     <marker id="pt-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
       <path d="M0,0 L10,5 L0,10 z" fill="#9a9a94"/>
@@ -18,22 +18,22 @@
 
   <!-- Day zero: the spend -->
   <circle cx="150" cy="168" r="9" fill="#fbf3e0" stroke="#b8870b" stroke-width="2"/>
-  <text x="150" y="108" text-anchor="middle" class="tg">the argument</text>
-  <text x="150" y="127" text-anchor="middle" class="sub">political capital spent - nothing to show</text>
-  <text x="150" y="200" text-anchor="middle" class="tick">day zero</text>
+  <text x="150" y="108" text-anchor="middle" class="tg">The argument</text>
+  <text x="150" y="127" text-anchor="middle" class="sub">Political capital spent - nothing to show</text>
+  <text x="150" y="200" text-anchor="middle" class="tick">Day zero</text>
 
   <!-- The quiet stretch -->
-  <text x="335" y="156" text-anchor="middle" class="quiet">invisible on every ledger</text>
+  <text x="335" y="156" text-anchor="middle" class="quiet">Invisible on every ledger</text>
 
   <!-- Instalment one -->
   <circle cx="520" cy="168" r="9" fill="#eaf1ec" stroke="#1d6340" stroke-width="2"/>
   <text x="520" y="150" text-anchor="middle" class="tick">+18 months</text>
-  <text x="520" y="205" text-anchor="middle" class="tgr">rebrand ships</text>
-  <text x="520" y="224" text-anchor="middle" class="sub">every surface, one source of truth</text>
+  <text x="520" y="205" text-anchor="middle" class="tgr">Rebrand ships</text>
+  <text x="520" y="224" text-anchor="middle" class="sub">Every surface, one source of truth</text>
 
   <!-- Instalment two -->
   <circle cx="740" cy="168" r="9" fill="#eaf1ec" stroke="#1d6340" stroke-width="2"/>
-  <text x="740" y="108" text-anchor="middle" class="tgr">the tax-credit postscript</text>
-  <text x="740" y="127" text-anchor="middle" class="sub">substantial - and finally on the books</text>
-  <text x="740" y="200" text-anchor="middle" class="tick">≈ two years</text>
+  <text x="740" y="108" text-anchor="middle" class="tgr">The financial postscript</text>
+  <text x="740" y="127" text-anchor="middle" class="sub">Substantial - and finally on the books</text>
+  <text x="740" y="200" text-anchor="middle" class="tick">≈ Two years</text>
 </svg>

@@ -4,10 +4,10 @@ title: "Shipping the Critical Path With a Nuclear Team"
 image: /assets/social-cards/nuclear-team.jpg
 date: 2026-09-18 10:00:00 +0000
 categories: leadership
-description: "A company-wide rebrand, 522 pages, every product team's launch gated behind ours - and a team of three. On why context density beats headcount on hard deadlines, and the operating rules that keep a tiny team from melting down while it ships."
+description: "A company-wide rebrand, 522 pages, every product team's launch gated behind ours - and a core team of three. On why context density beats headcount on hard deadlines, and the operating rules that keep a tiny team from melting down while it ships."
 ---
 
-At the start of the biggest programme of my career, the arithmetic looked like a typo. A company-wide rebrand: 522 pages of public website to rebuild, every product team's launch gated behind ours, a hard public deadline - and, to ship it, a team of three. Two and a Half Men (devs).
+At the start of the biggest programme of my career, the arithmetic looked daunting on paper. A company-wide rebrand: 522 pages of public website to rebuild, every product team's launch gated behind ours, a hard public deadline - and, to ship it, a core team of three, plus a senior engineer seconded from another team.
 
 In earlier posts I've called this team a specialist core. Privately, I think of it as a *nuclear team*: tiny mass, absurd energy density - and, like everything nuclear, safe only inside containment. Both halves of that metaphor are load-bearing. The same density that lets three people ship a company's flagship programme will melt them down if you run it carelessly.
 
@@ -30,7 +30,7 @@ None of those investments were made with a rebrand in mind. The rebrand is simpl
 
 Density makes the deadline possible. The operating rules are what got us to it - and out the other side intact.
 
-**1. Clear the runway before you sprint.** The first weeks of the programme didn't look like a rebrand at all. Parts of the estate had spent years growing unmanaged in the dying legacy system - content and forms created outside any process - and every one of them was a landmine under the migration. So we excavated first, cleaned first, and only then started the visible work. Deadline programmes rarely die at the end; they die in month one, of debt that isn't discovered until month four. Go find the debt before it finds your schedule.
+**1. Clear the runway before you sprint.** The first weeks of the programme didn't look like a rebrand at all. Parts of the estate had grown organically over years in the legacy system - content and forms created faster than any process had tracked them - and every one of them was a landmine under the migration. So we excavated first, cleaned first, and only then started the visible work. Deadline programmes rarely die at the end; they die in month one, of debt that isn't discovered until month four. Go find the debt before it finds your schedule.
 
 **2. The backlog belongs to the critical path, not to you.** With every team's launch gated behind ours, prioritisation stopped meaning "what's most valuable to my team" and started meaning "who is blocked next." For two quarters, our velocity was measured in other teams' launches, not our own tickets. The platform habits we already ran - published commitments, [service levels other teams could plan against](/leadership/2026/08/28/soft-platforms-why-horizontal-work-dies-inside-product-verticals.html) - did the heavy lifting: a critical-path team that communicates dates like a platform is a team nobody has to chase.
 
@@ -41,7 +41,7 @@ Density makes the deadline possible. The operating rules are what got us to it -
   <figcaption>The deadline's price tag: paid in scope, openly - not in people, quietly.</figcaption>
 </figure>
 
-**4. The player-coach exception.** For the duration, I went back on the tools - building components that sat directly on the critical path. With three people, the arithmetic allowed no other configuration. What kept it an exception rather than a slide: it had an end date attached from the start, and the management work it displaced was named as part of the price, not silently dropped. A manager who temporarily codes on the critical path is spending density where it's needed; a manager who quietly becomes a full-time engineer indefinitely is a staffing gap wearing commitment's clothes. Know which one you're doing, and make sure your leadership knows too.
+**4. The player-coach exception.** For the duration, I went back on the tools - building components that sat directly on the critical path. With a core of three, the arithmetic allowed no other configuration. What kept it an exception rather than a slide: it had an end date attached from the start, and the management work it displaced was named as part of the price, not silently dropped. A manager who temporarily codes on the critical path is spending density where it's needed; a manager who quietly becomes a full-time engineer indefinitely is a staffing gap wearing commitment's clothes. Know which one you're doing, and make sure your leadership knows too.
 
 **5. BAU lives inside the deadline, not beside it.** Through the entire programme, the platform kept serving its fifteen-plus dependent teams - editors publishing, campaigns launching, consent compliance holding - with exactly one production incident all year. That wasn't a distraction from the rebrand; it was part of it. A critical-path programme that torches business-as-usual doesn't save time - it just relocates the outage to your busiest week. Containment isn't overhead on the reactor. Containment is what makes the reactor usable at all.
 
@@ -51,7 +51,7 @@ The honesty section, as ever. Slack went to zero for six months, and zero slack 
 
 ## Retention's ROI, cashed
 
-The retention post made a business case that was, at the time, a promise: keep the core together and it will deliver exactly when the business needs it most. This programme is that promise, cashed. If the core had resigned during any of the three restructurings - and post-reorg attrition says it should have - the same rebrand gets quoted as a multi-year, multi-vendor programme, and every product team's launch waits on it. Instead: two quarters, one incident, every launch unblocked, by three people who knew the estate down to its foundations.
+The retention post made a business case that was, at the time, a promise: keep the core together and it will deliver exactly when the business needs it most. This programme is that promise, cashed. If the core had resigned during any of the three restructurings - and post-reorg attrition says it should have - the same rebrand gets quoted as a multi-year, multi-vendor programme, and every product team's launch waits on it. Instead: two quarters, one incident, every launch unblocked, by a core of three who knew the estate down to its foundations.
 
 You don't get a nuclear team by hiring one. You compound one - people who stay, knowledge that survives, structure that holds - and when the hard deadline finally arrives, you run it like the reactor it is: contained, priced, and temporary. Density is the payoff. Containment is the method. Neither works alone.
 

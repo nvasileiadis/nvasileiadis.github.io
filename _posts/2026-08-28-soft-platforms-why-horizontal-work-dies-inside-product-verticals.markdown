@@ -22,7 +22,7 @@ My team has been embedded in two different product verticals, under different le
   <figcaption>The structural mismatch: funded and measured in one vertical, consumed by all of them.</figcaption>
 </figure>
 
-It isn't just my team. Over the same years I watched other horizontal teams - developer enablement, lifecycle tooling - quietly disbanded and reabsorbed into product teams. Our design systems team came within one strategy document of the same fate. None of them died because the work stopped mattering; the work was still there afterwards, smeared across a dozen product teams doing it worse. They died because a product-vertical department is a machine for prioritising its own roadmap, and horizontal work is never on it.
+It isn't just my team, and it isn't just one company. Anyone who has spent a few years in a mid-sized organisation has watched a horizontal team - developer enablement, lifecycle tooling, a design system - get folded back into product teams during a restructuring; our own design systems team was once proposed for the same treatment. The work rarely stops mattering; it gets distributed across the product teams, each doing a slice of it alongside their own roadmap, and the whole is less than it was. That happens because a product-vertical department is a machine for prioritising its own roadmap, and horizontal work is never on it.
 
 Before going further, the fair objection: *every* team believes its work is undervalued and deserves protected funding. Most are wrong, and I don't want this post to be their excuse. So here is the test. Work is platform-shaped when all four of these hold:
 
@@ -37,13 +37,13 @@ Credit where it's due: this way of reasoning about team shapes owes a debt to Ma
 
 ## Three mechanisms, one spiral
 
-**The funding paradox.** A platform team embedded in a vertical must justify its headcount from a budget that captures only a fraction of its value. The department head paying for my team's consent-compliance work was funding legal safety for the entire company out of one department's allocation. When they under-invest, that isn't a failure of vision - it's rational behaviour given where the bill lands. The structure guarantees the outcome.
+**The funding paradox.** A platform team embedded in a vertical must justify its headcount from a budget that captures only a fraction of its value. The department head paying for my team's consent-compliance work was funding legal safety for the entire company out of one department's allocation. If they under-invest, that isn't a failure of vision - it's rational behaviour given where the bill lands. The structure guarantees the outcome.
 
 **The metric mismatch.** Product verticals run on delivery metrics: features shipped, velocity, sprint burndown. A platform team's value isn't in what it ships - it's in what it enables everyone else to ship. Measured honestly, that's availability, adoption, time-to-value for consuming teams, and the cognitive load those teams no longer carry. Measured on burndown, the team that kept everything running looks like the department's underperformer. Permanently.
 
 **The invisibility trap.** Back to the tracking week. Inside a vertical, it reads as "a developer spent a week on a bug." The counterfactual - a company making decisions on wrong data indefinitely - appears on nobody's dashboard, because averted disasters never do. The cost of *not* doing platform work dwarfs the cost of doing it, and neither number is visible in the room where funding is decided.
 
-These three mechanisms compound into a spiral: wrong metrics make the team look weak; looking weak kills the funding case; the team shrinks; survival starts requiring heroics; heroics eat the time that produced visible output; the metrics look worse. Every disbanded horizontal team I've watched walked that exact loop to the end. If your platform team feels permanently behind and permanently unfundable, you are somewhere on that loop right now.
+These three mechanisms compound into a spiral: wrong metrics make the team look weak; looking weak kills the funding case; the team shrinks; survival starts requiring heroics; heroics eat the time that produced visible output; the metrics look worse. Every folded-in horizontal team I've seen walked that exact loop to the end. If your platform team feels permanently behind and permanently unfundable, you are somewhere on that loop right now.
 
 ## Organisations already know the answer - for half the problem
 
@@ -72,7 +72,7 @@ The clean fix is structural: a platform-shaped home, protected funding, platform
 
 ## What it cost
 
-The honesty section, as ever. Running a platform inside a vertical is swimming against a structural current, and the manager is the one in the water. The PM fraction I mentioned - I absorbed it, on top of engineering management. The legibility work - the boundary maps, the counterfactual reporting, the naming - is unpaid overhead that a properly-homed platform team wouldn't need. And none of it changes the funding mathematics: mitigation buys you legibility and time, not headcount. The structural argument still has to be made to people who can actually redraw the chart, and that is slow work measured in years, not quarters. I've made that case where I am; it remains a work in progress. Meanwhile the team stays smaller than its scope deserves, and heroics remain the backstop - a bill that someone eventually pays, which is a subject for later in this series.
+The honesty section, as ever. Running a platform inside a vertical is swimming against a structural current, and the manager is the one in the water. The PM fraction I mentioned - I absorbed it, on top of engineering management. The legibility work - the boundary maps, the counterfactual reporting, the naming - is unpaid overhead that a properly-homed platform team wouldn't need. And none of it changes the funding mathematics: mitigation buys you legibility and time, not headcount. The structural argument still has to be made to people who can actually redraw the chart, and that is slow work measured in years, not quarters - in any organisation, not just mine. I've made that case where I am, and it's an ongoing conversation, which is the honest state of most structural arguments. Meanwhile the team runs leaner than its scope, and heroics remain the backstop - a bill that someone eventually pays, which is a subject for later in this series.
 
 ## If this is your team
 

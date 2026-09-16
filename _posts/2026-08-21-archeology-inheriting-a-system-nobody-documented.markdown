@@ -4,14 +4,14 @@ title: "Archeology: How to Inherit a System Nobody Documented"
 image: /assets/social-cards/archeology.jpg
 date: 2026-08-21 10:00:00 +0000
 categories: leadership
-description: "I inherited a business-critical platform with no documentation, no SLA, and no one left who built it. Four years later my team is the most thoroughly documented in the organisation - 100+ articles, built from zero. Here's the method."
+description: "I inherited a business-critical platform with no documentation, no SLA, and no one left who built it. Four years later my team is one of the most thoroughly documented in the organisation - 100+ articles, built from zero. Here's the method."
 ---
 
 At some point in your career, you will inherit a system that matters enormously to the business and comes with nothing: no documentation, no architecture diagrams, no runbooks, and nobody left in the building who built it. Most engineers treat this as a misfortune to complain about. I want to make the case that it's one of the highest-leverage situations an engineering team can find itself in - if you approach it deliberately.
 
-When my team took ownership of our company's CMS platform, that's exactly what we got. A legacy system on a dying technology stack, powering the company's primary customer-facing website, with the engineers who built it long gone. No service-level agreement. No single sign-on. No map. Just production traffic and consequences.
+When my team took ownership of our company's CMS platform, that's exactly what we got. A legacy system on an ageing technology stack, powering the company's primary customer-facing website, with the engineers who built it long gone. No service-level agreement. No runbooks. No map. Just production traffic and consequences.
 
-Four years later, that team is the most thoroughly documented in the engineering organisation - over a hundred articles covering everything from architecture decisions to process guides - and that documentation culture directly enabled a platform migration, a company-wide rebrand across 522 pages, and the onboarding of every engineer who has joined since. None of that was luck. There was a method, and we gave it a name: **Archeology**.
+Four years later, that team is one of the most thoroughly documented in the engineering organisation - over a hundred articles covering everything from architecture decisions to process guides - and that documentation culture directly enabled a platform migration, a company-wide rebrand across 522 pages, and the onboarding of every engineer who has joined since. None of that was luck. There was a method, and we gave it a name: **Archeology**.
 
 ## Why "Archeology"
 
@@ -45,7 +45,7 @@ The compounding returns surprised even me:
 - **Onboarding collapsed from months to days.** New engineers read their way to productivity, then improved the articles as they went - the corpus gets better with every reader.
 - **The platform migration was possible in the end.** You cannot safely replace a system you don't understand. The archeology corpus was the map that let us execute a zero-disruption migration of a live estate.
 - **Operational load dropped.** A large share of stakeholder questions - from the fifteen-plus teams depending on our platforms - could be answered with a link. Every article is a conversation you never have to have again.
-- **The work became legible to the business.** Documented technical work can be explained, audited, and valued by people outside engineering - it even fed the company's R&D tax credit documentation. Undocumented work is invisible work, and invisible work is the first thing cut.
+- **The work became legible to the business.** Documented technical work can be explained, audited, and valued by people outside engineering - finance included. Undocumented work is invisible work, and invisible work is the first thing cut.
 
 There's an honest irony worth naming: thorough documentation makes any individual - including the manager - more replaceable. I think that's a feature. Knowledge hoarding is job security borrowed at the team's expense, and it's the opposite of the conditions where people do their best work. The goal is a team that runs on shared, written knowledge, not on heroic memory.
 
