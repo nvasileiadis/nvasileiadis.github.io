@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Archeology: How to Inherit a System Nobody Documented"
+title: "Archaeology: How to Inherit a System Nobody Documented"
 image: /assets/social-cards/archeology.jpg
 date: 2026-08-21 10:00:00 +0000
 categories: leadership
@@ -11,19 +11,19 @@ At some point in your career, you will inherit a system that matters enormously 
 
 When my team took ownership of our company's CMS platform, that's exactly what we got. A legacy system on an ageing technology stack, powering the company's primary customer-facing website, with the engineers who built it long gone. No service-level agreement. No runbooks. No map. Just production traffic and consequences.
 
-Four years later, that team is one of the most thoroughly documented in the engineering organisation - over a hundred articles covering everything from architecture decisions to process guides - and that documentation culture directly enabled a platform migration, a company-wide rebrand across 522 pages, and the onboarding of every engineer who has joined since. None of that was luck. There was a method, and we gave it a name: **Archeology**.
+Four years later, that team is one of the most thoroughly documented in the engineering organisation - over a hundred articles covering everything from architecture decisions to process guides - and that documentation culture directly enabled a platform migration, a company-wide rebrand across 522 pages, and the onboarding of every engineer who has joined since. None of that was luck. There was a method, and we gave it a name: **Archaeology**.
 
-## Why "Archeology"
+## Why "Archaeology"
 
 The name matters, because it changed how the team felt about the work.
 
-"Reading legacy code" is drudgery. "Reverse-engineering someone else's mess" breeds resentment toward people who aren't there to defend themselves. But *archeology* - systematically excavating an artefact, layer by layer, to understand the civilisation that produced it - is genuinely interesting work. The system in front of you is evidence. Every strange decision was made by someone, under constraints you can't see yet, solving a problem you haven't discovered yet. Your job is to reconstruct the constraints, not to judge the ruins.
+"Reading legacy code" is drudgery. "Reverse-engineering someone else's mess" breeds resentment towards people who aren't there to defend themselves. But *archaeology* - systematically excavating an artefact, layer by layer, to understand the civilisation that produced it - is genuinely interesting work. The system in front of you is evidence. Every strange decision was made by someone, under constraints you can't see yet, solving a problem you haven't discovered yet. Your job is to reconstruct the constraints, not to judge the ruins.
 
-That reframe did two things. It made the discovery work motivating instead of demoralising. And it produced *better* documentation, because engineers writing as archeologists record **why** things are the way they are - the traps, the load-bearing hacks, the "this looks wrong but don't touch it, here's what happens if you do" - rather than just cataloguing what exists.
+That reframe did two things. It made the discovery work motivating instead of demoralising. And it produced *better* documentation, because engineers writing as archaeologists record **why** things are the way they are - the traps, the load-bearing hacks, the "this looks wrong but don't touch it, here's what happens if you do" - rather than just cataloguing what exists.
 
 ## The method
 
-Archeology, as we practised it, is a discovery loop with a writing obligation attached. The rules:
+Archaeology, as we practised it, is a discovery loop with a writing obligation attached. The rules:
 
 **1. Nothing is understood until it's written down.** An engineer who figures out how the deployment pipeline works has produced *personal* knowledge. The team owns nothing until it's an article someone else can follow. We treated the write-up as the definition of done for every piece of discovery - not a nice-to-have afterwards, because afterwards never comes.
 
@@ -43,7 +43,7 @@ Archeology, as we practised it, is a discovery loop with a writing obligation at
 The compounding returns surprised even me:
 
 - **Onboarding collapsed from months to days.** New engineers read their way to productivity, then improved the articles as they went - the corpus gets better with every reader.
-- **The platform migration was possible in the end.** You cannot safely replace a system you don't understand. The archeology corpus was the map that let us execute a zero-disruption migration of a live estate.
+- **The platform migration was possible in the end.** You cannot safely replace a system you don't understand. The archaeology corpus was the map that let us execute a zero-disruption migration of a live estate.
 - **Operational load dropped.** A large share of stakeholder questions - from the fifteen-plus teams depending on our platforms - could be answered with a link. Every article is a conversation you never have to have again.
 - **The work became legible to the business.** Documented technical work can be explained, audited, and valued by people outside engineering - finance included. Undocumented work is invisible work, and invisible work is the first thing cut.
 
@@ -55,7 +55,7 @@ That irony points at something bigger. A team's values and culture are mostly in
 
 In a high-trust culture, documentation is given willingly. Writing down what you know feels like contribution, because you're confident the knowledge won't be used to make you dispensable. As trust drops, the documentation thins with it: grudging, incomplete, written to satisfy a checkbox rather than to genuinely transfer understanding. And at zero trust it disappears entirely - not because people are lazy, but because self-protection has quietly become the higher value. *What I know is my security* is a perfectly rational position in a team where people fear for their place; it's just fatal for the team.
 
-So when you walk into a new team, read the wiki the way an archeologist reads a dig site. The content tells you about the system. The existence, tone, and completeness tell you about the culture that produced it. A rich corpus full of admitted mistakes and "here's the trap I fell into" is the artefact of a team that feels safe. You cannot fake that - or at least, you couldn't until recently.
+So when you walk into a new team, read the wiki the way an archaeologist reads a dig site. The content tells you about the system. The existence, tone, and completeness tell you about the culture that produced it. A rich corpus full of admitted mistakes and "here's the trap I fell into" is the artefact of a team that feels safe. You cannot fake that - or at least, you couldn't until recently.
 
 <figure>
   <img src="/assets/images/posts/archeology/trust-barometer.svg" alt="Documentation stacks growing along an axis of team trust: at zero trust a single dashed empty outline (what I know is my security - nothing gets written); at low trust a thin stack (grudging, incomplete, written for the checkbox); at high trust a tall stack given willingly, including gold sheets - the confessions. Beside them, separated by a dashed divider, an AI-generated stack just as tall, drawn in dashed outline: tall and complete, but no longer a signal." width="880" height="470" loading="lazy">

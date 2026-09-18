@@ -61,7 +61,7 @@ So I kept the machinery running through all three rounds: development conversati
 
 ## 5. Turn ambiguity into a map
 
-When your brief is a single diagram, you have two options: panic, or treat it as an archeology project. We chose archeology. I dug through old documentation, interviewed everyone who had ever touched the inherited systems, asked the same questions repeatedly until the answers converged, and mapped the true scope of what we'd taken on - because there's a profound difference between being told a service's name and knowing that it contains five more.
+When your brief is a single diagram, you have two options: panic, or treat it as an archaeology project. We chose archaeology. I dug through old documentation, interviewed everyone who had ever touched the inherited systems, asked the same questions repeatedly until the answers converged, and mapped the true scope of what we'd taken on - because there's a profound difference between being told a service's name and knowing that it contains five more.
 
 Where the map revealed things we didn't know how to run, we upskilled deliberately - structured learning, then teaching each other, then documenting it for whoever came next. The team never faced the ambiguity raw; they faced a map with some regions marked "here be dragons, training scheduled Tuesday." Ambiguity is only corrosive when it's unbounded. Bounded, named, and scheduled, it becomes just work.
 

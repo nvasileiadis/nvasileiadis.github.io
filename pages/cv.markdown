@@ -78,7 +78,7 @@ Jul 2023 - Present · United Kingdom · Remote
 
 - **Team composition & reorg timeline:** Six direct reports, plus a Design Systems Lead and a Staff Engineer whose day-to-day management and 1:1s I held on a dotted line. The reorganisations: Platforms (May 2023), Customer Experience (Jul 2024), Partner (Jun 2025) - the last reducing the team to a specialist core.
 - **Measurement journey:** Early adopter of DORA metrics - progressed from manual team health tracking and custom EM dashboards to the organisation-wide DX platform. Delivery data (deployment frequency, lead time, change failure rate, MTTR) directly informs promotion cases and bonus decisions; monthly Peakon Heartbeat surveys are translated into concrete actions within the team's sphere of influence.
-- **"Archeology":** Inherited an undocumented legacy CMS and conducted systematic discovery to map what existed before building the documentation culture from scratch - then pushed engineers to own RFCs and cross-team knowledge-sharing. Platform services monitored via Kubernetes, Sentry, Prometheus, Pingdom, and Cloudflare.
+- **"Archaeology":** Inherited an undocumented legacy CMS and conducted systematic discovery to map what existed before building the documentation culture from scratch - then pushed engineers to own RFCs and cross-team knowledge-sharing. Platform services monitored via Kubernetes, Sentry, Prometheus, Pingdom, and Cloudflare.
 
 </div>
 
