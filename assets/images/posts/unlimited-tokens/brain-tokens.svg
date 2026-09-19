@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 400" role="img" aria-labelledby="bt-title bt-desc">
+  <title id="bt-title">You can't buy brain tokens</title>
+  <desc id="bt-desc">A chart across one working day. A flat line at the top labelled model capacity, effectively unlimited. Below it, a curve labelled human attention, finite and daily, rises in the morning, peaks, and falls to zero well before the dashed line marking the end of the working day.</desc>
+  <style>
+    .t { font: 600 13px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: 1.5px; fill: #1d6340; }
+    .tg { font: 600 13px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: 1.5px; fill: #595959; }
+    .s { font: italic 400 12px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #595959; }
+    .ann { font: italic 400 12px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #9a9a94; }
+  </style>
+
+  <!-- Axes -->
+  <path d="M 80,330 L 830,330" fill="none" stroke="#9a9a94" stroke-width="1.5"/>
+  <path d="M 80,330 L 80,60" fill="none" stroke="#9a9a94" stroke-width="1.5"/>
+  <text x="80" y="352" class="s">Start of day</text>
+  <text x="60" y="64" text-anchor="end" class="ann">More</text>
+  <text x="60" y="334" text-anchor="end" class="ann">None</text>
+
+  <!-- End of working day -->
+  <path d="M 760,60 L 760,330" fill="none" stroke="#9a9a94" stroke-width="1.5" stroke-dasharray="6 6"/>
+  <text x="760" y="352" text-anchor="middle" class="s">End of working day</text>
+
+  <!-- Model capacity: flat, unlimited -->
+  <path d="M 80,90 L 830,90" fill="none" stroke="#1d6340" stroke-width="3"/>
+  <text x="90" y="78" class="t">MODEL CAPACITY: EFFECTIVELY UNLIMITED</text>
+  <text x="745" y="110" text-anchor="end" class="ann">Buy more tokens, get more line</text>
+
+  <!-- Human attention: finite, daily -->
+  <path d="M 80,330 L 80,300 C 150,190 220,140 300,148 C 400,158 520,250 630,330 Z" fill="#eef4f0" stroke="none" opacity="0.9"/>
+  <path d="M 80,300 C 150,190 220,140 300,148 C 400,158 520,250 630,330" fill="none" stroke="#595959" stroke-width="3"/>
+  <text x="300" y="132" text-anchor="middle" class="tg">HUMAN ATTENTION: FINITE, DAILY</text>
+
+  <!-- Runs out -->
+  <circle cx="630" cy="330" r="5" fill="#595959"/>
+  <path d="M 630,330 L 630,262" fill="none" stroke="#595959" stroke-width="1.5" stroke-dasharray="3 4"/>
+  <text x="630" y="250" text-anchor="middle" class="s">Runs out here</text>
+  <path d="M 638,300 L 752,300" fill="none" stroke="#9a9a94" stroke-width="1.5"/>
+  <path d="M 745,296 L 752,300 L 745,304" fill="none" stroke="#9a9a94" stroke-width="1.5"/>
+  <text x="695" y="290" text-anchor="middle" class="ann">Before the day does</text>
+</svg>

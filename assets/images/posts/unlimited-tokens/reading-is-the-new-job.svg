@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 360" role="img" aria-labelledby="rj-title rj-desc">
+  <title id="rj-title">Reading is the new job</title>
+  <desc id="rj-desc">Two horizontal bars. The first, where 1.7 billion tokens went: a sliver under 1% for the model writing, over 99% for the model reading conversation history, files and tool output. The second, where the team's day went: a small block for writing and a large one for reading, verifying and reviewing, annotated as not instrumented - the shape is the observation.</desc>
+  <style>
+    .t { font: 600 13px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: 1.5px; fill: #1d6340; }
+    .s { font: italic 400 12px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #595959; }
+    .b { font: 500 14px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #1d6340; }
+    .et { font: 600 14px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: 1px; fill: #ffffff; }
+    .ann { font: italic 400 12px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #9a9a94; }
+  </style>
+
+  <!-- Bar 1: the tokens -->
+  <text x="60" y="40" class="t">WHERE 1.7 BILLION TOKENS WENT</text>
+  <rect x="60" y="56" width="760" height="64" rx="8" fill="#ffffff" stroke="#1d6340" stroke-width="1.5"/>
+  <path d="M 60,64 a 8,8 0 0 1 8,-8 h 0 v 64 h 0 a 8,8 0 0 1 -8,-8 z" fill="#1d6340"/>
+  <rect x="64" y="56" width="5" height="64" fill="#1d6340"/>
+  <text x="444" y="93" text-anchor="middle" class="b">Over 99%: the model reading - conversation history, files, tool output</text>
+  <path d="M 66,124 L 66,140" fill="none" stroke="#1d6340" stroke-width="1.5"/>
+  <text x="60" y="156" class="s">Under 1%: the model writing</text>
+
+  <!-- The turn -->
+  <text x="440" y="196" text-anchor="middle" class="ann">The same shape turned out to describe the team's day</text>
+
+  <!-- Bar 2: the humans -->
+  <text x="60" y="230" class="t">WHERE THE TEAM'S DAY WENT</text>
+  <rect x="60" y="246" width="760" height="64" rx="8" fill="#ffffff" stroke="#1d6340" stroke-width="1.5"/>
+  <path d="M 68,246 h 112 v 64 h -112 a 8,8 0 0 1 -8,-8 v -48 a 8,8 0 0 1 8,-8 z" fill="#1d6340"/>
+  <text x="120" y="283" text-anchor="middle" class="et">WRITING</text>
+  <text x="500" y="283" text-anchor="middle" class="b">Reading, verifying, reviewing - text nobody on the team wrote</text>
+  <text x="60" y="340" class="ann">Not instrumented - the shape is the observation, not a measurement</text>
+</svg>
