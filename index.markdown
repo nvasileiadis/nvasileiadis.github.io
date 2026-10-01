@@ -55,7 +55,7 @@ I've been mentoring engineers since before it was part of any job title - from t
 </div>
 
 <div class="leadership-card" markdown="1">
-**Commercial Engineering**: I treat engineering as a business lever, not a cost centre. I manage a **£200k+ annual vendor portfolio**, contribute to CapEx/OpEx planning, evaluate vendor ROI, and ensure technical investments map directly to business strategy outcomes. Every decision within a company is a financial decision - I make sure engineering teams understand this.
+**Commercial Engineering**: I treat engineering as a business lever, not a cost centre. I manage a **six-figure vendor portfolio**, contribute to CapEx/OpEx planning, evaluate vendor ROI, and ensure technical investments map directly to business strategy outcomes. Every decision within a company is a financial decision - I make sure engineering teams understand this.
 </div>
 
 <div class="leadership-card" markdown="1">

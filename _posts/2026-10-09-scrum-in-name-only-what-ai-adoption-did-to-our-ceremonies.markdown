@@ -11,7 +11,7 @@ I have spent a meaningful part of my career installing Scrum. I introduced it to
 
 Ten weeks after my team adopted agentic AI tooling seriously, we practise Scrum in name only - and delivery is no worse for it. Quality went up, velocity held, and nothing we stopped doing has been missed.
 
-This isn't a manifesto. It's an inventory. My team got access to Claude Code in mid-July as self-directed adopters with a free hand on usage, and I kept notes on what actually changed - not what the vendor decks promise, but what happened to a real team's calendar, working agreements, and relationships. I've written up the delivery side separately: [what shipped, where 1.7 billion tokens went, and why attention turned out to be the constraint](/leadership/2026/10/02/unlimited-tokens-finite-attention.html). This is the calendar. The short version: AI killed the ceremonies that existed to move *information* between humans, and made the ceremonies that move *trust* between humans more important than they have ever been. Most of what I've read about AI adoption covers the first half. The second half is the part I'd want another engineering manager to hear.
+This isn't a manifesto. It's an inventory. My team got access to Claude Code in mid-July as self-directed adopters with a free hand on usage, and I kept notes on what actually changed - not what the vendor decks promise, but what happened to a real team's calendar, working agreements, and relationships. The short version: AI killed the ceremonies that existed to move *information* between humans, and made the ceremonies that move *trust* between humans more important than they have ever been. Most of what I've read about AI adoption covers the first half. The second half is the part I'd want another engineering manager to hear.
 
 Some context for scale: across the weeks these notes cover, my team was three people, counting me wearing an IC hat alongside engineering management, running platform services with fifteen-plus consuming teams and no product manager - the shape I described in [the soft platforms post](/leadership/2026/08/28/soft-platforms-why-horizontal-work-dies-inside-product-verticals.html). Small team, wide surface. Keep that in mind; some of what follows scales differently at ten people. But I suspect the direction of travel is the same everywhere.
 
@@ -59,7 +59,7 @@ Ten weeks is ten weeks. Some of this may snap back, and I'm writing observations
 
 Estimation has become genuinely harder, not easier. The variety of work a small team can now credibly take on has opened wildly, the models underneath us change without notice, and the predictability that Scrum-style estimation assumes is eroding. We estimate anyway, in our thirty-minute planning, and we're honest that the error bars have grown.
 
-And the days are denser. The work has shifted heavily towards reading - reviewing, verifying, understanding text we didn't write - and that turns out to exhaust a mind faster than writing ever did. The team can go home with the clock showing hours left and the concentration already spent. That observation deserved more than a paragraph, so it got [its own post](/leadership/2026/10/02/unlimited-tokens-finite-attention.html): unlimited tokens, finite attention.
+And the days are denser. The work has shifted heavily towards reading - reviewing, verifying, understanding text we didn't write - and that turns out to exhaust a mind faster than writing ever did. The team can go home with the clock showing hours left and the concentration already spent. That observation deserves more than a paragraph; it is a subject for a later post.
 
 ## If this is your team
 
@@ -71,4 +71,4 @@ The trust ceremonies - the social, the games, the retro's human half, the retrea
 
 ---
 
-*This one sits outside my [series on engineering leadership under real-world pressure](/blog/) - the second of two posts on my team's AI adoption, after [Unlimited Tokens, Finite Attention](/leadership/2026/10/02/unlimited-tokens-finite-attention.html). Find me on [LinkedIn](https://www.linkedin.com/in/nvasileiadis).*
+*This one sits outside my [series on engineering leadership under real-world pressure](/blog/) - a standalone piece on my team's AI adoption. Find me on [LinkedIn](https://www.linkedin.com/in/nvasileiadis).*
