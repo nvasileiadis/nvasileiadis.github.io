@@ -41,7 +41,7 @@ The promotion to Engineering Manager formalised what I'd already been doing. The
 | **Community**    | 2008  | 18    | Founded the Serres Linux Users Group · FOSSCOMM 2012, a 350-person national conference · UNESCO e-culture · GDG Leeds revival                                                                   |
 | **Delivery**     | 2017  | 9     | Scrum Master at Jadu (rotating), Leeds Building Society (the organisation's first Agile; interim SM through a crisis programme), IMA-HOME (Adidas, MARS) · end-to-end feature ownership at Jadu |
 | **People**       | 2022  | 4     | Line management from day one at Utility Warehouse - no Head of Engineering in post; the title followed 14 months later · 6 direct reports at peak                                               |
-| **Multi-team**   | 2024  | 2     | 3 teams, 3 backlogs · 8 technical reports, including a Design Systems Lead and a Staff Engineer on dotted line                                                                                  |
+| **Multi-team**   | 2024-25  | 1     | 3 teams, 3 backlogs · 8 technical reports, including a Design Systems Lead and a Staff Engineer on dotted line                                                                                  |
 
 **<span class="stat">20+</span> years in technology. <span class="stat">9</span> years in leadership, <span class="stat">4</span> of them line-managing engineers.** The engineering gave me the credibility. The people work gave me the purpose.
 

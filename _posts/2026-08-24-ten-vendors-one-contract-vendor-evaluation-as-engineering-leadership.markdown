@@ -27,7 +27,7 @@ Where a shortlist survived contact with the criteria, we went deeper than demos:
 
 ## Write down the losers
 
-Here's the practice I'd defend hardest: we recorded the decision - and not just the winner. Why each vendor fell out, at which gate, against which criterion. Not for compliance; nobody asked for it. We did it because a decision nobody wrote down can't be explained, defended or reused once the people who made it have moved on to other work.
+Here's the practice I'd defend hardest: we recorded the decision - and not just the winner. Why each vendor fell out, at which gate, against which criterion. Not because compliance required it. We did it because a decision nobody wrote down can't be explained, defended or reused once the people who made it have moved on to other work.
 
 The payoff came in three forms. First, the decision survived its decision-makers: people move on, teams reshape, and "why did we choose this" stops being answerable by anyone in the room unless it's written down. Second - and this genuinely surprised me - the records got reused. Long after the contract was signed, the evaluation material was picked up as a starting point for adjacent decisions, because a worked example of comparing enterprise options is easier to adapt than a blank page. Method is portable; a good decision record is a template for the next decision. And third, the cheapest payoff: when someone asks "did we look at X?" two years later, the answer takes thirty seconds and costs no credibility.
 
