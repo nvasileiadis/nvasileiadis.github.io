@@ -33,7 +33,7 @@ What survived, I've realised, is not Scrum's machinery but its *clock*. The time
 
 So when I say Scrum in name only, I mean it precisely: the vocabulary remains, the cadence remains, and the machinery underneath has been quietly replaced. I don't think my team is unusual - I think we're just early, and honest about it.
 
-There's a harder sentence underneath this one. The scrum-master function, as I have practised it and been certified in it, has dissolved into the tooling. So has a real fraction of ticket-level product management. I'm not celebrating that - it was my craft too - but I'd rather name it than pretend the meetings we no longer hold are still someone's job. The judgment those roles carried - knowing *which* work matters, reading the politics, protecting the team - is as valuable as ever. The ceremony-running is not.
+There's a harder sentence underneath this one. The scrum-master function, as I have practised it and been certified in it, has dissolved into the tooling. So has a real fraction of ticket-level product management. I'm not celebrating that - it was my craft too - but I'd rather name it than pretend the meetings we no longer hold are still someone's job. The judgment those roles carried - knowing *which* work matters, reading the organisation, protecting the team - is as valuable as ever. The ceremony-running is not.
 
 ## The cost nobody's dashboard shows: pairing inverted
 
@@ -47,7 +47,7 @@ And it is quietly isolating. The accidental collaboration that used to be struct
 
 Which brings me to the meetings that used to need defending and no longer do.
 
-Every week we hold what we call the team staff meeting. Part of it is talking through tech and company developments. And part of it - I'll say it plainly - is playing GeoGuessr or Skribbl together for a few minutes. On Fridays we hold a social: no agenda, life outside work. Before the reorganisations, when this team spanned Europe, we ran three- and four-day collaboration retreats in Kraków, Málaga, and Porto - and the working relationships those trips built carried us through everything that came after.
+Every week we hold what we call the team staff meeting. Part of it is talking through tech and company developments. And part of it - I'll say it plainly - is playing GeoGuessr or Skribbl together for a few minutes. On Fridays we hold a social: no agenda, life outside work. Back when this team spanned Europe, we ran three- and four-day collaboration retreats in Kraków, Málaga, and Porto - and the working relationships those trips built lasted long after the trips did.
 
 A year ago, meetings like these justified themselves as culture, morale, retention - soft benefits, first against the wall when calendars fill. In an AI-era team, I've come to see them differently: they are now the *only* structured time when the humans face each other without a machine in the middle. The information ceremonies are gone; nothing else on the calendar makes the team a team. The games are not a break from the real work of collaboration. At that size, days deep in private AI dialogue, they *are* the collaboration infrastructure.
 
@@ -67,7 +67,7 @@ Run the inventory. Take every recurring meeting on your team's calendar and ask 
 
 The information ceremonies - refinement, status rounds, ticket triage, most of planning's bulk - are dying, and you should let them. Making people perform information transfer that tooling now handles is how you generate resentment against the ceremonies that matter.
 
-The trust ceremonies - the social, the games, the retro's human half, the retreat if you can get it funded - need the opposite treatment. Name what they now do, out loud, to your team and your leadership: this is not a perk, this is the collaboration layer, and it is the only one we have left. Because your engineers are already pairing all day, every day - and if you don't build the time where they pair with each other, nobody will notice what's missing until the velocity charts are the only thing still connecting them.
+The trust ceremonies - the social, the games, the retro's human half, the retreat where the budget allows - need the opposite treatment. Name what they now do, out loud, to your team and your leadership: this is not a perk, this is the collaboration layer, and it is the only one we have left. Because your engineers are already pairing all day, every day - and if you don't build the time where they pair with each other, nobody will notice what's missing until the velocity charts are the only thing still connecting them.
 
 ---
 

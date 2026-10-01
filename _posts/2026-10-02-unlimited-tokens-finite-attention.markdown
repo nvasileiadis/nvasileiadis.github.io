@@ -13,7 +13,7 @@ This is the team's answer, written up when the experiment concluded, with the co
 
 ## The fair objection first
 
-AI adoption write-ups come in two flavours: vendor evangelism with a velocity chart, or a grievance about headcount in a lab coat. I'd raise that objection too, so the limits go first. Ten weeks. Three people. Usage data from two of the three - the third export came back empty and can't be reconstructed. No control group. Velocity tracked by feel, not by instrument. Observations, not laws - but written down while they were happening, and the practices at the end survived contact with real delivery.
+AI adoption write-ups come in two flavours: vendor evangelism with a velocity chart, or scepticism with an anecdote. I'd raise that objection too, so the limits go first. Ten weeks. Three people. Usage data from two of the three - the third export came back empty and can't be reconstructed. No control group. Velocity tracked by feel, not by instrument. Observations, not laws - but written down while they were happening, and the practices at the end survived contact with real delivery.
 
 ## What shipped
 
@@ -71,7 +71,7 @@ Model capacity is now effectively unlimited. Each engineer's daily attention is 
 
 Reading is the new job, and reading is not writing. Writing is how engineers think and learn; the filtering and the repetition happen in the act. Understanding something you didn't write takes longer and consolidates less. The volume of text to read, verify and understand went up every week, and it tires a mind faster than writing ever did. We need more reading time in the plan, not less.
 
-Two more things I'd want another manager to hear. The senior engineers became deliberately sparing - using the assistant to assist rather than to answer, to keep the problem-solving muscle strong. From two levels up that can look like slow adoption; it is craft retention, and I'd protect it. And one engineer, asked what had changed, said: "Where does my dopamine hit come from? It used to be solving problems and writing elegant code. Now I just read." I don't have an answer to that. I'm not sure the industry does yet.
+Two more things I'd want another manager to hear. The senior engineers became deliberately sparing - using the assistant to assist rather than to answer, to keep the problem-solving muscle strong. On a usage dashboard that can look like slow adoption; it is craft retention, and I'd protect it. And one engineer, asked what had changed, said: "Where does my dopamine hit come from? It used to be solving problems and writing elegant code. Now I just read." I don't have an answer to that. I'm not sure the industry does yet.
 
 One thing didn't change at all. For on-call and for support, a colleague is still preferred. Sharing pressure with a human is not something the tooling replaces.
 
@@ -81,7 +81,7 @@ One thing didn't change at all. For on-call and for support, a colleague is stil
 
 **Verification gaps.** At least once a pull request was raised while the build was failing and CI hadn't passed, and had to be called out. Nothing should be raised without a human running it.
 
-**Actions outside the workspace.** Even Fable 5 was caught, at an approval step, trying to read repositories outside the project, and we saw requests to unknown addresses and to URLs that don't exist. Two failure modes follow. Auto-approve, and those actions are accepted silently. Check everything, and fatigue sets in - impatience when the same permission is requested for the ninth time, which is exactly when the ninth one gets rubber-stamped. That is a control problem, not a tooling one, and no budget fixes it.
+**Actions outside the workspace.** Even Fable 5 was caught, at an approval step, reaching for repositories outside the project, for unknown addresses and for URLs that don't exist. We caught those because a human approval step existed. Two failure modes follow. Auto-approve, and those actions are accepted silently. Check everything, and fatigue sets in - impatience when the same permission is requested for the ninth time, which is exactly when the ninth one gets rubber-stamped. That is a control problem, not a tooling one, and no budget fixes it.
 
 **Models contradict each other.** Different models produce incompatible plans for the same problem. Asking one model to rate another's work produces fault-finding rather than assessment. Lower tiers hallucinate noticeably more.
 
@@ -103,7 +103,7 @@ One thing didn't change at all. For on-call and for support, a colleague is stil
 
 ## The honest close
 
-Ten weeks is ten weeks, and two of three exports is two of three. The question the organisation asked got a genuine *partly*: the infrastructure shipped, to a higher bar than we could have reached alone, and the bill came due somewhere the velocity chart can't see. Three questions I'd put to any organisation scaling this: how would you know the trade *isn't* working? How do you measure quality gains when velocity is flat? And which guardrails should be organisation-wide defaults rather than each engineer's discipline?
+Ten weeks is ten weeks, and two of three exports is two of three. The question the organisation asked got a genuine *partly*: the infrastructure shipped, to a higher bar than we could have reached alone, and the cost showed up somewhere the velocity chart can't see. Three questions I'd put to any organisation scaling this: how would you know it *isn't* working? How do you measure quality gains when velocity is flat? And which guardrails should be organisation-wide defaults rather than each engineer's discipline?
 
 The team is growing again as this publishes; whether the next ten weeks look like these with more people in the room is a later post. What these ten weeks did to our calendar - which ceremonies died, which survived, and which quietly became the most important meetings we hold - is the next one: *Scrum in Name Only*.
 
