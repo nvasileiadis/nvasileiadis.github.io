@@ -145,7 +145,7 @@ Founded and ran the local Linux community in Serres, Greece - organising present
 **IxDF Local Leader - Interaction Design Foundation Leeds** _(2018-2020)_
 Organised regular UX meetups and community networking sessions in Leeds.
 
-**Organiser - Xanthi Tech Community** _(Nov-Dec 2013)_
+**Lead Organiser - Xanthi Tech Community** _(Nov-Dec 2013)_
 Created and ran a grassroots series of four open technology sessions in Xanthi, Greece - Linux, Tor and online privacy, Arduino open hardware, and ecological open-source technologies. The same organiser pattern as SerLUG, in a new city - and the series that seeded a years-long mentoring arc (see Mentoring).
 
 **3rd Place - KPMG's "30 Voices: The Next Generation"** _(Mar 2019)_
@@ -230,7 +230,7 @@ _Applied, not just studied - since mid-2026 I've been leading my team's adoption
 
 ### Leadership & Management (12)
 
-- **Team Topologies Distilled** · [Team Topologies Academy Corporate](https://academy.corp.teamtopologies.com/certificates/2zliafscx5), Oct 2023 - _Applied to identify platform team anti-patterns, redesign team interaction modes, and propose organisational structures aligned with cognitive load theory._
+- **Team Topologies Distilled** · [Team Topologies Academy](https://academy.corp.teamtopologies.com/certificates/2zliafscx5), Oct 2023 - _Applied to identify platform team anti-patterns, redesign team interaction modes, and propose organisational structures aligned with cognitive load theory._
 - **Mental Health First Aid (MHFA) Champion** · [MHFA England](/assets/images/credentials/mhfa-england-champion.pdf), Feb 2023
 - **COVID-19: Psychological First Aid** · [UK Health Security Agency](https://www.futurelearn.com/certificates/3eldrps), Dec 2022
 - **Professional Scrum Product Owner I (PSPO I)** · [Scrum.org](https://www.scrum.org/certificates/694360), Aug 2021
