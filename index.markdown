@@ -16,7 +16,7 @@ hide_title: true
 
 # Nikos Vasileiadis
 
-**Software Engineering Leader** · People, Platform & Organisational Design
+**Software Engineering Leader** · People, Platforms & Organisational Design
 {: .hero-subtitle}
 
 </header>
