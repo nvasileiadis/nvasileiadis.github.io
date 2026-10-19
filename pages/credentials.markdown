@@ -173,19 +173,19 @@ Peer mentoring network with Engineering Managers, Heads of Engineering, VPs, and
 **Mentor - School of Code** _(Aug 2023-Jan 2024)_
 Supported early-career bootcamp graduates entering the industry as software engineers.
 
-**Mentor - Agile career path** _(IMA-HOME · 2020)_
+**Mentor - Agile Career Path** _(IMA-HOME · 2020)_
 Guided a developer-turned-project-manager onto the Agile career path - helping him see Scrum Mastery as a role in its own right, not a side skill. He certified, moved into a full-time Scrum Master role within a year, and is now an Agile Delivery Lead in financial services with eight scrum.org certifications.
 
 **Mentor - Sky Coding Club** _(Nov 2019)_
 Inspired and assisted attendees learning HTML, CSS, and JavaScript.
 
-**Mentor - Delivery career path** _(Jadu · 2017-2018)_
+**Mentor - Delivery Career Path** _(Jadu · 2017-2018)_
 Mentored a QA colleague informally - answered her questions on the UX certifications I was taking and on the Agile path, and coached the bigger question of what she wanted from her career. The conversation carried on after I left Jadu, widening to other industries. She moved from testing into delivery leadership and is now a Delivery Manager in aerospace, certified in PRINCE2, Scrum, and Lean Six Sigma.
 
 **Mentor - Xanthi Tech Community** _(2013-Present)_
 Met a university engineering student through local tech presentations in Xanthi, Greece; invited attendees to pair-code on a digital *Wizard* card-game prototype, and he was the one who stuck. Later that year I advised him on Web Developer and Software Engineer career paths - and we kept a years-long conversation going on stacks, salaries, and opportunities. He went on to become a Senior Software Engineer and tech author - a second university-era mentoring arc that compounded into a strong career.
 
-**Mentor & Tutor - Private tutoring** _(Sep 2011-Jun 2012)_
+**Mentor & Tutor - Private Tutoring** _(Sep 2011-Jun 2012)_
 Tutored a young learner privately in algorithmic logic, C, and hardware. He went on into software engineering and is now an Engineering Manager - a long arc from first foundations to people leadership.
 
 ### Public Speaking (7)
