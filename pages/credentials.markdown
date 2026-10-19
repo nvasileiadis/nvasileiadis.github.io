@@ -23,7 +23,7 @@ _This page is an evidence appendix for those who want to go deeper. For a comple
     <span class="metric-label">Team Retention<br><small style="font-size: 0.8em; opacity: 0.8;">Zero voluntary attrition · 3 promotions<br>Team rebuilt twice · Design Systems retained</small></span>
   </div>
   <div class="metric-card">
-    <span class="metric-number">21</span>
+    <span class="metric-number">22</span>
     <span class="metric-label">Comm. Roles & Talks<br><small style="font-size: 0.8em; opacity: 0.8;">GDG · FOSSCOMM · WRK mentoring</small></span>
   </div>
 </div>
@@ -163,7 +163,7 @@ Led technical infrastructure for regional science and technology initiatives. Co
 **Private - Greek Army** _(Nov 2012-Aug 2013)_
 Conscripted and trained to serve as a soldier in an armoured brigade communications support unit. Helped digitise processes in the 1st Office. Improved schedule and leave management. Set up network cabling. Stock ordering and food provisioning for the kitchens.
 
-### Mentoring (6)
+### Mentoring (7)
 
 _Mentoring is an ongoing practice, not a history - I keep free positions open for engineers stepping into management and Engineering Managers who want to grow. See [Mentoring](/mentoring/) for how it works._
 
@@ -178,6 +178,9 @@ Guided a developer-turned-project-manager onto the Agile career path - helping h
 
 **Mentor - Sky Coding Club** _(Nov 2019)_
 Inspired and assisted attendees learning HTML, CSS, and JavaScript.
+
+**Mentor - Delivery career path** _(Jadu · 2017-2018)_
+Mentored a QA colleague informally - answered her questions on the UX certifications I was taking and on the Agile path, and coached the bigger question of what she wanted from her career. The conversation carried on after I left Jadu, widening to other industries. She moved from testing into delivery leadership and is now a Delivery Manager in aerospace, certified in PRINCE2, Scrum, and Lean Six Sigma.
 
 **Mentor - Xanthi Tech Community** _(2013-Present)_
 Met a university engineering student through local tech presentations in Xanthi, Greece; invited attendees to pair-code on a digital *Wizard* card-game prototype, and he was the one who stuck. Later that year I advised him on Web Developer and Software Engineer career paths - and we kept a years-long conversation going on stacks, salaries, and opportunities. He went on to become a Senior Software Engineer and tech author - a second university-era mentoring arc that compounded into a strong career.
