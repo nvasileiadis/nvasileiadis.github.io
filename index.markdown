@@ -24,7 +24,7 @@ hide_title: true
 <div class="metrics-grid hero-metrics">
   <div class="metric-card">
     <span class="metric-number">20+</span>
-    <span class="metric-label">Years in Technology</span>
+    <span class="metric-label">Years in Technology<br><small style="font-size: 0.8em; opacity: 0.8;">Paid client work since 2005</small></span>
   </div>
   <div class="metric-card">
     <span class="metric-number">9</span>
