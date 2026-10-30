@@ -33,7 +33,9 @@ concurrency:
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-latest
+    # Pinned because ubuntu-latest is moving to 26.04, where setup-ruby only offers
+    # the latest patch of each series and the .ruby-version 3.3.1 is unavailable.
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout
         uses: actions/checkout@v4
