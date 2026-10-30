@@ -49,7 +49,7 @@ Greek (EU) citizen - full right to work in Ireland and across the EU. Based in L
 
 <h2 class="icon-grid">What I'm About</h2>
 
-- **People and teams** - keeping people, growing them, and getting out of their way. DORA data for delivery health, Heartbeat surveys for wellbeing. Reorg communication on a cadence - including empty updates when there's nothing new. I measure what matters and act on it.
+- **People and teams** - leading with cultural intelligence, keeping people, growing them, and getting out of their way. DORA data for delivery health, Heartbeat surveys for wellbeing. Reorg communication on a cadence - including empty updates when there's nothing new. I measure what matters and act on it.
 - **Platform operations** - keeping critical services running and stakeholders supported across <span class="stat">15+</span> engineering teams.
 - **Design systems** - from co-building an open-source design system to leading enterprise-wide adoption across <span class="stat">20 teams</span>.
 - **Commercial sense** - a six-figure vendor portfolio across six platform services, CapEx/OpEx planning, vendor evaluation, and commercial literacy from sitting with compliance, marketing, data, and IT.

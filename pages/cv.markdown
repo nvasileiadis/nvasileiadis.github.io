@@ -47,7 +47,7 @@ Software Engineering Leader with <span class="stat">20+ years</span> in technolo
 
 <div class="competency-list" markdown="1">
 
-- **Engineering Leadership & People Development** - building, mentoring, and retaining high-performing remote teams; measurement-led via DORA metrics (DX), team health tracking, and Peakon Heartbeat surveys, so performance stays visible, sustainable, and connected to career progression.
+- **Engineering Leadership & People Development** - building, mentoring, and retaining high-performing remote teams with cultural intelligence; measurement-led via DORA metrics (DX), team health tracking, and Peakon Heartbeat surveys, so performance stays visible, sustainable, and connected to career progression.
 - **Organisational Design & Change Management** - navigating complex restructurings and shaping team structures that align engineering capability with business outcomes; have built the same team twice from zero.
 - **Platform & Infrastructure Strategy** - architecting and managing critical platform services with SLAs, SLIs, and operational excellence for <span class="stat">15+</span> engineering teams.
 - **Design Systems Leadership** - end-to-end, from open-source implementation (Pulsar at Jadu) to leading a dedicated Design Systems team at scale.

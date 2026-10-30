@@ -47,7 +47,7 @@ Based in Leeds, UK. Greek (EU) citizen - full right to work in the Netherlands a
 
 <h2 class="icon-grid">What I Bring</h2>
 
-- **People & teams** - Building and retaining remote engineering teams; measurement-led via DORA metrics, team health tracking, and Heartbeat surveys; reorg communication on a cadence - including empty updates when there's nothing new.
+- **People & teams** - Building and retaining remote engineering teams with cultural intelligence; measurement-led via DORA metrics, team health tracking, and Heartbeat surveys; reorg communication on a cadence - including empty updates when there's nothing new.
 - **Organisational design** - Navigating restructurings, building teams from scratch, aligning team structures with what the business actually needs. Have built the same team twice from zero; staff complementary pairs, not just headcount.
 - **Platform & infrastructure** - Running critical platform services with clear SLAs and operational discipline for <span class="stat">15+</span> dependent engineering teams.
 - **Design systems** - From co-creating an open-source design system (Pulsar) to leading enterprise-wide adoption across <span class="stat">20 teams</span>.
