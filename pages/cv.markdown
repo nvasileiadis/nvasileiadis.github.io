@@ -41,7 +41,7 @@ hide_title: true
 
 <h2 class="icon-user">Professional Summary</h2>
 
-Software Engineering Leader with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> of progressive leadership - <span class="stat">4</span> of them line-managing engineers - across regulated industries. I treat engineering as a business lever - contributing to CapEx/OpEx planning and ensuring technical investments map directly to business outcomes. The pattern across those years is consistent: I build the thing that isn't there - a team where there was no department, documentation from zero, structure where there was firefighting, a career where there was no industry to offer one. Introduced structured delivery in three resistant environments (financial services, a global brand agency, and a greenfield platform team). Technical depth across frontend and platform architecture establishes credibility; my true strength is designing the conditions where engineers do their best work.
+Software Engineering Leader with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> of progressive leadership - <span class="stat">4</span> of them line-managing engineers - across regulated industries, leading cross-cultural teams and working with people from <span class="stat">12+ countries</span>. I treat engineering as a business lever - contributing to CapEx/OpEx planning and ensuring technical investments map directly to business outcomes. The pattern across those years is consistent: I build the thing that isn't there - a team where there was no department, documentation from zero, structure where there was firefighting, a career where there was no industry to offer one. Introduced structured delivery in three resistant environments (financial services, a global brand agency, and a greenfield platform team). Technical depth across frontend and platform architecture establishes credibility; my true strength is designing the conditions where engineers do their best work.
 
 <h2 class="icon-grid">Core Competencies</h2>
 
@@ -135,16 +135,16 @@ Designed UIs and developed features for an award-winning CMS used by Local Autho
 
 Oct 2005 - Dec 2016 (11 years)
 
-Provincial northern Greece - Xanthi, where I grew up; Serres, where I studied: no tech industry to join and, after 2010, barely an economy. I built the career anyway - client by client - and led long before anyone gave me a title for it:
+Provincial northern Greece: no tech industry to join and, after 2010, barely an economy. I built the career anyway and led long before I had a title for it:
 
-- **Web Development & Freelancing (2005-2015):** Delivered 40+ web projects across Greece and internationally - from local non-profits and bands to a Bitcoin job board for a client in California - managing end-to-end client relationships, professional billing structures, and distributed development teams.
-- **Community & Civic Technology (2008-2014):** Co-founded the Serres Linux Users Group, organised FOSSCOMM 2012 (a 350-person national open-source conference), and managed the digital presence for UNESCO Serres and other civic organisations - a portfolio that predates and directly informs my later UK community work (GDG Leeds, IxDF Leeds, NUX).
-- **Teaching & Mentorship (2006-2012):** Earned a Certified Training Professional (CTP) qualification and spent a year teaching ECDL to adult learners. Privately tutored a student in algorithmic logic, C, and hardware - that student went on into software engineering and is now an Engineering Manager.
-- **UK Agency Work (2015-2016):** Relocated to Leeds - frontend engineering for agencies, building responsive e-commerce for global fashion brands (Vivienne Westwood) and driving performance optimisation.
+- **Freelance (2005-2015):** 40+ web projects, working with people in Canada, India, Belgium, the UK, the US, and Denmark.
+- **Community (2008-2014):** Co-founded the Serres Linux Users Group; organised FOSSCOMM 2012, a 350-person national open-source conference.
+- **Teaching (2006-2012):** Taught adult learners and tutored a student who is now an Engineering Manager.
+- **UK agencies (2015-2016):** Moved to Leeds; frontend engineering for global fashion brands (Vivienne Westwood).
 
 <div class="no-pdf" markdown="1">
 
-_The fuller story: billing ran on 40/40/20 payment terms, with WordPress, Drupal, and custom HTML/CSS as the platforms; the civic portfolio also covered the local Natural History Museum, an EVS programme, and the MSG Panserraikos sports club; and the tutored student - taught on Arduino and Raspberry Pi hardware - went on to a BSc and MSc in Manchester and into engineering leadership._
+_The fuller story: projects ranged from local non-profits and bands to a Bitcoin job board for a client in California, delivered with distributed development teams; billing ran on 40/40/20 payment terms, with WordPress, Drupal, and custom HTML/CSS as the platforms; the civic portfolio covered UNESCO Serres, the local Natural History Museum, an EVS programme, and the MSG Panserraikos sports club; and the tutored student - taught on Arduino and Raspberry Pi hardware - went on to a BSc and MSc in Manchester and into engineering leadership._
 
 </div>
 

@@ -36,7 +36,7 @@ hide_title: true
   </div>
 </div>
 
-I grew up in Xanthi, a provincial, multi-faith border city in northern Greece, where cultural intelligence was part of daily life. I fell in love with the web as a teenager - building my first websites at 15, buying my first domain in 2005, and working on over 40 web projects before I ever left the country. There was no tech industry where I lived and, after 2010, barely an economy. Nobody handed me a path, so I built one: client by client, a Linux user group where there was no community, a national open-source conference, classrooms of adults learning their first computer. I moved to the UK in 2015 carrying that decade with me, and put down roots in Leeds. Across twenty years - financial services, regulated utilities, global retail, public sector technology - the pattern has never changed: everywhere I've worked, I've built the thing that wasn't there. A community. A process. A team. A culture. My real strength isn't code. It's people - and the conditions I build for them to do their best work.
+I grew up in Xanthi, a provincial, multi-faith border city in northern Greece, where cultural intelligence was part of daily life. There was no tech industry and, after 2010, barely an economy, so I built a path: first websites at 15, 40+ web projects with people from Canada to India, a Linux user group, and a national open-source conference. I moved to the UK in 2015 and put down roots in Leeds. Across twenty years - financial services, regulated utilities, global retail, public sector technology - the pattern has never changed: everywhere I've worked, I've built the thing that wasn't there. A community. A process. A team. A culture. My real strength isn't code. It's people - and the conditions I build for them to do their best work.
 
 <p class="pull-quote">Everywhere I've worked, I've built the thing that wasn't there.</p>
 
@@ -51,7 +51,7 @@ I've been mentoring engineers since before it was part of any job title - from t
 {: .icon-compass}
 
 <div class="leadership-card" markdown="1">
-**People & Performance**: I create environments where engineers and managers operate with clarity and autonomy. Through mentorship, process design, and deep understanding of individual motivation, I unlock the performance that's already there - acting as a multiplier, not a bottleneck. I measure what matters: DORA metrics for delivery health and Heartbeat surveys for team engagement - and I use that data where it counts, from promotion cases to workload decisions.
+**People & Performance**: I lead cross-cultural teams and create environments where engineers and managers operate with clarity and autonomy. Through mentorship, process design, and deep understanding of individual motivation, I unlock the performance that's already there - acting as a multiplier, not a bottleneck. I measure what matters: DORA metrics for delivery health and Heartbeat surveys for team engagement - and I use that data where it counts, from promotion cases to workload decisions.
 </div>
 
 <div class="leadership-card" markdown="1">
