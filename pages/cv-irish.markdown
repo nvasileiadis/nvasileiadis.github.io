@@ -66,7 +66,7 @@ I manage the platform and content engineering team - the people responsible for 
 
 **What the team and I have done:**
 
-- **Kept people and grew them.** Supported <span class="stat">3 promotions</span> (Associate → Mid, Mid → Senior) with evidence-based cases - built on DORA delivery data and monthly Peakon Heartbeat surveys, acted on rather than just collected. Developed engineers who hadn't found the right home elsewhere in the organisation. Several people I mentored have since moved into Engineering Manager roles, both inside and outside UW. The <span class="stat">100% retention</span> wasn't luck - it was clarity, trust, and genuine career investment. Also involved in hiring <span class="stat">2</span> external engineers and <span class="stat">4</span> internal transfers.
+- **Kept people and grew them.** Supported <span class="stat">3 promotions</span> (Associate → Mid, Mid → Senior) with evidence-based cases - built on DORA delivery data and monthly Peakon Heartbeat surveys, acted on rather than just collected. Developed engineers who hadn't found the right home elsewhere in the organisation. People I mentored are now Engineering Managers, both inside and outside UW. The <span class="stat">100% retention</span> wasn't luck - it was clarity, trust, and genuine career investment. Also involved in hiring <span class="stat">2</span> external engineers and <span class="stat">4</span> internal transfers.
 - **Navigated restructurings.** When the organisation restructured - three times - I took responsibility for working out where the team should sit: mapping scope, talking to stakeholders, and building consensus. When mobile work entered our remit, I negotiated skill inbound - a Senior Engineer who already had the expertise - rather than stretching the existing team thin. And when a restructuring proposal would have merged the Design Systems team into another team, I made the case for keeping it separate - that team went on to enable the company-wide rebrand.
 - **Built a documentation culture from nothing.** We inherited a CMS that nobody had documented in years. I started by mapping what existed - we called it "Archaeology" - and built up to over <span class="stat">100 articles</span> of process and technical documentation. When we needed Kubernetes knowledge, I learned it first, trained the team, and documented it.
 - **Delivered a company-wide rebrand (Oct 2025 - Apr 2026).** The team shipped the brand refresh across <span class="stat">522 pages</span> of the uw.co.uk estate. We were the critical path: nobody else's rebrand work could go live until ours shipped. Our automated migration scripts saved content editors hundreds of hours of manual work.
@@ -137,7 +137,7 @@ The foundation years. Provincial northern Greece - Xanthi, where I grew up; Serr
 
 Community organising has been a constant throughout my career - from Greece to Leeds.
 
-**Mentor, WRK digital** _(Feb 2023-Present)_: Mentoring engineers who have gone on to become Engineering Managers. Part of a peer network that spans EMs, Heads of Engineering, VPs, and CTOs.
+**Mentor, WRK digital** _(Feb 2023-Present)_: Part of a peer mentoring network that spans EMs, Heads of Engineering, VPs, and CTOs.
 
 **Mentor, School of Code** _(Aug 2023-Jan 2024)_: Supported people making their first steps into the industry.
 

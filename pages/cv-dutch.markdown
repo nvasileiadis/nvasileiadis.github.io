@@ -61,7 +61,7 @@ Based in Leeds, UK. Greek (EU) citizen - full right to work in the Netherlands a
 Jul 2023 - Present · United Kingdom · Remote
 
 - **Team & retention:** Grew to <span class="stat">8 technical reports across three teams</span> with separate backlogs - web/CMS/tracking, mobile, and design systems - alongside a Product Manager. Everyone who wanted to stay, stayed - <span class="stat">100% retention</span> through three reorganisations across three departments in <span class="stat">25 months</span>; all reductions were organisational, zero voluntary attrition. Involved in hiring <span class="stat">2</span> external engineers and <span class="stat">4</span> internal transfers.
-- **Growing people, measurably:** Supported <span class="stat">3 promotions</span> (Associate → Mid, Mid → Senior) with evidence-based cases informed by DORA metrics and monthly Peakon Heartbeat surveys - acting on the signals, not just collecting them. Developed engineers who hadn't found the right home elsewhere in the organisation. Several engineers I mentored have since moved into Engineering Manager roles, both inside and outside the company.
+- **Growing people, measurably:** Supported <span class="stat">3 promotions</span> (Associate → Mid, Mid → Senior) with evidence-based cases informed by DORA metrics and monthly Peakon Heartbeat surveys - acting on the signals, not just collecting them. Developed engineers who hadn't found the right home elsewhere in the organisation. Engineers I mentored are now Engineering Managers, both inside and outside the company.
 - **Navigating restructurings:** Took responsibility for scoping team migrations - mapping scope, aligning stakeholders, and building consensus for where the team should sit. Negotiated skill inbound - a Senior Engineer with mobile expertise - when a mobile backlog was added, rather than stretching the existing team thin; argued successfully for keeping the Design Systems team separate when a restructuring proposal would have merged it into another team - the team that later enabled the company-wide rebrand.
 - **Documentation & upskilling:** Wrote over <span class="stat">100 articles</span> of technical documentation for a team that inherited an undocumented legacy CMS. When the team needed Kubernetes knowledge, I learned it first, then trained the team and documented it. Engineers own RFCs and present at cross-team forums.
 - **Rebranding programme (Oct 2025 - Apr 2026):** The team delivered UW's brand refresh across <span class="stat">522 pages</span> of the uw.co.uk estate - the critical path: other teams' rebranding couldn't go live until we shipped. Automated migration scripts saved content editors hundreds of manual hours.
@@ -131,7 +131,7 @@ Provincial northern Greece - Xanthi, where I grew up; Serres, where I studied: n
 
 <h2 class="icon-users">Community & Volunteering</h2>
 
-**Mentor, WRK digital** _(Feb 2023-Present)_: Mentoring engineers who have gone on to become Engineering Managers. Part of a peer network spanning EMs, Heads of Engineering, VPs, and CTOs.
+**Mentor, WRK digital** _(Feb 2023-Present)_: Part of a peer mentoring network spanning EMs, Heads of Engineering, VPs, and CTOs.
 
 **Mentor, School of Code** _(Aug 2023-Jan 2024)_: Supported people entering the industry through their first engineering roles.
 
