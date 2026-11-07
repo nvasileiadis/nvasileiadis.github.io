@@ -36,7 +36,7 @@ hide_title: true
   </div>
 </div>
 
-I grew up in Xanthi, a provincial, multi-faith border city in northern Greece, where cultural intelligence was part of daily life. There was no tech industry and, after 2010, barely an economy, so I built a path: first websites at 15, 40+ web projects with people from Canada to India, a Linux user group, and a national open-source conference. I moved to the UK in 2015 and put down roots in Leeds. Across twenty years - financial services, regulated utilities, global retail, public sector technology - the pattern has never changed: everywhere I've worked, I've built the thing that wasn't there. A community. A process. A team. A culture. My real strength isn't code. It's people - and the conditions I build for them to do their best work.
+I grew up in Xanthi, a provincial, multi-faith border city in northern Greece, where cultural intelligence was part of daily life. There was no tech industry and, after 2010, barely an economy, so I built a path: first websites at 15, 40+ web projects with people from Canada to India, a Linux user group, and a national open-source conference. I moved to the UK in 2015 and put down roots in Leeds. Across twenty years - financial services, regulated utilities, global retail, public sector technology - the pattern has never changed: everywhere I've worked, I've built the thing that wasn't there. A community. A process. A team. A culture. Code got me here, and I still go back on the tools when a critical path needs it. My real strength, though, is people - and the conditions I build for them to do their best work.
 
 <p class="pull-quote">Everywhere I've worked, I've built the thing that wasn't there.</p>
 
