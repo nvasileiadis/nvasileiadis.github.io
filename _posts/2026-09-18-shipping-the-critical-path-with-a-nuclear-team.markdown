@@ -7,6 +7,8 @@ categories: leadership
 description: "A company-wide rebrand, 522 pages, every product team's launch gated behind ours - and a core team of three. On why context density beats headcount on hard deadlines, and the operating rules that keep a tiny team from melting down while it ships."
 ---
 
+*Update, 11 November 2026: I've published an [expanded account of the CMSv3 migration and rebrand](/leadership/2026/11/11/beyond-the-rebrand-leading-the-cmsv3-migration.html), including the technical decisions, editor feedback, and the compressed testing and overtime behind the launch. The original September article follows.*
+
 At the start of the biggest programme of my career, the arithmetic looked daunting on paper. A company-wide rebrand: 522 pages of public website to rebuild, every product team's launch gated behind ours, a hard public deadline - and, to ship it, a core team of three, plus a senior engineer seconded from another team.
 
 In earlier posts I've called this team a specialist core. Privately, I think of it as a *nuclear team*: tiny mass, absurd energy density - and, like everything nuclear, safe only inside containment. Both halves of that metaphor are load-bearing. The same density that lets three people ship a company's flagship programme will melt them down if you run it carelessly.

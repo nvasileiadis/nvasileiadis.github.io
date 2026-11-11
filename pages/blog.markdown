@@ -12,6 +12,6 @@ paginate_path: /blog/page/:num/
 paginate_title: "Blog (page :num) - Nikos Vasileiadis | Engineering Leadership"
 ---
 
-Welcome to my blog. I write occasionally about engineering leadership, delivery, process, and the craft of building software.
+I write about the decisions behind engineering work: how we shape platforms, develop people, negotiate scope, and deliver across team boundaries. These accounts draw on my own experience, including the tradeoffs and costs behind the outcomes.
 
 
