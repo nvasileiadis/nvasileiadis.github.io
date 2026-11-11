@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 360" role="img" aria-labelledby="pt2-title pt2-desc">
   <title id="pt2-title">Launch commitments and deferred scope</title>
-  <desc id="pt2-desc">Launch commitments: ongoing platform support, CMSv3 and the website rebrand, the coordinated launch date, and launch-day support. Deferred: tracking and experimentation work, non-critical features, and other improvements. Editor testing was compressed and the team worked overtime in the final week.</desc>
+  <desc id="pt2-desc">Launch commitments: ongoing platform support, CMSv3 and the website rebrand, the coordinated launch date, and launch-day support. Deferred: tracking and experimentation work, non-critical features, and other improvements. Launch scope and subsequent work are made explicit to support coordination.</desc>
   <style>
     .ht { font: 600 13px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; letter-spacing: 1.5px; fill: #ffffff; }
     .row { font: 400 13px "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #3a3a3a; }
@@ -26,7 +26,7 @@
   <rect x="460" y="40" width="360" height="250" rx="10" fill="#ffffff" stroke="#b8870b" stroke-width="1.5" stroke-dasharray="6 4"/>
   <rect x="460" y="40" width="360" height="46" rx="10" fill="#8f6a08"/>
   <rect x="460" y="70" width="360" height="16" fill="#8f6a08"/>
-  <text x="640" y="69" text-anchor="middle" class="ht">DEFERRED UNTIL AFTER LAUNCH</text>
+  <text x="640" y="69" text-anchor="middle" class="ht">PLANNED AFTER LAUNCH</text>
   <line x1="486" y1="119" x2="498" y2="119" stroke="#b8870b" stroke-width="2.5" stroke-dasharray="4 3"/>
   <text x="510" y="124" class="rowd">tracking and experimentation work</text>
   <line x1="486" y1="161" x2="498" y2="161" stroke="#b8870b" stroke-width="2.5" stroke-dasharray="4 3"/>
@@ -34,7 +34,7 @@
   <line x1="486" y1="203" x2="498" y2="203" stroke="#b8870b" stroke-width="2.5" stroke-dasharray="4 3"/>
   <text x="510" y="208" class="rowd">other improvements</text>
   <line x1="486" y1="245" x2="498" y2="245" stroke="#b8870b" stroke-width="2.5" stroke-dasharray="4 3"/>
-  <text x="510" y="250" class="rowd">scope reduced to protect the date</text>
+  <text x="510" y="250" class="rowd">priorities sequenced around launch</text>
 
-  <text x="440" y="330" text-anchor="middle" class="foot">remaining costs: compressed editor testing and final-week overtime</text>
+  <text x="440" y="330" text-anchor="middle" class="foot">clear scope helps teams coordinate implementation, validation, and launch</text>
 </svg>

@@ -99,7 +99,7 @@ Led the engineering delivery of the main website rebrand alongside the transitio
 
 Working with two engineers and temporary additional support, I reviewed architectural proposals, implemented selected redesigned components, raised delivery risks early, and helped defer tracking and experimentation work to protect the fixed launch date. The engineers developed solutions that we reviewed and tested together. We prepared scripted migrations, separate application and content environments, preview access, and a coordinated traffic switch for the launch on 18 April 2026.
 
-We reduced the component set and acted on feedback from active content editors across three marketing teams. After launch, we observed fewer support requests. The launch went smoothly, although the editor testing window was compressed and the team worked overtime in the final week. [Read the programme account](/leadership/2026/11/11/beyond-the-rebrand-leading-the-cmsv3-migration.html).
+We reduced the component set and acted on feedback from active content editors across three marketing teams. After launch, we observed fewer support requests. Engineering and content teams collaborated on validation and launch support, and the coordinated launch went smoothly. [Read the programme account](/leadership/2026/11/11/beyond-the-rebrand-leading-the-cmsv3-migration.html).
 
 </details>
 

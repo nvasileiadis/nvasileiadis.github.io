@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 430" role="img" aria-labelledby="cp-title cp-desc">
-  <title id="cp-title">Three investments, one payout</title>
-  <desc id="cp-desc">Three long-term investments - people stayed (years of retained context), knowledge survived (the written corpus), structure held (the defended design system) - converge into a single event: the rebrand. CMSv3 migration and rebrand across 522 pages, with a core team of three and temporary support.</desc>
+  <title id="cp-title">Shared capability supporting delivery</title>
+  <desc id="cp-desc">Platform experience, shared documentation, and design-system capability support the CMSv3 migration and rebrand across 522 pages through engineering and content collaboration.</desc>
   <defs>
     <marker id="cp-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
       <path d="M0,0 L10,5 L0,10 z" fill="#1d6340"/>
@@ -15,20 +15,20 @@
   </style>
 
   <text x="185" y="42" text-anchor="middle" class="ann">invested over years</text>
-  <text x="695" y="112" text-anchor="middle" class="ann">paid out in one programme</text>
+  <text x="695" y="112" text-anchor="middle" class="ann">applied to a shared programme</text>
 
   <!-- The investments -->
   <rect x="60" y="60" width="250" height="80" rx="8" fill="#ffffff" stroke="#1d6340" stroke-width="1.5"/>
-  <text x="185" y="94" text-anchor="middle" class="t">PEOPLE STAYED</text>
-  <text x="185" y="118" text-anchor="middle" class="s">years of retained context</text>
+  <text x="185" y="94" text-anchor="middle" class="t">PLATFORM EXPERIENCE</text>
+  <text x="185" y="118" text-anchor="middle" class="s">knowledge built over years</text>
 
   <rect x="60" y="175" width="250" height="80" rx="8" fill="#ffffff" stroke="#1d6340" stroke-width="1.5"/>
-  <text x="185" y="209" text-anchor="middle" class="t">KNOWLEDGE SURVIVED</text>
-  <text x="185" y="233" text-anchor="middle" class="s">the written corpus</text>
+  <text x="185" y="209" text-anchor="middle" class="t">SHARED DOCUMENTATION</text>
+  <text x="185" y="233" text-anchor="middle" class="s">knowledge the team can use</text>
 
   <rect x="60" y="290" width="250" height="80" rx="8" fill="#ffffff" stroke="#1d6340" stroke-width="1.5"/>
-  <text x="185" y="324" text-anchor="middle" class="t">STRUCTURE HELD</text>
-  <text x="185" y="348" text-anchor="middle" class="s">the defended design system</text>
+  <text x="185" y="324" text-anchor="middle" class="t">DESIGN SYSTEMS</text>
+  <text x="185" y="348" text-anchor="middle" class="s">shared components and standards</text>
 
   <!-- Convergence -->
   <path d="M 315,100 Q 460,110 545,190" fill="none" stroke="#1d6340" stroke-width="2.5" marker-end="url(#cp-arrow)"/>
@@ -40,6 +40,6 @@
   <text x="695" y="176" text-anchor="middle" class="et">CMSv3 + REBRAND</text>
   <text x="695" y="210" text-anchor="middle" class="es">522 pages · Oct 2025-Apr 2026</text>
   <text x="695" y="237" text-anchor="middle" class="es">coordinated company launch</text>
-  <text x="695" y="264" text-anchor="middle" class="es">core team of three</text>
-  <text x="695" y="291" text-anchor="middle" class="es">plus temporary support</text>
+  <text x="695" y="264" text-anchor="middle" class="es">engineering and content teams</text>
+  <text x="695" y="291" text-anchor="middle" class="es">working together</text>
 </svg>

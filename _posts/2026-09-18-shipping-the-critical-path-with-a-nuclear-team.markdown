@@ -7,7 +7,7 @@ categories: leadership
 description: "A company-wide rebrand, 522 pages, every product team's launch gated behind ours - and a core team of three. On why context density beats headcount on hard deadlines, and the operating rules that keep a tiny team from melting down while it ships."
 ---
 
-*Update, 11 November 2026: I've published an [expanded account of the CMSv3 migration and rebrand](/leadership/2026/11/11/beyond-the-rebrand-leading-the-cmsv3-migration.html), including the technical decisions, editor feedback, and the compressed testing and overtime behind the launch. The original September article follows.*
+*Update, 11 November 2026: I've published an [expanded account of the CMSv3 migration and rebrand](/leadership/2026/11/11/beyond-the-rebrand-leading-the-cmsv3-migration.html), including the technical decisions, editor feedback, and cross-team coordination behind the launch. The original September article follows.*
 
 At the start of the biggest programme of my career, the arithmetic looked daunting on paper. A company-wide rebrand: 522 pages of public website to rebuild, every product team's launch gated behind ours, a hard public deadline - and, to ship it, a core team of three, plus a senior engineer seconded from another team.
 
