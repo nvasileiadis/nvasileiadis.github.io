@@ -31,8 +31,8 @@ hide_title: true
     <span class="metric-label">Years in Leadership<br><small style="font-size: 0.8em; opacity: 0.8;">4 in direct line management</small></span>
   </div>
   <div class="metric-card">
-    <span class="metric-number">0</span>
-    <span class="metric-label">Voluntary Team Departures<br><small style="font-size: 0.8em; opacity: 0.8;">through 3 reorgs · 4 years</small></span>
+    <span class="metric-number">100%</span>
+    <span class="metric-label">Team Retention<br><small style="font-size: 0.8em; opacity: 0.8;">zero voluntary exits · 3 reorgs · 4 years</small></span>
   </div>
 </div>
 
