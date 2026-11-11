@@ -29,12 +29,26 @@ _This page is an evidence appendix for those who want to go deeper. For a comple
 </div>
 <!-- markdownlint-enable MD033 -->
 
+## Executive Education
+{: .icon-book}
+
+**Saïd Business School, University of Oxford**
+[Oxford Emerging Leaders Programme (Blended)](https://www.sbs.ox.ac.uk/programmes/online-learning/oxford-emerging-leaders-programme) · September 2026-Present · In progress, first cohort
+
+I'm undertaking executive education focused on the move from functional leadership to broader organisational responsibility. The blended pathway combines 13 weeks of live, faculty-led online learning with a subsequent three-day residential immersion in Oxford.
+
+The programme covers leadership identity and executive presence; systems thinking and decisions under ambiguity; stakeholder influence and coalitions; strategic alignment; change leadership and execution; and the implications of AI, sustainability, and geopolitics for organisations.
+
+I'm building a personal leadership playbook around a live challenge in my organisation. The work develops a leadership manifesto, systems map, stakeholder influence strategy, and roadmap for execution across teams, working towards a final strategic pack for a board-level audience. My immediate focus is strengthening how I build support across departments and connect technical leadership to wider organisational decisions.
+
+---
+
 ## From Engineer to Engineering Leader
 {: .icon-trending-up}
 
 Everywhere I've been, I built the thing that wasn't there - hired as an engineer, then the one setting up process, mentoring juniors, and bridging engineering and business. At **Leeds Building Society**, I introduced the organisation's first Agile. At **IMA-HOME**, I ran Scrum for global brand work while shipping frontend systems. At **Utility Warehouse**, I built a standalone team from zero and was managing it within a year.
 
-The promotion to Engineering Manager formalised what I'd already been doing. The value isn't in the code - it's in the conditions I create for others to do their best work.
+The promotion to Engineering Manager formalised responsibilities I'd already taken on. Today, technical reviews and implementation sit alongside people development, planning, and stakeholder work. I help engineers own their solutions and contribute directly where the situation calls for it.
 
 | Leadership layer | Since | Years | Evidence                                                                                                                                                                                        |
 | ---------------- | ----- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -78,6 +92,17 @@ From engineering to engineering leadership, I've delivered for global consumer b
 _A selection of work that shows the pattern in practice - people and organisational outcomes first, then flagship delivery. Design Systems are a recurring thread: Pulsar at Jadu, Royal Canin's global system at IMA-HOME, and the Design Systems team I later managed at Utility Warehouse. Early UK agency work (2015-2016) - responsive e-commerce and frontend performance across fashion, property, and leisure clients - is represented in the brand lists above, not as standalone entries here. Expand any entry for the detail._
 
 <!-- markdownlint-disable MD033 -->
+<details class="credential-group project-group" markdown="1">
+<summary><span class="project-title">CMSv3 Platform Modernisation &amp; Website Rebrand</span> <span class="project-meta">Utility Warehouse · Oct 2025-Apr 2026</span></summary>
+
+Led the engineering delivery of the main website rebrand alongside the transition from CMSv2 to CMSv3: a React, TypeScript, and GraphQL application connected to Contentful. The programme addressed debt inherited from the earlier Apostrophe migration, updated dependencies, created shared components, and reworked content models across a 522-page estate.
+
+Working with two engineers and temporary additional support, I reviewed architectural proposals, implemented selected redesigned components, raised delivery risks early, and helped defer tracking and experimentation work to protect the fixed launch date. The engineers developed solutions that we reviewed and tested together. We prepared scripted migrations, separate application and content environments, preview access, and a coordinated traffic switch for the launch on 18 April 2026.
+
+We reduced the component set and acted on feedback from active content editors across three marketing teams. After launch, we observed fewer support requests. The launch went smoothly, although the editor testing window was compressed and the team worked overtime in the final week. [Read the programme account](/leadership/2026/11/11/beyond-the-rebrand-leading-the-cmsv3-migration.html).
+
+</details>
+
 <details class="credential-group project-group" markdown="1">
 <summary><span class="project-title">Scrum Master Certification Coaching</span> <span class="project-meta">IMA-HOME · 2021</span></summary>
 
@@ -215,7 +240,7 @@ Technical article on bridging design thinking with frontend engineering.
 **[W3C HTML Validation for Twig Generated Pages](https://medium.com/pulsar/w3c-html-validation-for-twig-generated-pages-42cc625e7db0)** · Medium, Oct 2017
 Technical guide on implementing HTML validation within Twig templating workflows.
 
-_These articles date from my hands-on engineering years. My current writing - on engineering leadership, team building, and delivery - lives on the [Blog](/blog/)._
+_These earlier articles explore the connection between design and engineering, which remains part of my work today. My current writing on technical decisions, engineering leadership, and delivery lives on the [Blog](/blog/)._
 
 ---
 
