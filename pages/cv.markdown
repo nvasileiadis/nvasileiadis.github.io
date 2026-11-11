@@ -3,7 +3,7 @@ layout: page
 title: CV - Nikos Vasileiadis | Software Engineering Leader | Leeds, UK
 nav_title: CV
 permalink: /cv/
-description: "CV of Nikos Vasileiadis - Software Engineering Leader with 20+ years in technology, 9 years of progressive leadership, and 4 in direct line management. Engineering Manager at Utility Warehouse (FTSE 250). Expertise in people performance, organisational design, platform strategy, and commercial engineering. Open to Senior Engineering Manager and Head of Engineering roles - UK, and remote with Dutch or Irish organisations."
+description: "CV of Nikos Vasileiadis - engineering leader combining technical depth, people development, and organisational judgment. 20+ years in technology, 9 in leadership, and 4 in direct line management. Leading platform services at Utility Warehouse. Based in Leeds, UK; open to UK roles and remote work with Dutch or Irish organisations."
 pdf_options:
   format: a4
   margin: 13mm 15mm
@@ -41,17 +41,18 @@ hide_title: true
 
 <h2 class="icon-user">Professional Summary</h2>
 
-Software Engineering Leader with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> of progressive leadership - <span class="stat">4</span> of them line-managing engineers - across regulated industries, leading cross-cultural teams and working with people from <span class="stat">12+ countries</span>. I treat engineering as a business lever - contributing to CapEx/OpEx planning and ensuring technical investments map directly to business outcomes. The pattern across those years is consistent: I build the thing that isn't there - a team where there was no department, documentation from zero, structure where there was firefighting, a career where there was no industry to offer one. Introduced structured delivery in three resistant environments (financial services, a global brand agency, and a greenfield platform team). Hands-on or hands-off by the team's stage: back on the tools when a small team or a critical path needs it, leading through structure and leads when it scales. My true strength is designing the conditions where engineers do their best work.
+Software Engineering Leader with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> in leadership - <span class="stat">4</span> line-managing engineers - across financial services, utilities, retail, and public sector technology. I combine architecture review and implementation with people development, planning, and stakeholder work. I give engineers ownership while challenging assumptions and connecting decisions to user and business needs. Built teams and documentation cultures from zero, and led platform modernisation alongside a company-wide rebrand.
 
 <h2 class="icon-grid">Core Competencies</h2>
 
 <div class="competency-list" markdown="1">
 
-- **Engineering Leadership & People Development** - building, mentoring, and retaining high-performing remote teams with cultural intelligence; measurement-led via DORA metrics (DX), team health tracking, and Peakon Heartbeat surveys, so performance stays visible, sustainable, and connected to career progression.
+- **Engineering Leadership & People Development** - building, mentoring, and retaining remote teams with cultural intelligence; using DORA delivery data and Peakon Heartbeat surveys to inform workload and career development.
 - **Organisational Design & Change Management** - navigating complex restructurings and shaping team structures that align engineering capability with business outcomes; have built the same team twice from zero.
-- **Platform & Infrastructure Strategy** - architecting and managing critical platform services with SLAs, SLIs, and operational excellence for <span class="stat">15+</span> engineering teams.
+- **Technical Direction & Platform Engineering** - architecture and PR reviews, implementation, and services supporting <span class="stat">15+</span> teams; React, TypeScript, GraphQL, Contentful, and Kubernetes.
+- **Product & User Experience** - field research and accessibility at Jadu; simpler content models and editor workflows at Utility Warehouse.
 - **Design Systems Leadership** - end-to-end, from open-source implementation (Pulsar at Jadu) to leading a dedicated Design Systems team at scale.
-- **Commercial Engineering & Business Acumen** - a six-figure vendor portfolio across six platform services, active contribution to CapEx/OpEx planning, and vendor ROI evaluation; commercial literacy from sitting with compliance, marketing, data, and IT.
+- **Commercial Engineering & Business Acumen** - six-figure vendor portfolio, CapEx/OpEx planning, and vendor ROI evaluation; working across compliance, marketing, data, and IT.
 - **Regulated Industry Experience** - financial services (Leeds Building Society), multi-service utilities including energy (Utility Warehouse), and public sector technology (Jadu / Local Authorities); compliance-driven environments where reliability has regulatory consequences.
 
 </div>
@@ -66,16 +67,19 @@ Software Engineering Leader with <span class="stat">20+ years</span> in technolo
 Jul 2023 - Present · United Kingdom · Remote
 
 - **Team Leadership, Retention & Development:** Grew to <span class="stat">8 technical reports across three teams</span> with separate backlogs - web/CMS/tracking, mobile, and design systems - alongside a Product Manager. Sustained <span class="stat">100% retention</span> through three reorganisations that moved the team across three departments in <span class="stat">25 months</span>; every reduction was organisational, zero voluntary attrition. Drove <span class="stat">3 promotions</span> through evidence-based cases informed by DORA metrics and Peakon Heartbeat surveys; developed engineers who hadn't found the right home elsewhere in the organisation; mentored engineers who are now Engineering Managers, inside and outside the company.
-- **Org Design & Strategic Influence:** Scoped and executed the team's moves between pillars during restructurings - mapping scope, aligning stakeholders, and building consensus. Negotiated skill inbound - a Senior Engineer with mobile expertise - when a mobile backlog entered the team's remit, rather than stretching the existing team thin; argued successfully against a proposal to merge the Design Systems team into another team - preserving the capability that enabled the 2025 company-wide rebrand.
-- **Rebranding Programme (Oct 2025 - Apr 2026; <span class="stat">522 pages</span>):** Delivered UW's company-wide brand refresh across the full uw.co.uk estate - the primary digital entry point for customers and partners, and the critical path: no other team's rebranding work could go live until the main website shipped. Went back on the tools for the duration as a time-boxed player-coach - building critical-path components and authoring automated migration scripts that saved content editors hundreds of manual hours.
-- **Platform Reliability & Analytics Ownership:** Operated uw.co.uk against a <span class="stat">99.99% SLO</span> - a single incident in the current year, resolved within hours - with <span class="stat">&lt;3s</span> page loads on critical-path pages. Managing an estate of <span class="stat">522 pages</span>, <span class="stat">3,157 media assets</span>, and <span class="stat">1,300+</span> shortlinks and redirects; supporting <span class="stat">8</span> content teams (<span class="stat">33</span> users) and <span class="stat">15+</span> engineering teams across <span class="stat">six platform services</span> - Contentful, Google Tag Manager, Snowplow, Mixpanel, Optimizely, and OneTrust.
+- **Org Design & Strategic Influence:** Scoped and executed the team's moves between pillars during restructurings - mapping scope, aligning stakeholders, and building consensus. Negotiated skill inbound - a Senior Engineer with mobile expertise - when a mobile backlog entered the team's remit, rather than stretching the existing team thin; argued successfully against a proposal to merge the Design Systems team into another team - preserving the capability that enabled the 2026 company-wide rebrand.
+- **Platform Modernisation & Rebrand (Oct 2025 - Apr 2026):** Led the CMSv2-to-CMSv3 transition alongside the brand refresh across <span class="stat">522 pages</span>. Addressed inherited technical debt, updated dependencies, and developed shared components with the team. Reviewed architecture proposed by engineers and implemented selected redesigned components.
+- **Programme Scope & Launch:** Raised risks early, secured temporary support through my manager, and helped defer tracking and experimentation work. Worked with engineers on scripted migration, preview access, and coordinated cutover; aligned stakeholders and transferred functionality to Acquisition.
+- **Content Editor Experience:** Reduced components and acted on feedback across three marketing teams; observed fewer Slack support requests after launch.
+- **Platform Reliability & Analytics Ownership:** Operate uw.co.uk against a <span class="stat">99.99% availability target</span>, supporting <span class="stat">15+</span> engineering teams and <span class="stat">8</span> content teams (<span class="stat">33</span> users). Responsible for six services - Contentful, GTM, Snowplow, Mixpanel, Optimizely, and OneTrust - across <span class="stat">522 pages</span>, <span class="stat">3,157 media assets</span>, and <span class="stat">1,300+</span> shortlinks and redirects.
 - **Design Systems (Hearth) - <span class="stat">20 teams</span>:** Led company-wide adoption (15 full, 5 partial), eliminating thousands of hours of duplicated engineering effort.
-- **CMS Transformation (Apostrophe → Contentful):** Led the end-to-end replacement of a legacy CMS on an ageing tech stack (no SLA, no SSO) - a rigorous <span class="stat">2-month</span> evaluation across <span class="stat">10 vendors</span> led to Contentful on an enterprise contract, followed by a zero-disruption dual-serve migration; three marketing teams (<span class="stat">~18 people</span>) gained scheduling and structured content models. The in-house delivery platform the team built (Next.js / React / TypeScript) runs its own GraphQL API over Contentful's content APIs - request bundling, query optimisation, and on-demand content revalidation, a layer above what the vendor provides.
+- **CMS Transformation (Apostrophe → Contentful):** Led a <span class="stat">2-month</span>, <span class="stat">10-vendor</span> evaluation and migration from a legacy CMS to Contentful on an enterprise contract. A dual-serve migration avoided disruption; three marketing teams gained scheduling and structured content. The team built a Next.js / React / TypeScript delivery platform with its own GraphQL layer for request bundling, query optimisation, and content revalidation.
 - **Documentation & Upskilling:** Authored over <span class="stat">100 articles</span> of technical documentation - one of the most thoroughly documented teams at UW - and closed capability gaps (e.g. Kubernetes) through self-directed learning before training the team.
 - **Adaptability Under Constraints (2025-Present):** With the team at a specialist core of <span class="stat">2 engineers</span> after the reorganisations, took on Product Manager and on-call responsibilities alongside Engineering Management - sustaining delivery across <span class="stat">6 platform services</span> with full accountability for the uw.co.uk estate, without losing an engineer or breaching the platform SLO.
 
 <div class="no-pdf" markdown="1">
 
+- **Current technical practice:** Daily PR reviews and technical direction discussions alongside planning and stakeholder management. Independently developing a replacement for the link shortener outside the team's critical path, covering learning, architecture, and implementation; the work is ongoing.
 - **Team composition & reorg timeline:** Six direct reports, plus a Design Systems Lead and a Staff Engineer whose day-to-day management and 1:1s I held on a dotted line. The reorganisations (May 2023, Jul 2024, Jun 2025) moved the team across three departments - the last leaving a specialist core.
 - **Measurement journey:** Early adopter of DORA metrics - progressed from manual team health tracking and custom EM dashboards to the organisation-wide DX platform. Delivery data (deployment frequency, lead time, change failure rate, MTTR) directly informs promotion cases; monthly Peakon Heartbeat surveys are translated into concrete actions within the team's sphere of influence.
 - **"Archaeology":** Inherited an undocumented legacy CMS and conducted systematic discovery to map what existed before building the documentation culture from scratch - then pushed engineers to own RFCs and cross-team knowledge-sharing. Platform services monitored via Kubernetes, Sentry, Prometheus, Pingdom, and Cloudflare.
@@ -150,10 +154,15 @@ _The fuller story: projects ranged from local non-profits and bands to a Bitcoin
 
 </div>
 
-<h2 class="icon-book">Education</h2>
+<h2 class="icon-book">Education & Executive Development</h2>
 
-**Institution**: International University of Greece - Serres Campus  
-**Degree**: BSc Informatics Engineering (2007-2012) - strong grades in software engineering, programming, and databases. Left without the certificate when the Greek economic crisis hit; the freelance business I was already running became the career.
+**Saïd Business School, University of Oxford**
+[Oxford Emerging Leaders Programme (Blended)](https://www.sbs.ox.ac.uk/programmes/online-learning/oxford-emerging-leaders-programme) · Executive Education · Sep 2026-Present (in progress, first cohort)
+
+13 weeks of live online learning followed by a three-day Oxford immersion. Developing systems thinking, stakeholder influence, strategic alignment, and change leadership through a playbook applied to a live organisational challenge.
+
+**International University of Greece - Serres Campus**  
+Undergraduate studies in Informatics Engineering, 2007-2012 (degree not completed). Continued into full-time freelance work during the Greek economic crisis.
 
 <h2 class="icon-shield">Professional Credentials</h2>
 

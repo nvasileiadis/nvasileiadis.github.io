@@ -3,7 +3,7 @@ layout: page
 title: CV - Nikos Vasileiadis | Software Engineering Manager | Open to Dutch Remote Roles
 nav_title: CV (Dutch)
 permalink: /cv-dutch/
-description: "CV of Nikos Vasileiadis - Software Engineering Manager with 20+ years in technology. Based in Leeds, UK. Open to remote roles with Dutch organisations. People-focused, pragmatic, and collaborative. Engineering Manager at Utility Warehouse (FTSE 250)."
+description: "CV of Nikos Vasileiadis - Software Engineering Manager with 20+ years in technology. Based in Leeds, UK. Open to remote roles with Dutch organisations. Combining technical depth, people development, and organisational judgment. Engineering Manager at Utility Warehouse (FTSE 250)."
 pdf_options:
   format: a4
   margin: 13mm 15mm
@@ -41,7 +41,7 @@ hide_title: true
 
 <h2 class="icon-user">Summary</h2>
 
-Engineering Manager with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> in leadership - <span class="stat">4</span> of them line-managing engineers - working across regulated industries - financial services, utilities, energy, and public sector technology. I build teams, maintain platforms, and focus on creating the right conditions for people to do good work. Hands-on when a small team or a critical path needs it; hands-off when the team scales. Introduced structured delivery in three resistant environments (financial services, a global brand agency, and a greenfield platform team). Currently managing platform and content services at Utility Warehouse (FTSE 250), a UK multi-service provider of energy, broadband, mobile and insurance.
+Engineering Manager with <span class="stat">20+ years</span> in technology and <span class="stat">9 years</span> in leadership - <span class="stat">4</span> of them line-managing engineers - working across regulated industries - financial services, utilities, energy, and public sector technology. I combine technical depth, people development, and organisational judgment. Architecture discussions, daily PR reviews, planning, and stakeholder work are part of my regular practice. I give engineers ownership of solutions and contribute directly to implementation where it helps the team deliver. Introduced structured delivery in three resistant environments (financial services, a global brand agency, and a greenfield platform team). Currently managing platform and content services at Utility Warehouse (FTSE 250), a UK multi-service provider of energy, broadband, mobile and insurance.
 
 Based in Leeds, UK. Greek (EU) citizen - full right to work in the Netherlands and across the EU. Open to remote roles with Dutch and European organisations. The timezone overlap with CET is seamless.
 
@@ -49,6 +49,7 @@ Based in Leeds, UK. Greek (EU) citizen - full right to work in the Netherlands a
 
 - **People & teams** - Building and retaining remote engineering teams with cultural intelligence; measurement-led via DORA metrics, team health tracking, and Heartbeat surveys; reorg communication on a cadence - including empty updates when there's nothing new.
 - **Organisational design** - Navigating restructurings, building teams from scratch, aligning team structures with what the business actually needs. Have built the same team twice from zero; staff complementary pairs, not just headcount.
+- **Technical direction** - Architecture review, daily PR reviews, and direct implementation alongside people management; React, TypeScript, GraphQL, Contentful, and Kubernetes.
 - **Platform & infrastructure** - Running critical platform services with clear SLAs and operational discipline for <span class="stat">15+</span> dependent engineering teams.
 - **Design systems** - From co-creating an open-source design system (Pulsar) to leading enterprise-wide adoption across <span class="stat">20 teams</span>.
 - **Commercial awareness** - a six-figure vendor portfolio across six platform services, CapEx/OpEx planning, and vendor evaluation; commercial literacy from sitting with compliance, marketing, data, and IT.
@@ -64,7 +65,8 @@ Jul 2023 - Present · United Kingdom · Remote
 - **Growing people, measurably:** Supported <span class="stat">3 promotions</span> (Associate → Mid, Mid → Senior) with evidence-based cases informed by DORA metrics and monthly Peakon Heartbeat surveys - acting on the signals, not just collecting them. Developed engineers who hadn't found the right home elsewhere in the organisation. Engineers I mentored are now Engineering Managers, both inside and outside the company.
 - **Navigating restructurings:** Took responsibility for scoping team migrations - mapping scope, aligning stakeholders, and building consensus for where the team should sit. Negotiated skill inbound - a Senior Engineer with mobile expertise - when a mobile backlog was added, rather than stretching the existing team thin; argued successfully for keeping the Design Systems team separate when a restructuring proposal would have merged it into another team - the team that later enabled the company-wide rebrand.
 - **Documentation & upskilling:** Wrote over <span class="stat">100 articles</span> of technical documentation for a team that inherited an undocumented legacy CMS. When the team needed Kubernetes knowledge, I learned it first, then trained the team and documented it. Engineers own RFCs and present at cross-team forums.
-- **Rebranding programme (Oct 2025 - Apr 2026):** The team delivered UW's brand refresh across <span class="stat">522 pages</span> of the uw.co.uk estate - the critical path: other teams' rebranding couldn't go live until we shipped. I went back on the tools for the duration - building critical-path components and writing the automated migration scripts that saved content editors hundreds of manual hours.
+- **Platform modernisation & rebrand (Oct 2025 - Apr 2026):** Led the CMSv2-to-CMSv3 transition and brand refresh across <span class="stat">522 pages</span>. Reviewed architecture proposed by engineers, challenged scope, and implemented selected redesigned components. Raised risks early, secured temporary support through my manager, and helped defer tracking and experimentation work to protect the fixed launch date.
+- **Migration & editor experience:** Worked with engineers on scripted content migration, preview access, and a coordinated launch with a documented reversal procedure. Reduced the component set and acted on editor feedback; following launch, we observed fewer support requests.
 - **Platform reliability:** uw.co.uk operated against a <span class="stat">99.99% SLO</span> - a single incident in the current year, resolved within hours - with <span class="stat">&lt;3s</span> page load on critical pages. The estate: <span class="stat">522 pages</span>, <span class="stat">3,157 media assets</span>, <span class="stat">1,090 shortlinks</span>, <span class="stat">218 redirects</span>. Supporting <span class="stat">8</span> content teams (<span class="stat">33</span> users) and <span class="stat">15+</span> engineering teams across six platform services: Contentful CMS, Google Tag Manager, Snowplow, Mixpanel, Optimizely, OneTrust.
 - **Design Systems (Hearth):** The Hearth Design System reached <span class="stat">20</span> engineering and product teams (15 full adoption, 5 partial), removing thousands of hours of duplicated work across the organisation.
 - **CMS migration (Apostrophe → Contentful):** Replaced a legacy CMS that had no SLA, no SSO, and an ageing tech stack. A <span class="stat">2-month</span> evaluation across <span class="stat">10 vendors</span> led to Contentful on an enterprise contract, chosen for enterprise-grade SLAs and support. Zero-disruption migration; three marketing teams (<span class="stat">~18 people</span>) gained structured content models and scheduling. The in-house delivery platform (Next.js / React / TypeScript) runs its own GraphQL API over Contentful's content APIs - request bundling, query optimisation, and on-demand content revalidation, a layer above what the vendor provides.
@@ -137,10 +139,15 @@ Provincial northern Greece - Xanthi, where I grew up; Serres, where I studied: n
 
 **Lead Organiser, Google Developers Group Leeds** _(Jan 2019-Mar 2020)_: Revived an inactive chapter; organised conferences, workshops, and meetups.
 
-<h2 class="icon-book">Education</h2>
+<h2 class="icon-book">Education & Executive Development</h2>
+
+**Saïd Business School, University of Oxford**
+[Oxford Emerging Leaders Programme (Blended)](https://www.sbs.ox.ac.uk/programmes/online-learning/oxford-emerging-leaders-programme) · Executive Education · Sep 2026-Present (in progress, first cohort)
+
+13 weeks of live online learning followed by a three-day Oxford immersion. Developing systems thinking, stakeholder influence, strategic alignment, and change leadership through a playbook applied to a live organisational challenge.
 
 **International University of Greece - Serres Campus**  
-BSc Informatics Engineering (2007-2012) - strong grades in software engineering, programming, and databases. Left without the certificate when the Greek economic crisis hit; the freelance business I was already running became the career.
+Undergraduate studies in Informatics Engineering, 2007-2012 (degree not completed). Continued into full-time freelance work during the Greek economic crisis.
 
 <h2 class="icon-shield">Credentials</h2>
 
