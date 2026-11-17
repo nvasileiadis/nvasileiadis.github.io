@@ -12,7 +12,7 @@ _This page is an evidence appendix for those who want to go deeper. For a comple
 <div class="metrics-grid">
   <div class="metric-card">
     <span class="metric-number">9</span>
-    <span class="metric-label">Years Leading<br><small style="font-size: 0.8em; opacity: 0.8;">4 line-managing · Multi-team since 2024<br>20+ years in technology</small></span>
+    <span class="metric-label">Years Leading<br><small style="font-size: 0.8em; opacity: 0.8;">4 line-managing<br>20+ years in technology</small></span>
   </div>
   <div class="metric-card">
     <span class="metric-number">21</span>
