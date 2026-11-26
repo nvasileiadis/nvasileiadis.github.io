@@ -188,7 +188,7 @@ Led technical infrastructure for regional science and technology initiatives. Co
 **Private - Greek Army** _(Nov 2012-Aug 2013)_
 Conscripted and trained to serve as a soldier in an armoured brigade communications support unit. Helped digitise processes in the 1st Office. Improved schedule and leave management. Set up network cabling. Stock ordering and food provisioning for the kitchens.
 
-### Mentoring (7)
+### Mentoring (8)
 
 _Mentoring is an ongoing practice, not a history - I keep free positions open for engineers stepping into management and Engineering Managers who want to grow. See [Mentoring](/mentoring/) for how it works._
 
@@ -200,6 +200,9 @@ Supported early-career bootcamp graduates entering the industry as software engi
 
 **Mentor - Agile Career Path** _(IMA-HOME · 2020)_
 Guided a developer-turned-project-manager onto the Agile career path - helping him see Scrum Mastery as a role in its own right, not a side skill. He certified, moved into a full-time Scrum Master role within a year, and is now an Agile Delivery Lead in financial services with eight scrum.org certifications.
+
+**Mentor - Cross-Agency Front-End** _(IMA-HOME · 2020-2022)_
+While building client design systems, I worked alongside a partner agency's development team. Their front-end developer was struggling with work I'd done before, so I mentored him across company lines - through the two years we worked together and for some time after. He stepped up to lead a team along the way and is now a front-end developer at a global technology company.
 
 **Mentor - Sky Coding Club** _(Nov 2019)_
 Inspired and assisted attendees learning HTML, CSS, and JavaScript.
