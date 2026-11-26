@@ -3,6 +3,7 @@ layout: page
 title: Credentials - Nikos Vasileiadis | Clients & Community
 nav_title: Credentials
 permalink: /credentials/
+heading_anchors: true
 description: "Evidence appendix for Nikos Vasileiadis - Software Engineering Leader with 20+ years in technology, 9 years in leadership, 4 line-managing engineers. Based in Leeds, UK. Notable brands across FTSE 250, global retail, and regulated financial services; community leadership, mentoring outcomes, and talks - backed by 49 certificates and 62 completed courses across AI, leadership, finance, UX, analytics, and technology."
 ---
 
@@ -30,7 +31,7 @@ _This page is an evidence appendix for those who want to go deeper. For a comple
 <!-- markdownlint-enable MD033 -->
 
 ## Executive Education
-{: .icon-book}
+{: .icon-book #executive-education}
 
 **Saïd Business School, University of Oxford**
 [Oxford Emerging Leaders Programme (Blended)](https://www.sbs.ox.ac.uk/programmes/online-learning/oxford-emerging-leaders-programme) · September 2026-Present · In progress, first cohort
@@ -44,7 +45,7 @@ I'm building a personal leadership playbook around a live challenge in my organi
 ---
 
 ## From Engineer to Engineering Leader
-{: .icon-trending-up}
+{: .icon-trending-up #engineer-to-leader}
 
 Everywhere I've been, I built the thing that wasn't there - hired as an engineer, then the one setting up process, mentoring juniors, and bridging engineering and business. At **Leeds Building Society**, I introduced the organisation's first Agile. At **IMA-HOME**, I ran Scrum for global brand work while shipping frontend systems. At **Utility Warehouse**, I built a standalone team from zero and was managing it within a year.
 
@@ -64,7 +65,7 @@ The promotion to Engineering Manager formalised responsibilities I'd already tak
 ---
 
 ## Notable Brands & Clients
-{: .icon-globe}
+{: .icon-globe #brands-clients}
 
 From engineering to engineering leadership, I've delivered for global consumer brands, regulated financial services and utilities, public-sector institutions, and the third sector. A selection of the most recognisable:
 
@@ -87,7 +88,7 @@ From engineering to engineering leadership, I've delivered for global consumer b
 ---
 
 ## Notable Projects & Highlights
-{: .icon-rocket}
+{: .icon-rocket #projects}
 
 _A selection of work that shows the pattern in practice - people and organisational outcomes first, then flagship delivery. Design Systems are a recurring thread: Pulsar at Jadu, Royal Canin's global system at IMA-HOME, and the Design Systems team I later managed at Utility Warehouse. Early UK agency work (2015-2016) - responsive e-commerce and frontend performance across fashion, property, and leisure clients - is represented in the brand lists above, not as standalone entries here. Expand any entry for the detail._
 
@@ -156,7 +157,7 @@ Pre-UK management evidence: helped take over a real-estate aggregator project fr
 ---
 
 ## Community & Engagement
-{: .icon-users}
+{: .icon-users #community}
 
 **Lead Organiser - Google Developer Group Leeds** _(2019-2020)_
 Revived an inactive [GDG chapter](https://gdg-leeds.github.io/) from the ground up, assembling a volunteer team and running a series of technical conferences, workshops, and presentations.
@@ -189,6 +190,7 @@ Led technical infrastructure for regional science and technology initiatives. Co
 Conscripted and trained to serve as a soldier in an armoured brigade communications support unit. Helped digitise processes in the 1st Office. Improved schedule and leave management. Set up network cabling. Stock ordering and food provisioning for the kitchens.
 
 ### Mentoring (8)
+{: #mentoring}
 
 _Mentoring is an ongoing practice, not a history - I keep free positions open for engineers stepping into management and Engineering Managers who want to grow. See [Mentoring](/mentoring/) for how it works._
 
@@ -217,6 +219,7 @@ Met a university engineering student through local tech presentations in Xanthi,
 Tutored a young learner privately in algorithmic logic, C, and hardware. He went on into software engineering and is now an Engineering Manager - a long arc from first foundations to people leadership.
 
 ### Public Speaking (7)
+{: #public-speaking}
 
 **Speaker - GDG DevFest 2019** _(Nov 2019)_
 Presented _"Design Systems"_ at GDG DevFest Leeds.
@@ -236,6 +239,7 @@ Presented _"UX: A Developer's Perspective"_ at NUX Leeds. [Event details](https:
 Presented _"Open Source Ecology"_ at FOSSCOMM, Serres, Greece.
 
 ### Publications (2)
+{: #publications}
 
 **[Designing User Interfaces as a Developer](https://medium.com/pulsar/designing-user-interfaces-as-a-developer-22799b6e58a)** · Medium, Oct 2017
 Technical article on bridging design thinking with frontend engineering.
@@ -248,11 +252,12 @@ _These earlier articles explore the connection between design and engineering, w
 ---
 
 ## Full Credentials
-{: .icon-file-text}
+{: .icon-file-text #full-credentials}
 
 _Verification appendix - AI, leadership, and commercial credentials first; deeper technical and historical lists are collapsed._
 
 ### AI Strategy & Implementation (2)
+{: #ai-strategy}
 
 _Applied, not just studied - since mid-2026 I've been leading my team's adoption of AI-assisted engineering (Claude Code) within Utility Warehouse's company-wide programme, and I'm part of its AI committee and AI champions network._
 
@@ -260,6 +265,7 @@ _Applied, not just studied - since mid-2026 I've been leading my team's adoption
 - **How to Design Experiences for AI** · [IxDF Master Class](https://ixdf.org/members/nikolaos-vasileiadis/certificate/masterclass/mcc_b9ef0a7c3de24d6495b8d0f23fe974a8), Jun 2022
 
 ### Leadership & Management (12)
+{: #leadership-management}
 
 - **Team Topologies Distilled** · [Team Topologies Academy](https://academy.corp.teamtopologies.com/certificates/2zliafscx5), Oct 2023 - _Applied to identify platform team anti-patterns, redesign team interaction modes, and propose organisational structures aligned with cognitive load theory._
 - **Mental Health First Aid (MHFA) Champion** · [MHFA England](/assets/images/credentials/mhfa-england-champion.pdf), Feb 2023
@@ -275,6 +281,7 @@ _Applied, not just studied - since mid-2026 I've been leading my team's adoption
 - **IS110x: Innovation and IT Management** · [Indian Institute of Management Bangalore](https://verify.edx.org/cert/33af0580103947cd9770a5e027083acc), Sep 2015
 
 ### Business & Finance (6)
+{: #business-finance}
 
 - **CapEx Planning** · AAT Essentials, Jun 2026
 - **Budgeting for Non-Financial Managers** · AAT Essentials, Jun 2026
@@ -284,6 +291,7 @@ _Applied, not just studied - since mid-2026 I've been leading my team's adoption
 - **DFIN-511: Introduction to Digital Currencies** · [University of Nicosia](/assets/images/credentials/unic-dfin511-digital-currencies.pdf), Dec 2016
 
 ### UX, Accessibility & Design (17)
+{: #ux-accessibility-design}
 
 - **Accessibility: How to Design for All** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/Pd35f4fgM), Sep 2018
 - **Conducting Usability Testing** · [IxDF](https://ixdf.org/members/nikolaos-vasileiadis/certificate/course/P3PThrDks), Jun 2018
@@ -318,6 +326,7 @@ _Applied, not just studied - since mid-2026 I've been leading my team's adoption
 <!-- markdownlint-enable MD033 -->
 
 ### Analytics & Digital Marketing (9)
+{: #analytics-marketing}
 
 - **Google Tag Manager Fundamentals** · Google, Feb 2019
 - **Google Analytics for Power Users** · [Google](/assets/images/credentials/google-analytics-power-users.pdf), Dec 2018
@@ -330,6 +339,7 @@ _Applied, not just studied - since mid-2026 I've been leading my team's adoption
 - **The Online Marketing Fundamentals** · [Google](/assets/images/credentials/google-online-marketing-fundamentals.pdf), Sep 2016
 
 ### Technology & Architecture (62)
+{: #technology-architecture}
 
 - **Prometheus Alerting and Monitoring** · [Udemy](https://www.udemy.com/certificate/UC-c47ee910-8dfa-4f31-acf0-7656932cae8d/), Apr 2026
 - **JavaScript Algorithms and Data Structures** · [freeCodeCamp](https://www.freecodecamp.org/certification/nvasileiadis/javascript-algorithms-and-data-structures), Oct 2019
@@ -427,6 +437,7 @@ _Applied, not just studied - since mid-2026 I've been leading my team's adoption
 <!-- markdownlint-enable MD033 -->
 
 ### Conferences, Competitions & Historical
+{: #conferences-historical}
 
 <!-- markdownlint-disable MD033 -->
 <details class="credential-group" markdown="1">

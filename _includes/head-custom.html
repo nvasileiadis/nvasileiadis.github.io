@@ -11,6 +11,9 @@
      data-domains keeps local/preview builds from polluting the data. -->
 <script defer src="https://cloud.umami.is/script.js" data-website-id="8992b17c-6f45-4ca1-9a64-ba203f22e013" data-domains="nvasileiadis.github.io"></script>
 <script defer src="{{ '/assets/js/section-timing.js' | relative_url }}"></script>
+{%- if page.heading_anchors %}
+<script defer src="{{ '/assets/js/heading-anchors.js' | relative_url }}"></script>
+{%- endif %}
 
 <meta name="robots" content="index, follow" />
 

@@ -1202,6 +1202,77 @@ body.layout-reading {
   }
 }
 
+// Shareable section links (assets/js/heading-anchors.js): a link icon after
+// h2/h3 headings that jumps to the section and copies its URL. Hidden until
+// the heading is hovered or the link is focused; always faintly visible on
+// touch screens, where there is no hover.
+.post-content h2[id],
+.post-content h3[id] {
+  scroll-margin-top: $spacing-unit / 2;
+}
+
+.heading-anchor {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  vertical-align: middle;
+  margin-left: 8px;
+  padding: 4px;
+  border-radius: 4px;
+  color: $grey-color;
+  opacity: 0;
+  transition: opacity 0.15s ease, color 0.15s ease;
+
+  h2:hover > &,
+  h3:hover > &,
+  &:focus-visible {
+    opacity: 1;
+  }
+
+  &:hover,
+  &:focus-visible {
+    color: $brand-color;
+    text-decoration: none;
+  }
+
+  @media (hover: none) {
+    opacity: 0.5;
+  }
+
+  // "Copied" confirmation bubble; pseudo-element so it never enters the
+  // heading's textContent.
+  &.is-copied {
+    opacity: 1;
+    color: $brand-color;
+
+    &::after {
+      content: 'Link copied';
+      position: absolute;
+      left: 100%;
+      top: 50%;
+      transform: translateY(-50%);
+      margin-left: 6px;
+      padding: 2px 8px;
+      border-radius: 4px;
+      background-color: $brand-color;
+      color: #ffffff;
+      font-size: 0.8rem;
+      font-weight: 500;
+      line-height: 1.6;
+      white-space: nowrap;
+    }
+  }
+}
+
+.heading-anchor-status {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
 // Print stylesheet: clean output for recruiters hitting Cmd+P.
 // Typography mirrors the generated CV PDFs (10.5pt body, 13mm/15mm page
 // margins) so a printed page lands in the same ~3-page envelope.
@@ -1212,6 +1283,7 @@ body.layout-reading {
 @media print {
   .site-header,
   .site-footer,
+  .heading-anchor,
   .no-pdf,
   .cv-download-bar,
   .explore-grid {
