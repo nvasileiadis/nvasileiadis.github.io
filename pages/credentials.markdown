@@ -93,7 +93,7 @@ From engineering to engineering leadership, I've delivered for global consumer b
 _A selection of work that shows the pattern in practice - people and organisational outcomes first, then flagship delivery. Design Systems are a recurring thread: Pulsar at Jadu, Royal Canin's global system at IMA-HOME, and the Design Systems team I later managed at Utility Warehouse. Early UK agency work (2015-2016) - responsive e-commerce and frontend performance across fashion, property, and leisure clients - is represented in the brand lists above, not as standalone entries here. Expand any entry for the detail._
 
 <!-- markdownlint-disable MD033 -->
-<details class="credential-group project-group" markdown="1">
+<details class="credential-group project-group" markdown="1" open>
 <summary><span class="project-title">CMSv3 Platform Modernisation &amp; Website Rebrand</span> <span class="project-meta">Utility Warehouse · Oct 2025-Apr 2026</span></summary>
 
 Led the engineering delivery of the main website rebrand alongside the transition from CMSv2 to CMSv3: a React, TypeScript, and GraphQL application connected to Contentful. The programme addressed debt inherited from the earlier Apostrophe migration, updated dependencies, created shared components, and reworked content models across a 522-page estate.
